@@ -1,0 +1,1062 @@
+[
+    {
+        "instruction": "Tentukan penerapan sila pertama Pancasila di sekolah.",
+        "input": "Saat jam istirahat, Andi melihat temannya, Budi, sedang melaksanakan sholat Dhuha di mushola sekolah. Andi tidak mengganggu Budi dan menunggu di luar sampai Budi selesai beribadah.",
+        "output": "Soal:\nSikap Andi mencerminkan pengamalan sila Pancasila yang berbunyi....\n\nA. Kemanusiaan yang adil dan beradab\nB. Ketuhanan Yang Maha Esa\nC. Persatuan Indonesia\nD. Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan/perwakilan\n\nKunci Jawaban: B\n\nPembahasan:\nMenghormati teman yang sedang beribadah adalah wujud pengamalan Sila ke-1 (Ketuhanan Yang Maha Esa)."
+    },
+    {
+        "instruction": "Analisis perilaku sesuai sila kedua Pancasila.",
+        "input": "Di jalan pulang sekolah, Siti melihat seorang nenek kesulitan menyeberang jalan karena ramainya kendaraan. Siti segera menghampiri nenek tersebut dan membantunya menyeberang dengan aman.",
+        "output": "Soal:\nTindakan Siti sesuai dengan nilai Pancasila, yaitu....\n\nA. Gemar melakukan kegiatan kemanusiaan\nB. Cinta tanah air dan bangsa\nC. Menghargai hasil karya orang lain\nD. Musyawarah untuk mufakat\n\nKunci Jawaban: A\n\nPembahasan:\nMembantu orang yang kesulitan (nenek menyeberang) adalah perilaku gemar melakukan kegiatan kemanusiaan, sesuai Sila ke-2."
+    },
+    {
+        "instruction": "Evaluasi penerapan sila ketiga diperumahan.",
+        "input": "Pak RT mengajak seluruh warga untuk kerja bakti membersihkan lingkungan pada hari Minggu. Warga yang berasal dari berbagai suku dan agama pun ikut serta dengan semangat kebersamaan.",
+        "output": "Soal:\nKegiatan kerja bakti tersebut mencerminkan pengamalan Pancasila, khususnya sila dengan lambang....\n\nA. Bintang\nB. Rantai Emas\nC. Pohon Beringin\nD. Kepala Banteng\n\nKunci Jawaban: C\n\nPembahasan:\nKerja bakti yang mempererat persatuan antarwarga beragam suku sesuai dengan Sila ke-3 (Persatuan Indonesia), berlambang Pohon Beringin."
+    },
+    {
+        "instruction": "Identifikasi sila keempat dalam musyawarah.",
+        "input": "Dalam pemilihan ketua kelas, terjadi perbedaan pendapat antara siswa. Guru menyarankan agar dilakukan pemungutan suara (voting) untuk menentukan ketua kelas secara adil, dan semua siswa menerima hasilnya dengan lapang dada.",
+        "output": "Soal:\nSikap siswa yang menerima hasil keputusan bersama mencerminkan sila ke-....\n\nA. 2\nB. 3\nC. 4\nD. 5\n\nKunci Jawaban: C\n\nPembahasan:\nMusyawarah dan menerima keputusan bersama adalah inti dari Sila ke-4."
+    },
+    {
+        "instruction": "Penerapan sila kelima di sekolah.",
+        "input": "Ibu guru membagi tugas piket kelas secara adil kepada semua siswa tanpa membeda-bedakan anak pintar atau anak kaya. Semua siswa mendapatkan giliran yang sama.",
+        "output": "Soal:\nTindakan Ibu guru mencerminkan nilai Pancasila, yaitu....\n\nA. Keadilan sosial bagi seluruh rakyat Indonesia\nB. Ketuhanan Yang Maha Esa\nC. Persatuan Indonesia\nD. Kemanusiaan yang adil dan beradab\n\nKunci Jawaban: A\n\nPembahasan:\nBersikap adil tanpa membeda-bedakan status sosial adalah pengamalan Sila ke-5."
+    },
+    {
+        "instruction": "Penerapan sila pertama di rumah.",
+        "input": "Sebelum dan sesudah makan, keluarga Rani selalu membiasakan diri untuk berdoa bersama sebagai wujud rasa syukur atas rezeki yang diberikan Tuhan.",
+        "output": "Soal:\nKebiasaan keluarga Rani merupakan bentuk pengamalan Pancasila sila ke-....\n\nA. Pertama\nB. Kedua\nC. Ketiga\nD. Keempat\n\nKunci Jawaban: A\n\nPembahasan:\nBerdoa dan bersyukur kepada Tuhan adalah penerapan Sila ke-1."
+    },
+    {
+        "instruction": "Analisis kasus sila kedua (Empati).",
+        "input": "Dedi mendengar kabar bahwa rumah temannya terkena musibah kebakaran. Dedi kemudian menyisihkan uang jajannya untuk disumbangkan kepada temannya tersebut.",
+        "output": "Soal:\nSikap Dedi menunjukkan nilai....\n\nA. Tenggang rasa dan peduli sesama\nB. Cinta tanah air\nC. Rela berkorban demi negara\nD. Keadilan hukum\n\nKunci Jawaban: A\n\nPembahasan:\nSikap peduli dan membantu korban bencana/musibah adalah cerminan Sila ke-2 (Kemanusiaan)."
+    },
+    {
+        "instruction": "Penerapan sila ketiga (Cinta Produk Indonesia).",
+        "input": "Rini lebih suka membeli tas dan sepatu buatan pengrajin lokal Cibaduyut daripada membeli barang impor yang mahal. Ia bangga menggunakan produk dalam negeri.",
+        "output": "Soal:\nSikap Rini mencerminkan pengamalan sila Pancasila yang berbunyi....\n\nA. Ketuhanan Yang Maha Esa\nB. Persatuan Indonesia\nC. Kemanusiaan yang adil dan beradab\nD. Keadilan sosial bagi seluruh rakyat Indonesia\n\nKunci Jawaban: B\n\nPembahasan:\nCinta tanah air dan bangga menggunakan produk dalam negeri adalah pengamalan Sila ke-3."
+    },
+    {
+        "instruction": "Penerapan sila keempat di keluarga.",
+        "input": "Ayah ingin mengajak keluarga berlibur. Ayah tidak memutuskan sendiri tujuannya, melainkan mengajak ibu dan anak-anak berdiskusi untuk menentukan tempat liburan yang disetujui bersama.",
+        "output": "Soal:\nSikap Ayah sesuai dengan sila Pancasila yang dilambangkan dengan....\n\nA. Padi dan Kapas\nB. Bintang\nC. Kepala Banteng\nD. Rantai\n\nKunci Jawaban: C\n\nPembahasan:\nBerdiskusi/musyawarah dalam keluarga sesuai Sila ke-4 (Kepala Banteng)."
+    },
+    {
+        "instruction": "Penerapan sila kelima (Hidup Hemat).",
+        "input": "Susi rajin menabung dan tidak suka menghambur-hamburkan uang untuk membeli barang yang tidak penting. Ia hidup hemat dan sederhana.",
+        "output": "Soal:\nGaya hidup Susi mencerminkan pengamalan Pancasila sila ke-....\n\nA. 2\nB. 3\nC. 4\nD. 5\n\nKunci Jawaban: D\n\nPembahasan:\nHidup hemat, tidak boros, dan suka menabung adalah pengamalan butir Sila ke-5."
+    },
+    {
+        "instruction": "Penerapan sila pertama (Toleransi Agama).",
+        "input": "Di kampung tempat tinggal Edo, terdapat warga yang beragama Islam, Kristen, Hindu, dan Buddha. Mereka hidup rukun berdampingan dan saling mengucapkan selamat saat hari raya keagamaan.",
+        "output": "Soal:\nKerukunan antarumat beragama di kampung Edo sesuai dengan sila....\n\nA. Ketuhanan Yang Maha Esa\nB. Kemanusiaan yang adil dan beradab\nC. Persatuan Indonesia\nD. Kerakyatan yang dipimpin oleh hikmat kebijaksanaan\n\nKunci Jawaban: A\n\nPembahasan:\nToleransi dan kerukunan antarumat beragama adalah inti Sila ke-1."
+    },
+    {
+        "instruction": "Penerapan sila kedua (Tidak Semena-mena).",
+        "input": "Sebagai ketua kelompk, Bayu tidak pernah membentak atau memerintah anggotanya dengan kasar. Ia selalu berbicara sopan dan menghargai pendapat temannya.",
+        "output": "Soal:\nSikap Bayu mencerminkan nilai Pancasila, yaitu....\n\nA. Tidak semena-mena terhadap orang lain\nB. Mengutamakan persatuan\nC. Rela berkorban\nD. Menjaga keseimbangan hak dan kewajiban\n\nKunci Jawaban: A\n\nPembahasan:\nTidak semena-mena dan menghormati orang lain adalah butir Sila ke-2."
+    },
+    {
+        "instruction": "Penerapan sila ketiga (Rela Berkorban).",
+        "input": "Para pahlawan berjuang mempertaruhkan nyawa demi kemerdekaan Indonesia. Saat ini, kita bisa meneladaninya dengan belajar giat untuk mengharumkan nama bangsa di kancah internasional.",
+        "output": "Soal:\nSikap rela berkorban demi kepentingan negara merupakan pengamalan sila ke-....\n\nA. 1\nB. 2\nC. 3\nD. 4\n\nKunci Jawaban: C\n\nPembahasan:\nRela berkorban demi bangsa dan negara (patriotisme) adalah nilai Sila ke-3."
+    },
+    {
+        "instruction": "Penerapan sila keempat (Tidak Memaksakan Kehendak).",
+        "input": "Dalam rapat pemilihan ketua RT, Pak Budi memiliki jagoan sendiri. Namun, ketika mayoritas warga memilih calon lain, Pak Budi tidak marah dan tetap mendukung ketua RT terpilih.",
+        "output": "Soal:\nSikap Pak Budi menunjukkan bahwa ia....\n\nA. Tidak memaksakan kehendak kepada orang lain\nB. Tidak peduli dengan lingkungan\nC. Suka bermusuhan\nD. Memisahkan diri dari warga\n\nKunci Jawaban: A\n\nPembahasan:\nMenghormati keputusan orang banyak dan tidak memaksakan kehendak adalah Sila ke-4."
+    },
+    {
+        "instruction": "Penerapan sila kelima (Menghargai Karya).",
+        "input": "Rina memuji lukisan indah buatan temannya. Ia tidak mengejek atau merusak karya orang lain, melainkan memberikan apresiasi positif.",
+        "output": "Soal:\nMenghargai hasil karya orang lain merupakan wujud pengamalan sila....\n\nA. Ketuhanan Yang Maha Esa\nB. Kemausian yang adil dan beradab\nC. Keadilan sosial bagi seluruh rakyat Indonesia\nD. Persatuan Indonesia\n\nKunci Jawaban: C\n\nPembahasan:\nMenghargai karya orang lain agar bermanfaat bagi kemajuan bersama adalah butir Sila ke-5."
+    },
+    {
+        "instruction": "Analisis pelanggaran sila pertama.",
+        "input": "Sekelompok orang mengganggu jalannya ibadah agama lain dengan membuat kegaduhan di dekat tempat ibadah tersebut.",
+        "output": "Soal:\nTindakan tersebut bertentangan dengan Pancasila, khususnya sila....\n\nA. Pertama\nB. Kedua\nC. Ketiga\nD. Keempat\n\nKunci Jawaban: A\n\nPembahasan:\nMengganggu ibadah agama lain melanggar nilai Ketuhanan (Sila 1)."
+    },
+    {
+        "instruction": "Analisis pelanggaran sila kedua.",
+        "input": "Seorang siswa mengejek temannya yang memiliki kekurangan fisik hingga temannya menangis.",
+        "output": "Soal:\nPerilaku siswa tersebut melanggar sila Pancasila yang berbunyi....\n\nA. Ketuhanan Yang Maha Esa\nB. Kemanusiaan yang adil dan beradab\nC. Persatuan Indonesia\nD. Keadilan sosial bagi seluruh rakyat Indonesia\n\nKunci Jawaban: B\n\nPembahasan:\nPerundungan (bullying) dan menghina fisik melanggar nilai kemanusiaan (Sila 2)."
+    },
+    {
+        "instruction": "Penerapan sila ketiga (Kerukunan).",
+        "input": "Dino berasal dari Jawa, sedangkan Ucok berasal dari Batak. Meskipun berbeda suku dan bahasa daerah, mereka tetap bersahabat baik dan bermain bersama tanpa bertengkar.",
+        "output": "Soal:\nPersahabatan Dino dan Ucok mencerminkan semboyan....\n\nA. Tut Wuri Handayani\nB. Bhinneka Tunggal Ika\nC. Ing Ngarso Sung Tulodo\nD. Bersatu Kita Teguh\n\nKunci Jawaban: B\n\nPembahasan:\nBersatu dalam perbedaan suku sesuai dengan Bhinneka Tunggal Ika (Sila 3)."
+    },
+    {
+        "instruction": "Penerapan sila keempat (Menghargai Pendapat).",
+        "input": "Saat diskusi kelompok, Ani mendengarkan usulan Budi sampai selesai, meskipun Ani memiliki ide yang berbeda. Ia tidak memotong pembicaraan Budi.",
+        "output": "Soal:\nSikap Ani adalah contoh pengamalan sila ke-4, khususnya dalam hal....\n\nA. Melaksanakan hasil keputusan\nB. Menghargai pendapat orang lain\nC. Mengutamakan kepentingan pribadi\nD. Memaksakan kehendak\n\nKunci Jawaban: B\n\nPembahasan:\nMendengarkan dan tidak memotong pembicaraan adalah bentuk menghargai pendapat (Sila 4)."
+    },
+    {
+        "instruction": "Penerapan sila kelima (Gotong Royong Fasilitas Umum).",
+        "input": "Warga desa bergotong royong membangun jembatan yang rusak agar bisa digunakan kembali oleh semua orang.",
+        "output": "Soal:\nKegiatan gotong royong untuk kepentingan umum ini sesuai dengan sila....\n\nA. Ke-1\nB. Ke-2\nC. Ke-5\nD. Ke-4\n\nKunci Jawaban: C\n\nPembahasan:\nGotong royong membangun fasilitas umum (infrastruktur) untuk kepentingan bersama/keadilan sosial adalah Sila ke-5."
+    },
+    {
+        "instruction": "Penerapan sila pertama (Jujur).",
+        "input": "Saat ulangan, tidak ada guru yang mengawasi. Namun, Budi tetap mengerjakan soal dengan jujur dan tidak menyontek karena ia yakin Tuhan Maha Melihat.",
+        "output": "Soal:\nSikap jujur Budi didasari oleh keyakinan pada sila berambang....\n\nA. Bintang\nB. Rantai\nC. Padi dan Kapas\nD. Pohon Beringin\n\nKunci Jawaban: A\n\nPembahasan:\nKejujuran karena takut akan Tuhan (Maha Melihat) adalah penerapan Sila 1 (Bintang)."
+    },
+    {
+        "instruction": "Penerapan sila kedua (Sopan Santun).",
+        "input": "Kepada orang yang lebih tua, kita harus berbicara dengan sopan dan mencium tangan saat bersalaman.",
+        "output": "Soal:\nPerilaku sopan santun tersebut sesuai dengan sila....\n\nA. Persatuan Indonesia\nB. Kemanusiaan yang adil dan beradab\nC. Keadilan sosial\nD. Kerakyatan\n\nKunci Jawaban: B\n\nPembahasan:\nBeradab (sopan santun, etika) adalah kata kunci Sila 2."
+    },
+    {
+        "instruction": "Penerapan sila ketiga (Upacara Bendera).",
+        "input": "Setiap hari Senin, siswa SD Merdeka mengikuti upacara bendera dengan khidmat dan menyanyikan lagu Indonesia Raya.",
+        "output": "Soal:\nKegiatan upacara bendera bertujuan untuk menanamkan sikap....\n\nA. Cinta tanah air (Nasionalisme)\nB. Kedaerahan\nC. Rendah diri\nD. Sombong\n\nKunci Jawaban: A\n\nPembahasan:\nUpacara bendera adalah wujud cinta tanah air (Sila 3)."
+    },
+    {
+        "instruction": "Penerapan sila keempat (Musyawarah Mufakat).",
+        "input": "Keputusan rapat karang taruna diambil berdasarkan kesepakatan bersama, bukan karena paksaan ketua.",
+        "output": "Soal:\nPengambilan keputusan tersebut mengutamakan prinsip....\n\nA. Voting\nB. Musyawarah untuk mufakat\nC. Otoriter\nD. Menang-menangan\n\nKunci Jawaban: B\n\nPembahasan:\nPrinsip utama Sila 4 adalah musyawarah untuk mufakat."
+    },
+    {
+        "instruction": "Penerapan sila kelima (Keseimbangan Hak Kewajiban).",
+        "input": "Selain menuntut hak mendapatkan pelajaran, siswa juga harus melaksanakan kewajibannya seperti mematuhi tata tertib sekolah.",
+        "output": "Soal:\nMenjaga keseimbangan antara hak dan kewajiban adalah pengamalan sila ke-....\n\nA. 2\nB. 3\nC. 4\nD. 5\n\nKunci Jawaban: D\n\nPembahasan:\nMenjaga keseimbangan hak dan kewajiban adalah butir Sila 5."
+    },
+    {
+        "instruction": "Penerapan sila pertama (Kerukunan).",
+        "input": "Meskipun mayoritas penduduk Bali beragama Hindu, mereka sangat menghormati wisatawan yang beragama lain yang sedang beribadah.",
+        "output": "Soal:\nSikap masyarakat Bali tersebut mencerminkan....\n\nA. Kerukunan antarumat beragama\nB. Persaingan agama\nC. Ketidakpedulian\nD. Fanatisme\n\nKunci Jawaban: A\n\nPembahasan:\nToleransi dan kerukunan adalah Sila 1."
+    },
+    {
+        "instruction": "Penerapan sila kedua (Menjenguk Teman).",
+        "input": "Mendengar Siti sakit demam berdarah dan dirawat di rumah sakit, teman-teman sekelasnya datang menjenguk dan mendoakan kesembuhannya.",
+        "output": "Soal:\nMenjenguk teman yang sakit merupakan perilaku yang sesuai dengan sila....\n\nA. Ketuhanan Yang Maha Esa\nB. Kemanusiaan yang adil dan beradab\nC. Persatuan Indonesia\nD. Keadilan sosial\n\nKunci Jawaban: B\n\nPembahasan:\nSimpati dan empati (kemanusiaan) kepada yang sakit adalah Sila 2."
+    },
+    {
+        "instruction": "Penerapan sila ketiga (Bahasa Pemersatu).",
+        "input": "Dalam Kongres Pemuda II tahun 1928, para pemuda berikrar menjunjung bahasa persatuan, yaitu Bahasa Indonesia.",
+        "output": "Soal:\nPenggunaan Bahasa Indonesia sebagai bahasa persatuan sesuai dengan sila ke-....\n\nA. 1\nB. 2\nC. 3\nD. 5\n\nKunci Jawaban: C\n\nPembahasan:\nBahasa Indonesia sebagai pemersatu bangsa (Sila 3)."
+    },
+    {
+        "instruction": "Penerapan sila keempat (Mengkritik Sopan).",
+        "input": "Saat rapat, Budi tidak setuju dengan usul Andi. Budi menyampaikan keberatannya dengan bahasa yang santun dan alasan yang logis.",
+        "output": "Soal:\nCara Budi menyampaikan pendapat menunjukkan sikap....\n\nA. Demokratis dan beretika\nB. Egois\nC. Penakut\nD. Cari muka\n\nKunci Jawaban: A\n\nPembahasan:\nMenyampaikan kritik/saran secara santun dalam musyawarah adalah sikap demokratis (Sila 4)."
+    },
+    {
+        "instruction": "Penerapan sila kelima (Fasilitas Umum).",
+        "input": "Kita tidak boleh mencoret-coret tembok halte bus atau merusak telepon umum.",
+        "output": "Soal:\nMenjaga fasilitas umum berarti kita....\n\nA. Menghormati hak orang lain untuk menggunakannya\nB. Takut didenda\nC. Tidak punya spidol\nD. Pelit\n\nKunci Jawaban: A\n\nPembahasan:\nMenjaga fasilitas umum (milik bersama) adalah menghormati hak orang lain (Sila 5)."
+    },
+    {
+        "instruction": "Penerapan sila pertama.",
+        "input": "Tidak memaksakan suatu agama atau kepercayaan kepada orang lain.",
+        "output": "Soal:\nPerilaku tersebut merupakan butir pengamalan Pancasila sila berlambang....\n\nA. Rantai\nB. Bintang\nC. Pohon Beringin\nD. Padi Kapas\n\nKunci Jawaban: B\n\nPembahasan:\nTidak memaksakan agama adalah butir Sila 1 (Bintang)."
+    },
+    {
+        "instruction": "Penerapan sila kedua.",
+        "input": "Mengakui persamaan derajat, persamaan hak, dan persamaan kewajiban antara sesama manusia.",
+        "output": "Soal:\nSikap ini sesuai dengan sila Pancasila yang berbunyi....\n\nA. Kemanusiaan yang adil dan beradab\nB. Persatuan Indonesia\nC. Ketuhanan Yang Maha Esa\nD. Keadilan sosial\n\nKunci Jawaban: A\n\nPembahasan:\nPersamaan derajat/hak asasi adalah inti Sila 2."
+    },
+    {
+        "instruction": "Penerapan sila ketiga (Batik).",
+        "input": "Pada hari Jumat, seluruh karyawan dan siswa diimbau untuk mengenakan baju batik.",
+        "output": "Soal:\nMenggunakan batik merupakan wujud....\n\nA. Cinta produk luar negeri\nB. Cinta budaya bangsa\nC. Pemborosan\nD. Keterpaksaan\n\nKunci Jawaban: B\n\nPembahasan:\nMelestarikan budaya (batik) adalah wujud cinta tanah air (Sila 3)."
+    },
+    {
+        "instruction": "Penerapan sila keempat (Legowo).",
+        "input": "Apa yang harus kita lakukan jika usulan kita tidak diterima dalam musyawarah?",
+        "output": "Soal:\nSikap yang tepat adalah....\n\nA. Marah dan meninggalkan ruangan\nB. Menerima dengan lapang dada (legowo)\nC. Membenci ketua rapat\nD. Memaksa agar diterima\n\nKunci Jawaban: B\n\nPembahasan:\nMenerima keputusan bersama walau beda pendapat adalah jiwa besar (Sila 4)."
+    },
+    {
+        "instruction": "Penerapan sila kelima (Bantuan Sosial).",
+        "input": "Pemerintah memberikan Bantuan Langsung Tunai (BLT) kepada warga miskin yang terdampak pandemi agar mereka bisa memenuhi kebutuhan pokoknya.",
+        "output": "Soal:\nProgram pemerintah ini bertujuan untuk mewujudkan....\n\nA. Keadilan sosial\nB. Kekayaan pejabat\nC. Kemewahan\nD. Persaingan bebas\n\nKunci Jawaban: A\n\nPembahasan:\nMembantu yang lemah/miskin untuk kesejahteraan bersama adalah Keadilan Sosial (Sila 5)."
+    },
+    {
+        "instruction": "Penerapan sila pertama.",
+        "input": "Meyakini adanya Tuhan Yang Maha Esa dan taat menjalankan perintah-Nya.",
+        "output": "Soal:\nSikap tersebut merupakan nilai dasar sila....\n\nA. Ke-1\nB. Ke-2\nC. Ke-3\nD. Ke-5\n\nKunci Jawaban: A\n\nPembahasan:\nIman dan takwa adalah nilai dasar Sila 1."
+    },
+    {
+        "instruction": "Penerapan sila kedua (Solidaritas).",
+        "input": "Gempa bumi melanda Cianjur. Siswa-siswa di sekolah lain menggalang dana untuk dikirimkan ke lokasi bencana.",
+        "output": "Soal:\nAksi solidaritas siswa tersebut mencerminkan sila....\n\nA. Kemanusiaan yang adil dan beradab\nB. Persatuan Indonesia\nC. Kerakyatan\nD. Ketuhanan\n\nKunci Jawaban: A\n\nPembahasan:\nSolidaritas kemanusiaan (Sila 2)."
+    },
+    {
+        "instruction": "Penerapan sila ketiga (NKRI).",
+        "input": "Menjaga keutuhan Negara Kesatuan Republik Indonesia (NKRI) adalah kewajiban seluruh warga negara.",
+        "output": "Soal:\nSikap menjaga keutuhan NKRI disebut....\n\nA. Patriotisme\nB. Separatisme\nC. Egoisme\nD. Individualisme\n\nKunci Jawaban: A\n\nPembahasan:\nCinta dan rela berkorban untuk negara disebut patriotisme (Sila 3)."
+    },
+    {
+        "instruction": "Penerapan sila keempat (Wakil Rakyat).",
+        "input": "Kita memiliki wakil-wakil rakyat yang duduk di DPR/MPR untuk menyuarakan aspirasi masyarakat.",
+        "output": "Soal:\nHal ini sesuai dengan sila ke-4 yang mengandung nilai....\n\nA. Perwakilan\nB. Pemaksaan\nC. Ketuhanan\nD. Kemerdekaan\n\nKunci Jawaban: A\n\nPembahasan:\n'...dalam permusyawaratan/PERWAKILAN'. Sistem perwakilan rakyat (Sila 4)."
+    },
+    {
+        "instruction": "Penerapan sila kelima (Hukum).",
+        "input": "Polisi menilang pengendara motor yang melanggar aturan lalu lintas, baik itu orang kaya maupun orang miskin.",
+        "output": "Soal:\nTindakan polisi menunjukkan bahwa hukum berlaku....\n\nA. Tajam ke bawah tumpul ke atas\nB. Adil untuk semua orang\nC. Hanya untuk orang miskin\nD. Semena-mena\n\nKunci Jawaban: B\n\nPembahasan:\nKeadilan hukum tanpa pandang bulu (Sila 5)."
+    },
+    {
+        "instruction": "Penerapan sila ke-1 (Menghormati agama).",
+        "input": "Ketika teman yang berbeda agama sedang merayakan hari besarnya, sikap kita sebaiknya....",
+        "output": "Soal:\nPerilaku yang tepat adalah....\n\nA. Ikut merayakan ritual ibadahnya\nB. Mengganggu acaranya\nC. Menghormati dan tidak mengganggu\nD. Masa bodoh\n\nKunci Jawaban: C\n\nPembahasan:\nToleransi berarti menghormati tanpa harus mengikuti ritual agama lain (Sila 1)."
+    },
+    {
+        "instruction": "Penerapan sila ke-2 (Antre).",
+        "input": "Budaya antre di tempat umum mencerminkan penghargaan terhadap hak orang lain dan ketertiban.",
+        "output": "Soal:\nBudaya antre sesuai dengan nilai Pancasila, yaitu....\n\nA. Sila ke-2 dan ke-5\nB. Sila ke-1\nC. Sila ke-3\nD. Sila ke-4\n\nKunci Jawaban: A\n\nPembahasan:\nAntre berarti beradab (Sila 2) dan menghormati hak orang lain (Sila 5)."
+    },
+    {
+        "instruction": "Penerapan sila ke-3 (Damai).",
+        "input": "Tawuran antarpeserta didik sangat merugikan dan memecah belah persatuan.",
+        "output": "Soal:\nUntuk mencegah tawuran, kita harus mengembangkan sikap....\n\nA. Persaudaraan dan persatuan\nB. Permusuhan\nC. Dendam\nD. Kompetisi tidak sehat\n\nKunci Jawaban: A\n\nPembahasan:\nPersaudaraan menjaga persatuan (Sila 3)."
+    },
+    {
+        "instruction": "Penerapan sila ke-4 (Ketua Kelas).",
+        "input": "Ketua kelas dipilih bukan karena dia anak orang kaya, melainkan karena kemampuan dan kepercayaan teman-teman.",
+        "output": "Soal:\nHal ini menunjukkan pelaksanaan demokrasi di sekolah yang berlandaskan....\n\nA. Uang\nB. Kekuasaan\nC. Hikmat kebijaksanaan\nD. Paksaan guru\n\nKunci Jawaban: C\n\nPembahasan:\nDemokrasi Pancasila dipimpin oleh hikmat kebijaksanaan (Sila 4)."
+    },
+    {
+        "instruction": "Penerapan sila ke-5 (Menolong).",
+        "input": "Membantu korban bencana alam tidak hanya tugas pemerintah, tetapi tugas kita semua sebagai warga negara.",
+        "output": "Soal:\nGotong royong membantu sesama bertujuan mewujudkan....\n\nA. Kesejahteraan sosial\nB. Popularitas\nC. Keuntungan pribadi\nD. Pujian\n\nKunci Jawaban: A\n\nPembahasan:\nTujuan akhir sila 5 adalah keadilan/kesejahteraan sosial."
+    },
+    {
+        "instruction": "Penerapan sila ke-1.",
+        "input": "Berdoa sebelum belajar bertujuan agar ilmu yang kita dapatkan bermanfaat.",
+        "output": "Soal:\nSikap ini adalah pengamalan sila dengan lambang....\n\nA. Bintang\nB. Rantai\nC. Padi Kapas\nD. Kepala Banteng\n\nKunci Jawaban: A\n\nPembahasan:\nHubungan manusia dengan Tuhan (Sila 1 Lambang Bintang)."
+    },
+    {
+        "instruction": "Penerapan sila ke-2 (Menolong Hewan).",
+        "input": "Andi melihat seekor kucing yang terjebak di selokan. Ia segera menolong kucing tersebut.",
+        "output": "Soal:\nMenyayangi sesama makhluk hidup (termasuk hewan) mencerminkan nilai....\n\nA. Kemanusiaan\nB. Persatuan\nC. Keadilan\nD. Demokrasi\n\nKunci Jawaban: A\n\nPembahasan:\nKemanusiaan juga mencakup kasih sayang pada makhluk ciptaan Tuhan."
+    },
+    {
+        "instruction": "Penerapan sila ke-3 (Lagu Daerah).",
+        "input": "Mempelajari lagu-lagu daerah dari berbagai provinsi di Indonesia.",
+        "output": "Soal:\nTujuan kegiatan tersebut adalah....\n\nA. Agar jadi penyanyi terkenal\nB. Melestarikan budaya bangsa dan mempererat persatuan\nC. Supaya mendapat nilai bagus saja\nD. Mengisi waktu luang\n\nKunci Jawaban: B\n\nPembahasan:\nBudaya daerah adalah akar budaya nasional (Sila 3)."
+    },
+    {
+        "instruction": "Penerapan sila ke-4 (Diskusi).",
+        "input": "Dalam diskusi kelompok, kita tidak boleh memaksakan pendapat kita kepada orang lain.",
+        "output": "Soal:\nJika pendapat kita ditolak, sikap kita seharusnya....\n\nA. Marah-marah\nB. Diam saja dan tidak mau kerja\nC. Menerima dengan besar hati\nD. Keluar dari kelompok\n\nKunci Jawaban: C\n\nPembahasan:\nLegowo/besar hati (Sila 4)."
+    },
+    {
+        "instruction": "Penerapan sila ke-5 (Pekerja Keras).",
+        "input": "Ayah bekerja keras setiap hari untuk menafkahi keluarga.",
+        "output": "Soal:\nSikap kerja keras merupakan butir pengamalan sila....\n\nA. Ke-2\nB. Ke-3\nC. Ke-4\nD. Ke-5\n\nKunci Jawaban: D\n\nPembahasan:\nSuka bekerja keras adalah salah satu butir Sila 5."
+    },
+    {
+        "instruction": "Penerapan sila ke-1.",
+        "input": "Udin beragama Islam, Edo Katolik, Beni Protestan, Dayu Hindu, Lani Buddha, dan Siti Konghucu.",
+        "output": "Soal:\nWalaupun berbeda agama, mereka tetap bermain bersama. Sikap ini menunjukkan....\n\nA. Toleransi beragama\nB. Acuh tak acuh\nC. Persaingan\nD. Kehebatan\n\nKunci Jawaban: A\n\nPembahasan:\nToleransi (Sila 1)."
+    },
+    {
+        "instruction": "Penerapan sila ke-2.",
+        "input": "Tidak membeda-bedakan teman berdasarkan kaya atau miskin.",
+        "output": "Soal:\nHal ini sesuai dengan nilai Pancasila sila ke-....\n\nA. 1\nB. 2\nC. 3\nD. 4\n\nKunci Jawaban: B\n\nPembahasan:\nPersamaan derajat (tidak membedakan status sosial) adalah Sila 2."
+    },
+    {
+        "instruction": "Penerapan sila ke-3.",
+        "input": "Timnas Sepakbola Indonesia bertanding melawan negara lain. Seluruh rakyat Indonesia mendoakan dan mendukung.",
+        "output": "Soal:\nDukungan rakyat tersebut wujud dari....\n\nA. Semangat persatuan dan nasionalisme\nB. Hobi nonton bola\nC. Paksaan pemerintah\nD. Hadiah uang\n\nKunci Jawaban: A\n\nPembahasan:\nNasionalisme/dukungan pada bangsa (Sila 3)."
+    },
+    {
+        "instruction": "Penerapan sila ke-4.",
+        "input": "Keputusan musyawarah harus dapat dipertanggungjawabkan secara moral kepada....",
+        "output": "Soal:\nJawaban yang tepat sesuai nilai luhur Sila 4 adalah....\n\nA. Diri sendiri\nB. Orang lain\nC. Tuhan Yang Maha Esa\nD. Ketua rapat\n\nKunci Jawaban: C\n\nPembahasan:\nKeputusan musyawarah harus dipertanggungjawabkan kepada Tuhan YME."
+    },
+    {
+        "instruction": "Penerapan sila ke-5.",
+        "input": "Penggunaan kekayaan alam (air, bumi, dll) harus dipergunakan sebesar-besarnya untuk kemakmuran rakyat.",
+        "output": "Soal:\nHal ini sesuai dengan amanat UUD 1945 dan Pancasila sila....\n\nA. Ke-2\nB. Ke-3\nC. Ke-4\nD. Ke-5\n\nKunci Jawaban: D\n\nPembahasan:\nKeadilan sosial/kemakmuran rakyat (Sila 5)."
+    },
+    {
+        "instruction": "Penerapan sila ke-1.",
+        "input": "Menghormati kebebasan orang lain dalam menjalankan ibadah sesuai agamanya.",
+        "output": "Soal:\nSikap ini mencerminkan....\n\nA. Kebebasan tanpa batas\nB. Hak asasi beragama (Sila 1)\nC. Keterpaksaan\nD. Peraturan daerah\n\nKunci Jawaban: B\n\nPembahasan:\nKebebasan beragama dijamin Sila 1."
+    },
+    {
+        "instruction": "Penerapan sila ke-2.",
+        "input": "Mengembangkan sikap tenggang rasa dan tepa selira.",
+        "output": "Soal:\nTepa selira artinya....\n\nA. Merasakan apa yang dirasakan orang lain (tidak menyakiti)\nB. Masa bodoh\nC. Suka pamer\nD. Membenci orang lain\n\nKunci Jawaban: A\n\nPembahasan:\nTepa selira = tenggang rasa/jaga perasaan (Sila 2)."
+    },
+    {
+        "instruction": "Penerapan sila ke-3.",
+        "input": "Sumpah Pemuda 28 Oktober 1928 memiliki semangat....",
+        "output": "Soal:\nSesuai Pancasila, semangat tersebut adalah....\n\nA. Kedaerahan\nB. Persatuan dan Kesatuan\nC. Keagamaan\nD. Kesukuan\n\nKunci Jawaban: B\n\nPembahasan:\nSatu Nusa Satu Bangsa (Persatuan - Sila 3)."
+    },
+    {
+        "instruction": "Penerapan sila ke-4.",
+        "input": "Mengutamakan musyawarah dalam mengambil keputusan untuk kepentingan bersama.",
+        "output": "Soal:\nContoh kegiatan di sekolah yang sesuai pernyataan tersebut adalah....\n\nA. Mengerjakan PR sendiri\nB. Diskusi kelompok atau rapat kelas\nC. Upacara bendera\nD. Senam pagi\n\nKunci Jawaban: B\n\nPembahasan:\nDiskusi/rapat adalah bentuk musyawarah."
+    },
+    {
+        "instruction": "Penerapan sila ke-5.",
+        "input": "Tidak melakukan perbuatan yang merugikan kepentingan umum, seperti merusak taman kota.",
+        "output": "Soal:\nPerilaku merusak taman kota bertentangan dengan sila....\n\nA. Ke-1\nB. Ke-2\nC. Ke-5\nD. Ke-4\n\nKunci Jawaban: C\n\nPembahasan:\nMerugikan kepentingan umum melanggar Sila 5."
+    },
+    {
+        "instruction": "Penerapan sila ke-1.",
+        "input": "Percaya dan takwa kepada Tuhan Yang Maha Esa sesuai agama masing-masing.",
+        "output": "Soal:\nContoh perilaku takwa adalah....\n\nA. Rajin beribadah dan menjauhi larangan-Nya\nB. Malas berdoa\nC. Mengganggu teman ibadah\nD. Berbohong\n\nKunci Jawaban: A\n\nPembahasan:\nTakwa = menjalankan perintah & menjauhi larangan Tuhan."
+    },
+    {
+        "instruction": "Penerapan sila ke-2.",
+        "input": "Berani membela kebenaran dan keadilan.",
+        "output": "Soal:\nSikap pahlawan yang berani melawan penjajah demi keadilan sesuai dengan sila....\n\nA. Ke-1\nB. Ke-2\nC. Ke-4\nD. Ke-5\n\nKunci Jawaban: B\n\nPembahasan:\nBerani membela kebenaran & keadilan adalah butir Sila 2."
+    },
+    {
+        "instruction": "Penerapan sila ke-3.",
+        "input": "Mengembangkan rasa kebanggaan berkebangsaan dan bertanah air Indonesia.",
+        "output": "Soal:\nContoh rasa bangga tersebut adalah....\n\nA. Malu mengaku orang Indonesia\nB. Berprestasi mengharumkan nama bangsa\nC. Lebih suka budaya asing\nD. Merusak lingkungan\n\nKunci Jawaban: B\n\nPembahasan:\nBerprestasi untuk bangsa = bangga/nasionalisme (Sila 3)."
+    },
+    {
+        "instruction": "Penerapan sila ke-4.",
+        "input": "Dengan iktikad baik dan rasa tanggung jawab menerima dan melaksanakan hasil keputusan musyawarah.",
+        "output": "Soal:\nJika hasil musyawarah memberatkan kita, sikap kita sebaiknya....\n\nA. Menolak mentah-mentah\nB. Menerima dan melaksanakannya dengan ikhlas\nC. Protes keras\nD. Keluar ruangan\n\nKunci Jawaban: B\n\nPembahasan:\nMelaksanakan hasil keputusan dengan tanggung jawab (Sila 4)."
+    },
+    {
+        "instruction": "Penerapan sila ke-5.",
+        "input": "Suka memberi pertolongan kepada orang lain agar dapat berdiri sendiri.",
+        "output": "Soal:\nMemberi modal usaha atau pelatihan kerja kepada pengangguran adalah contoh pengamalan sila....\n\nA. Ke-1\nB. Ke-3\nC. Ke-5\nD. Ke-2\n\nKunci Jawaban: C\n\nPembahasan:\nMemberi pertolongan agar mandiri/berdiri sendiri (empowerment) adalah Sila 5."
+    },
+    {
+        "instruction": "Penerapan sila ke-1.",
+        "input": "Saling menghormati kebebasan menjalankan ibadah.",
+        "output": "Soal:\nSaat Bulan Ramadhan, warung makan menutup jendelanya dengan tirai untuk menghormati orang puasa. Sikap ini adalah....\n\nA. Toleransi\nB. Diskriminasi\nC. Pelanggaran HAM\nD. Ketidakadilan\n\nKunci Jawaban: A\n\nPembahasan:\nMenghormati orang puasa adalah toleransi (Sila 1)."
+    },
+    {
+        "instruction": "Penerapan sila ke-2.",
+        "input": "Menjunjung tinggi nilai-nilai kemanusiaan.",
+        "output": "Soal:\nContoh kegiatan kemanusiaan internasional adalah....\n\nA. Perang dunia\nB. Mengirim pasukan perdamaian ke negara konflik\nC. Menutup perbatasan\nD. Melarang ekspor\n\nKunci Jawaban: B\n\nPembahasan:\nPasukan perdamaian/bantuan kemanusiaan (Sila 2)."
+    },
+    {
+        "instruction": "Penerapan sila ke-3.",
+        "input": "Memajukan pergaulan demi persatuan dan kesatuan bangsa.",
+        "output": "Soal:\nKita sebaiknya bergaul degan....\n\nA. Teman satu suku saja\nB. Teman satu agama saja\nC. Siapa saja tanpa membedakan suku, agama, ras (SARA)\nD. Teman kaya saja\n\nKunci Jawaban: C\n\nPembahasan:\nPergaulan lintas SARA memperkuat persatuan (Sila 3)."
+    },
+    {
+        "instruction": "Penerapan sila ke-4.",
+        "input": "Musyawarah dilakukan dengan akal sehat dan hati nurani yang luhur.",
+        "output": "Soal:\nDalam musyawarah tidak boleh ada....\n\nA. Argumentasi\nB. Perbedaan pendapat\nC. Tekanan dan paksaan fisik/psikis\nD. Usulan\n\nKunci Jawaban: C\n\nPembahasan:\nMusyawarah harus bebas dari paksaan."
+    },
+    {
+        "instruction": "Penerapan sila ke-5.",
+        "input": "Tidak menggunakan hak milik untuk hal-hal yang bersifat pemborosan dan gaya hidup mewah.",
+        "output": "Soal:\nSikap pamer kekayaan (flexing) di media sosial bertentangan dengan sila....\n\nA. Ke-1\nB. Ke-2\nC. Ke-3\nD. Ke-5\n\nKunci Jawaban: D\n\nPembahasan:\nSila 5 menolak pemborosan dan gaya hidup mewah."
+    },
+    {
+        "instruction": "Penerapan sila (Lambang).",
+        "input": "Rantai emas pada lambang Garuda Pancasila melambangkan sila ke-2.",
+        "output": "Soal:\nMakna mata rantai bulat dan persegi yang saling berkait adalah....\n\nA. Persatuan Indonesia\nB. Laki-laki dan perempuan saling membutuhkan dan bersatu\nC. Kekuatan militer\nD. Kekayaan alam\n\nKunci Jawaban: B\n\nPembahasan:\nRantai persegi (laki-laki) dan bulat (perempuan) saling berkait."
+    },
+    {
+        "instruction": "Penerapan sila (Lambang).",
+        "input": "Pohon Beringin melambangkan sila ke-3.",
+        "output": "Soal:\nMakna akar gantung yang banyak pada pohon beringin melambangkan....\n\nA. Keragaman suku bangsa yang menyatu di bawah naungan Indonesia\nB. Hutan Indonesia yang lebat\nC. Pohon yang angker\nD. Kekuatan akar\n\nKunci Jawaban: A\n\nPembahasan:\nSulur/akar gantung = keragaman latar belakang budaya (Bhinneka Tunggal Ika)."
+    },
+    {
+        "instruction": "Penerapan sila (Lambang).",
+        "input": "Padi dan Kapas melambangkan sila ke-5.",
+        "output": "Soal:\nPadi dan kapas menyimbolkan kebutuhan dasar manusia, yaitu....\n\nA. Emas dan Perak\nB. Pangan (Makanan) dan Sandang (Pakaian)\nC. Rumah dan Mobil\nD. Pendidikan dan Kesehatan\n\nKunci Jawaban: B\n\nPembahasan:\nPadi = Pangan, Kapas = Sandang. Simbol kemakmuran/kesejahteraan."
+    },
+    {
+        "instruction": "Penerapan sila (Lambang).",
+        "input": "Kepala Banteng melambangkan sila ke-4.",
+        "output": "Soal:\nFilosofi banteng sebagai hewan sosial yang suka berkumpul dimaknai sebagai....\n\nA. Orang Indonesia suka berantem\nB. Kegiatan musyawarah/berkumpul untuk memecahkan masalah\nC. Peternakan sapi\nD. Hewan yang kuat\n\nKunci Jawaban: B\n\nPembahasan:\nBanteng suka berkumpul = Musyawarah."
+    },
+    {
+        "instruction": "Penerapan sila (Lambang).",
+        "input": "Bintang emas dengan latar hitam melambangkan sila ke-1.",
+        "output": "Soal:\nCahaya bintang dimaknai sebagai....\n\nA. Cahaya kerohanian dari Tuhan kepada manusia\nB. Cahaya lampu\nC. Kejayaan negara\nD. Keindahan malam\n\nKunci Jawaban: A\n\nPembahasan:\nBintang = Nur/Cahaya Ilahi (Ketuhanan)."
+    },
+    {
+        "instruction": "Identifikasi hak anak di rumah.",
+        "input": "Setiap anak berhak mendapatkan kasih sayang dan perlindungan dari orang tuanya. Selain itu, anak juga berhak mendapatkan makanan bergizi dan pakaian yang layak.",
+        "output": "Soal:\nBerikut ini yang merupakan contoh hak anak di rumah adalah....\n\nA. Membantu orang tua membersihkan rumah\nB. Mendapatkan uang jajan yang banyak\nC. Mendapatkan kesempatan bermain dan beristirahat\nD. Mengerjakan PR\n\nKunci Jawaban: C\n\nPembahasan:\nHak adalah sesuatu yang kita terima. Bermain dan istirahat adalah hak anak."
+    },
+    {
+        "instruction": "Identifikasi kewajiban anak di rumah.",
+        "input": "Setelah bangun tidur, Budi selalu merapikan tempat tidurnya sendiri. Ia juga rutin membantu ibu menyapu halaman setiap sore.",
+        "output": "Soal:\nTindakan Budi tersebut merupakan contoh pelaksanan....\n\nA. Hak anak di rumah\nB. Kewajiban anak di rumah\nC. Hak orang tua\nD. Tanggung jawab guru\n\nKunci Jawaban: B\n\nPembahasan:\nSesuatu yang harus dilakukan adalah kewajiban."
+    },
+    {
+        "instruction": "Identifikasi hak siswa di sekolah.",
+        "input": "Di sekolah, setiap siswa berhak menggunakan fasilitas perpustakaan untuk meminjam buku dan belajar dengan tenang.",
+        "output": "Soal:\nContoh lain dari hak siswa di sekolah adalah....\n\nA. Membayar uang sekolah\nB. Mendapatkan pelajaran dan bimbingan dari guru\nC. Melaksanakan piket kelas\nD. Memakai seragam lengkap\n\nKunci Jawaban: B\n\nPembahasan:\nMendapatkan ilmu adalah hak siswa."
+    },
+    {
+        "instruction": "Identifikasi kewajiban siswa di sekolah.",
+        "input": "Siswa wajib datang tepat waktu dan mengikuti upacara bendera setiap hari Senin dengan tertib.",
+        "output": "Soal:\nJika siswa melanggar kewajiban tersebut, maka ia akan mendapatkan....\n\nA. Hadiah\nB. Pujian\nC. Sanksi atau hukuman\nD. Nilai bagus\n\nKunci Jawaban: C\n\nPembahasan:\nKonsekuensi melanggar adalah sanksi."
+    },
+    {
+        "instruction": "Identifikasi tanggung jawab warga masyarakat.",
+        "input": "Pak RT menghimbau warga untuk menjaga kebersihan lingkungan dengan tidak membuang sampah di sungai.",
+        "output": "Soal:\nMenjaga kebersihan lingkungan merupakan tanggung jawab....\n\nA. Pak RT saja\nB. Petugas kebersihan saja\nC. Seluruh warga masyarakat\nD. Pemerintah pusat\n\nKunci Jawaban: C\n\nPembahasan:\nLingkungan adalah tanggung jawab bersama."
+    },
+    {
+        "instruction": "Analisis dampak tidak melaksanakan kewajiban.",
+        "input": "Edo malas belajar dan sering membolos sekolah. Ia lebih suka bermain game sepanjang hari.",
+        "output": "Soal:\nDampak negatif dari sikap Edo yang melalaikan kewajibannya sebagai pelajar adalah....\n\nA. Edo menjadi juara kelas\nB. Prestasi belajar Edo menurun dan bisa tinggal kelas\nC. Edo disayang guru\nD. Teman-teman Edo senang\n\nKunci Jawaban: B\n\nPembahasan:\nMalas belajar = prestasi turun."
+    },
+    {
+        "instruction": "Keseimbangan hak dan kewajiban (Lalu Lintas).",
+        "input": "Pengendara motor berhak menggunakan jalan raya. Namun, mereka juga wajib mematuhi rambu-rambu lalu lintas dan memakai helm.",
+        "output": "Soal:\nJika pengendara hanya menuntut hak tanpa melakukan kewajiban, maka akan terjadi....\n\nA. Ketertiban lalu lintas\nB. Kemacetan dan kecelakaan\nC. Jalan raya menjadi sepi\nD. Polisi menjadi senang\n\nKunci Jawaban: B\n\nPembahasan:\nPelanggaran kewajiban menyebabkan kekacauan."
+    },
+    {
+        "instruction": "Tanggung jawab terhadap diri sendiri.",
+        "input": "Tuhan memberikan kita tubuh yang sehat. Kita wajib mensyukurinya dengan cara menjaga kesehatan.",
+        "output": "Soal:\nBentuk tanggung jawab terhadap diri sendiri dalam menjaga kesehatan adalah....\n\nA. Makan makanan sembarangan\nB. Tidur larut malam\nC. Olahraga teratur dan makan bergizi\nD. Membuang sampah pada tempatnya\n\nKunci Jawaban: C\n\nPembahasan:\nMerawat tubuh adalah tanggung jawab diri."
+    },
+    {
+        "instruction": "Hak warga negara (Pasal 27).",
+        "input": "Setiap warga negara berhak mendapatkan pekerjaan dan penghidupan yang layak bagi kemanusiaan.",
+        "output": "Soal:\nHak tersebut dijamin dalam UUD 1945 pasal....\n\nA. 27 ayat 2\nB. 29 ayat 2\nC. 31 ayat 1\nD. 30 ayat 1\n\nKunci Jawaban: A\n\nPembahasan:\nPasal 27 ayat 2 tentang pekerjaan."
+    },
+    {
+        "instruction": "Kewajiban warga negara (Bela Negara).",
+        "input": "Setiap warga negara wajib ikut serta dalam upaya pembelaan negara.",
+        "output": "Soal:\nContoh bela negara bagi seorang pelajar adalah....\n\nA. Ikut perang angkat senjata\nB. Belajar dengan tekun dan berprestasi\nC. Ikut demo anarkis\nD. Menjadi tentara bayaran\n\nKunci Jawaban: B\n\nPembahasan:\nPelajar bela negara dengan belajar."
+    },
+    {
+        "instruction": "Hak mengeluarkan pendapat.",
+        "input": "Dalam musyawarah desa, setiap warga berhak menyampaikan usulan atau pendapatnya.",
+        "output": "Soal:\nHak berbicara dan berpendapat merupakan perwujudan dari....\n\nA. Kebebasan yang bertanggung jawab\nB. Kebebasan tanpa batas\nC. Pemaksaan kehendak\nD. Kekuasaan ketua rapat\n\nKunci Jawaban: A\n\nPembahasan:\nKebebasan berpendapat harus bertanggung jawab."
+    },
+    {
+        "instruction": "Tanggung jawab sosial.",
+        "input": "Melihat paku berserakan di jalan raya, Pak Budi berhenti sejenak untuk memungutnya agar tidak membahayakan pengendara lain.",
+        "output": "Soal:\nSikap Pak Budi mencerminkan rasa....\n\nA. Ingin dipuji\nB. Tanggung jawab sosial terhadap keselamatan orang lain\nC. Kurang kerjaan\nD. Cari sensasi\n\nKunci Jawaban: B\n\nPembahasan:\nPeduli keselamatan orang lain."
+    },
+    {
+        "instruction": "Hak memperoleh pendidikan.",
+        "input": "Pemerintah mewajibkan program Wajib Belajar 12 Tahun dan menyediakan dana BOS (Bantuan Operasional Sekolah).",
+        "output": "Soal:\nUpaya pemerintah tersebut bertujuan untuk memenuhi hak warga negara dalam bidang....\n\nA. Ekonomi\nB. Pendidikan\nC. Kesehatan\nD. Hukum\n\nKunci Jawaban: B\n\nPembahasan:\nDana BOS untuk pendidikan."
+    },
+    {
+        "instruction": "Kewajiban menjaga fasilitas umum.",
+        "input": "Halte bus, taman kota, dan telepon umum adalah fasilitas publik yang dibangun menggunakan uang rakyat (pajak).",
+        "output": "Soal:\nKewajiban kita terhadap fasilitas tersebut adalah....\n\nA. Merusaknya\nB. Mencoret-coretnya\nC. Menjaga dan merawatnya agar tetap berfungsi baik\nD. Memilikinya secara pribadi\n\nKunci Jawaban: C\n\nPembahasan:\nFasilitas umum harus dijaga."
+    },
+    {
+        "instruction": "Hak beragama.",
+        "input": "Negara menjamin kebebasan tiap-tiap penduduk untuk memeluk agamanya masing-masing dan beribadah menurut kepercayaannya.",
+        "output": "Soal:\nHak asasi tersebut tercantum dalam UUD 1945 Pasal....\n\nA. 28E ayat 1\nB. 29 ayat 2\nC. 30\nD. 33\n\nKunci Jawaban: B\n\nPembahasan:\nPasal 29 ayat 2."
+    },
+    {
+        "instruction": "Kewajiban membayar pajak.",
+        "input": "Warga negara yang baik taat membayar pajak tepat waktu. Pajak digunakan untuk pembangunan negara.",
+        "output": "Soal:\nMembayar pajak termasuk....\n\nA. Hak warga negara\nB. Kewajiban warga negara yang bersifat memaksa\nC. Sumbangan sukarela\nD. Hadiah untuk negara\n\nKunci Jawaban: B\n\nPembahasan:\nPajak itu wajib dan memaksa."
+    },
+    {
+        "instruction": "Tanggung jawab melestarikan lingkungan.",
+        "input": "Penebangan hutan secara liar dapat menyebabkan banjir dan tanah longsor yang merugikan banyak orang.",
+        "output": "Soal:\nUntuk mencegahnya, kita bertanggung jawab melakukan....\n\nA. Reboisasi (penanaman kembali hutan)\nB. Pembakaran hutan\nC. Membuang sampah di hutan\nD. Berburu hewan langka\n\nKunci Jawaban: A\n\nPembahasan:\nReboisasi adalah solusi pelestarian."
+    },
+    {
+        "instruction": "Hak mendapatkan lingkungan sehat.",
+        "input": "Setiap orang berhak menghirup udara bersih dan tinggal di lingkungan yang sehat.",
+        "output": "Soal:\nNamun, hak ini baru bisa diperoleh jika kita melaksanakan kewajiban, yaitu....\n\nA. Membangun pabrik\nB. Menebang pohon\nC. Menjaga kebersihan lingkungan dan tidak membakar sampah sembarangan\nD. Menggunakan kendaraan bermotor yang berasap tebal\n\nKunci Jawaban: C\n\nPembahasan:\nJaga lingkungan = dapat udara bersih."
+    },
+    {
+        "instruction": "Identifikasi pelanggaran hak.",
+        "input": "Seorang anak dilarang bersekolah oleh orang tuanya dan dipaksa bekerja mencari uang di jalanan.",
+        "output": "Soal:\nTindakan orang tua tersebut merupakan bentuk....\n\nA. Kasih sayang\nB. Pelanggaran hak anak untuk mendapatkan pendidikan dan perlindungan\nC. Pendidikan karakter mandiri\nD. Pelatihan kerja\n\nKunci Jawaban: B\n\nPembahasan:\nEksploitasi anak melanggar hak."
+    },
+    {
+        "instruction": "Tanggung jawab sebagai ketua kelas.",
+        "input": "Sebagai ketua kelas, Bayu melihat teman-temannya ribut saat guru belum datang.",
+        "output": "Soal:\nTanggung jawab Bayu seharusnya adalah....\n\nA. Ikut ribut agar suasana makin ramai\nB. Mengingatkan dan menenangkan teman-temannya agar tertib\nC. Melaporkan ke kepala sekolah\nD. Pulang ke rumah\n\nKunci Jawaban: B\n\nPembahasan:\nKetua kelas menjaga ketertiban."
+    },
+    {
+        "instruction": "Hak perlindungan hukum.",
+        "input": "Setiap warga negara memiliki kedudukan yang sama di dalam hukum dan pemerintahan.",
+        "output": "Soal:\nArtinya, jika seorang pejabat melakukan korupsi, ia harus....\n\nA. Dibebaskan karena jabatannya\nB. Dihukum sesuai peraturan yang berlaku tanpa diskriminasi\nC. Dipuji\nD. Dibiarkan saja\n\nKunci Jawaban: B\n\nPembahasan:\nPersamaan hukum."
+    },
+    {
+        "instruction": "Kewajiban menjaga nama baik.",
+        "input": "Sebagai siswa SD Harapan Bangsa, kita wajib menjaga nama baik sekolah di mana pun berada.",
+        "output": "Soal:\nContoh perilaku menjaga nama baik sekolah di tempat umum adalah....\n\nA. Memakai seragam sekolah saat membolos\nB. Berperilaku sopan dan tidak gaduh di tempat umum\nC. Mencoret-coret tembok sekolah lain\nD. Berkelahi dengan siswa sekolah lain\n\nKunci Jawaban: B\n\nPembahasan:\nSopan santun menjaga nama baik."
+    },
+    {
+        "instruction": "Hak mendapatkan kasih sayang.",
+        "input": "Rini merasa sedih karena orang tuanya selalu sibuk bekerja dan tidak pernah punya waktu untuk mendengarkan ceritanya.",
+        "output": "Soal:\nDalam kasus ini, hak Rini yang belum terpenuhi adalah....\n\nA. Hak mendapatkan materi\nB. Hak mendapatkan kasih sayang dan perhatian\nC. Hak mendapatkan pendidikan\nD. Hak mendapatkan kesehatan\n\nKunci Jawaban: B\n\nPembahasan:\nKasih sayang adalah hak anak."
+    },
+    {
+        "instruction": "Kewajiban menghormati guru.",
+        "input": "Saat guru sedang menjelaskan pelajaran di depan kelas, kewajiban kita adalah....",
+        "output": "Soal:\nJawabannya adalah....\n\nA. Berbicara sendiri dengan teman\nB. Mendengarkan dan memperhatikan dengan saksama\nC. Tidur\nD. Bermain HP\n\nKunci Jawaban: B\n\nPembahasan:\nMenghormati guru."
+    },
+    {
+        "instruction": "Tanggung jawab dalam tugas kelompok.",
+        "input": "Dalam tugas kelompok, setiap anggota memiliki tugas masing-masing yang harus diselesaikan.",
+        "output": "Soal:\nJika salah satu anggota tidak mengerjakan tugasnya, maka....\n\nA. Tugas kelompok akan cepat selesai\nB. Kelompok akan mendapatkan nilai terbaik\nC. Tugas tidak selesai dan merugikan seluruh anggota kelompok\nD. Guru akan senang\n\nKunci Jawaban: C\n\nPembahasan:\nKerjasama kelompok."
+    },
+    {
+        "instruction": "Hak memanfaatkan sumber daya alam.",
+        "input": "Nelayan berhak menangkap ikan di laut untuk memenuhi kebutuhan hidupnya.",
+        "output": "Soal:\nNamun, hak tersebut dibatasi oleh kewajiban untuk....\n\nA. Menggunakan bom ikan agar dapat banyak\nB. Menggunakan pukat harimau\nC. Menangkap ikan dengan cara yang ramah lingkungan agar tidak punah\nD. Menangkap semua ikan kecil\n\nKunci Jawaban: C\n\nPembahasan:\nKelestarian alam."
+    },
+    {
+        "instruction": "Identifikasi hak konsumen.",
+        "input": "Saat membeli makanan kemasan, kita berhak mengetahui tanggal kedaluwarsa dan komposisi bahannya.",
+        "output": "Soal:\nHak ini bertujuan agar konsumen....\n\nA. Mendapatkan harga murah\nB. Terlindungi kesehatan dan keselamatannya\nC. Menjadi lebih pintar\nD. Bisa menawar harga\n\nKunci Jawaban: B\n\nPembahasan:\nPerlindungan konsumen."
+    },
+    {
+        "instruction": "Kewajiban mematuhi norma sosial.",
+        "input": "Ketika bertamu ke rumah orang lain, kita harus mengetuk pintu dan mengucapkan salam.",
+        "output": "Soal:\nKewajiban ini merupakan bentuk pelaksanaan....\n\nA. Norma hukum\nB. Norma kesopanan\nC. Norma agama\nD. Norma kesusilaan\n\nKunci Jawaban: B\n\nPembahasan:\nNorma kesopanan."
+    },
+    {
+        "instruction": "Tanggung jawab penggunaan energi.",
+        "input": "Sumber energi fosil (minyak bumi) semakin menipis. Kita bertanggung jawab untuk menghemat penggunaannya.",
+        "output": "Soal:\nContoh perilaku hemat energi adalah....\n\nA. Menyalakan lampu di siang hari\nB. Membiarkan keran air menetes\nC. Mematikan televisi jika tidak ditonton\nD. Menggunakan mobil pribadi setiap hari\n\nKunci Jawaban: C\n\nPembahasan:\nHemat energi."
+    },
+    {
+        "instruction": "Hak berekspresi seni.",
+        "input": "Siswa berhak mengembangkan bakat seninya melalui kegiatan ekstrakurikuler di sekolah.",
+        "output": "Soal:\nContoh kegiatan yang mendukung hak tersebut adalah....\n\nA. Ekstrakurikuler Matematika\nB. Ekstrakurikuler Tari, Musik, atau Lukis\nC. Bimbingan Konseling\nD. Upacara bendera\n\nKunci Jawaban: B\n\nPembahasan:\nEkspresi seni."
+    },
+    {
+        "instruction": "Hak",
+        "input": "Sesuatu yang mutlak menjadi milik kita dan penggunaannya tergantung kepada kita sendiri.",
+        "output": "Soal:\nDefinisi di atas adalah pengertian dari....\n\nA. Kewajiban\nB. Hak\nC. Tanggung Jawab\nD. Norma\n\nKunci Jawaban: B\n\nPembahasan:\nPengertian Hak."
+    },
+    {
+        "instruction": "Kewajiban",
+        "input": "Segala sesuatu yang harus dilaksanakan dengan penuh rasa tanggung jawab.",
+        "output": "Soal:\nPernyataan tersebut adalah pengertian dari....\n\nA. Hak\nB. Kewajiban\nC. Aturan\nD. Sanksi\n\nKunci Jawaban: B\n\nPembahasan:\nPengertian Kewajiban."
+    },
+    {
+        "instruction": "Hak di rumah",
+        "input": "Mendapatkan bimbingan saat belajar di rumah.",
+        "output": "Soal:\nHal ini adalah hak anak yang harus dipenuhi oleh....\n\nA. Guru\nB. Orang tua\nC. Teman\nD. Tetangga\n\nKunci Jawaban: B\n\nPembahasan:\nOrang tua memenuhi hak anak."
+    },
+    {
+        "instruction": "Kewajiban di masyarakat (Siskamling).",
+        "input": "Pak Ali mendapat jadwal ronda malam untuk menjaga keamanan kampung.",
+        "output": "Soal:\nJika Pak Ali berhalangan hadir, yang sebaiknya ia lakukan adalah....\n\nA. Diam saja\nB. Meminta izin dan mencari pengganti atau membayar denda sesuai kesepakatan\nC. Pura-pura lupa\nD. Marah-marah\n\nKunci Jawaban: B\n\nPembahasan:\nTanggung jawab perondaan."
+    },
+    {
+        "instruction": "Tanggung jawab (Banjir).",
+        "input": "Banjir sering terjadi akibat saluran air tersumbat sampah.",
+        "output": "Soal:\nSiapakah yang paling bertanggung jawab menjaga kebersihan saluran air di lingkungan perumahan?\n\nA. Pemerintah saja\nB. Pemulung\nC. Seluruh warga perumahan tersebut\nD. Satpam\n\nKunci Jawaban: C\n\nPembahasan:\nTanggung jawab warga."
+    },
+    {
+        "instruction": "Hak (Bermain).",
+        "input": "Setelah puas bermain, Doni membiarkan mainannya berserakan di lantai.",
+        "output": "Soal:\nSikap Doni menunjukkan bahwa ia....\n\nA. Sudah melaksanakan kewajibannya\nB. Mengambil haknya tetapi melalaikan kewajibannya merapikan mainan\nC. Anak yang rajin\nD. Kreatif\n\nKunci Jawaban: B\n\nPembahasan:\nHak vs Kewajiban."
+    },
+    {
+        "instruction": "Kewajiban (Menolong).",
+        "input": "Kita wajib menolong tetangga yang sedang kesusahan atau tertimpa musibah.",
+        "output": "Soal:\nManfaat dari melaksanakan kewajiban tersebut adalah....\n\nA. Tercipta kerukunan dan persaudaraan yang erat\nB. Mendapat imbalan uang\nC. Menjadi terkenal\nD. Tetangga menjadi manja\n\nKunci Jawaban: A\n\nPembahasan:\nManfaat tolong menolong."
+    },
+    {
+        "instruction": "Hak (Informasi).",
+        "input": "Masyarakat berhak mendapatkan informasi yang benar, jujur, dan tidak menyesatkan.",
+        "output": "Soal:\nOleh karena itu, media massa dilarang menyebarkan berita....\n\nA. Fakta\nB. Olahraga\nC. Hoaks (bohong)\nD. Cuaca\n\nKunci Jawaban: C\n\nPembahasan:\nAnti Hoaks."
+    },
+    {
+        "instruction": "Tanggung jawab (Janji).",
+        "input": "Orang yang bertanggung jawab adalah orang yang selalu menepati janji yang diucapkannya.",
+        "output": "Soal:\nSebaliknya, orang yang sering ingkar janji disebut....\n\nA. Jujur\nB. Amanah\nC. Munafik / Tidak bisa dipercaya\nD. Setia\n\nKunci Jawaban: C\n\nPembahasan:\nIngkar janji."
+    },
+    {
+        "instruction": "Kewajiban (Seragam).",
+        "input": "Aturan sekolah mewajibkan siswa memakai sepatu hitam dan kaos kaki putih.",
+        "output": "Soal:\nJika Budi memakai sepatu merah ke sekolah, berarti Budi....\n\nA. Melanggar tata tertib sekolah\nB. Anak yang gaul\nC. Melaksanakan haknya\nD. Patuh pada aturan\n\nKunci Jawaban: A\n\nPembahasan:\nTata tertib."
+    },
+    {
+        "instruction": "Hak (Istirahat).",
+        "input": "Tubuh kita punya hak untuk beristirahat setelah seharian beraktivitas.",
+        "output": "Soal:\nApa yang terjadi jika kita memaksakan tubuh bekerja tanpa henti?\n\nA. Kita akan menjadi super kuat\nB. Tubuh menjadi sakit dan kelelahan\nC. Kita bisa terbang\nD. Pekerjaan cepat selesai tanpa efek samping\n\nKunci Jawaban: B\n\nPembahasan:\nKesehatan tubuh."
+    },
+    {
+        "instruction": "Tanggung jawab (Kesalahan).",
+        "input": "Andi tidak sengaja memecahkan vas bunga kesayangan Ibu.",
+        "output": "Soal:\nBentuk tanggung jawab Andi adalah....\n\nA. Menyembunyikan pecahan vas\nB. Menyalahkan adiknya\nC. Mengaku salah, meminta maaf, dan berjanji lebih hati-hati\nD. Lari dari rumah\n\nKunci Jawaban: C\n\nPembahasan:\nMengakui kesalahan."
+    },
+    {
+        "instruction": "Kewajiban (Tamu).",
+        "input": "Tamu yang menginap di lingkungan RT lebih dari 24 jam wajib lapor kepada Ketua RT.",
+        "output": "Soal:\nAturan ini bertujuan untuk....\n\nA. Membatasi kebebasan warga\nB. Menjaga keamanan dan ketertiban lingkungan\nC. Mencari sumbangan\nD. Kepo urusan warga\n\nKunci Jawaban: B\n\nPembahasan:\nKeamanan lingkungan."
+    },
+    {
+        "instruction": "Hak (Perlindungan).",
+        "input": "Anak-anak korban perang berhak mendapatkan perlindungan khusus.",
+        "output": "Soal:\nSiapakah yang berkewajiban memberikan perlindungan tersebut?\n\nA. Negara dan lembaga internasional\nB. Anak itu sendiri\nC. Musuh\nD. Pedagang senjata\n\nKunci Jawaban: A\n\nPembahasan:\nPerlindungan anak."
+    },
+    {
+        "instruction": "Tanggung jawab (Hewan Peliharaan).",
+        "input": "Memelihara hewan peliharaan (seperti kucing/anjing) tidak hanya sekadar memberi makan.",
+        "output": "Soal:\nKita juga bertanggung jawab untuk....\n\nA. Membersihkan kotorannya agar tidak mengganggu tetangga\nB. Membiarkannya berkeliaran sembarangan\nC. Menyakitinya\nD. Menjualnya saa mahal\n\nKunci Jawaban: A\n\nPembahasan:\nHewan peliharaan."
+    },
+    {
+        "instruction": "Hak (Air Bersih).",
+        "input": "Setiap warga berhak mendapatkan akses air bersih.",
+        "output": "Soal:\nNamun sekarang air bersih semakin langka. Apa yang harus kita lakukan?\n\nA. Menggunakan air sesuka hati\nB. Menghemat air dan tidak mencemari sumber air\nC. Membeli air impor\nD. Mandi 5 kali sehari\n\nKunci Jawaban: B\n\nPembahasan:\nHemat air."
+    },
+    {
+        "instruction": "Kewajiban (Lagu Kebangsaan).",
+        "input": "Saat lagu Indonesia Raya diperdengarkan, sikap kita wajib....",
+        "output": "Soal:\nSikap sempurna yang benar adalah....\n\nA. Duduk santai\nB. Berdiri tegak dengan sikap hormat\nC. Berjalan-jalan\nD. Mengobrol\n\nKunci Jawaban: B\n\nPembahasan:\nLagu kebangsaan."
+    },
+    {
+        "instruction": "Hak (Kesehatan).",
+        "input": "Pemerintah menyediakan Puskesmas dan Rumah Sakit Umum (RSUD).",
+        "output": "Soal:\nFasilitas ini bentuk pemenuhan hak warga negara di bidang....\n\nA. Kesehatan\nB. Pendidikan\nC. Transportasi\nD. Komunikasi\n\nKunci Jawaban: A\n\nPembahasan:\nFasilitas kesehatan."
+    },
+    {
+        "instruction": "Tanggung jawab (Polusi Suara).",
+        "input": "Mendengarkan musik dengan volume sangat keras di malam hari dapat mengganggu tetangga.",
+        "output": "Soal:\nSikap yang bertanggung jawab adalah....\n\nA. Mengecilkan volume suara agar tidak bising\nB. Membuka jendela lebar-lebar\nC. Mengajak tetangga joget paksa\nD. Masa bodoh\n\nKunci Jawaban: A\n\nPembahasan:\nTenggang rasa."
+    },
+    {
+        "instruction": "Sanksi",
+        "input": "Orang yang melanggar hukum pidana (mencuri, membunuh) akan mendapatkan sanksi tegas.",
+        "output": "Soal:\nSanksi bagi pelanggar hukum pidana dapat berupa....\n\nA. Denda dan Pujian\nB. Penjara atau kurungan\nC. Hadiah\nD. Sanksi moral (dikucilkan)\n\nKunci Jawaban: B\n\nPembahasan:\nSanksi pdana."
+    },
+    {
+        "instruction": "Hak & Kewajiban (Seimbang).",
+        "input": "Mengapa hak dan kewajiban harus dilaksanakan secara seimbang?",
+        "output": "Soal:\nAgar....\n\nA. Tercipta kehidupan yang harmonis, aman, dan damai\nB. Terjadi kerusuhan\nC. Yang kuat menindas yang lemah\nD. Terjadi kesenjangan sosial\n\nKunci Jawaban: A\n\nPembahasan:\nHarmoni sosial."
+    },
+    {
+        "instruction": "Hak (Penyandang Disabilitas).",
+        "input": "Penyandang disabilitas berhak mendapatkan fasilitas umum yang ramah/aksesibel.",
+        "output": "Soal:\nContoh fasilitas untuk disabilitas adalah....\n\nA. Tangga yang curam\nB. Jalur khusus kursi roda (bidang miring) dan guiding block\nC. Pintu yang sempit\nD. Tulisan yang sangat kecil\n\nKunci Jawaban: B\n\nPembahasan:\nAksesibilitas."
+    },
+    {
+        "instruction": "Tanggung jawab (Kebakaran Hutan).",
+        "input": "Kebakaran hutan sering disebabkan oleh ulah manusia yang tidak bertanggung jawab.",
+        "output": "Soal:\nDampak asap kebakaran hutan bagi kesehatan masyarakat adalah....\n\nA. Menyebarkan virus flu\nB. Menyebabkan ISPA (Infeksi Saluran Pernapasan Akut)\nC. Membuat kulit putih\nD. Menyehatkan paru-paru\n\nKunci Jawaban: B\n\nPembahasan:\nISPA."
+    },
+    {
+        "instruction": "Hak (Privasi).",
+        "input": "Membuka surat atau HP orang lain tanpa izin adalah pelanggaran terhadap....",
+        "output": "Soal:\nHak....\n\nA. Privasi (Kerahasiaan Pribadi)\nB. Milik Umum\nC. Bersuara\nD. Berkumpul\n\nKunci Jawaban: A\n\nPembahasan:\nPrivasi."
+    },
+    {
+        "instruction": "Kewajiban (Antikorupsi).",
+        "input": "Pendidikan antikorupsi mengajarkan kita untuk selalu bersikap jujur.",
+        "output": "Soal:\nContoh korupsi waktu bagi seorang siswa adalah....\n\nA. Mengambil uang kas kelas\nB. Datang terlambat ke sekolah dan membolos saat jam pelajaran\nC. Menyalin PR teman\nD. Membuang sampah sembarangan\n\nKunci Jawaban: B\n\nPembahasan:\nKorupsi waktu."
+    },
+    {
+        "instruction": "Tanggung jawab (Pemimpin).",
+        "input": "Seorang pemimpin (Presiden/Gubernur/Bupati) disumpah untuk menjalankan jabatannya.",
+        "output": "Soal:\nPemimpin bertanggung jawab kepada....\n\nA. Diri sendiri saja\nB. Rakyat dan Tuhan Yang Maha Esa\nC. Partai politiknya saja\nD. Keluarganya\n\nKunci Jawaban: B\n\nPembahasan:\nTanggung jawab pemimpin."
+    },
+    {
+        "instruction": "Hak (Upah).",
+        "input": "Pekerja yang telah menyelesaikan tugasnya berhak mendapatkan....",
+        "output": "Soal:\nA. Hukuman\nB. Upah atau Gaji\nC. Surat Peringatan\nD. Tugas tambahan tanpa bayaran\n\nKunci Jawaban: B\n\nPembahasan:\nUpah pekerja."
+    },
+    {
+        "instruction": "Kewajiban (Adat Istiadat).",
+        "input": "Di mana bumi dipijak, di situ langit dijunjung.",
+        "output": "Soal:\nPeribahasa ini mengajarkan kita kewajiban untuk....\n\nA. Menghormati adat istiadat setempat\nB. Menginjak bumi dengan keras\nC. Melihat langit terus\nD. Mengubah aturan desa lain\n\nKunci Jawaban: A\n\nPembahasan:\nAdat istiadat."
+    },
+    {
+        "instruction": "Tanggung jawab (Digital).",
+        "input": "Di media sosial, kita bebas berkomentar.",
+        "output": "Soal:\nNamun, kita juga bertanggung jawab untuk tidak melakukan....\n\nA. Pujian\nB. Sapaan\nC. Cyberbullying (perundungan dunia maya) dan ujaran kebencian\nD. Berbagi ilmu\n\nKunci Jawaban: C\n\nPembahasan:\nCyberbullying."
+    },
+    {
+        "instruction": "Hak (Siswa Berprestasi).",
+        "input": "Siswa yang berprestasi seringkali mendapatkan beasiswa.",
+        "output": "Soal:\nHal ini merupakan bentuk....\n\nA. Penghargaan (Reward)\nB. Hukuman (Punishment)\nC. Kewajiban\nD. Keberuntungan\n\nKunci Jawaban: A\n\nPembahasan:\nReward."
+    },
+    {
+        "instruction": "Kewajiban (Lingkungan Sekolah).",
+        "input": "Kebersihan toilet sekolah adalah tanggung jawab....",
+        "output": "Soal:\nA. Penjaga sekolah saja\nB. Kepala sekolah saja\nC. Seluruh warga sekolah (termasuk siswa) untuk menjaganya\nD. Orang tua murid\n\nKunci Jawaban: C\n\nPembahasan:\nKebersihan toilet."
+    },
+    {
+        "instruction": "Hak (Anak Yatim).",
+        "input": "Anak yatim piatu dan anak terlantar dipelihara oleh negara.",
+        "output": "Soal:\nBunyi pasal tersebut terdapat dalam UUD 1945 Pasal....\n\nA. 34 ayat 1\nB. 33 ayat 1\nC. 31 ayat 1\nD. 28\n\nKunci Jawaban: A\n\nPembahasan:\nPasal 34."
+    },
+    {
+        "instruction": "Tanggung jawab (Demokrasi).",
+        "input": "Dalam Pemilu, warga negara yang sudah berusia 17 tahun memiliki hak pilih.",
+        "output": "Soal:\nTanggung jawab kita dalam Pemilu adalah....\n\nA. Tidak memilih (Golput) karena malas\nB. Menggunakan hak pilih dengan cerdas dan tidak menerima suap (politik uang)\nC. Membuat kerusuhan\nD. Memilih sembarangan\n\nKunci Jawaban: B\n\nPembahasan:\nDemokrasi bersih."
+    },
+    {
+        "instruction": "Kewajiban (Hemat Air).",
+        "input": "Musim kemarau panjang menyebabkan kekeringan.",
+        "output": "Soal:\nKewajiban kita saat menggunakan air PDAM/sumur adalah....\n\nA. Menutup keran rapat-rapat setelah digunakan\nB. Main air\nC. Menyiram jalanan berdebu terus menerus\nD. Mencuci motor setiap jam\n\nKunci Jawaban: A\n\nPembahasan:\nHemat air."
+    },
+    {
+        "instruction": "Hak (Kemerdekaan).",
+        "input": "Bahwa sesungguhnya kemerdekaan itu ialah hak segala bangsa.",
+        "output": "Soal:\nOleh sebab itu, maka penjajahan di atas dunia harus....\n\nA. Dilestarikan\nB. Dihapuskan\nC. Didukung\nD. Dibiarkan\n\nKunci Jawaban: B\n\nPembahasan:\nHapus penjajahan."
+    },
+    {
+        "instruction": "Tanggung jawab (Saling Menghormati).",
+        "input": "Anto berasal dari keluarga kaya, sedangkan Budi dari keluarga sederhana.",
+        "output": "Soal:\nSikap Anto yang bertanggung jawab dalam pertemanan adalah....\n\nA. Memamerkan HP barunya pada Budi\nB. Tidak sombong dan bermain setara dengan Budi\nC. Menyuruh Budi membawakan tasnya\nD. Menjauhi Budi\n\nKunci Jawaban: B\n\nPembahasan:\nKesetaraan."
+    },
+    {
+        "instruction": "Hak (Cuti).",
+        "input": "Karyawan berhak mendapatkan cuti tahunan untuk beristirahat.",
+        "output": "Soal:\nHak ini diberikan agar....\n\nA. Karyawan malas bekerja\nB. Karyawan tetap produktif dan sehat mental\nC. Perusahaan rugi\nD. Gaji dipotong\n\nKunci Jawaban: B\n\nPembahasan:\nProduktivitas & kesehatan."
+    },
+    {
+        "instruction": "Tanggung jawab (Barang Temuan).",
+        "input": "Andi menemukan dompet berisi uang dan KTP di jalan.",
+        "output": "Soal:\nSikap tanggung jawab Andi adalah....\n\nA. Mengambil uangnya dan membuang dompetnya\nB. Mengembalikan kepada pemilik sesuai alamat KTP atau lapor polisi\nC. Pura-pura tidak lihat\nD. Membelanjakan uangnya\n\nKunci Jawaban: B\n\nPembahasan:\nBarang temuan."
+    },
+    {
+        "instruction": "Hak (Kenyamanan Belajar).",
+        "input": "Suasana kelas yang ribut membuat siswa tidak bisa belajar dengan tenang.",
+        "output": "Soal:\nUntuk memenuhi hak siswa akan kenyamanan belajar, maka....\n\nA. Guru harus diam\nB. Siswa wajib menjaga ketertiban kelas\nC. Sekolah diliburkan\nD. Siswa boleh pulang\n\nKunci Jawaban: B\n\nPembahasan:\nKetertiban kelas."
+    },
+    {
+        "instruction": "Kewajiban (Etika Bicara).",
+        "input": "Saat berbicara dengan orang lain, kita wajib menatap mata lawan bicara.",
+        "output": "Soal:\nHal ini menunjukkan sikap....\n\nA. Menantang\nB. Menghargai dan memperhatikan\nC. Marah\nD. Curiga\n\nKunci Jawaban: B\n\nPembahasan:\nEtika bicara."
+    },
+    {
+        "instruction": "Makna Bhinneka Tunggal Ika.",
+        "input": "Semboyan Bhinneka Tunggal Ika tertulis pada pita yang dicengkeram oleh Burung Garuda.",
+        "output": "Soal:\nArti dari Bhinneka Tunggal Ika adalah....\n\nA. Berbeda-beda tetapi tetap satu jua\nB. Maju tak gentar\nC. Bersatu kita teguh bercerai kita runtuh\nD. Satu nusa satu bangsa\n\nKunci Jawaban: A\n\nPembahasan:\nBhinneka = Berbeda-beda, Tunggal = Satu, Ika = Itu/Jua."
+    },
+    {
+        "instruction": "Sejarah Bhinneka Tunggal Ika.",
+        "input": "Semboyan Bhinneka Tunggal Ika diambil dari kitab Sutasoma.",
+        "output": "Soal:\nKitab Sutasoma adalah karangan pujangga kerajaan Majapahit, yaitu....\n\nA. Empu Prapanca\nB. Empu Tantular\nC. Empu Gandring\nD. Gajah Mada\n\nKunci Jawaban: B\n\nPembahasan:\nKitab Sutasoma karya Empu Tantular."
+    },
+    {
+        "instruction": "Keberagaman Suku Bangsa.",
+        "input": "Indonesia memiliki ribuan suku bangsa yang tersebar dari Sabang sampai Merauke.",
+        "output": "Soal:\nSuku Asmat dan Dani berasal dari pulau....\n\nA. Kalimantan\nB. Sulawesi\nC. Papua\nD. Sumatera\n\nKunci Jawaban: C\n\nPembahasan:\nAsmat dan Dani adalah suku asli Papua."
+    },
+    {
+        "instruction": "Keberagaman Agama (Tempat Ibadah).",
+        "input": "Umat Hindu melaksanakan ibadah di Pura.",
+        "output": "Soal:\nSedangkan tempat ibadah umat Buddha adalah....\n\nA. Masjid\nB. Gereja\nC. Vihara\nD. Klenteng\n\nKunci Jawaban: C\n\nPembahasan:\nBuddha = Vihara, Konghucu = Klenteng."
+    },
+    {
+        "instruction": "Toleransi Antar Suku.",
+        "input": "Made berasal dari Bali dan beragama Hindu. Ia bertetangga dengan Asep yang bersuku Sunda dan beragama Islam.",
+        "output": "Soal:\nSikap yang harus mereka tunjukkan adalah....\n\nA. Saling mengejek\nB. Tidak mau bertegur sapa\nC. Saling menghormati dan hidup rukun\nD. Pindah rumah\n\nKunci Jawaban: C\n\nPembahasan:\nKerukunan dalam keberagaman."
+    },
+    {
+        "instruction": "Keberagaman Budaya (Rumah Adat).",
+        "input": "Rumah Gadang dengan atap berbentuk tanduk kerbau (gonjong) adalah rumah adat dari provinsi....",
+        "output": "Soal:\nA. Sumatera Utara\nB. Sumatera Barat\nC. Jawa Barat\nD. Sulawesi Selatan\n\nKunci Jawaban: B\n\nPembahasan:\nRumah Gadang = Sumatera Barat (Minangkabau)."
+    },
+    {
+        "instruction": "Keberagaman Budaya (Tarian).",
+        "input": "Tari Kecak yang sangat terkenal dan dimainkan oleh banyak laki-laki berasal dari daerah....",
+        "output": "Soal:\nA. Jawa Tengah\nB. Yogyakarta\nC. Bali\nD. Aceh\n\nKunci Jawaban: C\n\nPembahasan:\nTari Kecak = Bali."
+    },
+    {
+        "instruction": "Keberagaman Budaya (Alat Musik).",
+        "input": "Angklung adalah alat musik tradisional yang terbuat dari bambu.",
+        "output": "Soal:\nCara memainkan angklung adalah dengan....\n\nA. Dipukul\nB. Ditiup\nC. Digoyangkan\nD. Dipetik\n\nKunci Jawaban: C\n\nPembahasan:\nAngklung dimainkan dengan cara digoyangkan."
+    },
+    {
+        "instruction": "Manfaat Keberagaman.",
+        "input": "Keberagaman budaya yang dimiliki Indonesia menjadi daya tarik bagi wisatawan mancanegara.",
+        "output": "Soal:\nHal ini memberikan manfaat di bidang....\n\nA. Pendidikan\nB. Pariwisata dan Ekonomi\nC. Pertahanan\nD. Kesehatan\n\nKunci Jawaban: B\n\nPembahasan:\nBudaya menarik turis = devisa (ekonomi/pariwisata)."
+    },
+    {
+        "instruction": "Sikap terhadap Keberagaman Ras.",
+        "input": "Teman sekelasmu memiliki warna kulit dan jenis rambut yang berbeda denganmu (keriting vs lurus).",
+        "output": "Soal:\nSikap kamu sebaiknya....\n\nA. Menjauhinya\nB. Mengejek fisiknya\nC. Tetap berteman baik tanpa membedakan fisik\nD. Menyuruhnya pindah sekolah\n\nKunci Jawaban: C\n\nPembahasan:\nAnti rasisme (menghargai perbedaan fisik/ras)."
+    },
+    {
+        "instruction": "Kerjasama dalam Keberagaman (Festival).",
+        "input": "Sekolah mengadakan festival budaya di mana setiap siswa memakai pakaian adat masing-masing.",
+        "output": "Soal:\nTujuan kegiatan ini adalah....\n\nA. Pamer baju mahal\nB. Memperkenalkan dan melestarikan keberagaman budaya bangsa\nC. Lomba kecantikan\nD. Membuang waktu\n\nKunci Jawaban: B\n\nPembahasan:\nFestival budaya untuk pelestarian & edukasi."
+    },
+    {
+        "instruction": "Musyawarah (Cara Mengambil Keputusan).",
+        "input": "Cara terbaik untuk menyelesaikan masalah bersama adalah dengan....",
+        "output": "Soal:\nA. Perkelahian\nB. Musyawarah mufakat\nC. Voting langsung tanpa diskusi\nD. Undian\n\nKunci Jawaban: B\n\nPembahasan:\nMusyawarah mufakat adalah cara utama demokrasi Pancasila."
+    },
+    {
+        "instruction": "Musyawarah (Sikap Peserta).",
+        "input": "Dalam musyawarah, setiap peserta memiliki hak yang sama untuk....",
+        "output": "Soal:\nA. Memaksakan kehendak\nB. Menyampaikan pendapat\nC. Minta pulang\nD. Tidur\n\nKunci Jawaban: B\n\nPembahasan:\nHak berpendapat setara."
+    },
+    {
+        "instruction": "Musyawarah (Mufakat).",
+        "input": "Mufakat artinya....",
+        "output": "Soal:\nA. Keputusan yang disetujui oleh semua pihak\nB. Keputusan ketua saja\nC. Keputusan kelompok mayoritas\nD. Tidak ada keputusan\n\nKunci Jawaban: A\n\nPembahasan:\nMufakat = kesepakatan bulat."
+    },
+    {
+        "instruction": "Musyawarah (Voting).",
+        "input": "Jika musyawarah tidak mencapai mufakat, maka keputusan diambil melalui....",
+        "output": "Soal:\nA. Perang\nB. Suara terbanyak (Voting)\nC. Menyerah\nD. Lempar koin\n\nKunci Jawaban: B\n\nPembahasan:\nDeadlock musyawarah diselesaikan dengan voting."
+    },
+    {
+        "instruction": "Keberagaman Agama (Hari Raya).",
+        "input": "Umat Kristen dan Katolik merayakan Natal setiap tanggal 25 Desember.",
+        "output": "Soal:\nHari raya umat Islam adalah....\n\nA. Nyepi\nB. Waisak\nC. Idul Fitri dan Idul Adha\nD. Imlek\n\nKunci Jawaban: C\n\nPembahasan:\nIdul Fitri/Adha = Islam."
+    },
+    {
+        "instruction": "Keberagaman (Sikap Etnosentrisme).",
+        "input": "Menganggap suku bangsanya sendiri paling hebat dan merendahkan suku bangsa lain disebut....",
+        "output": "Soal:\nA. Patriotisme\nB. Etnosentrisme / Sukuisme\nC. Nasionalisme\nD. Heroisme\n\nKunci Jawaban: B\n\nPembahasan:\nSukuisme/Etnosentrisme adalah sikap negatif."
+    },
+    {
+        "instruction": "Kerjasama (Lingkungan).",
+        "input": "Contoh kerjasama di lingkungan masyarakat adalah....",
+        "output": "Soal:\nA. Mengerjakan PR teman\nB. Kerja bakti membersihkan selokan\nC. Menyontek saat ujian\nD. Bertengkar dengan tetangga\n\nKunci Jawaban: B\n\nPembahasan:\nKerja bakti = kerjasama positif."
+    },
+    {
+        "instruction": "Keberagaman Budaya (Senjata).",
+        "input": "Rencong adalah senjata tradisional dari Aceh.",
+        "output": "Soal:\nSenjata tradisional dari Jawa Barat adalah....\n\nA. Keris\nB. Kujang\nC. Mandau\nD. Badik\n\nKunci Jawaban: B\n\nPembahasan:\nKujang = Jabar, Keris = Jawa, Mandau = Kalimantan, Badik = Sulawesi."
+    },
+    {
+        "instruction": "Keberagaman Budaya (Makanan).",
+        "input": "Rendang adalah makanan khas dari Sumatera Barat yang sangat lezat.",
+        "output": "Soal:\nGudeg adalah makanan khas dari....\n\nA. Jakarta\nB. Yogyakarta\nC. Surabaya\nD. Medan\n\nKunci Jawaban: B\n\nPembahasan:\nGudeg = Jogja."
+    },
+    {
+        "instruction": "Toleransi (Sekolah).",
+        "input": "Di sekolah terdapat siswa dari berbagai latar belakang.",
+        "output": "Soal:\nAgar tercipta suasana belajar yang nyaman, kita harus....\n\nA. Membentuk geng berdasarkan suku\nB. Berteman dengan siapa saja tanpa membedakan\nC. Mengganggu teman yang pendiam\nD. Merasa paling pintar\n\nKunci Jawaban: B\n\nPembahasan:\nPergaulan inklusif di sekolah."
+    },
+    {
+        "instruction": "Musyawarah (Keluarga).",
+        "input": "Masalah pembagian tugas kebersihan rumah sebaiknya diselesaikan dengan....",
+        "output": "Soal:\nA. Perintah ayah saja\nB. Musyawarah keluarga\nC. Dibiarkan saja\nD. Undian\n\nKunci Jawaban: B\n\nPembahasan:\nMusyawarah keluarga."
+    },
+    {
+        "instruction": "Keberagaman (Gender).",
+        "input": "Laki-laki dan perempuan memiliki derajat yang sama sebagai makhluk Tuhan.",
+        "output": "Soal:\nOleh karena itu, kita harus....\n\nA. Saling menghormati dan bekerjasama\nB. Laki-laki selalu memimpin\nC. Perempuan harus mengalah\nD. Bermusuhan\n\nKunci Jawaban: A\n\nPembahasan:\nKesetaraan gender."
+    },
+    {
+        "instruction": "Keberagaman (Ras).",
+        "input": "Ras Malayan Mongoloid adalah nenek moyang sebagian besar bangsa Indonesia.",
+        "output": "Soal:\nCiri fisik ras ini adalah....\n\nA. Kulit hitam, rambut keriting\nB. Kulit sawo matang, rambut lurus/ikal\nC. Kulit putih, mata biru\nD. Rambut pirang\n\nKunci Jawaban: B\n\nPembahasan:\nMalayan Mongoloid = Sawo matang."
+    },
+    {
+        "instruction": "Toleransi (Hari Libur).",
+        "input": "Pemerintah menetapkan hari raya keagamaan sebagai hari libur nasional.",
+        "output": "Soal:\nTujuannya adalah....\n\nA. Agar siswa bisa bolos\nB. Memberikan kesempatan umat beragama merayakan hari rayanya\nC. Mengurangi jam kerja\nD. Menambah kemacetan\n\nKunci Jawaban: B\n\nPembahasan:\nFasilitas negara untuk ibadah (libur nasional)."
+    },
+    {
+        "instruction": "Kerjasama (Ekonomi).",
+        "input": "Koperasi adalah badan usaha yang berasaskan....",
+        "output": "Soal:\nA. Kekeluargaan\nB. Persaingan\nC. Keuntungan semata\nD. Modal besar\n\nKunci Jawaban: A\n\nPembahasan:\nAsas Koperasi = Kekeluargaan."
+    },
+    {
+        "instruction": "Keberagaman (Bahasa Daerah).",
+        "input": "Bahasa Sunda digunakan oleh masyarakat Jawa Barat.",
+        "output": "Soal:\nBahasa Jawa digunakan oleh masyarakat di provinsi....\n\nA. Sumatera Selatan\nB. Jawa Tengah dan Jawa Timur\nC. Kalimantan Barat\nD. Bali\n\nKunci Jawaban: B\n\nPembahasan:\nBahasa Jawa = Jateng/Jatim."
+    },
+    {
+        "instruction": "Musyawarah (Ketua Kelas).",
+        "input": "Pemilihan ketua kelas merupakan contoh penerapan demokrasi di lingkungan....",
+        "output": "Soal:\nA. Keluarga\nB. Sekolah\nC. Masyarakat\nD. Negara\n\nKunci Jawaban: B\n\nPembahasan:\nLingkungan sekolah."
+    },
+    {
+        "instruction": "Sikap (Fanatisme).",
+        "input": "Fanatisme berlebihan terhadap agama atau kelompok sendiri dapat menyebabkan....",
+        "output": "Soal:\nA. Persatuan\nB. Perpecahan dan konflik\nC. Kemajuan\nD. Perdamaian\n\nKunci Jawaban: B\n\nPembahasan:\nFanatisme sempit memicu konflik."
+    },
+    {
+        "instruction": "Keberagaman (Pakaian Adat).",
+        "input": "Baju Bodo adalah pakaian adat dari daerah....",
+        "output": "Soal:\nA. Sulawesi Selatan\nB. Jawa Tengah (Kebaya)\nC. Sumatera Barat (Bundo Kanduang)\nD. Papua (Koteka)\n\nKunci Jawaban: A\n\nPembahasan:\nBaju Bodo = Makassar/Bugis (Sulsel)."
+    },
+    {
+        "instruction": "Kerjasama (Tim Olahraga).",
+        "input": "Dalam permainan sepak bola, kemenangan hanya bisa diraih jika ....",
+        "output": "Soal:\nA. Pemain bermain sendiri-sendiri\nB. Terjalin kerjasama tim yang baik\nC. Curang\nD. Wasit memihak\n\nKunci Jawaban: B\n\nPembahasan:\nKerjasama tim."
+    },
+    {
+        "instruction": "Toleransi (Tetangga).",
+        "input": "Tetangga baru kita berasal dari daerah lain dan logat bicaranya berbeda.",
+        "output": "Soal:\nSikap kita....\n\nA. Menertawakannya\nB. Menyapanya dengan ramah dan berkenalan\nC. Menggunjingnya\nD. Tidak peduli\n\nKunci Jawaban: B\n\nPembahasan:\nToleransi terhadap perbedaan budaya/logat."
+    },
+    {
+        "instruction": "Keberagaman (Upacara Adat).",
+        "input": "Upacara Ngaben (pembakaran jenazah) merupakan tradisi umat Hindu di....",
+        "output": "Soal:\nA. Jakarta\nB. Bali\nC. Kalimantan\nD. Papua\n\nKunci Jawaban: B\n\nPembahasan:\nNgaben = Bali."
+    },
+    {
+        "instruction": "Filosofi (Sapu Lidi).",
+        "input": "Sapu lidi tidak akan kuat jika hanya satu batang, tetapi akan sangat kuat jika diikat menjadi satu.",
+        "output": "Soal:\nFilosofi ini menggambarkan pentingnya....\n\nA. Kebersihan\nB. Persatuan dan Kesatuan\nC. Tanaman kelapa\nD. Kerajinan tangan\n\nKunci Jawaban: B\n\nPembahasan:\nFilosofi sapu lidi = Persatuan."
+    },
+    {
+        "instruction": "Toleransi (Ibadah).",
+        "input": "Saat temanmu sedang berpuasa, kamu sebaiknya....",
+        "output": "Soal:\nA. Makan dan minum di depannya dengan sengaja\nB. Tidak makan dan minum di depannya sebagai rasa hormat\nC. Memaksanya membatalkan puasa\nD. Mengejeknya\n\nKunci Jawaban: B\n\nPembahasan:\nMenghormati orang berpuasa."
+    },
+    {
+        "instruction": "Keberagaman (Mata Pencaharian).",
+        "input": "Masyarakat pesisir pantai sebagian besar bekerja sebagai....",
+        "output": "Soal:\nA. Petani\nB. Nelayan\nC. Karyawan pabrik\nD. Guru\n\nKunci Jawaban: B\n\nPembahasan:\nGeografis mempengaruhi mata pencaharian."
+    },
+    {
+        "instruction": "Musyawarah (Keputusan).",
+        "input": "Jika hasil keputusan musyawarah ternyata kurang memuaskan bagi kita, sikap kita adalah....",
+        "output": "Soal:\nA. Menolaknya\nB. Melaksanakannya dengan setengah hati\nC. Tetap melaksanakannya dengan tanggung jawab\nD. Keluar dari anggota\n\nKunci Jawaban: C\n\nPembahasan:\nTanggung jawab atas keputusan bersama."
+    },
+    {
+        "instruction": "Keberagaman (Alat Musik).",
+        "input": "Sasando adalah alat musik petik yang berasal dari....",
+        "output": "Soal:\nA. Jawa Barat\nB. Nusa Tenggara Timur (NTT)\nC. Maluku\nD. Sumatera Utara\n\nKunci Jawaban: B\n\nPembahasan:\nSasando = Rote, NTT."
+    },
+    {
+        "instruction": "Kerjasama (Lingkungan Sekolah).",
+        "input": "Jadwal piket kelas dibuat agar....",
+        "output": "Soal:\nA. Kelas menjadi kotor\nB. Pekerjaan membersihkan kelas menjadi ringan karena dikerjakan bersama\nC. Siswa bisa membolos\nD. Guru senang\n\nKunci Jawaban: B\n\nPembahasan:\nBerat sama dipikul, ringan sama dijinjing."
+    },
+    {
+        "instruction": "Sikap (Individualis).",
+        "input": "Sikap yang hanya mementingkan diri sendiri dan tidak peduli orang lain disebut....",
+        "output": "Soal:\nA. Sosialis\nB. Individualis\nC. Nasionalis\nD. Patriotis\n\nKunci Jawaban: B\n\nPembahasan:\nIndividualisme bertentangan dengan Pancasila."
+    },
+    {
+        "instruction": "Keberagaman (Lagu Daerah).",
+        "input": "Lagu 'Ampar-Ampar Pisang' berasal dari....",
+        "output": "Soal:\nA. Kalimantan Selatan\nB. Sulawesi Utara\nC. Jawa Tengah\nD. Papua\n\nKunci Jawaban: A\n\nPembahasan:\nAmpar-Ampar Pisang = Kalsel."
+    },
+    {
+        "instruction": "Musyawarah (Voting).",
+        "input": "Voting dilakukan apabila....",
+        "output": "Soal:\nA. Musyawarah mufakat tidak tercapai\nB. Ketua rapat sedang marah\nC. Peserta rapat sedikit\nD. Masalahnya sepele\n\nKunci Jawaban: A\n\nPembahasan:\nVoting = jalan terakhir."
+    },
+    {
+        "instruction": "Keberagaman (Suku).",
+        "input": "Suku Tengger tinggal di sekitar Gunung....",
+        "output": "Soal:\nA. Merapi\nB. Bromo\nC. Rinjani\nD. Semeru\n\nKunci Jawaban: B\n\nPembahasan:\nTengger = Bromo (Jatim)."
+    },
+    {
+        "instruction": "Toleransi (Pendapat).",
+        "input": "Menghargai pendapat orang lain merupakan ciri sikap....",
+        "output": "Soal:\nA. Egois\nB. Demokratis\nC. Otoriter\nD. Anarkis\n\nKunci Jawaban: B\n\nPembahasan:\nDemokratis."
+    },
+    {
+        "instruction": "Keberagaman (Manfaat).",
+        "input": "Salah satu cara melestarikan budaya daerah adalah....",
+        "output": "Soal:\nA. Mempelajari dan mementaskannya\nB. Menganggapnya kuno\nC. Malu mengakuinya\nD. Menggantinya dengan budaya asing\n\nKunci Jawaban: A\n\nPembahasan:\nPelestarian budaya."
+    },
+    {
+        "instruction": "Kerjasama (Internasional).",
+        "input": "Indonesia aktif dalam organisasi ASEAN untuk menjalin kerjasama dengan negara-negara di kawasan....",
+        "output": "Soal:\nA. Asia Tenggara\nB. Asia Timur\nC. Eropa\nD. Afrika\n\nKunci Jawaban: A\n\nPembahasan:\nASEAN = Asia Tenggara."
+    },
+    {
+        "instruction": "Sikap (Chauvinisme).",
+        "input": "Cinta tanah air yang berlebihan hingga merendahkan bangsa lain disebut....",
+        "output": "Soal:\nA. Patriotisme\nB. Chauvinisme\nC. Nasionalisme\nD. Heroisme\n\nKunci Jawaban: B\n\nPembahasan:\nChauvinisme = nasionalisme sempit/berlebihan."
+    },
+    {
+        "instruction": "Keberagaman (Rumah Adat).",
+        "input": "Honai adalah rumah adat khas suku-suku di....",
+        "output": "Soal:\nA. Papua\nB. Maluku\nC. Nusa Tenggara\nD. Kalimantan\n\nKunci Jawaban: A\n\nPembahasan:\nHonai = Papua."
+    },
+    {
+        "instruction": "Musyawarah (Etika).",
+        "input": "Saat orang lain sedang menyampaikan pendapat, kita dilarang....",
+        "output": "Soal:\nA. Mendengarkan\nB. Mencatat\nC. Memotong pembicaraan\nD. Memperhatikan\n\nKunci Jawaban: C\n\nPembahasan:\nEtika musyawarah."
+    },
+    {
+        "instruction": "Keberagaman (Toleransi).",
+        "input": "Walaupun berbeda pilihan calon ketua kelas, kita harus tetap....",
+        "output": "Soal:\nA. Bermusuhan\nB. Menjaga kerukunan\nC. Saling ejek\nD. Marah\n\nKunci Jawaban: B\n\nPembahasan:\nDewasa dalam demokrasi."
+    },
+    {
+        "instruction": "Keberagaman (Makanan).",
+        "input": "Papeda adalah makanan pokok masyarakat Indonesia bagian timur yang terbuat dari....",
+        "output": "Soal:\nA. Beras\nB. Jagung\nC. Sagu\nD. Gandum\n\nKunci Jawaban: C\n\nPembahasan:\nPapeda = Sagu."
+    },
+    {
+        "instruction": "Kerjasama (Gotong Royong).",
+        "input": "Gotong royong adalah ciri khas kepribadian bangsa Indonesia yang sesuai dengan sila....",
+        "output": "Soal:\nA. Ke-1\nB. Ke-2\nC. Ke-3\nD. Ke-5\n\nKunci Jawaban: D\n\nPembahasan:\nButir Sila 5: Mengembangkan perbuatan luhur yang mencerminkan sikap dan suasana kekeluargaan dan kegotongroyongan."
+    },
+    {
+        "instruction": "Keberagaman (Senjata).",
+        "input": "Celurit adalah senjata tradisional dari....",
+        "output": "Soal:\nA. Madura (Jawa Timur)\nB. Betawi (DKI Jakarta)\nC. Bali\nD. Lombok\n\nKunci Jawaban: A\n\nPembahasan:\nCelurit = Madura."
+    },
+    {
+        "instruction": "Musyawarah (Keputusan).",
+        "input": "Keputusan yang diambil dalam musyawarah harus mengutamakan kepentingan....",
+        "output": "Soal:\nA. Pribadi\nB. Golongan tertentu\nC. Bersama\nD. Ketua rapat\n\nKunci Jawaban: C\n\nPembahasan:\nKepentingan bersama di atas kepentingan pribadi/golongan."
+    },
+    {
+        "instruction": "Keberagaman (Tarian).",
+        "input": "Tari Saman yang sangat kompak dan cepat berasal dari....",
+        "output": "Soal:\nA. Sumatera Barat\nB. Aceh\nC. Riau\nD. Jambi\n\nKunci Jawaban: B\n\nPembahasan:\nTari Saman = Aceh."
+    },
+    {
+        "instruction": "Sikap (Primordialisme).",
+        "input": "Sikap memegang teguh hal-hal yang dibawa sejak kecil (adat, kepercayaan) secara berlebihan disebut....",
+        "output": "Soal:\nA. Nasionalisme\nB. Primordialisme\nC. Patriotisme\nD. Sekularisme\n\nKunci Jawaban: B\n\nPembahasan:\nPrimordialisme."
+    },
+    {
+        "instruction": "Keberagaman (Rumah Adat).",
+        "input": "Rumah Tongkonan adalah rumah adat masyarakat....",
+        "output": "Soal:\nA. Toraja (Sulawesi Selatan)\nB. Batak (Sumatera Utara)\nC. Dayak (Kalimantan)\nD. Sasak (Lombok)\n\nKunci Jawaban: A\n\nPembahasan:\nTongkonan = Toraja."
+    },
+    {
+        "instruction": "Kerjasama (Sekolah).",
+        "input": "Kegiatan koperasi sekolah melatih siswa untuk....",
+        "output": "Soal:\nA. Mencari untung sendiri\nB. Bekerjasama dan berwirausaha\nC. Boros\nD. Berhutang\n\nKunci Jawaban: B\n\nPembahasan:\nKoperasi sekolah."
+    },
+    {
+        "instruction": "Toleransi (Agama).",
+        "input": "Tri Kerukunan Umat Beragama meliputi kerukunan intern umat beragama, antar umat beragama, dan....",
+        "output": "Soal:\nA. Antar suku\nB. Antar umat beragama dengan pemerintah\nC. Antar negara\nD. Antar sekolah\n\nKunci Jawaban: B\n\nPembahasan:\nTri Kerukunan."
+    },
+    {
+        "instruction": "Keberagaman (Lagu).",
+        "input": "Lagu 'Yamko Rambe Yamko' berasal dari daerah....",
+        "output": "Soal:\nA. Maluku\nB. Papua\nC. NTT\nD. Sulawesi\n\nKunci Jawaban: B\n\nPembahasan:\nYamko Rambe Yamko = Papua."
+    },
+    {
+        "instruction": "Musyawarah (Akal Sehat).",
+        "input": "Musyawarah harus dilakukan dengan akal sehat dan sesuai dengan....",
+        "output": "Soal:\nA. Hati nurani yang luhur\nB. Emosi sesaat\nC. Perintah atasan\nD. Keinginan pribadi\n\nKunci Jawaban: A\n\nPembahasan:\nAkal sehat & hati nurani."
+    },
+    {
+        "instruction": "Keberagaman (Senjata).",
+        "input": "Golok adalah senjata tradisional yang sering dikaitkan dengan budaya....",
+        "output": "Soal:\nA. Betawi\nB. Jawa\nC. Batak\nD. Banjar\n\nKunci Jawaban: A\n\nPembahasan:\nGolok = Betawi."
+    },
+    {
+        "instruction": "Sikap (Tenggang Rasa).",
+        "input": "Tenggang rasa adalah sikap....",
+        "output": "Soal:\nA. Masa bodoh terhadap orang lain\nB. Dapat merasakan perasaan orang lain\nC. Ingin menang sendiri\nD. Suka mencampuri urusan orang\n\nKunci Jawaban: B\n\nPembahasan:\nTenggang rasa = empati."
+    },
+    {
+        "instruction": "Keberagaman (Tarian).",
+        "input": "Tari Piring berasal dari....",
+        "output": "Soal:\nA. Sumatera Barat\nB. Sumatera Selatan\nC. Bengkulu\nD. Lampung\n\nKunci Jawaban: A\n\nPembahasan:\nTari Piring = Minangkabau (Sumbar)."
+    },
+    {
+        "instruction": "Kerjasama (Asean).",
+        "input": "Salah satu bentuk kerjasama negara ASEAN di bidang pendidikan adalah....",
+        "output": "Soal:\nA. Pertukaran pelajar\nB. Latihan militer bersama\nC. Ekspor impor barang\nD. Festival lagu\n\nKunci Jawaban: A\n\nPembahasan:\nPendidikan = pertukaran pelajar."
+    },
+    {
+        "instruction": "Keberagaman (Suku).",
+        "input": "Suku Baduy Dalam dan Baduy Luar tinggal di provinsi....",
+        "output": "Soal:\nA. Jawa Barat (Banten)\nB. Jawa Barat (Bandung)\nC. DKI Jakarta\nD. Jawa Tengah\n\nKunci Jawaban: A\n\nPembahasan:\nBaduy = Banten (dulu masuk Jabar, sekarang provinsi Banten, tapi secara budaya Sunda/Banten)."
+    },
+    {
+        "instruction": "Final Check.",
+        "input": "Bhineka Tunggal Ika",
+        "output": "Soal:\nSemboyan negara kita adalah....\n\nA. Garuda Pancasila\nB. Bhinneka Tunggal Ika\nC. UUD 1945\nD. Pancasila\n\nKunci Jawaban: B\n\nPembahasan:\nSemboyan = Bhinneka Tunggal Ika."
+    }
+]
