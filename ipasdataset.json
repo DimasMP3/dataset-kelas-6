@@ -1,0 +1,1057 @@
+[
+    {
+        "instruction": "Identifikasi karakteristik planet dalam tata surya.",
+        "input": "Planet ini adalah planet terdekat dengan Matahari. Karena jaraknya yang sangat dekat, suhu di permukaannya sangat ekstrem, panas saat siang dan sangat dingin saat malam. Planet ini juga memiliki banyak kawah seperti Bulan.",
+        "output": "Soal:\nPlanet manakah yang dimaksud dalam deskripsi tersebut?\n\nA. Venus\nB. Merkurius\nC. Mars\nD. Jupiter\n\nKunci Jawaban: B\n\nPembahasan:\nMerkurius adalah planet terdekat dengan Matahari (57,9 juta km). Atmosfernya sangat tipis sehingga tidak mampu menahan panas, menyebabkan perbedaan suhu yang ekstrem antara siang dan malam."
+    },
+    {
+        "instruction": "Pahami akibat dari gerakan Bumi (Rotasi).",
+        "input": "Bumi berputar pada porosnya dari arah barat ke timur. Perputaran ini memerlukan waktu sekitar 24 jam untuk satu kali putaran penuh.",
+        "output": "Soal:\nManakah di bawah ini yang merupakan akibat dari rotasi Bumi?\n\nA. Terjadinya pergantian musim\nB. Perbedaan lama waktu siang dan malam\nC. Terjadinya gerhana matahari\nD. Terjadinya siang dan malam\n\nKunci Jawaban: D\n\nPembahasan:\nRotasi Bumi menyebabkan bagian Bumi yang menghadap Matahari mengalami siang, dan bagian yang membelakangi Matahari mengalami malam."
+    },
+    {
+        "instruction": "Analisis dampak revolusi Bumi.",
+        "input": "Selain berputar pada porosnya, Bumi juga bergerak mengelilingi Matahari dalam orbit berbentuk elips. Pergerakan ini disebut revolusi Bumi dan memakan waktu 365 1/4 hari.",
+        "output": "Soal:\nSalah satu dampak dari revolusi Bumi adalah....\n\nA. Gerak semu harian Matahari\nB. Pembelokan arah angin\nC. Perubahan rasi bintang yang tampak dari Bumi\nD. Terjadinya pasang surut air laut\n\nKunci Jawaban: C\n\nPembahasan:\nSaat Bumi mengelilingi Matahari, posisi Bumi terhadap bintang-bintang latar belakang berubah, sehingga rasi bintang yang terlihat di langit malam tampak berbeda setiap bulannya."
+    },
+    {
+        "instruction": "Identifikasi benda langit selain planet.",
+        "input": "Benda langit ini sering disebut sebagai 'bintang jatuh'. Sebenarnya, benda ini adalah batuan angkasa yang masuk ke atmosfer Bumi dan terbakar karena gesekan dengan udara.",
+        "output": "Soal:\nBenda langit yang dimaksud adalah....\n\nA. Asteroid\nB. Meteor\nC. Komet\nD. Satelit\n\nKunci Jawaban: B\n\nPembahasan:\nMeteor adalah meteoroid yang masuk ke atmosfer Bumi dan terbakar, menghasilkan kilatan cahaya yang sering disebut bintang jatuh. Jika sampai ke tanah disebut Meteorit."
+    },
+    {
+        "instruction": "Pahami karakteristik benda langit (Komet).",
+        "input": "Komet adalah benda langit yang mengelilingi Matahari dengan orbit yang sangat lonjong. Komet terdiri dari debu, partikel batu, dan es.",
+        "output": "Soal:\nMengapa komet sering disebut sebagai 'bintang berekor'?\n\nA. Karena memiliki cahaya sendiri yang berkedip-kedip\nB. Karena saat mendekati Matahari, sebagian materinya menguap membentuk ekor gas dan debu\nC. Karena bentuk aslinya memang memanjang seperti ekor\nD. Karena bergerak sangat cepat meninggalkan jejak cahaya abadi\n\nKunci Jawaban: B\n\nPembahasan:\nSaat komet mendekati Matahari, angin matahari membuat materi es dan debu pada komet menguap dan terdorong menjauhi Matahari, membentuk ekor yang selalu menjauhi Matahari."
+    },
+    {
+        "instruction": "Identifikasi planet terbesar dalam tata surya.",
+        "input": "Planet ini adalah planet terbesar dalam tata surya kita. Ukurannya sangat masif, bahkan lebih besar dari gabungan semua planet lain. Ia dikenal dengan 'Bintik Merah Raksasa' yang merupakan badai besar.",
+        "output": "Soal:\nPlanet yang memiliki ciri-ciri tersebut adalah....\n\nA. Saturnus\nB. Uranus\nC. Jupiter\nD. Neptunus\n\nKunci Jawaban: C\n\nPembahasan:\nJupiter adalah planet terbesar di tata surya. Bintik Merah Raksasa (Great Red Spot) adalah ciri khasnya, yang merupakan badai antilsiklon bertekanan tinggi."
+    },
+    {
+        "instruction": "Pahami karakteristik Planet Merah.",
+        "input": "Planet ini sering terlihat kemerahan di langit malam karena permukaan tanahnya kaya akan oksida besi (karat). Planet ini juga memiliki gunung berapi tertinggi di tata surya, Olympus Mons.",
+        "output": "Soal:\nPlanet manakah yang dijuluki sebagai Planet Merah?\n\nA. Venus\nB. Mars\nC. Merkurius\nD. Saturnus\n\nKunci Jawaban: B\n\nPembahasan:\nMars dijuluki Planet Merah karena kandungan besi oksida di permukaannya yang memberikan warna merah khas."
+    },
+    {
+        "instruction": "Analisis fenomena Gerhana Bulan.",
+        "input": "Gerhana bulan terjadi ketika posisi Matahari, Bumi, dan Bulan berada pada satu garis lurus. Pada kondisi ini, bayangan Bumi menutupi Bulan.",
+        "output": "Soal:\nGerhana bulan hanya mungkin terjadi pada fase....\n\nA. Bulan Baru\nB. Bulan Sabit\nC. Bulan Purnama\nD. Bulan Separuh\n\nKunci Jawaban: C\n\nPembahasan:\nGerhana bulan terjadi saat Bumi berada di antara Matahari dan Bulan, menghalangi sinar Matahari ke Bulan. Posisi ini hanya terjadi saat fase Bulan Purnama (oposisi)."
+    },
+    {
+        "instruction": "Identifikasi planet bercincin indah.",
+        "input": "Planet ini dikenal sebagai planet terindah karena memiliki sistem cincin yang paling besar dan jelas terlihat dari Bumi. Cincin ini terdiri dari bongkahan es dan batu kerikil.",
+        "output": "Soal:\nPlanet yang dimaksud adalah....\n\nA. Jupiter\nB. Uranus\nC. Saturnus\nD. Neptunus\n\nKunci Jawaban: C\n\nPembahasan:\nSaturnus memiliki sistem cincin yang paling tebal, lebar, dan terang dibandingkan planet jovian lainnya, sehingga mudah diamati."
+    },
+    {
+        "instruction": "Pahami urutan planet dalam tata surya.",
+        "input": "Sistem tata surya kita terdiri dari Matahari sebagai pusat dan 8 planet yang mengelilinginya. Urutan planet dari yang terdekat dengan Matahari sangat menentukan suhu permukaannya.",
+        "output": "Soal:\nUrutan planet yang benar dari yang terdekat hingga terjauh dari Matahari adalah....\n\nA. Merkurius, Venus, Bumi, Mars, Jupiter, Saturnus, Uranus, Neptunus\nB. Merkurius, Mars, Bumi, Venus, Jupiter, Saturnus, Uranus, Neptunus\nC. Merkurius, Venus, Mars, Bumi, Jupiter, Saturnus, Neptunus, Uranus\nD. Venus, Merkurius, Bumi, Mars, Jupiter, Saturnus, Uranus, Neptunus\n\nKunci Jawaban: A\n\nPembahasan:\nUrutan yang benar: Merkurius, Venus, Bumi, Mars, Jupiter, Saturnus, Uranus, Neptunus. (Jembatan keledai: Me-Ve-Bu-Ma-Ju-Sa-U-N)."
+    },
+    {
+        "instruction": "Analisis penyebab terjadinya Gerhana Matahari.",
+        "input": "Gerhana matahari terjadi ketika cahaya Matahari terhalang oleh Bulan sehingga tidak sampai ke Bumi. Hal ini membuat sebagian wilayah Bumi menjadi gelap pada siang hari.",
+        "output": "Soal:\nSusunan posisi benda langit saat terjadi Gerhana Matahari adalah....\n\nA. Matahari - Bumi - Bulan\nB. Matahari - Bulan - Bumi\nC. Bumi - Matahari - Bulan\nD. Bulan - Matahari - Bumi\n\nKunci Jawaban: B\n\nPembahasan:\nGerhana Matahari terjadi ketika Bulan berada di antara Matahari dan Bumi (Posisi: Matahari - Bulan - Bumi), sehingga bayangan Bulan jatuh ke permukaan Bumi."
+    },
+    {
+        "instruction": "Pahami kala revolusi dan tahun kabisat.",
+        "input": "Bumi mengelilingi Matahari dalam waktu 365 hari 6 jam. Sisa waktu 6 jam ini dikumpulkan selama 4 tahun menjadi 24 jam atau 1 hari.",
+        "output": "Soal:\nPenambahan 1 hari akibat sisa waktu revolusi bumi setiap 4 tahun sekali disebut tahun....\n\nA. Hijriah\nB. Masehi\nC. Kabisat\nD. Saka\n\nKunci Jawaban: C\n\nPembahasan:\nTahun Kabisat adalah tahun yang jumlah harinya 366 (penambahan 1 hari di bulan Februari, tgl 29) untuk menggenapkan sisa waktu revolusi bumi."
+    },
+    {
+        "instruction": "Identifikasi karakteristik Planet Biru.",
+        "input": "Planet ini adalah satu-satunya planet yang diketahui memiliki kehidupan. Sebagian besar permukaannya ditutupi oleh air, sehingga tampak berwarna biru dari luar angkasa.",
+        "output": "Soal:\nGas utama penyusun atmosfer planet Bumi yang sangat penting bagi pernapasan makhluk hidup adalah....\n\nA. Nitrogen\nB. Oksigen\nC. Karbon Dioksida\nD. Hidrogen\n\nKunci Jawaban: B\n\nPembahasan:\nOksigen (O2) adalah gas yang dibutuhkan manusia dan hewan untuk bernapas. Meskipun Nitrogen paling banyak jumlahnya, Oksigen-lah yang vital untuk respirasi."
+    },
+    {
+        "instruction": "Pahami perbedaan planet dalam dan planet luar.",
+        "input": "Planet-planet di tata surya dibagi menjadi dua kelompok oleh sabuk asteroid: Planet Dalam dan Planet Luar.",
+        "output": "Soal:\nBerikut ini yang termasuk kelompok Planet Dalam (Terestrial) adalah....\n\nA. Bumi, Mars, Jupiter, Saturnus\nB. Merkurius, Venus, Bumi, Mars\nC. Jupiter, Saturnus, Uranus, Neptunus\nD. Mars, Jupiter, Saturnus, Uranus\n\nKunci Jawaban: B\n\nPembahasan:\nPlanet Dalam adalah planet yang berada di antara Matahari dan Sabuk Asteroid, memiliki permukaan padat (batuan): Merkurius, Venus, Bumi, dan Mars."
+    },
+    {
+        "instruction": "Identifikasi karakteristik planet Uranus.",
+        "input": "Uranus adalah planet terdingin di tata surya dengan suhu mencapai -224°C. Planet ini memiliki keunikan pada sumbu rotasinya.",
+        "output": "Soal:\nApa keunikan utama rotasi planet Uranus dibandingkan planet lainnya?\n\nA. Berotasi sangat cepat sehingga bentuknya gepeng\nB. Berotasi dengan arah yang sama dengan revolusinya\nC. Sumbu rotasinya miring hampir sejajar dengan orbitnya (menggelinding)\nD. Tidak berotasi sama sekali\n\nKunci Jawaban: C\n\nPembahasan:\nUranus berotasi dengan kemiringan sumbu sekitar 98 derajat, sehingga seolah-olah 'menggelinding' di orbitnya saat mengelilingi Matahari."
+    },
+    {
+        "instruction": "Pahami konsep Satelit Alami.",
+        "input": "Sebagian besar planet memiliki pengiring yang disebut satelit alami. Bumi memiliki satu satelit alami yaitu Bulan.",
+        "output": "Soal:\nPlanet manakah di bawah ini yang tidak memiliki satelit alami?\n\nA. Mars\nB. Neptunus\nC. Merkurius\nD. Uranus\n\nKunci Jawaban: C\n\nPembahasan:\nMerkurius dan Venus adalah dua planet dalam tata surya yang tidak memiliki satelit alami."
+    },
+    {
+        "instruction": "Analisis dampak Gerak Semu Harian Matahari.",
+        "input": "Setiap pagi kita melihat Matahari terbit di timur dan sore hari terbenam di barat. Seolah-olah Matahari yang bergerak mengelilingi Bumi.",
+        "output": "Soal:\nPeristiwa tersebut sebenarnya terjadi karena....\n\nA. Matahari bergerak lebih cepat daripada Bumi\nB. Bumi berputar pada porosnya dari barat ke timur\nC. Bumi mengelilingi Matahari dari timur ke barat\nD. Bulan menghalangi pergerakan Matahari\n\nKunci Jawaban: B\n\nPembahasan:\nGerak semu harian Matahari (terbit di timur, terbenam di barat) disebabkan oleh Rotasi Bumi dari arah Barat ke Timur."
+    },
+    {
+        "instruction": "Pahami penyebab perbedaan waktu (WIB, WITA, WIT).",
+        "input": "Indonesia dibagi menjadi tiga daerah waktu: WIB, WITA, dan WIT. Hal ini disebabkan oleh luasnya wilayah Indonesia secara bujur.",
+        "output": "Soal:\nDasar pembagian daerah waktu di dunia adalah perbedaaan....\n\nA. Garis Lintang\nB. Garis Bujur\nC. Jarak ke Matahari\nD. Iklim\n\nKunci Jawaban: B\n\nPembahasan:\nSetiap selisih 15 derajat garis bujur menyebabkan perbedaan waktu 1 jam. Rotasi Bumi menyebabkan perbedaan posisi bujur menghadap Matahari pada waktu yang berbeda."
+    },
+    {
+        "instruction": "Identifikasi Asteroid.",
+        "input": "Di antara orbit Mars dan Jupiter terdapat jutaan batuan angkasa yang mengelilingi Matahari. Batuan ini berukuran lebih kecil dari planet tetapi lebih besar dari meteoroid.",
+        "output": "Soal:\nKumpulan batuan angkasa yang memisahkan planet dalam dan planet luar disebut....\n\nA. Sabuk Kuiper\nB. Awan Oort\nC. Sabuk Asteroid\nD. Cincin Saturnus\n\nKunci Jawaban: C\n\nPembahasan:\nSabuk Asteroid (Main Asteroid Belt) terletak di antara orbit Mars dan Jupiter."
+    },
+    {
+        "instruction": "Pahami pengaruh Gravitasi Bulan.",
+        "input": "Meskipun ukuran Bulan lebih kecil dari Matahari, jarak Bulan yang sangat dekat dengan Bumi memberikan pengaruh besar terhadap kondisi perairan di Bumi.",
+        "output": "Soal:\nFenomena alam yang merupakan akibat utama dari gaya gravitasi Bulan adalah....\n\nA. Gelombang tsunami\nB. Pasang surut air laut\nC. Angin puting beliung\nD. Arus laut panas dan dingin\n\nKunci Jawaban: B\n\nPembahasan:\nGaya tarik (gravitasi) Bulan menarik air laut di Bumi, menyebabkan permukaan air laut naik (pasang) dan turun (surut)."
+    },
+    {
+        "instruction": "Analisis karakteristik Planet Neptunus.",
+        "input": "Neptunus adalah planet terjauh dari Matahari. Jaraknya yang jauh membuatnya tampak berwarna biru gelap dan memiliki angin badai tercepat di tata surya.",
+        "output": "Soal:\nMengapa Neptunus tampak berwarna biru?\n\nA. Karena seluruh permukaannya tertutup lautan air\nB. Karena pantulan cahaya dari cincinnya\nC. Karena kandungan gas metana di atmosfernya menyerap cahaya merah\nD. Karena suhunya yang sangat panas membakar atmosfer\n\nKunci Jawaban: C\n\nPembahasan:\nGas metana di atmosfer bagian atas Neptunus menyerap cahaya merah dari Matahari dan memantulkan cahaya biru, memberinya warna biru cerah."
+    },
+    {
+        "instruction": "Pahami fase-fase Bulan.",
+        "input": "Bentuk Bulan yang terlihat dari Bumi selalu berubah-ubah setiap harinya, mulai dari tidak terlihat, berbentuk sabit, separuh, hingga bulat penuh.",
+        "output": "Soal:\nPerubahan bentuk Bulan yang terlihat dari Bumi disebut....\n\nA. Gerhana Bulan\nB. Fase Bulan\nC. Rotasi Bulan\nD. Librasi Bulan\n\nKunci Jawaban: B\n\nPembahasan:\nFase Bulan adalah perubahan bentuk bagian Bulan yang terkena sinar Matahari yang terlihat dari Bumi akibat revolusi Bulan mengelilingi Bumi."
+    },
+    {
+        "instruction": "Identifikasi akibat Revolusi Bulan.",
+        "input": "Bulan membutuhkan waktu sekitar 29,5 hari untuk mengelilingi Bumi satu kali penuh (periode sinodis).",
+        "output": "Soal:\nSalah satu dasar yang digunakan dari pergerakan revolusi bulan adalah pembuatan kalender....\n\nA. Masehi\nB. Syamsiah\nC. Hijriah (Komariah)\nD. Gregorian\n\nKunci Jawaban: C\n\nPembahasan:\nKalender Hijriah atau Komariah didasarkan pada siklus fase bulan (revolusi bulan), sedangkan Masehi/Syamsiah didasarkan pada revolusi bumi."
+    },
+    {
+        "instruction": "Pahami lapisan Matahari.",
+        "input": "Matahari adalah bola gas raksasa yang sangat panas. Bagian Matahari yang biasa kita lihat sehari-hari memancarkan cahaya paling terang disebut fotosfer.",
+        "output": "Soal:\nLapisan terluar atmosfer Matahari yang tampak seperti mahkota saat terjadi gerhana matahari total disebut....\n\nA. Korona\nB. Kromosfer\nC. Inti Matahari\nD. Bintik Matahari\n\nKunci Jawaban: A\n\nPembahasan:\nKorona adalah lapisan terluar atmosfer Matahari yang suhunya sangat tinggi, hanya terlihat jelas saat piringan Matahari tertutup bulan (gerhana total)."
+    },
+    {
+        "instruction": "Identifikasi Galaksi Bima Sakti.",
+        "input": "Tata surya kita hanyalah bagian kecil dari sebuah kumpulan besar bintang, debu, dan gas yang terikat oleh gravitasi.",
+        "output": "Soal:\nApa nama galaksi tempat sistem tata surya kita berada?\n\nA. Andromeda\nB. Bima Sakti (Milky Way)\nC. Magellan\nD. Ursa Mayor\n\nKunci Jawaban: B\n\nPembahasan:\nTata surya kita berada di salah satu lengan spiral Galaksi Bima Sakti (Milky Way)."
+    },
+    {
+        "instruction": "Analisis dampak Rotasi Bulan.",
+        "input": "Waktu yang dibutuhkan Bulan untuk berotasi pada porosnya sama dengan waktu yang dubutuhkan untuk berevolusi mengelilingi Bumi.",
+        "output": "Soal:\nApa akibat dari kala rotasi dan revolusi Bulan yang sama tersebut?\n\nA. Bulan senantiasa tampak bercahaya penuh\nB. Permukaan Bulan yang menghadap ke Bumi selalu sama\nC. Terjadinya gerhana bulan setiap bulan\nD. Bulan tidak memiliki gaya gravitasi\n\nKunci Jawaban: B\n\nPembahasan:\nKarena kecepatan rotasi dan revolusinya sama, sisi Bulan yang menghadap Bumi tidak pernah berubah."
+    },
+    {
+        "instruction": "Pahami klasifikasi planet kerdil (Dwarf Planet).",
+        "input": "Pluto dulunya dianggap sebagai planet ke-9. Namun pada tahun 2006, Uni Astronomi Internasional (IAU) mengklasifikasikannya ulang.",
+        "output": "Soal:\nMengapa Pluto tidak lagi disebut sebagai planet utama?\n\nA. Karena ukurannya terlalu besar\nB. Karena orbitnya belum bersih dari benda langit lain\nC. Karena jaraknya terlalu dekat dengan Matahari\nD. Karena tidak mengelilingi Matahari\n\nKunci Jawaban: B\n\nPembahasan:\nSyarat planet adalah orbitnya harus 'bersih' (dominan gravitasinya). Pluto berada di area Sabuk Kuiper dan berbagi orbit dengan banyak benda lain, sehingga turun status jadi Planet Kerdil."
+    },
+    {
+        "instruction": "Identifikasi Meteoroid.",
+        "input": "Di luar angkasa terdapat banyak potongan batu atau logam kecil yang melayang-layang bebas.",
+        "output": "Soal:\nPotongan batu atau logam yang melayang bebas di angkasa dan belum masuk ke atmosfer bumi disebut....\n\nA. Meteor\nB. Meteorit\nC. Meteoroid\nD. Asteroid\n\nKunci Jawaban: C\n\nPembahasan:\nMeteoroid = di luar angkasa. Meteor = masuk atmosfer (terbakar). Meteorit = jatuh sampai ke tanah."
+    },
+    {
+        "instruction": "Pahami orbit planet.",
+        "input": "Setiap planet mengelilingi Matahari pada jalurnya masing-masing yang disebut orbit. Bentuk orbit planet tidak bulat sempurna.",
+        "output": "Soal:\nBentuk lintasan orbit planet mengelilingi Matahari adalah....\n\nA. Lingkaran sempurna\nB. Elips (lonjong)\nC. Segitiga\nD. Tidak beraturan\n\nKunci Jawaban: B\n\nPembahasan:\nHukum Kepler menyatakan bahwa orbit planet mengelilingi Matahari berbentuk elips dengan Matahari berada di salah satu titik fokusnya."
+    },
+    {
+        "instruction": "Analisis musim di belahan bumi.",
+        "input": "Pada bulan Desember, belahan bumi utara mengalami musim dingin, sementara belahan bumi selatan mengalami musim panas.",
+        "output": "Soal:\nPerbedaan musim di belahan bumi utara dan selatan disebabkan oleh....\n\nA. Jarak Bumi ke Matahari yang berubah-ubah\nB. Kemiringan poros Bumi saat berevolusi mengelilingi Matahari\nC. Kecepatan rotasi Bumi yang tidak stabil\nD. Atmosfer Bumi yang tidak merata\n\nKunci Jawaban: B\n\nPembahasan:\nPoros Bumi miring 23,5 derajat. Saat revolusi, bagian utara dan selatan bergantian condong ke arah Matahari, menyebabkan perbedaan musim."
+    },
+    {
+        "instruction": "Identifikasi karakteristik Planet Venus.",
+        "input": "Planet Venus memiliki arah rotasi yang unik dibandingkan planet lain. Jika di Bumi Matahari terbit di timur, di Venus Matahari terbit dari barat.",
+        "output": "Soal:\nArah rotasi Venus yang berlawanan dengan planet lain disebut....\n\nA. Rotasi Prograde\nB. Rotasi Retrograde\nC. Revolusi Balik\nD. Presesi\n\nKunci Jawaban: B\n\nPembahasan:\nVenus berotasi dari Timur ke Barat (Retrograde), kebalikan dari mayoritas planet yang berotasi Barat ke Timur."
+    },
+    {
+        "instruction": "Pahami gerhana matahari total.",
+        "input": "Saat terjadi gerhana matahari total, suasana menjadi gelap gulita seperti malam hari selama beberapa menit.",
+        "output": "Soal:\nBagian Bumi yang mengalami gerhana matahari total adalah wilayah yang terkena bayangan inti Bulan yang sangat gelap, yaitu....\n\nA. Penumbra\nB. Umbra\nC. Antumbra\nD. Atmosfer\n\nKunci Jawaban: B\n\nPembahasan:\nUmbra adalah bayangan inti yang paling gelap. Wilayah yang terkena Umbra mengalami Gerhana Total. Penumbra adalah bayangan kabur (Gerhana Sebagian)."
+    },
+    {
+        "instruction": "Identifikasi Bintang.",
+        "input": "Matahari dikategorikan sebagai bintang, bukan planet.",
+        "output": "Soal:\nSyarat utama sebuah benda langit disebut sebagai bintang adalah....\n\nA. Memiliki ukuran yang sangat besar\nB. Mengelilingi pusat galaksi\nC. Mampu memancarkan cahayanya sendiri\nD. Memantulkan cahaya dari benda lain\n\nKunci Jawaban: C\n\nPembahasan:\nBintang adalah benda langit yang mambu memproduksi dan memancarkan energinya sendiri (cahaya/panas) melalui reaksi fusi nuklir."
+    },
+    {
+        "instruction": "Pahami tahun cahaya.",
+        "input": "Jarak antar bintang sangat jauh sehingga tidak efektif jika diukur dengan kilometer. Astronom menggunakan satuan Tahun Cahaya.",
+        "output": "Soal:\nSatu tahun cahaya adalah....\n\nA. Waktu yang dibutuhkan cahaya untuk sampai ke Bumi\nB. Jarak yang ditempuh cahaya dalam waktu satu tahun\nC. Kecepatan cahaya dalam satu tahun\nD. Usia sebuah bintang\n\nKunci Jawaban: B\n\nPembahasan:\nTahun cahaya adalah satuan jarak (bukan waktu), yaitu jarak yang ditempuh cahaya dalam ruang hampa selama satu tahun (sekitar 9,46 triliun km)."
+    },
+    {
+        "instruction": "Analisis fenomena Pasang Purnama.",
+        "input": "Pasang air laut tertinggi (Pasang Purnama/Spring Tide) terjadi ketika gaya gravitasi Matahari dan Bulan bekerja saling menguatkan.",
+        "output": "Soal:\nPasang Purnama terjadi pada saat posisi Bulan....\n\nA. Bulan Baru dan Bulan Purnama\nB. Bulan Sabit Awal dan Akhir\nC. Bulan Separuh (Kuartil)\nD. Semua fase bulan\n\nKunci Jawaban: A\n\nPembahasan:\nSaat Bulan Baru dan Purnama, posisi Matahari-Bumi-Bulan (atau Matahari-Bulan-Bumi) segaris lurus, sehingga gaya tariknya maksimum (Pasang tertinggi)."
+    },
+    {
+        "instruction": "Identifikasi Planet Saturnus.",
+        "input": "Saturnus adalah planet gas raksasa yang massa jenisnya sangat ringan, bahkan lebih ringan dari air.",
+        "output": "Soal:\nJika ada kolam air raksasa yang bisa memuat Saturnus, apa yang akan terjadi pada planet tersebut?\n\nA. Saturnus akan tenggelam\nB. Saturnus akan melayang di tengah air\nC. Saturnus akan mengapung di atas air\nD. Saturnus akan meledak\n\nKunci Jawaban: C\n\nPembahasan:\nMassa jenis Saturnus (< 1 g/cm³) lebih kecil dari air, sehingga secara teoritis ia akan mengapung."
+    },
+    {
+        "instruction": "Pahami fungsi lapisan ozon.",
+        "input": "Atmosfer Bumi memiliki lapisan Ozon yang sangat penting bagi kelangsungan makhluk hidup.",
+        "output": "Soal:\nFungsi utama lapisan ozon adalah melindungi Bumi dari....\n\nA. Hujan meteor\nB. Radiasi sinar ultraviolet (UV) Matahari yang berbahaya\nC. Hampa udara luar angkasa\nD. Benturan komet\n\nKunci Jawaban: B\n\nPembahasan:\nLapisan Ozon menyerap sebagian besar radiasi Ultraviolet (UV-B) matahari yang dapat merusak kulit dan mata makhluk hidup."
+    },
+    {
+        "instruction": "Analisis penanggalan Kalender Masehi.",
+        "input": "Julius Caesar menetapkan kalender Masehi berdasarkan pergerakan Matahari. Satu tahun ditetapkan 365 hari.",
+        "output": "Soal:\nBulan-bulan berikut yang memiliki jumlah hari 31 adalah....\n\nA. Januari, Maret, Mei, Juli, Agustus, Oktober, Desember\nB. Februari, April, Juni, September, November\nC. April, Juni, September, November\nD. Januari, Februari, Maret, April\n\nKunci Jawaban: A\n\nPembahasan:\nBulan dengan 31 hari: Jan, Mar, Mei, Jul, Agt, Okt, Des. (Ingat teknik kepalan tangan)."
+    },
+    {
+        "instruction": "Identifikasi Satelit Buatan.",
+        "input": "Manusia meluncurkan satelit buatan untuk berbagai keperluan, seperti komunikasi dan pemantauan cuaca. Salah satu satelit milik Indonesia adalah Satelit Palapa.",
+        "output": "Soal:\nFungsi utama Satelit Palapa adalah untuk....\n\nA. Memata-matai negara lain\nB. Komunikasi domestik dan internasional\nC. Penelitian luar angkasa\nD. Navigasi kapal laut\n\nKunci Jawaban: B\n\nPembahasan:\nSatelit Palapa adalah satelit komunikasi (SKSD Palapa) untuk menyatukan komunikasi di seluruh wilayah Indonesia."
+    },
+    {
+        "instruction": "Pahami karakteristik Matahari.",
+        "input": "Matahari adalah pusat tata surya yang massanya mencapai 99,8% dari total massa tata surya.",
+        "output": "Soal:\nUnsur gas terbanyak yang menyusun Matahari adalah....\n\nA. Oksigen dan Nitrogen\nB. Hidrogen dan Helium\nC. Besi dan Nikel\nD. Metana dan Amonia\n\nKunci Jawaban: B\n\nPembahasan:\nMatahari terutama tersusun atas Hidrogen (sekitar 74%) dan Helium (sekitar 24%), sisanya elemen berat lainnya."
+    },
+    {
+        "instruction": "Analisis gerhana matahari cincin.",
+        "input": "Terkadang saat gerhana matahari, piringan Bulan tidak cukup besar untuk menutupi seluruh piringan Matahari, sehingga menyisakan lingkaran cahaya di pinggirnya.",
+        "output": "Soal:\nGerhana matahari cincin terjadi ketika Bumi berada pada titik....\n\nA. Umbra Bulan\nB. Penumbra Bulan\nC. Perige (jarak terdekat dengan Bulan)\nD. Antumbra (perpanjangan umbra) atau saat Bulan di titik terjauh (Apoge)\n\nKunci Jawaban: D\n\nPembahasan:\nSaat Bulan berada di titik terjauh (Apoge), piringannya tampak lebih kecil dari Matahari. Bayangan umbra tidak sampai ke Bumi, yang sampai adalah antumbra, menyebabkan Gerhana Cincin."
+    },
+    {
+        "instruction": "Identifikasi rasi bintang penunjuk arah.",
+        "input": "Sejak zaman dahulu, nelayan menggunakan rasi bintang untuk menentukan arah di lautan pada malam hari.",
+        "output": "Soal:\nRasi bintang Pari (Crux) biasa digunakan untuk menunjuk arah....\n\nA. Utara\nB. Selatan\nC. Barat\nD. Timur\n\nKunci Jawaban: B\n\nPembahasan:\nRasi bintang Pari (Layang-layang/Salib Selatan) selalu menunjuk ke arah Selatan."
+    },
+    {
+        "instruction": "Identifikasi komponen rangkaian listrik.",
+        "input": "Rangkaian listrik membutuhkan berbagai komponen agar dapat berfungsi, salah satunya adalah alat pemutus dan penyambung arus.",
+        "output": "Soal:\nAlat yang berfungsi untuk memutus dan menyambungkan arus listrik disebut....\n\nA. Baterai\nB. Sakelar\nC. Lampu\nD. Sekering\n\nKunci Jawaban: B\n\nPembahasan:\nSakelar adalah komponen yang berfungsi untuk menyambung atau memutus aliran arus listrik dalam suatu rangkaian."
+    },
+    {
+        "instruction": "Pahami karakteristik rangkaian seri.",
+        "input": "Pada rangkaian seri, komponen-komponen listrik disusun secara berderet atau berurutan. Jika salah satu lampu dilepas atau rusak, lampu yang lain akan ikut mati.",
+        "output": "Soal:\nSalah satu kelemahan rangkaian seri adalah....\n\nA. Membutuhkan banyak kabel\nB. Nyala lampu tidak sama terang (semakin jauh dari sumber semakin redup)\nC. Jika satu mati, yang lain tetap menyala\nD. Biaya pembuatan lebih mahal\n\nKunci Jawaban: B\n\nPembahasan:\nPada rangkaian seri, tegangan terbagi, sehingga nyala lampu tidak sama terang (lampu yang lebih dekat sumber kadang lebih terang/redup tergantung hambatan) dan jika satu putus semua mati."
+    },
+    {
+        "instruction": "Analisis rangkaian paralel di rumah.",
+        "input": "Instalasi listrik di rumah-rumah sebagian besar menggunakan rangkaian paralel karena memiliki keuntungan tertentu dibandingkan rangkaian seri.",
+        "output": "Soal:\nKeuntungan utama menggunakan rangkaian paralel untuk instalasi rumah adalah....\n\nA. Menghemat kabel\nB. Nyala lampu lebih redup\nC. Jika satu peralatan dimatikan, peralatan lain tetap menyala\nD. Arus listrik yang mengalir lebih kecil\n\nKunci Jawaban: C\n\nPembahasan:\nRangkaian paralel memberikan jalur arus mandiri untuk setiap beban, sehingga jika satu lampu mati, arus tetap bisa mengalir ke lampu lain."
+    },
+    {
+        "instruction": "Identifikasi sumber energi listrik.",
+        "input": "Batu baterai dan aki adalah sumber energi listrik yang sering kita gunakan. Keduanya mengubah energi kimia menjadi energi listrik.",
+        "output": "Soal:\nZat kimia pada aki yang berfungsi sebagai penghantar listrik adalah....\n\nA. Asam Sulfat\nB. Karbon\nC. Seng\nD. Timbal\n\nKunci Jawaban: A\n\nPembahasan:\nCairan elektrolit di dalam aki (akumulator) adalah Asam Sulfat (H2SO4)."
+    },
+    {
+        "instruction": "Pahami perubahan energi listrik.",
+        "input": "Peralatan rumah tangga banyak yang memanfaatkan perubahan energi listrik menjadi bentuk energi lain untuk memudahkan pekerjaan.",
+        "output": "Soal:\nPerubahan energi yang terjadi pada setrika listrik adalah....\n\nA. Energi listrik menjadi energi gerak\nB. Energi listrik menjadi energi bunyi\nC. Energi listrik menjadi energi panas\nD. Energi listrik menjadi energi cahaya\n\nKunci Jawaban: C\n\nPembahasan:\nSetrika listrik memiliki elemen pemanas yang mengubah energi listrik menjadi energi kalor (panas)."
+    },
+    {
+        "instruction": "Identifikasi pembangkit listrik (PLTA).",
+        "input": "Indonesia memiliki banyak sungai besar yang dimanfaatkan untuk pembangkit listrik. Aliran air yang deras digunakan untuk memutar turbin.",
+        "output": "Soal:\nPembangkit listrik yang memanfaatkan tenaga aliran air disebut....\n\nA. PLTU\nB. PLTA\nC. PLTS\nD. PLTN\n\nKunci Jawaban: B\n\nPembahasan:\nPLTA singkatan dari Pembangkit Listrik Tenaga Air."
+    },
+    {
+        "instruction": "Analisis cara menghemat listrik.",
+        "input": "Penggunaan energi listrik yang berlebihan dapat menyebabkan pemborosan dan meningkatnya biaya. Kita perlu melakukan penghematan energi.",
+        "output": "Soal:\nBerikut ini adalah cara menghemat energi listrik yang benar, kecuali....\n\nA. Mematikan lampu saat siang hari\nB. Menggunakan lampu hemat energi (LED)\nC. Menyalakan televisi seharian meskipun tidak ditonton\nD. Mencabut kabel charger jika tidak digunakan\n\nKunci Jawaban: C\n\nPembahasan:\nMenyalakan televisi tanpa ditonton adalah tindakan pemborosan energi."
+    },
+    {
+        "instruction": "Pahami energi alternatif (Tenaga Surya).",
+        "input": "Matahari adalah sumber energi terbesar di bumi. Kita dapat mengubah energi cahaya matahari menjadi energi listrik menggunakan alat khusus.",
+        "output": "Soal:\nAlat yang digunakan untuk mengubah cahaya matahari menjadi listrik adalah....\n\nA. Kincir angin\nB. Panel surya (Solar Cell)\nC. Dinamo\nD. Generator\n\nKunci Jawaban: B\n\nPembahasan:\nPanel surya atau sel surya (solar cell) menangkap cahaya matahari dan mengubahnya menjadi energi listrik melalui efek fotovoltaik."
+    },
+    {
+        "instruction": "Identifikasi energi alternatif Biomassa.",
+        "input": "Limbah kotoran sapi dapat diolah dalam wadah tertutup untuk menghasilkan gas yang bisa digunakan untuk memasak.",
+        "output": "Soal:\nGas yang dihasilkan dari fermentasi kotoran hewan disebut....\n\nA. Elpiji\nB. Biogas\nC. Oksigen\nD. Karbon Monoksida\n\nKunci Jawaban: B\n\nPembahasan:\nBiogas adalah gas yang dihasilkan dari aktivitas anaerobik (fermentasi) bahan organik seperti kotoran hewan."
+    },
+    {
+        "instruction": "Analisis bahaya listrik (Korsleting).",
+        "input": "Kabel listrik yang terkelupas dan bersentuhan dapat menyebabkan hubungan arus pendek yang berbahaya.",
+        "output": "Soal:\nHubungan arus pendek listrik yang dapat memicu kebakaran disebut juga....\n\nA. Induksi\nB. Konduksi\nC. Isolasi\nD. Korsleting\n\nKunci Jawaban: D\n\nPembahasan:\nKorsleting (short circuit) adalah hubungan arus pendek di mana arus mengalir melalui jalur hambatan rendah yang tidak diinginkan, sering menyebabkan panas berlebih dan api."
+    },
+    {
+        "instruction": "Pahami fungsi Dinamo.",
+        "input": "Pada sepeda model lama sering terdapat dinamo yang menempel pada ban depan untuk menyalakan lampu sepeda.",
+        "output": "Soal:\nPerubahan energi yang terjadi pada dinamo sepeda adalah....\n\nA. Energi listrik menjadi energi gerak\nB. Energi gerak menjadi energi listrik\nC. Energi kimia menjadi energi cahaya\nD. Energi panas menjadi energi listrik\n\nKunci Jawaban: B\n\nPembahasan:\nDinamo mengubah energi gerak (kinetik) dari putaran roda menjadi energi listrik untuk menyalakan lampu."
+    },
+    {
+        "instruction": "Identifikasi material Konduktor.",
+        "input": "Bahan penyusun kabel listrik harus mampu menghantarkan arus listrik dengan baik.",
+        "output": "Soal:\nBahan yang paling baik dan umum digunakan sebagai penghantar dalam kabel listrik adalah....\n\nA. Plastik\nB. Kayu\nC. Tembaga\nD. Karet\n\nKunci Jawaban: C\n\nPembahasan:\nTembaga adalah konduktor listrik yang sangat baik dan ekonomis, sehingga digunakan secara luas sebagai kabel."
+    },
+    {
+        "instruction": "Pahami Energi Angin.",
+        "input": "Di negara Belanda, kincir angin sudah lama digunakan. Saat ini kincir angin modern digunakan untuk memutar generator listrik.",
+        "output": "Soal:\nPembangkit listrik yang menggunakan tenaga angin disebut....\n\nA. PLTB (Pembangkit Listrik Tenaga Bayu)\nB. PLTU\nC. PLTA\nD. PLTP\n\nKunci Jawaban: A\n\nPembahasan:\nBayu artinya Angin. PLTB adalah Pembangkit Listrik Tenaga Bayu/Angin."
+    },
+    {
+        "instruction": "Analisis fungsi Sekering.",
+        "input": "Untuk mencegah kerusakan akibat arus listrik yang berlebih atau korsleting, dipasang alat pengaman pada instalasi listrik rumah.",
+        "output": "Soal:\nAlat pengaman yang akan memutuskan arus secara otomatis jika terjadi kelebihan beban adalah....\n\nA. Meteran listrik\nB. Sakelar\nC. Stop kontak\nD. Sekering / MCB\n\nKunci Jawaban: D\n\nPembahasan:\nSekering (Fuse) atau MCB (Miniature Circuit Breaker) berfungsi memutus arus jika terdeteksi beban berlebih atau korsleting."
+    },
+    {
+        "instruction": "Identifikasi energi Geothermal.",
+        "input": "Indonesia memiliki banyak gunung berapi aktif. Panas dari dalam bumi ini dapat dimanfaatkan sebagai sumber energi listrik.",
+        "output": "Soal:\nEnergi alternatif yang berasal dari panas bumi disebut....\n\nA. Hidroelektrik\nB. Geothermal\nC. Biomassa\nD. Nuklir\n\nKunci Jawaban: B\n\nPembahasan:\nGeo = Bumi, Thermal = Panas. Geothermal adalah energi panas bumi."
+    },
+    {
+        "instruction": "Pahami Konduktor dan Isolator.",
+        "input": "Kabel listrik terdiri dari bagian dalam berupa kawat tembaga dan bagian luar berupa lapisan karet atau plastik.",
+        "output": "Soal:\nBagian luar kabel yang terbuat dari karet berfungsi sebagai....\n\nA. Konduktor\nB. Isolator\nC. Generator\nD. Resistor\n\nKunci Jawaban: B\n\nPembahasan:\nIsolator adalah bahan yang tidak menghantarkan listrik, digunakan untuk membungkus kabel agar aman dipegang dan tidak terjadi arus pendek."
+    },
+    {
+        "instruction": "Analisis dampak pemborosan energi.",
+        "input": "Bahan bakar fosil (minyak bumi, batu bara) semakin menipis. Jika kita tidak menghematnya, generasi mendatang akan kesulitan.",
+        "output": "Soal:\nSelain menipisnya cadangan, dampak negatif penggunaan bahan bakar fosil berlebihan adalah....\n\nA. Menyebabkan polusi udara dan pemanasan global\nB. Membuat udara semakin sejuk\nC. Menambah cadangan oksigen\nD. Menyuburkan tanaman\n\nKunci Jawaban: A\n\nPembahasan:\nPembakaran bahan bakar fosil menghasilkan gas CO2 dan polutan lain yang menyebabkan efek rumah kaca, pemanasan global, dan pencemaran udara."
+    },
+    {
+        "instruction": "Identifikasi perubahan energi (Kipas Angin).",
+        "input": "Saat cuaca panas, kita menyalakan kipas angin untuk menyejukkan ruangan.",
+        "output": "Soal:\nPerubahan energi yang terjadi pada kipas angin adalah....\n\nA. Energi listrik menjadi energi panas\nB. Energi listrik menjadi energi gerak\nC. Energi gerak menjadi energi bunyi\nD. Energi gerak menjadi energi listrik\n\nKunci Jawaban: B\n\nPembahasan:\nMotor listrik pada kipas angin mengubah energi listrik menjadi energi gerak (putaran baling-baling)."
+    },
+    {
+        "instruction": "Pahami sumber energi Biofuel.",
+        "input": "Tanaman jarak pagar dan kelapa sawit dapat diolah menjadi bahan bakar pengganti solar.",
+        "output": "Soal:\nBahan bakar nabati yang digunakan sebagai pengganti solar disebut....\n\nA. Bioetanol\nB. Biodiesel\nC. Biogas\nD. Bensol\n\nKunci Jawaban: B\n\nPembahasan:\nBiodiesel dibuat dari minyak nabati (seperti sawit) sebagai alternatif pengganti solar (diesel). Bioetanol pengganti bensin."
+    },
+    {
+        "instruction": "Analisis karakteristik Baterai.",
+        "input": "Baterai memiliki dua kutub, yaitu kutub positif dan kutub negatif. Arus listrik mengalir dari potensial tinggi ke rendah.",
+        "output": "Soal:\nKutub positif pada baterai biasanya ditandai dengan....\n\nA. Bagian yang rata (logam seng)\nB. Bagian yang menonjol (batang karbon)\nC. Bagian samping\nD. Tulisan kadaluarsa\n\nKunci Jawaban: B\n\nPembahasan:\nPada baterai kering biasa, bagian yang menonjol (atas) adalah kutub positif (+), dan bagian bawah yang rata adalah kutub negatif (-)."
+    },
+    {
+        "instruction": "Identifikasi Resistor.",
+        "input": "Dalam rangkaian elektronik, terkadang arus listrik perlu diperkecil agar tidak merusak komponen lain.",
+        "output": "Soal:\nKomponen elektronika yang berfungsi untuk menghambat arus listrik adalah....\n\nA. Kapasitor\nB. Resistor\nC. Transistor\nD. Induktor\n\nKunci Jawaban: B\n\nPembahasan:\nResistor (Hambatan) berfungsi untuk menghambat atau membatasi jumlah arus listrik yang mengalir."
+    },
+    {
+        "instruction": "Pahami keuntungan Energi Alternatif.",
+        "input": "Penggunaan energi alternatif seperti matahari dan angin terus dikembangkan di seluruh dunia.",
+        "output": "Soal:\nSalah satu kelebihan utama energi alternatif dibandingkan energi fosil adalah....\n\nA. Harganya sangat mahal\nB. Sulit didapatkan\nC. Ramah lingkungan dan tidak akan habis (terbarukan)\nD. Menghasilkan polusi tinggi\n\nKunci Jawaban: C\n\nPembahasan:\nEnergi alternatif bersifat terbarukan (renewable) dan umumnya lebih bersih/ramah lingkungan dibanding fosil."
+    },
+    {
+        "instruction": "Analisis rangkaian campuran.",
+        "input": "Rangkaian listrik tidak hanya seri atau paralel saja, tetapi bisa gabungan keduanya.",
+        "output": "Soal:\nRangkaian yang merupakan gabungan antara rangkaian seri dan paralel disebut....\n\nA. Rangkaian ganda\nB. Rangkaian campuran\nC. Rangkaian kompleks\nD. Rangkaian tunggal\n\nKunci Jawaban: B\n\nPembahasan:\nRangkaian campuran adalah kombinasi penggunaan seri dan paralel dalam satu sistem rangkaian."
+    },
+    {
+        "instruction": "Identifikasi Bioetanol.",
+        "input": "Singkong, jagung, dan tebu dapat difermentasi untuk menghasilkan bahan bakar cair pengganti bensin.",
+        "output": "Soal:\nBahan bakar alternatif pengganti bensin yang terbuat dari tumbuhan disebut....\n\nA. Biodiesel\nB. Biogas\nC. Bioetanol\nD. Minyak tanah\n\nKunci Jawaban: C\n\nPembahasan:\nBioetanol adalah alkohol (etanol) yang dihasilkan dari fermentasi gula/pati tumbuhan, bisa digunakan sebagai campuran atau pengganti bensin."
+    },
+    {
+        "instruction": "Pahami pembangkit listrik tenaga gelombang.",
+        "input": "Gerakan naik turun air laut akibat ombak memiliki energi yang besar.",
+        "output": "Soal:\nEnergi alternatif yang memanfaatkan gelombang air laut disebut....\n\nA. Tidal energy (Pasang surut)\nB. Wave energy (Gelombang)\nC. Ocean thermal (Panas laut)\nD. Geothermal\n\nKunci Jawaban: B\n\nPembahasan:\nEnergi gelombang (Wave energy) memanfaatkan energi kinetik dari gelombang laut."
+    },
+    {
+        "instruction": "Analisis satuan listrik.",
+        "input": "Setiap besaran listrik memiliki satuan ukurannya masing-masing.",
+        "output": "Soal:\nSatuan dari tegangan listrik adalah....\n\nA. Ampere\nB. Volt\nC. Watt\nD. Ohm\n\nKunci Jawaban: B\n\nPembahasan:\nTegangan (Volt), Arus (Ampere), Daya (Watt), Hambatan (Ohm)."
+    },
+    {
+        "instruction": "Identifikasi cara kerja PLTU.",
+        "input": "Sebagian besar listrik di Indonesia masih dihasilkan oleh PLTU yang menggunakan batu bara.",
+        "output": "Soal:\nPada PLTU, batu bara dibakar untuk mendidihkan air. Uap air yang dihasilkan kemudian digunakan untuk....\n\nA. Mendinginkan mesin\nB. Memutar turbin\nC. Membakar generator\nD. Mengalirkan air\n\nKunci Jawaban: B\n\nPembahasan:\nPrinsip PLTU: Panas pembakaran -> Air jadi Uap -> Uap bertekanan tinggi memutar Turbin -> Turbin memutar Generator."
+    },
+    {
+        "instruction": "Pahami fungsi Stop Kontak.",
+        "input": "Di dinding rumah terdapat lubang untuk mencolokkan steker peralatan elektronik.",
+        "output": "Soal:\nTempat untuk menghubungkan peralatan listrik dengan sumber aliran listrik disebut....\n\nA. Sakelar\nB. Sekering\nC. Stop kontak\nD. Fitting\n\nKunci Jawaban: C\n\nPembahasan:\nStop kontak (outlet/socket) adalah titik penghubung yang menyuplai listrik utama ke peralatan colokan (steker)."
+    },
+    {
+        "instruction": "Analisis rangkaian terbuka.",
+        "input": "Agar arus listrik dapat mengalir, rangkaian harus dalam keadaan tertutup.",
+        "output": "Soal:\nApa yang dimaksud dengan rangkaian listrik terbuka?\n\nA. Rangkaian di mana sakelar terhubung dan lampu menyala\nB. Rangkaian di mana salah satu komponennya dilepas atau sakelar diputus sehingga arus tidak mengalir\nC. Rangkaian yang tidak memiliki baterai\nD. Rangkaian yang kabelnya bercabang\n\nKunci Jawaban: B\n\nPembahasan:\nRangkaian terbuka (open circuit) artinya jalur arus terputus (misal sakelar 'off'), sehingga listrik tidak bisa mengalir."
+    },
+    {
+        "instruction": "Identifikasi Energi Nuklir.",
+        "input": "Energi ini dihasilkan dari reaksi pemecahan inti atom uranium yang menghasilkan panas luar biasa.",
+        "output": "Soal:\nPembangkit listrik yang menggunakan reaksi inti atom sebagai sumber panasnya disebut....\n\nA. PLTU\nB. PLTN\nC. PLTG\nD. PLTD\n\nKunci Jawaban: B\n\nPembahasan:\nPLTN = Pembangkit Listrik Tenaga Nuklir."
+    },
+    {
+        "instruction": "Pahami perilaku hemat energi di sekolah.",
+        "input": "Sekolah juga menggunakan banyak energi listrik untuk lampu, kipas angin, dan komputer.",
+        "output": "Soal:\nSikap menghemat energi yang tepa dilakukan siswa di sekolah adalah....\n\nA. Membiarkan kipas angin menyala setelah kelas selesai\nB. Menyalakan semua lampu saat jam istirahat\nC. Mematikan lampu dan peralatan listrik jika tidak digunakan atau ruangan kosong\nD. Bermain komputer sekolah seharian\n\nKunci Jawaban: C\n\nPembahasan:\nMematikan peralatan saat tidak digunakan adalah cara dasar dan efektif menghemat energi."
+    },
+    {
+        "instruction": "Analisis perubahan energi pada Televisi.",
+        "input": "Televisi merupakan media hiburan yang populer di rumah.",
+        "output": "Soal:\nEnergi listrik pada televisi diubah menjadi energi....\n\nA. Cahaya dan Gerak\nB. Cahaya dan Bunyi\nC. Panas dan Gerak\nD. Bunyi dan Kimia\n\nKunci Jawaban: B\n\nPembahasan:\nOutput utama televisi adalah Gambar (Cahaya) dan Suara (Bunyi)."
+    },
+    {
+        "instruction": "Identifikasi Briket.",
+        "input": "Serbuk gergaji atau tempurung kelapa yang dipadatkan bisa digunakan sebagai bahan bakar.",
+        "output": "Soal:\nBahan bakar padat yang terbuat dari sisa bahan organik yang dipadatkan disebut....\n\nA. Briket\nB. Biogas\nC. Magma\nD. Solar cell\n\nKunci Jawaban: A\n\nPembahasan:\nBriket (bio-briket) adalah bahan bakar padat alternatif pengganti arang atau kayu bakar."
+    },
+    {
+        "instruction": "Pahami kutub magnet pada dinamo/generator.",
+        "input": "Generator menghasilkan listrik dengan cara memutar kumparan kawat di dalam medan magnet.",
+        "output": "Soal:\nPrinsip kerja generator menerapkan konsep....\n\nA. Induksi elektromagnetik\nB. Gaya gravitasi\nC. Reaksi kimia\nD. Tekanan udara\n\nKunci Jawaban: A\n\nPembahasan:\nGenerator bekerja berdasarkan induksi elektromagnetik (perubahan medan magnet menghasilkan arus listrik)."
+    },
+    {
+        "instruction": "Analisis lampu Hemat Energi.",
+        "input": "Teknologi lampu terus berkembang dari bohlam pijar ke lampu tabung (neon) hingga yang terbaru.",
+        "output": "Soal:\nJenis lampu yang paling hemat energi dan tahan lama saat ini adalah....\n\nA. Bohlam pijar (filamen)\nB. Lampu neon (TL)\nC. Lampu LED\nD. Lampu minyak\n\nKunci Jawaban: C\n\nPembahasan:\nLED (Light Emitting Diode) jauh lebih efisien, hemat daya, dan tahan lama dibanding bohlam pijar atau CFL (neon)."
+    },
+    {
+        "instruction": "Identifikasi Tegangan Tinggi (SUTET).",
+        "input": "Listrik dari pusat pembangkit disalurkan ke kota-kota yang jauh melalui kabel-kabel besar di menara tinggi.",
+        "output": "Soal:\nMenara tiang listrik yang sangat tinggi untuk menyalurkan listrik tegangan ekstra tinggi disebut....\n\nA. Gardu Induk\nB. SUTET\nC. Trafo\nD. Sekering\n\nKunci Jawaban: B\n\nPembahasan:\nSUTET = Saluran Udara Tegangan Ekstra Tinggi."
+    },
+    {
+        "instruction": "Pahami fungsi fitting lampu.",
+        "input": "Agar lampu dapat menyala dan terpasang kuat di langit-langit, diperlukan dudukan.",
+        "output": "Soal:\nDudukan tempat memasang bola lampu disebut....\n\nA. Sakelar\nB. Fitting\nC. Steker\nD. Stop kontak\n\nKunci Jawaban: B\n\nPembahasan:\nFitting adalah tempat memasang (mendudukkan) bohlam lampu."
+    },
+    {
+        "instruction": "Analisis air sebagai sumber energi.",
+        "input": "Air terjun memiliki energi potensial dan kinetik yang besar.",
+        "output": "Soal:\nSyarat utama agar air sungai dapat dimanfaatkan untuk PLTA adalah....\n\nA. Airnya keruh\nB. Arus airnya deras dan stabil\nC. Sungainya sangat lebar tapi dangkal\nD. Banyak ikannya\n\nKunci Jawaban: B\n\nPembahasan:\nDebit air yang besar dan arus yang deras (atau beda ketinggian/terjun) diperlukan untuk memutar turbin dengan kuat."
+    },
+    {
+        "instruction": "Identifikasi Panel Surya di jalanan.",
+        "input": "Di beberapa jalan raya, lampu penerangan menyala sendiri saat malam tanpa kabel listrik PLN.",
+        "output": "Soal:\nLampu penerangan jalan tenaga surya menyimpan energi pada siang hari di dalam....\n\nA. Panel surya\nB. Baterai/Aki\nC. Lampu\nD. Kabel\n\nKunci Jawaban: B\n\nPembahasan:\nPanel surya menangkap energi, tapi energinya DISIMPAN di dalam Baterai/Aki untuk digunakan saat malam."
+    },
+    {
+        "instruction": "Pahami konversi energi pada Mixer.",
+        "input": "Ibu membuat kue menggunakan mixer untuk mengaduk adonan.",
+        "output": "Soal:\nPerubahan energi pada mixer sama dengan perubahan energi pada....\n\nA. Setrika\nB. Blender\nC. Televisi\nD. Lampu senter\n\nKunci Jawaban: B\n\nPembahasan:\nMixer dan Blender sama-sama mengubah energi listrik menjadi energi gerak (kinetik/mekanik)."
+    },
+    {
+        "instruction": "Analisis satuan daya.",
+        "input": "Pada peralatan elektronik biasanya tertulis angka dengan huruf W, misalnya '50 W'.",
+        "output": "Soal:\nAngka dan huruf W tersebut menunjukkan besarnya....\n\nA. Tegangan listrik\nB. Arus listrik\nC. Daya listrik\nD. Biaya listrik\n\nKunci Jawaban: C\n\nPembahasan:\nW singkatan dari Watt, satuan untuk Daya listrik (konsumsi energi per waktu)."
+    },
+    {
+        "instruction": "Identifikasi sumber energi tidak terbarukan.",
+        "input": "Energi yang jumlahnya terbatas dan tidak dapat diperbarui dalam waktu singkat.",
+        "output": "Soal:\nContoh sumber energi yang tidak terbarukan adalah....\n\nA. Matahari, Air, Angin\nB. Batu bara, Minyak bumi, Gas alam\nC. Panas bumi, Biomassa, Air\nD. Kayu bakar, Sinar matahari, Ombak\n\nKunci Jawaban: B\n\nPembahasan:\nEnergi fosil (Batu bara, Minyak, Gas) adalah energi tak terbarukan."
+    },
+    {
+        "instruction": "Identifikasi masa pubertas.",
+        "input": "Masa peralihan dari anak-anak menuju dewasa yang ditandai dengan perubahan fisik, psikis, dan pematangan fungsi seksual.",
+        "output": "Soal:\nMasa peralihan dari usia anak-anak menuju usia dewasa disebut....\n\nA. Balita\nB. Remaja (Pubertas)\nC. Manula\nD. Dewasa\n\nKunci Jawaban: B\n\nPembahasan:\nPubertas adalah masa transisi dari anak-anak ke dewasa ditandai dengan matangnya organ reproduksi."
+    },
+    {
+        "instruction": "Pahami ciri fisik pubertas laki-laki.",
+        "input": "Pada masa pubertas, laki-laki mengalami perubahan fisik seperti suara menjadi lebih berat dan tumbuh rambut di area tertentu.",
+        "output": "Soal:\nBerikut ini yang merupakan ciri-ciri fisik pubertas pada laki-laki adalah....\n\nA. Pinggul melebar\nB. Suara menjadi melengking\nC. Tumbuh jakun dan dada membidang\nD. Payudara membesar\n\nKunci Jawaban: C\n\nPembahasan:\nJakun dan dada bidang adalah ciri kelamin sekunder khas laki-laki. Pinggul/payudara membesar adalah ciri perempuan."
+    },
+    {
+        "instruction": "Pahami ciri fisik pubertas perempuan.",
+        "input": "Perempuan juga mengalami perubahan fisik yang nyata saat memasuki masa pubertas sebagai persiapan fungsi reproduksi.",
+        "output": "Soal:\nSalah satu ciri perkembangan fisik yang dialami perempuan pada masa pubertas adalah....\n\nA. Suara menjadi berat\nB. Tumbuh jakun\nC. Pinggul membesar dan melebar\nD. Dada menjadi bidang\n\nKunci Jawaban: C\n\nPembahasan:\nPinggul melebar pada perempuan adalah persiapan tubuh untuk proses persalinan kelak."
+    },
+    {
+        "instruction": "Identifikasi tanda primer pubertas laki-laki.",
+        "input": "Tanda primer adalah tanda utama yang menunjukkan organ reproduksi sudah berfungsi. Pada laki-laki ditandai dengan diproduksinya sperma.",
+        "output": "Soal:\nTanda (ciri primer) bahwa laki-laki telah memasuki masa pubertas adalah mengalami....\n\nA. Menstruasi\nB. Mimpi basah\nC. Suara parau\nD. Tumbuh kumis\n\nKunci Jawaban: B\n\nPembahasan:\nMimpi basah menandakan testis telah mulai memproduksi sperma (sel kelamin jantan)."
+    },
+    {
+        "instruction": "Identifikasi tanda primer pubertas perempuan.",
+        "input": "Tanda primer pada perempuan menunjukkan ovarium sudah menghasilkan sel telur.",
+        "output": "Soal:\nTanda utama (primer) perempuan telah memasuki masa pubertas adalah....\n\nA. Mimpi basah\nB. Menstruasi (Haid)\nC. Kulit menjadi halus\nD. Suara melengking\n\nKunci Jawaban: B\n\nPembahasan:\nMenstruasi adalah luruhnya dinding rahim karena sel telur tidak dibuahi, menandakan organ reproduksi wanita sudah aktif."
+    },
+    {
+        "instruction": "Pahami cara menjaga kebersihan organ reproduksi.",
+        "input": "Organ reproduksi sangat sensitif terhadap kelembaban dan bakteri. Kita harus menjaganya agar tetap bersih.",
+        "output": "Soal:\nCara yang benar untuk menjaga kesehatan organ reproduksi adalah....\n\nA. Memakai celana dalam yang ketat dan tidak menyerap keringat\nB. Mengganti celana dalam minimal 2 kali sehari\nC. Jarang membersihkan diri setelah buang air\nD. Menggunakan sabun yang keras/wangi berlebihan\n\nKunci Jawaban: B\n\nPembahasan:\nMengganti celana dalam secara rutin mencegah kelembaban berlebih yang disukai jamur dan bakteri."
+    },
+    {
+        "instruction": "Analisis perubahan psikis pubertas.",
+        "input": "Selain fisik, remaja juga mengalami perubahan mental dan emosional, seperti emosi yang labil dan mulai tertarik pada lawan jenis.",
+        "output": "Soal:\nSelain perubahan fisik, masa pubertas juga ditandai dengan perubahan psikis, yaitu....\n\nA. Gigi susu tanggal\nB. Emosi lebih stabil dan tenang\nC. Mulai tertarik pada lawan jenis dan mencari jati diri\nD. Daya ingat menurun\n\nKunci Jawaban: C\n\nPembahasan:\nPerubahan hormon mempengaruhi suasana hati (mood) dan ketertarikan sosial/sosial-seksual."
+    },
+    {
+        "instruction": "Identifikasi hormon.",
+        "input": "Perubahan fisik pada masa pubertas dikendalikan oleh zat kimia dalam tubuh yang disebut hormon.",
+        "output": "Soal:\nZat yang dihasilkan tubuh untuk mengendalikan proses pertumbuhan dan perkembangan organ reproduksi disebut....\n\nA. Enzim\nB. Hormon\nC. Vitamin\nD. Protein\n\nKunci Jawaban: B\n\nPembahasan:\nHormon (seperti Testosteron pada pria dan Estrogen/Progesteron pada wanita) memicu ciri-ciri pubertas."
+    },
+    {
+        "instruction": "Pahami fungsi ovarium.",
+        "input": "Sistem reproduksi wanita memiliki organ yang berfungsi menghasilkan sel telur.",
+        "output": "Soal:\nOrgan reproduksi wanita yang berfungsi menghasilkan sel telur (ovum) adalah....\n\nA. Rahim\nB. Ovarium (Indung Telur)\nC. Vagina\nD. Tuba Fallopi\n\nKunci Jawaban: B\n\nPembahasan:\nOvarium adalah tempat produksi sel telur dan hormon wanita."
+    },
+    {
+        "instruction": "Pahami fungsi testis.",
+        "input": "Sistem reproduksi pria memiliki organ yang berfungsi menghasilkan sperma.",
+        "output": "Soal:\nBagian alat reproduksi laki-laki yang berfungsi memproduksi sel sperma adalah....\n\nA. Penis\nB. Testis\nC. Skrotum\nD. Uretra\n\nKunci Jawaban: B\n\nPembahasan:\nTestis berfungsi menghasilkan sperma dan hormon testosteron."
+    },
+    {
+        "instruction": "Analisis menstruasi.",
+        "input": "Setiap bulan, jika tidak terjadi pembuahan, dinding rahim yang menebal akan luruh dan keluar sebagai darah haid.",
+        "output": "Soal:\nPeristiwa luruhnya dinding rahim yang disertai pendarahan karena sel telur tidak dibuahi disebut....\n\nA. Fertilisasi\nB. Ovulasi\nC. Menstruasi\nD. Implantasi\n\nKunci Jawaban: C\n\nPembahasan:\nMenstruasi terjadi ketika sel telur tidak dibuahi sperma sehingga lapisan endometrium rahim luruh."
+    },
+    {
+        "instruction": "Identifikasi zigot.",
+        "input": "Ketika sel sperma bertemu dan melebur dengan sel telur, terbentuklah sel baru yang akan berkembang menjadi janin.",
+        "output": "Soal:\nHasil peleburan antara sel sperma dan sel telur disebut....\n\nA. Janin\nB. Embrio\nC. Zigot\nD. Bayi\n\nKunci Jawaban: C\n\nPembahasan:\nTahap awal pembuahan adalah Zigot, kemudian membelah menjadi Embrio, lalu berkembang menjadi Janin."
+    },
+    {
+        "instruction": "Pahami fertilisasi.",
+        "input": "Proses perkembangbiakan manusia diawali dengan pertemuan sel kelamin jantan dan betina.",
+        "output": "Soal:\nProses pertemuan/peleburan antara sel sperma dengan sel telur disebut....\n\nA. Menstruasi\nB. Ovulasi\nC. Ejakulasi\nD. Fertilisasi (Pembuahan)\n\nKunci Jawaban: D\n\nPembahasan:\nFertilisasi adalah istilah biologi untuk pembuahan."
+    },
+    {
+        "instruction": "Identifikasi rahim.",
+        "input": "Embrio akan tumbuh dan berkembang menjadi bayi di dalam organ tubuh ibu yang sangat elastis.",
+        "output": "Soal:\nTempat tumbuh dan berkembangnya janin di dalam tubuh ibu adalah....\n\nA. Ovarium\nB. Tuba fallopi\nC. Uterus (Rahim)\nD. Vagina\n\nKunci Jawaban: C\n\nPembahasan:\nRahim (Uterus) adalah organ berotot tempat janin berlindung dan tumbuh."
+    },
+    {
+        "instruction": "Pahami masa kehamilan.",
+        "input": "Ibu mengandung bayinya dalam perut selama beberapa bulan sebelum melahirkan.",
+        "output": "Soal:\nRata-rata lama masa kehamilan normal pada manusia adalah sekitar....\n\nA. 6 bulan\nB. 9 bulan 10 hari\nC. 12 bulan\nD. 3 bulan\n\nKunci Jawaban: B\n\nPembahasan:\nMasa gestasi (kehamilan) manusia normalnya sekitar 37-40 minggu atau 9 bulan 10 hari."
+    },
+    {
+        "instruction": "Analisis dampak pergaulan bebas.",
+        "input": "Remaja yang tidak menjaga pergaulan dapat terjerumus ke dalam hal negatif yang merugikan masa depan.",
+        "output": "Soal:\nDampak negatif dari pergaulan bebas dan seks bebas bagi remaja adalah....\n\nA. Meningkatkan prestasi belajar\nB. Terhindar dari penyakit\nC. Risiko tertular penyakit menular seksual dan kehamilan yang tidak diinginkan\nD. Menjadi lebih dewasa\n\nKunci Jawaban: C\n\nPembahasan:\nPergaulan bebas berisiko tinggi terhadap kesehatan reproduksi (HIV/AIDS, penyakit kelamin) dan sosial."
+    },
+    {
+        "instruction": "Identifikasi jerawat.",
+        "input": "Perubahan hormon saat pubertas memicu kelenjar minyak di wajah bekerja lebih aktif.",
+        "output": "Soal:\nMasalah kulit yang sering dialami remaja saat pubertas akibat produksi minyak berlebih adalah....\n\nA. Panu\nB. Kurap\nC. Jerawat\nD. Kudis\n\nKunci Jawaban: C\n\nPembahasan:\nJerawat umum terjadi karena folikel rambut tersumbat minyak dan sel kulit mati, dipicu hormon androgen."
+    },
+    {
+        "instruction": "Pahami penggunaan pakaian.",
+        "input": "Untuk menjaga kesehatan kulit dan organ reproduksi, pemilihan bahan pakaian sangat penting.",
+        "output": "Soal:\nBahan pakaian dalam yang paling baik untuk menjaga kesehatan organ reproduksi adalah bahan yang....\n\nA. Tebal dan panas\nB. Sintetis dan licin\nC. Mudah menyerap keringat (Katun)\nD. Ketat dan kedap udara\n\nKunci Jawaban: C\n\nPembahasan:\nBahan katun menyerap keringat dan memungkinkan sirkulasi udara, mencegah area lembab yang memicu jamur."
+    },
+    {
+        "instruction": "Analisis pertumbuhan.",
+        "input": "Manusia mengalami pertambahan ukuran tubuh yang dapat diukur dengan angka.",
+        "output": "Soal:\nBertambahnya tinggi dan berat badan manusia disebut....\n\nA. Perkembangan\nB. Pertumbuhan\nC. Pubertas\nD. Penuaan\n\nKunci Jawaban: B\n\nPembahasan:\nPertumbuhan bersifat kuantitatif (bisa diukur: cm, kg). Perkembangan bersifat kualitatif (fungsi/kemampuan)."
+    },
+    {
+        "instruction": "Pahami perkembangan.",
+        "input": "Selain tumbuh besar, manusia juga mengalami pematangan fungsi organ dan kemampuan berpikir.",
+        "output": "Soal:\nProses menuju kedewasaan dan pematangan fungsi organ tubuh disebut....\n\nA. Pertumbuhan\nB. Perkembangan\nC. Kelahiran\nD. Pembuahan\n\nKunci Jawaban: B\n\nPembahasan:\nPerkembangan adalah proses pematangan fungsi organisme (psikis, fungsi organ, dll)."
+    },
+    {
+        "instruction": "Identifikasi ciri sekunder.",
+        "input": "Tanda-tanda fisik yang tampak dari luar pada laki-laki dan perempuan saat pubertas.",
+        "output": "Soal:\nPerubahan fisik yang tampak pada tubuh laki-laki dan perempuan di masa pubertas disebut perubahan....\n\nA. Primer\nB. Sekunder\nC. Tersier\nD. Utama\n\nKunci Jawaban: B\n\nPembahasan:\nCiri sekunder adalah perubahan fisik luar (payudara, kumis, jakun). Ciri primer adalah fungsi organ dalam (haid/mimpi basah)."
+    },
+    {
+        "instruction": "Pahami peran orang tua.",
+        "input": "Masa pubertas adalah masa yang membingungkan bagi sebagian remaja, sehingga butuh teman bicara.",
+        "output": "Soal:\nJika remaja mengalami kebingungan menghadapi perubahan tubuhnya, sikap yang tepat adalah....\n\nA. Menyendiri di kamar\nB. Bertanya kepada sembarang orang\nC. Berkomunikasi dan bertanya kepada orang tua atau guru\nD. Mencari informasi yang salah di internet\n\nKunci Jawaban: C\n\nPembahasan:\nOrang tua dan guru adalah sumber bimbingan terpercaya untuk mendampingi masa pubertas."
+    },
+    {
+        "instruction": "Analisis keringat berlebih.",
+        "input": "Produksi keringat meningkat saat pubertas seringkali menyebabkan masalah bau badan.",
+        "output": "Soal:\nCara mengatasi masalah bau badan yang muncul saat masa pubertas adalah....\n\nA. Mandi teratur minimal 2 kali sehari dan menggunakan deodoran jika perlu\nB. Memakai pakaian yang tebal\nC. Jarang mandi agar kulit tidak kering\nD. Memakai parfum sebanyak-banyaknya tanpa mandi\n\nKunci Jawaban: A\n\nPembahasan:\nMandi membersihkan bakteri penyebab bau badan."
+    },
+    {
+        "instruction": "Identifikasi saluran telur.",
+        "input": "Sel telur yang matang akan bergerak dari ovarium menuju rahim melalui saluran ini.",
+        "output": "Soal:\nSaluran yang menghubungkan ovarium dengan rahim dan tempat terjadinya pembuahan disebut....\n\nA. Vagina\nB. Serviks\nC. Tuba fallopi (Oviduk)\nD. Uretra\n\nKunci Jawaban: C\n\nPembahasan:\nFertilisasi biasanya terjadi di Tuba Fallopi."
+    },
+    {
+        "instruction": "Pahami fungsi testis (suhu).",
+        "input": "Testis dibungkus oleh kulit yang melonggar dan mengerut sesuai suhu udara.",
+        "output": "Soal:\nKantong kulit yang membungkus testis dan berfungsi mengatur suhu testis adalah....\n\nA. Penis\nB. Uretra\nC. Skrotum\nD. Prostat\n\nKunci Jawaban: C\n\nPembahasan:\nSkrotum melindungi testis dan menjaga suhunya agar optimal untuk produksi sperma."
+    },
+    {
+        "instruction": "Analisis makanan sehat.",
+        "input": "Masa pubertas adalah masa pertumbuhan pesat (growth spurt) yang membutuhkan banyak energi dan zat pembangun.",
+        "output": "Soal:\nUntuk mendukung pertumbuhan pesat saat masa pubertas, remaja dianjurkan mengonsumsi....\n\nA. Makanan cepat saji (fast food)\nB. Makanan bergizi seimbang dan tinggi protein\nC. Makanan yang banyak mengandung pengawet\nD. Minuman bersoda\n\nKunci Jawaban: B\n\nPembahasan:\nProtein dan kalsium sangat penting untuk pertumbuhan tulang dan otot yang pesat saat pubertas."
+    },
+    {
+        "instruction": "Identifikasi menopause.",
+        "input": "Pada usia lanjut, wanita akan berhenti mengalami menstruasi dan tidak dapat hamil lagi.",
+        "output": "Soal:\nMasa berakhirnya siklus menstruasi pada wanita lanjut usia disebut....\n\nA. Menarche\nB. Menopause\nC. Menstruasi\nD. Ovulasi\n\nKunci Jawaban: B\n\nPembahasan:\nMenopause adalah tahap alami penuaan wanita saat ovarium berhenti memproduksi sel telur dan hormon."
+    },
+    {
+        "instruction": "Pahami embrio.",
+        "input": "Setelah zigot menempel di dinding rahim, ia akan terus membelah dan membentuk organ-organ.",
+        "output": "Soal:\nZigot yang telah menempel di dinding rahim dan sedang dalam tahap pembentukan organ disebut....\n\nA. Sel telur\nB. Embrio\nC. Bayi\nD. Balita\n\nKunci Jawaban: B\n\nPembahasan:\nUrutan: Zigot (sel tunggal) -> Embrio (multiseluler awal) -> Janin (sudah berbentuk manusia)."
+    },
+    {
+        "instruction": "Analisis kebersihan saat menstruasi.",
+        "input": "Darah haid dapat menjadi media berkembangnya bakteri jika tidak dibersihkan dengan benar.",
+        "output": "Soal:\nSaat sedang menstruasi, sebaiknya mengganti pembalut setidaknya....\n\nA. 1 kali sehari\nB. 2 hari sekali\nC. 3-4 jam sekali atau jika sudah terasa penuh\nD. Seminggu sekali\n\nKunci Jawaban: C\n\nPembahasan:\nMengganti pembalut rutin (tiap 4-6 jam) mencegah infeksi dan iritasi."
+    },
+    {
+        "instruction": "Identifikasi laring.",
+        "input": "Kotak suara pada pria akan membesar saat pubertas, menyebabkan munculnya tonjolan di leher.",
+        "output": "Soal:\nTonjolan keras di tengah leher laki-laki yang terbentuk saat pubertas disebut....\n\nA. Gondok\nB. Jakun\nC. Amandel\nD. Kelenjar tiroid\n\nKunci Jawaban: B\n\nPembahasan:\nJakun (Adam's apple) adalah tulang rawan laring yang membesar karena pengaruh hormon testosteron."
+    },
+    {
+        "instruction": "Pahami umur pubertas.",
+        "input": "Setiap anak mengalami pubertas di waktu yang berbeda-beda, namum ada rata-rata umumnya.",
+        "output": "Soal:\nSecara umum, masa pubertas biasanya dimulai pada rentang usia....\n\nA. 5-7 tahun\nB. 10-15 tahun\nC. 20-25 tahun\nD. 40-50 tahun\n\nKunci Jawaban: B\n\nPembahasan:\nPubertas biasanya dimulai usia 10-14 tahun pada perempuan dan 12-16 tahun pada laki-laki (variatif)."
+    },
+    {
+        "instruction": "Analisis persiapan menghadapi pubertas.",
+        "input": "Pubertas membawa banyak perubahan yang mungkin mengejutkan bagi remaja.",
+        "output": "Soal:\nBerikut adalah sikap positif dalam menghadapi masa pubertas, kecuali....\n\nA. Menjaga kebersihan tubuh\nB. Mencari informasi yang benar\nC. Merasa takut dan menarik diri dari lingkungan\nD. Mendekatkan diri kepada Tuhan\n\nKunci Jawaban: C\n\nPembahasan:\nMerasa takut berlebihan dan menarik diri adalah sikap negatif (tidak adaptif)."
+    },
+    {
+        "instruction": "Identifikasi organ vital.",
+        "input": "Bagian tubuh tertentu bersifat pribadi dan tidak boleh dilihat atau disentuh sembarang orang.",
+        "output": "Soal:\nOrgan reproduksi termasuk 'area pribadi'. Sikap kita terhadap orang lain yang ingin menyentuh area tersebut adalah....\n\nA. Membiarkan saja\nB. Menolak dengan tegas dan melaporkan ke orang tua/guru\nC. Merasa bangga\nD. Tertawa\n\nKunci Jawaban: B\n\nPembahasan:\nPendidikan seksualitas dasar: 'Sentuhan Boleh' dan 'Sentuhan Tidak Boleh'."
+    },
+    {
+        "instruction": "Pahami fungsi plasenta.",
+        "input": "Janin di dalam kandungan membutuhkan makanan tetapi tidak makan melalui mulut.",
+        "output": "Soal:\nSaluran yang menghubungkan ibu dan janin untuk menyalurkan oksigen dan sari makanan adalah....\n\nA. Dinding rahim\nB. Air ketuban\nC. Plasenta (Tali pusar/Ari-ari)\nD. Usus\n\nKunci Jawaban: C\n\nPembahasan:\nPlasenta dan tali pusar berfungsi mentransfer nutrien dan oksigen dari darah ibu ke darah janin."
+    },
+    {
+        "instruction": "Analisis perbedaan fisik.",
+        "input": "Perempuan disiapkan secara biologis untuk mengandung dan melahirkan.",
+        "output": "Soal:\nSalah satu ciri sekunder perempuan yang berkaitan dengan persiapan melahirkan adalah....\n\nA. Suara melengking\nB. Kulit menjadi halus\nC. Pinggul membesar\nD. Rambut makin panjang\n\nKunci Jawaban: C\n\nPembahasan:\nPanggul/pinggul wanita melebar untuk mempermudah jalan lahir bayi."
+    },
+    {
+        "instruction": "Identifikasi sel gamet.",
+        "input": "Manusia berkembang biak secara generatif melalui peleburan dua sel kelamin.",
+        "output": "Soal:\nSel kelamin jantan disebut ... dan sel kelamin betina disebut ....\n\nA. Ovum, Sperma\nB. Sperma, Ovum\nC. Zigot, Janin\nD. Embrio, Bayi\n\nKunci Jawaban: B\n\nPembahasan:\nJantan = Sperma, Betina = Ovum (Telur)."
+    },
+    {
+        "instruction": "Pahami siklus haid.",
+        "input": "Menstruasi terjadi secara periodik atau berulang setiap bulannya.",
+        "output": "Soal:\nSiklus menstruasi normal pada wanita rata-rata terjadi setiap ... hari sekali.\n\nA. 14\nB. 28\nC. 40\nD. 60\n\nKunci Jawaban: B\n\nPembahasan:\nSiklus normal berkisar 21-35 hari, dengan rata-rata 28 hari."
+    },
+    {
+        "instruction": "Analisis olahraga.",
+        "input": "Gaya hidup sehat sangat penting untuk menunjang pertumbuhan saat pubertas.",
+        "output": "Soal:\nManfaat berolahraga secara teratur pada masa pubertas adalah....\n\nA. Menghentikan pertumbuhan tinggi badan\nB. Membuat tubuh menjadi cepat lelah dan sakit\nC. Membantu pertumbuhan tulang dan otot serta menjaga kebugaran\nD. Mengurangi nafsu makan\n\nKunci Jawaban: C\n\nPembahasan:\nOlahraga memicu hormon pertumbuhan dan memperkuat sistem muskuloskeletal."
+    },
+    {
+        "instruction": "Identifikasi kumis/jenggot.",
+        "input": "Wajah laki-laki saat dewasa tampak berbeda dengan saat anak-anak karena adanya rambut halus.",
+        "output": "Soal:\nTumbuhnya kumis dan jenggot pada laki-laki merupakan contoh perubahan....\n\nA. Primer\nB. Sekunder\nC. Psikologis\nD. Sementara\n\nKunci Jawaban: B\n\nPembahasan:\nPerubahan fisik luar (rambut wajah) adalah ciri sekunder."
+    },
+    {
+        "instruction": "Pahami dampak positif pubertas.",
+        "input": "Meskipun membawa perubahan yang terkadang tidak nyaman, pubertas menandakan kematangan.",
+        "output": "Soal:\nSalah satu tanda biologis bahwa seorang manusia sudah dewasa secara reproduksi adalah....\n\nA. Sudah lulus sekolah\nB. Sudah bekerja\nC. Organ reproduksinya sudah berfungsi menghasilkan sel kelamin\nD. Memiliki KTP\n\nKunci Jawaban: C\n\nPembahasan:\nKematangan biologis ditandai dengan kemampuan reproduksi (menghasilkan keturunan)."
+    },
+    {
+        "instruction": "Analisis menjaga pergaulan.",
+        "input": "Agama dan norma sosial mengajarkan adab pergaulan antara laki-laki dan perempuan.",
+        "output": "Soal:\nUntuk menghindari dampak negatif pergaulan, kita harus mematuhi norma....\n\nA. Agama dan kesusilaan\nB. Kebebasan\nC. Internasional\nD. Kelompok\n\nKunci Jawaban: A\n\nPembahasan:\nNorma agama dan kesusilaan menjadi benteng perilaku remaja."
+    },
+    {
+        "instruction": "Identifikasi janin.",
+        "input": "Tahap perkembangan manusia di dalam rahim ibu sebelum lahir.",
+        "output": "Soal:\nBayi yang masih berada di dalam kandungan ibu disebut....\n\nA. Balita\nB. Anak-anak\nC. Janin\nD. Remaja\n\nKunci Jawaban: C\n\nPembahasan:\nJanin (Fetus) adalah sebutan untuk bayi dalam kandungan setelah fase embrio."
+    },
+    {
+        "instruction": "Identifikasi organisasi pergerakan nasional.",
+        "input": "Organisasi ini didirikan pada tanggal 20 Mei 1908 oleh Dr. Sutomo dan para mahasiswa STOVIA. Berdirinya organisasi ini diperingati sebagai Hari Kebangkitan Nasional.",
+        "output": "Soal:\nOrganisasi pergerakan nasional pertama di Indonesia adalah....\n\nA. Sarekat Islam\nB. Indische Partij\nC. Budi Utomo\nD. Taman Siswa\n\nKunci Jawaban: C\n\nPembahasan:\nBudi Utomo adalah organisasi modern pertama yang memicu kesadaran nasional, didirikan 20 Mei 1908."
+    },
+    {
+        "instruction": "Pahami peristiwa Sumpah Pemuda.",
+        "input": "Pada tanggal 28 Oktober 1928, para pemuda Indonesia mengikrarkan tekad untuk bersatu.",
+        "output": "Soal:\nIsi ikrar Sumpah Pemuda yang ketiga adalah menjunjung tinggi bahasa persatuan, yaitu....\n\nA. Bahasa Melayu\nB. Bahasa Belanda\nC. Bahasa Indonesia\nD. Bahasa Jawa\n\nKunci Jawaban: C\n\nPembahasan:\nIsi Sumpah Pemuda: 1. Tanah Air Indonesia, 2. Bangsa Indonesia, 3. Menjunjung Bahasa Persatuan Bahasa Indonesia."
+    },
+    {
+        "instruction": "Analisis dampak pendudukan Jepang.",
+        "input": "Jepang datang ke Indonesia mengaku sebagai 'Saudara Tua' dan membentuk berbagai organisasi semimiliter.",
+        "output": "Soal:\nOrganisasi bentukan Jepang yang bertujuan melatih pemuda Indonesia secara militer untuk membantu perang Jepang adalah....\n\nA. BPUPKI\nB. PETA (Pembela Tanah Air)\nC. VOC\nD. Budi Utomo\n\nKunci Jawaban: B\n\nPembahasan:\nPETA dibentuk Jepang untuk membantu pertahanan militer, yang nantinya menjadi cikal bakal TNI."
+    },
+    {
+        "instruction": "Identifikasi BPUPKI.",
+        "input": "Menjelang kekalahannya, Jepang membentuk badan untuk mempersiapkan kemerdekaan Indonesia pada tanggal 1 Maret 1945.",
+        "output": "Soal:\nBPUPKI adalah singkatan dari....\n\nA. Badan Penyelidik Usaha-usaha Persiapan Kemerdekaan Indonesia\nB. Badan Persiapan Untuk Proklamasi Kemerdekaan Indonesia\nC. Badan Pembantu Usaha Persiapan Kemerdekaan Indonesia\nD. Barisan Pemuda Untuk Persiapan Kemerdekaan Indonesia\n\nKunci Jawaban: A\n\nPembahasan:\nBPUPKI (Dokuritsu Junbi Cosakai) bertugas menyelidiki hal-hal yang dibutuhkan untuk kemerdekaan."
+    },
+    {
+        "instruction": "Pahami perumusan Pancasila.",
+        "input": "Dalam sidang BPUPKI, tiga tokoh menyampaikan usulan dasar negara, yaitu Mr. Mohammad Yamin, Mr. Soepomo, dan Ir. Soekarno.",
+        "output": "Soal:\nIstilah 'Pancasila' pertama kali dikemukakan oleh Ir. Soekarno pada tanggal....\n\nA. 29 Mei 1945\nB. 31 Mei 1945\nC. 1 Juni 1945\nD. 17 Agustus 1945\n\nKunci Jawaban: C\n\nPembahasan:\nTanggal 1 Juni diperingati sebagai Hari Lahir Pancasila karena pada tanggal tersebut Soekarno berpidato mengusulkan nama Pancasila."
+    },
+    {
+        "instruction": "Identifikasi peristiwa Rengasdengklok.",
+        "input": "Terjadi perbedaan pendapat antara golongan tua dan golongan muda mengenai waktu pelaksanaan proklamasi. Golongan muda membawa Soekarno-Hatta menjauh dari pengaruh Jepang.",
+        "output": "Soal:\nPeristiwa 'pengamanan' Ir. Soekarno dan Drs. Moh. Hatta oleh golongan muda ke luar kota Jakarta sehari sebelum proklamasi disebut peristiwa....\n\nA. Bandung Lautan Api\nB. Rengasdengklok\nC. Gerakan 30 September\nD. Serangan Umum\n\nKunci Jawaban: B\n\nPembahasan:\nRengasdengklok (Karawang) dipilih sebagai tempat mengamankan Soekarno-Hatta agar segera memproklamasikan kemerdekaan."
+    },
+    {
+        "instruction": "Analisis penyusunan naskah proklamasi.",
+        "input": "Naskah proklamasi disusun di rumah seorang perwira tinggi Angkatan Laut Jepang yang bersimpati pada perjuangan Indonesia.",
+        "output": "Soal:\nSiapakah perwira Jepang yang meminjamkan rumahnya untuk perumusan naskah proklamasi?\n\nA. Jenderal Terauchi\nB. Laksamana Tadashi Maeda\nC. Kumakici Harada\nD. Marsekal Hisaichi\n\nKunci Jawaban: B\n\nPembahasan:\nLaksamana Maeda menjamin keamanan para tokoh bangsa di rumahnya (Jalan Imam Bonjol No. 1) untuk merumuskan proklamasi."
+    },
+    {
+        "instruction": "Identifikasi pengetik naskah proklamasi.",
+        "input": "Naskah proklamasi awalnya ditulis tangan oleh Ir. Soekarno, kemudian diketik agar terlihat rapi dan resmi.",
+        "output": "Soal:\nTokoh yang mengetik teks proklamasi kemerdekaan Indonesia adalah....\n\nA. Sayuti Melik\nB. Sukarni\nC. B.M. Diah\nD. Ahmad Soebardjo\n\nKunci Jawaban: A\n\nPembahasan:\nSayuti Melik mengetik naskah proklamasi, didampingi B.M. Diah."
+    },
+    {
+        "instruction": "Pahami pelaksanaan proklamasi.",
+        "input": "Pembacaan teks proklamasi dilakukan pada hari Jumat, 17 Agustus 1945 pukul 10.00 pagi.",
+        "output": "Soal:\nDi manakah lokasi pembacaan naskah proklamasi kemerdekaan Indonesia dilakukan?\n\nA. Istana Negara\nB. Lapangan Ikada\nC. Jalan Pegangsaan Timur No. 56 Jakarta\nD. Rengasdengklok\n\nKunci Jawaban: C\n\nPembahasan:\nProklamasi dibacakan di halaman rumah Ir. Soekarno, Jalan Pegangsaan Timur 56 (sekarang Tugu Proklamasi)."
+    },
+    {
+        "instruction": "Identifikasi penjahit bendera pusaka.",
+        "input": "Bendera Merah Putih yang dikibarkan saat proklamasi dijahit sendiri oleh istri Bung Karno.",
+        "output": "Soal:\nIbu negara yang menjahit Bendera Pusaka Merah Putih adalah....\n\nA. Ibu Kartini\nB. Ibu Tien Soeharto\nC. Ibu Fatmawati\nD. Ibu Inggit Garnasih\n\nKunci Jawaban: C\n\nPembahasan:\nFatmawati menjahit bendera merah putih yang dikenal sebagai Bendera Pusaka."
+    },
+    {
+        "instruction": "Analisis penyebar berita proklamasi.",
+        "input": "Berita kemerdekaan harus segera disebarkan ke seluruh dunia dan rakyat Indonesia.",
+        "output": "Soal:\nSalah satu cara para pemuda menyebarkan berita proklamasi adalah melalui....\n\nA. Siaran radio dan surat kabar\nB. Pesan WhatsApp\nC. Televisi berwarna\nD. Internet\n\nKunci Jawaban: A\n\nPembahasan:\nPada tahun 1945, radio (RRI/Domei) dan surat kabar adalah media utama, selain pamflet dan coretan di tembok/kereta."
+    },
+    {
+        "instruction": "Identifikasi tokoh Proklamator.",
+        "input": "Dua tokoh yang menandatangani naskah proklamasi atas nama bangsa Indonesia diberi gelar Bapak Proklamator.",
+        "output": "Soal:\nSiapakah kedua tokoh yang disebut sebagai Bapak Proklamator Indonesia?\n\nA. Soekarno dan Soeharto\nB. Soekarno dan Moh. Hatta\nC. Moh. Hatta dan Sutan Syahrir\nD. Jenderal Sudirman dan Bung Tomo\n\nKunci Jawaban: B\n\nPembahasan:\nSoekarno dan Hatta (Dwitunggal) menandatangani dan membacakan teks proklamasi."
+    },
+    {
+        "instruction": "Pahami makna proklamasi.",
+        "input": "Proklamasi bukan sekadar pembacaan teks, tetapi memiliki makna mendalam bagi bangsa Indonesia.",
+        "output": "Soal:\nSalah satu makna penting proklamasi kemerdekaan bagi bangsa Indonesia adalah....\n\nA. Akhir dari penderitaan rakyat selamanya\nB. Puncak perjuangan bangsa Indonesia melawan penjajah\nC. Awal dimulainya penjajahan baru\nD. Tanda dimulainya perang saudara\n\nKunci Jawaban: B\n\nPembahasan:\nProklamasi adalah puncak perjuangan (kulminasi) dan titik tolak lahirnya negara baru yang berdaulat."
+    },
+    {
+        "instruction": "Analisis Pertempuran 10 November.",
+        "input": "Setelah merdeka, Belanda ingin kembali berkuasa dengan membonceng Sekutu (NICA). Terjadi pertempuran dasyat di Surabaya.",
+        "output": "Soal:\nTokoh yang membakar semangat pemuda Surabaya (Arek-arek Suroboyo) melalui pidato radionya yang berapi-api adalah....\n\nA. dr. Kariadi\nB. Bung Tomo\nC. Jenderal Sudirman\nD. I Gusti Ngurah Rai\n\nKunci Jawaban: B\n\nPembahasan:\nSutomo (Bung Tomo) terkenal dengan pekik 'Merdeka atau Mati' dalam Pertempuran 10 November 1945."
+    },
+    {
+        "instruction": "Identifikasi Hari Pahlawan.",
+        "input": "Peristiwa pertempuran Surabaya pada tanggal 10 November 1945 sangat bersejarah.",
+        "output": "Soal:\nUntuk mengenang jasa para pejuang di Surabaya, setiap tanggal 10 November diperingati sebagai Hari....\n\nA. Kebangkitan Nasional\nB. Kesaktian Pancasila\nC. Pahlawan\nD. Pendidikan Nasional\n\nKunci Jawaban: C\n\nPembahasan:\n10 November ditetapkan sebagai Hari Pahlawan Nasional."
+    },
+    {
+        "instruction": "Pahami Peristiwa Bandung Lautan Api.",
+        "input": "Rakyat Bandung rela membakar rumah mereka sendiri agar tidak digunakan oleh tentara Sekutu/NICA sebagai markas.",
+        "output": "Soal:\nPeristiwa pembakaran kota Bandung oleh para pejuang dan rakyat dikenal dengan sebutan....\n\nA. Bandung Membara\nB. Bandung Lautan Api\nC. Pertempuran Ambarawa\nD. Medan Area\n\nKunci Jawaban: B\n\nPembahasan:\nStrategi bumi hangus ini dilakukan agar Sekutu tidak bisa memanfaatkan fasilitas di Bandung (Maret 1946)."
+    },
+    {
+        "instruction": "Analisis Perjanjian Linggarjati.",
+        "input": "Indonesia dan Belanda melakukan berbagai perundingan diplomasi untuk menyelesaikan konflik, salah satunya Perjanjian Linggarjati.",
+        "output": "Soal:\nSalah satu dampak negatif Perjanjian Linggarjati bagi Indonesia adalah....\n\nA. Wilayah Indonesia diakui hanya meliputi Sumatera, Jawa, dan Madura\nB. Belanda mengakui kedaulatan Indonesia atas seluruh bekas jajahan Hindia Belanda\nC. Tentara Belanda ditarik mundur dari seluruh Indonesia\nD. Indonesia mendapat bantuan ekonomi\n\nKunci Jawaban: A\n\nPembahasan:\nLinggarjat (1946) mengakui wilayah RI secara de facto hanya Jawa, Sumatera, dan Madura (wilayah RI menyempit)."
+    },
+    {
+        "instruction": "Identifikasi Agresi Militer.",
+        "input": "Belanda mengingkari perjanjian Linggarjati dan menyerang wilayah-wilayah Republik Indonesia.",
+        "output": "Soal:\nSerangan militer Belanda yang pertama kali dilancarkan pada tahun 1947 dikenal dengan nama....\n\nA. Agresi Militer Belanda I\nB. Agresi Militer Belanda II\nC. Serangan Umum\nD. Trikora\n\nKunci Jawaban: A\n\nPembahasan:\nAgresi Militer I (Juli 1947) bertujuan merebut daerah perkebunan dan minyak (Aksi Polisionil)."
+    },
+    {
+        "instruction": "Pahami peran Jenderal Sudirman.",
+        "input": "Saat Agresi Militer Belanda II, ibu kota Yogyakarta dikuasai Belanda dan para pemimpin ditangkap. Namun, Panglima Besar TNI tetap memimpin perang.",
+        "output": "Soal:\nStrategi perang yang dilakukan Jenderal Sudirman dalam kondisi sakit parah adalah....\n\nA. Perang terbuka\nB. Perang gerilya (masuk keluar hutan)\nC. Perang parit\nD. Perang diplomasi\n\nKunci Jawaban: B\n\nPembahasan:\nJenderal Sudirman memimpin Perang Gerilya (berpindah-pindah di hutan/desa) selama 7 bulan meski ditandu karena sakit paru-paru."
+    },
+    {
+        "instruction": "Identifikasi Konferensi Meja Bundar (KMB).",
+        "input": "Puncak perjuangan diplomasi Indonesia adalah Konferensi Meja Bundar yang diadakan di Den Haag, Belanda.",
+        "output": "Soal:\nHasil utama dari KMB pada tahun 1949 adalah....\n\nA. Belanda mengakui kedaulatan Indonesia (RIS)\nB. Indonesia kembali dijajah Belanda\nC. Pembentukan tentara gabungan\nD. Pembagian wilayah menjadi negara bagian\n\nKunci Jawaban: A\n\nPembahasan:\nKMB (Desember 1949) menghasilkan pengakuan kedaulatan dari Belanda kepada Republik Indonesia Serikat (RIS)."
+    },
+    {
+        "instruction": "Analisis lambang negara.",
+        "input": "Setiap negara merdeka memiliki lambang negara sebagai identitas bangsa.",
+        "output": "Soal:\nLambang negara Indonesia adalah Burung Garuda yang mencengkeram pita bertuliskan semboyan....\n\nA. Tut Wuri Handayani\nB. Bhinneka Tunggal Ika\nC. Bersatu Kita Teguh\nD. Maju Tak Gentar\n\nKunci Jawaban: B\n\nPembahasan:\nBhinneka Tunggal Ika (Berbeda-beda tetapi tetap satu jua) adalah semboyan negara di kaki Garuda."
+    },
+    {
+        "instruction": "Identifikasi lagu kebangsaan.",
+        "input": "Lagu kebangsaan Indonesia pertama kali diperdengarkan secara instrumental pada saat Sumpah Pemuda.",
+        "output": "Soal:\nPencipta lagu kebangsaan 'Indonesia Raya' adalah....\n\nA. Ismail Marzuki\nB. Cornel Simanjuntak\nC. W.R. Supratman\nD. H. Mutahar\n\nKunci Jawaban: C\n\nPembahasan:\nWage Rudolf Supratman menciptakan lagu Indonesia Raya."
+    },
+    {
+        "instruction": "Pahami Pertempuran Ambarawa.",
+        "input": "Di Ambarawa, pasukan Sekutu dikepung oleh TKR (Tentara Keamanan Rakyat) dengan strategi Supit Urang.",
+        "output": "Soal:\nTokoh yang terkenal memimpin Pertempuran Ambarawa setelah Letkol Isdiman gugur adalah....\n\nA. Kolonel Sudirman\nB. Bung Tomo\nC. Pangeran Diponegoro\nD. I Gusti Ngurah Rai\n\nKunci Jawaban: A\n\nPembahasan:\nKolonel Sudirman (sebelum jadi Jenderal) memimpin TKR memenangkan palagan Ambarawa (15 Desember), diperingati sebagai Hari Juang Kartika."
+    },
+    {
+        "instruction": "Identifikasi Puputan Margarana.",
+        "input": "Di Bali, pasukan Ciung Wanara bertempur habis-habisan melawan Belanda.",
+        "output": "Soal:\nPemimpin pasukan Ciung Wanara yang gugur dalam Puputan Margarana di Bali adalah....\n\nA. I Gusti Ketut Jelantik\nB. I Gusti Ngurah Rai\nC. Untung Suropati\nD. Sisingamangaraja\n\nKunci Jawaban: B\n\nPembahasan:\nI Gusti Ngurah Rai memimpin puputan (perang habis-habisan) di Margarana (1946)."
+    },
+    {
+        "instruction": "Analisis Serangan Umum 1 Maret.",
+        "input": "Serangan mendadak dilakukan oleh TNI di Yogyakarta untuk membuktikan kepada dunia bahwa TNI masih ada.",
+        "output": "Soal:\nSerangan Umum 1 Maret 1949 di Yogyakarta dipimpin oleh....\n\nA. Jenderal Sudirman\nB. Letkol Soeharto\nC. Sri Sultan Hamengkubuwono IX\nD. Jenderal A.H. Nasution\n\nKunci Jawaban: B\n\nPembahasan:\nLetkol Soeharto memimpin serangan lapangan, atas gagasan Sri Sultan Hamengkubuwono IX (versi umum sejarah)."
+    },
+    {
+        "instruction": "Identifikasi pahlawan pendidikan.",
+        "input": "Tokoh ini mendirikan sekolah Taman Siswa dan semboyannya 'Tut Wuri Handayani' dipakai dalam dunia pendidikan.",
+        "output": "Soal:\nBapak Pendidikan Nasional Indonesia adalah....\n\nA. Ki Hajar Dewantara\nB. Dr. Sutomo\nC. Douwes Dekker\nD. Mohammad Yamin\n\nKunci Jawaban: A\n\nPembahasan:\nKi Hajar Dewantara (Suwardi Suryaningrat) adalah pelopor pendidikan bagi kaum pribumi, pendiri Taman Siswa."
+    },
+    {
+        "instruction": "Pahami Kartini.",
+        "input": "Pahlawan wanita ini memperjuangkan hak-hak perempuan (emansipasi) agar bisa bersekolah seperti laki-laki.",
+        "output": "Soal:\nBuku kumpulan surat R.A. Kartini yang terkenal berjudul....\n\nA. Habis Gelap Terbitlah Terang\nB. Di Bawah Bendera Revolusi\nC. Azab dan Sengsara\nD. Layar Terkembang\n\nKunci Jawaban: A\n\nPembahasan:\n'Door Duisternis tot Licht' (Habis Gelap Terbitlah Terang) adalah kumpulan surat Kartini kepada teman-temannya di Eropa."
+    },
+    {
+        "instruction": "Identifikasi BPUPKI (Ketua).",
+        "input": "Sidang BPUPKI dipimpin oleh seorang ketua yang merupakan tokoh senior.",
+        "output": "Soal:\nKetua BPUPKI adalah....\n\nA. Ir. Soekarno\nB. Dr. Radjiman Wedyodiningrat\nC. Moh. Hatta\nD. Ahmad Soebardjo\n\nKunci Jawaban: B\n\nPembahasan:\nDr. Radjiman Wedyodiningrat adalah ketua BPUPKI."
+    },
+    {
+        "instruction": "Analisis PPKI.",
+        "input": "Setelah BPUPKI dibubarkan (karena tugas selesai), dibentuklah PPKI pada tanggal 7 Agustus 1945.",
+        "output": "Soal:\nTugas utama PPKI adalah....\n\nA. Membantu tentara Jepang\nB. Menyiapkan segala sesuatu yang berkaitan dengan pelaksanaan kemerdekaan dan tata negara\nC. Mengusir Belanda\nD. Membentuk angkatan perang\n\nKunci Jawaban: B\n\nPembahasan:\nPPKI (Dokuritsu Junbi Inkai) bertugas meresmikan dasar negara (UUD 1945), memilih Presiden/Wapres, dll."
+    },
+    {
+        "instruction": "Identifikasi Piagam Jakarta.",
+        "input": "Panitia Sembilan menghasilkan rumusan dasar negara yang dikenal sebagai Piagam Jakarta (Jakarta Charter).",
+        "output": "Soal:\nPerbedaan utama antara Pancasila dalam Piagam Jakarta dengan Pancasila resmi saat ini terletak pada sila ke-....\n\nA. 1 (Satu)\nB. 2 (Dua)\nC. 3 (Tiga)\nD. 5 (Lima)\n\nKunci Jawaban: A\n\nPembahasan:\nSila 1 Piagam Jakarta ('dengan kewajiban menjalankan syariat Islam...') diubah menjadi 'Ketuhanan Yang Maha Esa' demi persatuan."
+    },
+    {
+        "instruction": "Pahami tujuan negara.",
+        "input": "Tujuan negara Indonesia tercantum dalam Pembukaan UUD 1945 alinea ke-4.",
+        "output": "Soal:\nSalah satu tujuan negara Indonesia adalah mencerdaskan....\n\nA. Kehidupan bangsa\nB. Para pejabat\nC. Kehidupan dunia\nD. Generasi muda saja\n\nKunci Jawaban: A\n\nPembahasan:\n'Mencerdaskan kehidupan bangsa' adalah salah satu dari 4 tujuan negara."
+    },
+    {
+        "instruction": "Analisis sikap mengisi kemerdekaan.",
+        "input": "Saat ini kita tidak lagi berperang mengangkat senjata. Tugas pelajar adalah mengisi kemerdekaan.",
+        "output": "Soal:\nCara paling tepat bagi seorang pelajar untuk mengisi kemerdekaan adalah....\n\nA. Bermalas-malasan di rumah\nB. Belajar dengan giat dan berprestasi\nC. Suka berkelahi dengan teman\nD. Bermain game sepanjang waktu\n\nKunci Jawaban: B\n\nPembahasan:\nBelajar giat adalah wujud perjuangan pelajar mengisi kemerdekaan."
+    },
+    {
+        "instruction": "Identifikasi Pattimura.",
+        "input": "Pahlawan ini memimpin perlawanan rakyat Maluku melawan Belanda dan berhasil merebut Benteng Duurstede.",
+        "output": "Soal:\nKapiten Pattimura adalah nama lain dari pahlawan....\n\nA. Thomas Matulessy\nB. Christina Martha Tiahahu\nC. Sultan Hasanuddin\nD. Pangeran Antasari\n\nKunci Jawaban: A\n\nPembahasan:\nNama asli Pattimura adalah Thomas Matulessy."
+    },
+    {
+        "instruction": "Pahami Pangeran Diponegoro.",
+        "input": "Perang Diponegoro (1825-1830) di Jawa sangat menyulitkan Belanda.",
+        "output": "Soal:\nPenyebab utama perang Diponegoro adalah....\n\nA. Belanda memonopoli perdagangan rempah-rempah\nB. Belanda memasang patok jalan di atas makam leluhur Pangeran Diponegoro\nC. Perebutan tahta kerajaan Mataram\nD. Penyebaran agama\n\nKunci Jawaban: B\n\nPembahasan:\nPemasangan patok oleh Belanda yang melintasi makam leluhur tanpa izin memicu kemarahan Pangeran Diponegoro."
+    },
+    {
+        "instruction": "Identifikasi Imam Bonjol.",
+        "input": "Perang Padri di Sumatera Barat awalnya adalah pertentangan kaum Adat dan kaum Agama, namun akhirnya bersatu melawan Belanda.",
+        "output": "Soal:\nPemimpin kaum Padri yang terkenal adalah....\n\nA. Tuanku Imam Bonjol\nB. Sisingamangaraja XII\nC. Teuku Umar\nD. Cut Nyak Dien\n\nKunci Jawaban: A\n\nPembahasan:\nTuanku Imam Bonjol memimpin Perang Padri."
+    },
+    {
+        "instruction": "Analisis Sumpah Palapa.",
+        "input": "Patih Gajah Mada dari Kerajaan Majapahit mengucapkan sumpah untuk mempersatukan Nusantara.",
+        "output": "Soal:\nSumpah Gajah Mada yang terkenal disebut....\n\nA. Sumpah Pemuda\nB. Sumpah Palapa\nC. Sumpah Serapah\nD. Sumpah Setia\n\nKunci Jawaban: B\n\nPembahasan:\nSumpah Palapa berisi janji tidak akan memakan buah palapa (bersenang-senang) sebelum Nusantara bersatu."
+    },
+    {
+        "instruction": "Identifikasi Sultan Hasanuddin.",
+        "input": "Raja Gowa-Tallo dari Makassar yang sangat gigih melawan VOC sehingga dijuluki 'Ayam Jantan dari Timur'.",
+        "output": "Soal:\nJulukan 'Ayam Jantan dari Timur' diberikan kepada....\n\nA. Sultan Baabullah\nB. Sultan Hasanuddin\nC. Sultan Ageng Tirtayasa\nD. Sultan Iskandar Muda\n\nKunci Jawaban: B\n\nPembahasan:\nSultan Hasanuddin (Makassar) dijuluki De Haantjes van Het Oosten oleh Belanda."
+    },
+    {
+        "instruction": "Pahami Politik Etis.",
+        "input": "Di awal abad 20, Belanda menerapkan Politik Balas Budi yang meliputi Edukasi, Irigasi, dan Transmigrasi.",
+        "output": "Soal:\nDampak positif Politik Etis bidang Edukasi bagi bangsa Indonesia adalah....\n\nA. Munculnya golongan terpelajar yang memelopori pergerakan nasional\nB. Sawah-sawah menjadi subur\nC. Penduduk menyebar ke luar Jawa\nD. Belanda semakin kaya\n\nKunci Jawaban: A\n\nPembahasan:\nSekolah-sekolah yang didirikan Belanda melahirkan kaum intelektual yang sadar akan nasib bangsanya (Ide Nasionalisme)."
+    },
+    {
+        "instruction": "Analisis pengibar bendera.",
+        "input": "Tiga orang tokoh bertugas mengibarkan bendera Merah Putih saat proklamasi 17 Agustus 1945.",
+        "output": "Soal:\nSalah satu pengibar bendera saat proklamasi adalah....\n\nA. Latief Hendraningrat\nB. Chaerul Saleh\nC. Wikana\nD. Adam Malik\n\nKunci Jawaban: A\n\nPembahasan:\nPengibar bendera adalah Latief Hendraningrat dan Suhud (kadang disebut juga Trimurti sebagai pembawa baki)."
+    },
+    {
+        "instruction": "Identifikasi Panitia Sembilan.",
+        "input": "BPUPKI membentuk panitia kecil yang beranggotakan 9 orang untuk merumuskan dasar negara.",
+        "output": "Soal:\nSiapakah ketua Panitia Sembilan?\n\nA. Moh. Yamin\nB. Ir. Soekarno\nC. Drs. Moh. Hatta\nD. KH. Wahid Hasyim\n\nKunci Jawaban: B\n\nPembahasan:\nIr. Soekarno mengetuai Panitia Sembilan."
+    },
+    {
+        "instruction": "Pahami semboyan Jepang.",
+        "input": "Untuk menarik simpati rakyat Indonesia, Jepang menggunakan propaganda 'Tiga A'.",
+        "output": "Soal:\nBerikut ini yang bukan bunyi propaganda Tiga A Jepang adalah....\n\nA. Jepang Cahaya Asia\nB. Jepang Pelindung Asia\nC. Jepang Pemimpin Asia\nD. Jepang Saudara Asia\n\nKunci Jawaban: D\n\nPembahasan:\nSemboyan 3A: Jepang Cahaya Asia, Jepang Pelindung Asia, Jepang Pemimpin Asia."
+    },
+    {
+        "instruction": "Analisis peran Sukarni.",
+        "input": "Sukarni adalah salah satu tokoh pemuda yang hadir saat perumusan teks proklamasi.",
+        "output": "Soal:\nUsulan Sukarni terkait penandatanganan teks proklamasi adalah....\n\nA. Ditandatangani oleh semua yang hadir\nB. Ditandatangani oleh Soekarno dan Hatta atas nama bangsa Indonesia\nC. Ditandatangani oleh Laksamana Maeda\nD. Tidak perlu ditandatangani\n\nKunci Jawaban: B\n\nPembahasan:\nSukarni mengusulkan agar teks ditandatangani Soekarno-Hatta saja atas nama bangsa Indonesia, agar mewakili seluruh rakyat."
+    },
+    {
+        "instruction": "Identifikasi kepanjangan ASEAN.",
+        "input": "Organisasi kerja sama negara-negara di kawasan Asia Tenggara.",
+        "output": "Soal:\nKepanjangan dari ASEAN adalah....\n\nA. Association of South East Asian Nations\nB. Association of Small East Asian Nations\nC. Association of Stone East Asian Nations\nD. Association of Soul East Asian Nations\n\nKunci Jawaban: A\n\nPembahasan:\nASEAN (Association of Southeast Asian Nations) adalah Perhimpunan Bangsa-Bangsa Asia Tenggara."
+    },
+    {
+        "instruction": "Pahami sejarah berdirinya ASEAN.",
+        "input": "ASEAN didirikan berdasarkan sebuah deklarasi yang ditandatangani pada tanggal 8 Agustus 1967.",
+        "output": "Soal:\nDeklarasi yang menjadi landasan berdirinya ASEAN adalah....\n\nA. Deklarasi Jakarta\nB. Deklarasi Kuala Lumpur\nC. Deklarasi Bangkok\nD. Deklarasi Manila\n\nKunci Jawaban: C\n\nPembahasan:\nDeklarasi Bangkok ditandatangani di Thailand oleh 5 menteri luar negeri."
+    },
+    {
+        "instruction": "Identifikasi tokoh pendiri ASEAN.",
+        "input": "Lima menteri luar negeri menandatangani Deklarasi Bangkok. Salah satunya berasal dari Indonesia.",
+        "output": "Soal:\nTokoh pendiri ASEAN yang berasal dari Indonesia adalah....\n\nA. Moh. Hatta\nB. Adam Malik\nC. Ali Alatas\nD. Ruslan Abdulgani\n\nKunci Jawaban: B\n\nPembahasan:\nAdam Malik (Menteri Luar Negeri RI saat itu) adalah wakil Indonesia."
+    },
+    {
+        "instruction": "Identifikasi tokoh pendiri ASEAN (Malaysia).",
+        "input": "Wakil dari Malaysia yang turut menandatangani Deklarasi Bangkok.",
+        "output": "Soal:\nTokoh pendiri ASEAN yang berasal dari Malaysia adalah....\n\nA. Tun Abdul Razak\nB. Mahathir Mohamad\nC. S. Rajaratnam\nD. Thanat Khoman\n\nKunci Jawaban: A\n\nPembahasan:\nTun Abdul Razak adalah Wakil Perdana Menteri Malaysia saat itu."
+    },
+    {
+        "instruction": "Identifikasi tokoh pendiri ASEAN (Singapura).",
+        "input": "Wakil dari Singapura yang turut menandatangani Deklarasi Bangkok.",
+        "output": "Soal:\nTokoh pendiri ASEAN yang berasal dari Singapura adalah....\n\nA. Lee Kuan Yew\nB. S. Rajaratnam\nC. Goh Chok Tong\nD. Narciso Ramos\n\nKunci Jawaban: B\n\nPembahasan:\nS. Rajaratnam adalah Menteri Luar Negeri Singapura saat itu."
+    },
+    {
+        "instruction": "Identifikasi tokoh pendiri ASEAN (Filipina).",
+        "input": "Wakil dari Filipina yang turut menandatangani Deklarasi Bangkok.",
+        "output": "Soal:\nTokoh pendiri ASEAN yang berasal dari Filipina adalah....\n\nA. Ferdinand Marcos\nB. Corazon Aquino\nC. Narciso Ramos\nD. Thanat Khoman\n\nKunci Jawaban: C\n\nPembahasan:\nNarciso Ramos adalah Menteri Luar Negeri Filipina saat itu."
+    },
+    {
+        "instruction": "Identifikasi tokoh pendiri ASEAN (Thailand).",
+        "input": "Tuan rumah penandatanganan Deklarasi Bangkok.",
+        "output": "Soal:\nTokoh pendiri ASEAN yang berasal dari Thailand adalah....\n\nA. Bhumibol Adulyadej\nB. Thanat Khoman\nC. Thaksin Shinawatra\nD. Tun Abdul Razak\n\nKunci Jawaban: B\n\nPembahasan:\nThanat Khoman adalah Menteri Luar Negeri Thailand saat itu."
+    },
+    {
+        "instruction": "Analisis Lambang ASEAN.",
+        "input": "Lambang ASEAN terdiri dari ikatan padi berwarna kuning dengan latar belakang merah dan lingkaran biru.",
+        "output": "Soal:\nArti warna kuning pada lambang ASEAN adalah....\n\nA. Keberanian\nB. Kesucian\nC. Kemakmuran\nD. Perdamaian\n\nKunci Jawaban: C\n\nPembahasan:\nKuning melambangkan kemakmuran (seperti padi yang menguning)."
+    },
+    {
+        "instruction": "Analisis arti simbol padi.",
+        "input": "Pada lambang ASEAN terdapat sepuluh batang padi yang terikat.",
+        "output": "Soal:\nIkatan batang padi pada lambang ASEAN melambangkan....\n\nA. Negara agraris\nB. Makanan pokok\nC. Persahabatan dan persatuan antaranggota\nD. Kekayaan alam\n\nKunci Jawaban: C\n\nPembahasan:\nIkatan padi melambangkan harapan para pendiri ASEAN agar negara-negara Asia Tenggara terikat dalam persahabatan dan kesetiakawanan sosial."
+    },
+    {
+        "instruction": "Identifikasi lokasi Sekretariat ASEAN.",
+        "input": "Pusat administrasi ASEAN berada di salah satu ibu kota negara pendiri.",
+        "output": "Soal:\nKantor Sekretariat ASEAN berpusat di kota....\n\nA. Bangkok\nB. Kuala Lumpur\nC. Jakarta\nD. Manila\n\nKunci Jawaban: C\n\nPembahasan:\nSekretariat ASEAN berkedudukan di Jakarta, Indonesia."
+    },
+    {
+        "instruction": "Pahami kondisi geografis Laos.",
+        "input": "Satu-satunya negara di Asia Tenggara yang tidak memiliki wilayah laut.",
+        "output": "Soal:\nNegara ASEAN yang dijuluki 'The Land Locked Country' (Tanah Terkunci) karena tidak memiliki laut adalah....\n\nA. Kamboja\nB. Laos\nC. Vietnam\nD. Thailand\n\nKunci Jawaban: B\n\nPembahasan:\nLaos dikelilingi daratan negara lain (Tiongkok, Vietnam, Kamboja, Thailand, Myanmar) sehingga tidak punya akses laut."
+    },
+    {
+        "instruction": "Identifikasi negara kepulauan.",
+        "input": "Negara ini terdiri dari ribuan pulau, mirip seperti Indonesia.",
+        "output": "Soal:\nNegara kepulauan terbesar di Asia Tenggara selain Indonesia adalah....\n\nA. Malaysia\nB. Filipina\nC. Thailand\nD. Vietnam\n\nKunci Jawaban: B\n\nPembahasan:\nFilipina adalah negara kepulauan (Archipilagic State)."
+    },
+    {
+        "instruction": "Analisis ekonomi Singapura.",
+        "input": "Singapura tidak memiliki sumber daya alam yang melimpah, tetapi menjadi negara paling maju di ASEAN.",
+        "output": "Soal:\nSektor utama penopang perekonomian negara Singapura adalah....\n\nA. Pertanian dan Perkebunan\nB. Pertambangan Minyak\nC. Perdagangan, Jasa, dan Pariwisata\nD. Perikanan\n\nKunci Jawaban: C\n\nPembahasan:\nSingapura mengandalkan letak strategisnya untuk perdagangan (pelabuhan), jasa keuangan, dan pariwisata."
+    },
+    {
+        "instruction": "Identifikasi mata uang Malaysia.",
+        "input": "Setiap negara memiliki mata uang sendiri sebagai alat pembayaran yang sah.",
+        "output": "Soal:\nMata uang negara Malaysia adalah....\n\nA. Baht\nB. Ringgit\nC. Peso\nD. Dolar\n\nKunci Jawaban: B\n\nPembahasan:\nRinggit (MYR) adalah mata uang Malaysia."
+    },
+    {
+        "instruction": "Identifikasi mata uang Thailand.",
+        "input": "Alat pembayaran yang sah di Negeri Gajah Putih.",
+        "output": "Soal:\nMata uang negara Thailand adalah....\n\nA. Dong\nB. Kyat\nC. Baht\nD. Riel\n\nKunci Jawaban: C\n\nPembahasan:\nBaht (THB) adalah mata uang Thailand."
+    },
+    {
+        "instruction": "Pahami julukan negara Thailand.",
+        "input": "Thailand adalah satu-satunya negara di Asia Tenggara yang tidak pernah dijajah oleh bangsa Eropa.",
+        "output": "Soal:\nThailand mendapat julukan 'Lumbung Padi Asia' karena....\n\nA. Bentuk negaranya seperti padi\nB. Merupakan penghasil beras terbesar di Asia Tenggara\nC. Rakyatnya hanya makan padi\nD. Tidak pernah dijajah\n\nKunci Jawaban: B\n\nPembahasan:\nThailand merupakan eksportir beras utama dunia."
+    },
+    {
+        "instruction": "Identifikasi negara Petro Dollar.",
+        "input": "Negara kecil di utara Pulau Kalimantan ini sangat kaya raya berkat minyak bumi dan gas alam.",
+        "output": "Soal:\nNegara ASEAN yang mendapat julukan 'Negara Petro Dollar' adalah....\n\nA. Singapura\nB. Malaysia\nC. Brunei Darussalam\nD. Timor Leste\n\nKunci Jawaban: C\n\nPembahasan:\nKekayaan Brunei berasal dari ekspor minyak dan gas alam."
+    },
+    {
+        "instruction": "Pahami iklim ASEAN.",
+        "input": "Secara astronomis, sebagian besar negara ASEAN terletak di sekitar garis khatulistiwa.",
+        "output": "Soal:\nIklim yang mendominasi negara-negara di kawasan Asia Tenggara adalah iklim....\n\nA. Subtropis\nB. Sedang\nC. Tropis\nD. Dingin\n\nKunci Jawaban: C\n\nPembahasan:\nKawasan ASEAN berada di antara 28 LU - 11 LS, sehingga beriklim tropis (panas dan lembab sepanjang tahun)."
+    },
+    {
+        "instruction": "Identifikasi Sungai Mekong.",
+        "input": "Sungai terpanjang di Asia Tenggara ini melintasi lima negara ASEAN.",
+        "output": "Soal:\nSungai Mekong memegang peranan penting bagi perekonomian negara-negara yang dilaluinya, terutama untuk....\n\nA. Pembangkit listrik dan Irigasi pertanian\nB. Wisata selancar\nC. Tambang emas\nD. Batas negara\n\nKunci Jawaban: A\n\nPembahasan:\nSungai Mekong sangat vital untuk pertanian (sawah) dan perikanan di Vietnam, Kamboja, Laos, Thailand, dan Myanmar."
+    },
+    {
+        "instruction": "Analisis bentuk pemerintahan Malaysia.",
+        "input": "Kepala negara Malaysia adalah seorang raja bergelar Yang di-Pertuan Agong yang dipilih bergilir dari 9 sultan.",
+        "output": "Soal:\nBentuk pemerintahan negara Malaysia adalah....\n\nA. Republik\nB. Kerajaan (Monarki Konstitusional)\nC. Kesultanan Murni\nD. Komunis\n\nKunci Jawaban: B\n\nPembahasan:\nMalaysia adalah kerajaan konstitusional federal dengan sistem parlementer."
+    },
+    {
+        "instruction": "Identifikasi Ibu Kota Filipina.",
+        "input": "Pusat pemerintahan negara kepulauan di utara Indonesia.",
+        "output": "Soal:\nIbu kota negara Filipina adalah....\n\nA. Bangkok\nB. Kuala Lumpur\nC. Manila\nD. Hanoi\n\nKunci Jawaban: C\n\nPembahasan:\nManila adalah ibu kota Filipina."
+    },
+    {
+        "instruction": "Identifikasi Ibu Kota Vietnam.",
+        "input": "Negara yang pernah terpecah menjadi Vietnam Utara dan Vietnam Selatan.",
+        "output": "Soal:\nIbu kota negara Vietnam adalah....\n\nA. Ho Chi Minh City\nB. Hanoi\nC. Phnom Penh\nD. Vientiane\n\nKunci Jawaban: B\n\nPembahasan:\nHanoi adalah ibu kota Vietnam."
+    },
+    {
+        "instruction": "Pahami julukan Vietnam.",
+        "input": "Vietnam bangkit dari perang menjadi negara dengan ekonomi yang tumbuh cepat.",
+        "output": "Soal:\nVietnam sering dijuluki sebagai negeri....\n\nA. Gajah Putih\nB. Naga Biru\nC. Jiran\nD. Seribu Pagoda\n\nKunci Jawaban: B\n\nPembahasan:\nJulukan Vietnam adalah Negeri Naga Biru (The Blue Dragon) karena bentuk wilayahnya dan pertumbuhan ekonominya."
+    },
+    {
+        "instruction": "Identifikasi Kamboja.",
+        "input": "Negara ini memiliki bangunan candi Hindu-Buddha terbesar di dunia yang menjadi lambang benderanya.",
+        "output": "Soal:\nBangunan bersejarah yang menjadi ikon negara Kamboja adalah....\n\nA. Borobudur\nB. Angkor Wat\nC. Pagoda Shwedagon\nD. Menara Petronas\n\nKunci Jawaban: B\n\nPembahasan:\nAngkor Wat adalah kompleks candi terbesar dan menjadi simbol nasional Kamboja."
+    },
+    {
+        "instruction": "Identifikasi Myanmar.",
+        "input": "Negara ini banyak memiliki kuil-kuil Buddha yang megah dan berlapis emas.",
+        "output": "Soal:\nMyanmar dikenal dengan julukan Negeri....\n\nA. Seribu Pulau\nB. Seribu Pagoda\nC. Tirai Bambu\nD. Matahari Terbit\n\nKunci Jawaban: B\n\nPembahasan:\nPagoda (kuil Buddha) sangat banyak ditemukan di Myanmar."
+    },
+    {
+        "instruction": "Pahami mata uang Filipina.",
+        "input": "Mata uang yang digunakan di Manila dan sekitarnya.",
+        "output": "Soal:\nMata uang negara Filipina adalah....\n\nA. Peso\nB. Dollar\nC. Rupee\nD. Kyat\n\nKunci Jawaban: A\n\nPembahasan:\nPeso (PHP) adalah mata uang Filipina."
+    },
+    {
+        "instruction": "Identifikasi tujuan ASEAN (Ekonomi).",
+        "input": "Kerja sama ASEAN mencakup berbagai bidang, salah satunya ekonomi untuk meningkatkan kesejahteraan.",
+        "output": "Soal:\nBentuk kerja sama ekonomi ASEAN untuk mewujudkan kawasan perdagangan bebas adalah....\n\nA. AFTA (ASEAN Free Trade Area) / MEA\nB. NATO\nC. PBB\nD. OPEC\n\nKunci Jawaban: A\n\nPembahasan:\nAFTA/MEA bertujuan menghapus hambatan tarif perdagangan antarnegara anggota."
+    },
+    {
+        "instruction": "Identifikasi letak geografis Indonesia.",
+        "input": "Indonesia terletak di posisi silang yang sangat strategis.",
+        "output": "Soal:\nSecara geografis, Indonesia dan kawasan ASEAN terletak di antara dua samudra, yaitu....\n\nA. Samudra Hindia dan Samudra Atlantik\nB. Samudra Pasifik dan Samudra Arktik\nC. Samudra Hindia dan Samudra Pasifik\nD. Samudra Atlantik dan Samudra Pasifik\n\nKunci Jawaban: C\n\nPembahasan:\nPosisi silang dunia: Antara Benua Asia-Australia dan Samudra Hindia-Pasifik."
+    },
+    {
+        "instruction": "Pahami Danau Toba.",
+        "input": "Danau vulkanik terbesar di Asia Tenggara terletak di Sumatera Utara.",
+        "output": "Soal:\nDanau terbesar di Indonesia dan Asia Tenggara yang di tengahnya terdapat Pulau Samosir adalah....\n\nA. Danau Toba\nB. Danau Batur\nC. Danau Singkarak\nD. Danau Tonle Sap\n\nKunci Jawaban: A\n\nPembahasan:\nDanau Toba adalah danau kawah raksasa (kaldera) hasil letusan gunung berapi purba."
+    },
+    {
+        "instruction": "Analisis pertanian Kamboja.",
+        "input": "Danau Tonle Sap di Kamboja sangat unik karena ukurannya berubah drastis saat musim hujan dan kemarau.",
+        "output": "Soal:\nDanau Tonle Sap di Kamboja sangat penting bagi penduduk sebagai sumber....\n\nA. Ikan air tawar dan irigasi\nB. Minyak bumi\nC. Tenaga nuklir\nD. Garam\n\nKunci Jawaban: A\n\nPembahasan:\nTonle Sap adalah danau penghasil ikan air tawar terbesar di kawasan ini."
+    },
+    {
+        "instruction": "Identifikasi komoditas utama.",
+        "input": "Indonesia dan Malaysia adalah penghasil utama minyak kelapa sawit dunia.",
+        "output": "Soal:\nKomoditas perkebunan unggulan dari Indonesia dan Malaysia yang diekspor ke seluruh dunia adalah....\n\nA. Gandum\nB. Kelapa Sawit (CPO)\nC. Apel\nD. Anggur\n\nKunci Jawaban: B\n\nPembahasan:\nIndonesia dan Malaysia menyuplai sebagian besar kebutuhan minyak sawit dunia."
+    },
+    {
+        "instruction": "Pahami bunga nasional.",
+        "input": "Setiap negara memiliki bunga nasional sebagai identitas. Indonesia memiliki tiga bunga nasional.",
+        "output": "Soal:\\nBunga nasional Indonesia yang dijuluki Puspa Bangsa adalah....\\n\\nA. Anggrek Bulan\\nB. Melati Putih\\nC. Rafflesia Arnoldii\\nD. Mawar\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMelati Putih (Puspa Bangsa), Anggrek Bulan (Puspa Pesona), Rafflesia Arnoldii (Puspa Langka)."
+    },
+    {
+        "instruction": "Identifikasi bunga Filipina.",
+        "input": "Bunga melati putih juga menjadi bunga nasional Filipina dengan nama berbeda.",
+        "output": "Soal:\nBunga nasional negara Filipina adalah....\n\nA. Sampaguita (Melati)\nB. Simpor\nC. Raya\nD. Paduak\n\nKunci Jawaban: A\n\nPembahasan:\nSampaguita adalah sebutan Melati di Filipina."
+    },
+    {
+        "instruction": "Pahami ZOPFAN.",
+        "input": "ASEAN ingin kawasannya aman dan tidak dicampuri kekuatan besar dunia (Blok Barat/Timur).",
+        "output": "Soal:\nGagasan ZOPFAN yang dicetuskan ASEAN bertujuan menjadikan Asia Tenggara sebagai kawasan yang....\n\nA. Damai, Bebas, dan Netral\nB. Kaya, Maju, dan Modern\nC. Tertutup, Keras, dan Militer\nD. Bebas Nuklir saja\n\nKunci Jawaban: A\n\nPembahasan:\nZOPFAN = Zone of Peace, Freedom, and Neutrality (Zona Damai, Bebas, dan Netral)."
+    },
+    {
+        "instruction": "Identifikasi keanggotaan Timor Leste.",
+        "input": "Timor Leste memisahkan diri dari Indonesia tahun 1999 dan mengajukan diri menjadi anggota ASEAN.",
+        "output": "Soal:\nStatus keanggotaan Timor Leste di ASEAN saat ini (per 2023) adalah....\n\nA. Belum diakui sama sekali\nB. Anggota tetap ke-10\nC. Diterima secara prinsip sebagai anggota ke-11\nD. Ditolak\n\nKunci Jawaban: C\n\nPembahasan:\nPada KTT 2022/2023, Timor Leste diterima secara prinsip sebagai anggota ke-11 dan diperbolehkan mengikuti sidang."
+    },
+    {
+        "instruction": "Identifikasi mata uang Vietnam.",
+        "input": "Alat tukar resmi di negara Vietnam.",
+        "output": "Soal:\nMata uang negara Vietnam adalah....\n\nA. Dong\nB. Kip\nC. Riel\nD. Ringgit\n\nKunci Jawaban: A\n\nPembahasan:\nDong (VND) adalah mata uang Vietnam."
+    },
+    {
+        "instruction": "Pahami mata uang Laos.",
+        "input": "Uang yang digunakan di negara Vientiane.",
+        "output": "Soal:\nMata uang negara Laos adalah....\n\nA. Kip\nB. Riel\nC. Kyat\nD. Baht\n\nKunci Jawaban: A\n\nPembahasan:\nKip (LAK) adalah mata uang Laos."
+    },
+    {
+        "instruction": "Identifikasi mata uang Kamboja.",
+        "input": "Uang yang digunakan di Phnom Penh.",
+        "output": "Soal:\nMata uang negara Kamboja adalah....\n\nA. Riel\nB. Rupee\nC. Won\nD. Yen\n\nKunci Jawaban: A\n\nPembahasan:\nRiel (KHR) adalah mata uang Kamboja."
+    },
+    {
+        "instruction": "Analisis SEA Games.",
+        "input": "ASEAN juga bekerja sama dalam bidang olahraga untuk mempererat persahabatan pemuda.",
+        "output": "Soal:\nPesta olahraga dua tahunan yang diikuti oleh negara-negara Asia Tenggara disebut....\n\nA. Asian Games\nB. Olimpiade\nC. SEA Games\nD. PON\n\nKunci Jawaban: C\n\nPembahasan:\nSEA Games (Southeast Asian Games) diadakan setiap 2 tahun sekali."
+    },
+    {
+        "instruction": "Identifikasi mata uang Myanmar.",
+        "input": "Uang yang belaku di negeri seribu pagoda.",
+        "output": "Soal:\nMata uang negara Myanmar adalah....\n\nA. Kyat\nB. Kit\nC. Kuta\nD. Keto\n\nKunci Jawaban: A\n\nPembahasan:\nKyat (MMK) adalah mata uang Myanmar."
+    },
+    {
+        "instruction": "Pahami julukan Malaysia.",
+        "input": "Malaysia berbatasan darat langsung dengan Indonesia di Pulau Kalimantan.",
+        "output": "Soal:\nMalaysia sering disebut sebagai 'Negeri Jiran' yang artinya....\n\nA. Negeri Kaya\nB. Negeri Tetangga\nC. Negeri Seberang\nD. Negeri Melayu\n\nKunci Jawaban: B\n\nPembahasan:\nJiran dalam bahasa Melayu artinya Tetangga (tetangga terdekat Indonesia)."
+    },
+    {
+        "instruction": "Identifikasi Gunung Tertinggi Vietnam.",
+        "input": "Puncak tertinggi di wilayah Indocina sering disebut 'Atap Indocina'.",
+        "output": "Soal:\nGunung tertinggi di Vietnam dan juga di kawasan Indocina adalah....\n\nA. Gunung Kinabalu\nB. Gunung Fansipan\nC. Gunung Apo\nD. Gunung Fuji\n\nKunci Jawaban: B\n\nPembahasan:\nFansipan (3.143 m) adalah gunung tertinggi di Vietnam/Indocina."
+    },
+    {
+        "instruction": "Analisis dampak letak geologis.",
+        "input": "Kawasan ASEAN dilalui oleh jalur pegunungan Sirkum Pasifik dan Sirkum Mediterania.",
+        "output": "Soal:\nAkibat dari pertemuan jalur pegunungan muda (Cincin Api) di kawasan Asia Tenggara adalah....\n\nA. Bebas dari gempa bumi\nB. Sering terjadi gempa bumi dan banyak gunung berapi aktif\nC. Tanahnya tandus\nD. Tidak memiliki laut\n\nKunci Jawaban: B\n\nPembahasan:\nRing of Fire menyebabkan wilayah seperti Indonesia dan Filipina rawan gempa dan vulkanisme, tapi tanahnya subur."
+    }
+]
