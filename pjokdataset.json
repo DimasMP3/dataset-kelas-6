@@ -1,0 +1,1057 @@
+[
+    {
+        "instruction": "Sepak Bola (Menghentikan Bola).",
+        "input": "Saat bermain sepak bola, Andi menerima operan bola lambung dari temannya. Andi menggunakan dada untuk menghentikan bola tersebut agar jatuh ke tanah dan mudah dikuasai.",
+        "output": "Soal:\nGerak dasar yang dilakukan Andi disebut....\n\nA. Dribbling (menggiring)\nB. Passing (mengoper)\nC. Control/Stopping (menghentikan bola)\nD. Shooting (menembak)\n\nKunci Jawaban: C\n\nPembahasan:\nMenghentikan bola (control) bisa menggunakan kaki, paha, atau dada."
+    },
+    {
+        "instruction": "Sepak Bola (Menendang).",
+        "input": "Budi mengambil ancang-ancang, lalu menendang bola dengan punggung kaki (kura-kura kaki) sekuat tenaga ke arah gawang lawan.",
+        "output": "Soal:\nTujuan utama menendang dengan punggung kaki adalah....\n\nA. Mengoper jarak pendek\nB. Menembak bola (shooting) dengan keras dan terarah\nC. Menghentikan bola\nD. Menyundul bola\n\nKunci Jawaban: B\n\nPembahasan:\nPunggung kaki menghasilkan tendangan keras (shooting)."
+    },
+    {
+        "instruction": "Sepak Bola (Variasi Gerak).",
+        "input": "Dalam latihan sepak bola, siswa diminta berlari zig-zag melewati rintangan sambil menggiring bola (dribbling).",
+        "output": "Soal:\nVariasi gerak dasar yang dilatih adalah kombinasi antara....\n\nA. Lari dan Lempar\nB. Lari dan Giring Bola\nC. Jalan dan Tangkap\nD. Lompat dan Sundul\n\nKunci Jawaban: B\n\nPembahasan:\nLari (lokomotor) + Giring (manipulatif)."
+    },
+    {
+        "instruction": "Sepak Bola (Menyundul).",
+        "input": "Pemain melompat tinggi untuk menyambut bola yang melambung di udara dengan dahinya.",
+        "output": "Soal:\nGerakan tersebut dinamakan....\n\nA. Heading (menyundul)\nB. Dribbling\nC. Passing\nD. Throw in\n\nKunci Jawaban: A\n\nPembahasan:\nMenyundul bola = Heading."
+    },
+    {
+        "instruction": "Sepak Bola (Throw In).",
+        "input": "Bola keluar melewati garis samping lapangan. Pemain harus melakukan lemparan ke dalam untuk memulai permainan kembali.",
+        "output": "Soal:\nSikap kaki yang benar saat melakukan lemparan ke dalam (throw in) adalah....\n\nA. Diangkat satu kaki\nB. Melompat\nC. Kedua kaki menapak tanah dan tidak boleh melewati garis\nD. Sambil berlari kencang\n\nKunci Jawaban: C\n\nPembahasan:\nKaki harus menapak (tidak boleh jinjit/angkat) saat throw in."
+    },
+    {
+        "instruction": "Voli (Passing Bawah).",
+        "input": "Siti merapatkan kedua lengannya lurus ke depan bawah. Saat bola datang, ia mengayunkan lengan dari bawah ke atas mengenai pergelangan tangan.",
+        "output": "Soal:\nGerakan yang dilakukan Siti adalah....\n\nA. Smash\nB. Passing Bawah\nC. Passing Atas\nD. Servis\n\nKunci Jawaban: B\n\nPembahasan:\nPassing bawah = lengan rapat lurus."
+    },
+    {
+        "instruction": "Voli (Passing Atas).",
+        "input": "Pemain mendorong bola dengan jari-jari tangan terbuka di atas kepala saat bola melambung.",
+        "output": "Soal:\nTeknik ini disebut....\n\nA. Passing Bawah\nB. Servis Bawah\nC. Passing Atas\nD. Blocking\n\nKunci Jawaban: C\n\nPembahasan:\nPassing atas = dorong bola di atas kepala."
+    },
+    {
+        "instruction": "Voli (Servis).",
+        "input": "Pukulan pertama untuk memulai permainan bola voli disebut....",
+        "output": "Soal:\nA. Smash\nB. Blocking\nC. Servis\nD. Passing\n\nKunci Jawaban: C\n\nPembahasan:\nServis = pukulan sajian pertama."
+    },
+    {
+        "instruction": "Voli (Smash).",
+        "input": "Pemain melakukan lompatan dan memukul bola dengan keras serta menukik ke lapagan lawan.",
+        "output": "Soal:\nTujuan utama gerakan smash adalah....\n\nA. Mengoper teman\nB. Mematikan permainan lawan dan mencetak poin\nC. Memulai permainan\nD. Bertahan\n\nKunci Jawaban: B\n\nPembahasan:\nSmash = serangan mematikan."
+    },
+    {
+        "instruction": "Voli (Rotasi).",
+        "input": "Dalam permainan voli, pemain harus berpindah posisi searah jarum jam setiap kali timnya mendapatkan hak servis.",
+        "output": "Soal:\nPerpindahan posisi ini disebut....\n\nA. Rotasi\nB. Revolusi\nC. Migrasi\nD. Mutasi\n\nKunci Jawaban: A\n\nPembahasan:\nPerputaran pemain = Rotasi."
+    },
+    {
+        "instruction": "Basket (Dribbling).",
+        "input": "Dalam permainan basket, memantul-mantulkan bola ke lantai dengan satu tangan sambil berjalan atau berlari disebut....",
+        "output": "Soal:\nA. Passing\nB. Shooting\nC. Dribbling\nD. Pivot\n\nKunci Jawaban: C\n\nPembahasan:\nMenggiring bola di basket = Dribbling."
+    },
+    {
+        "instruction": "Basket (Chest Pass).",
+        "input": "Pemain memegang bola di depan dada, lalu mendorongnya lurus ke depan ke arah dada teman setim.",
+        "output": "Soal:\nTeknik operan ini dinamakan....\n\nA. Overhead Pass (operan atas kepala)\nB. Chest Pass (operan dada)\nC. Bounce Pass (operan pantul)\nD. Baseball Pass\n\nKunci Jawaban: B\n\nPembahasan:\nChest = Dada."
+    },
+    {
+        "instruction": "Basket (Shooting).",
+        "input": "Usaha memasukkan bola ke dalam keranjang lawan untuk mencetak poin disebut....",
+        "output": "Soal:\nA. Rebound\nB. Dribbling\nC. Shooting (Menembak)\nD. Pivot\n\nKunci Jawaban: C\n\nPembahasan:\nMencetak poin = Shooting."
+    },
+    {
+        "instruction": "Basket (Lay-up).",
+        "input": "Pemain melakukan gerakan lari mendekati ring, lalu melompat dengan satu kaki sambil memasukkan bola ke keranjang.",
+        "output": "Soal:\nTembakan melayang ini dikenal dengan istilah....\n\nA. Jump Shot\nB. Lay-up Shoot\nC. Slam Dunk\nD. Free Throw\n\nKunci Jawaban: B\n\nPembahasan:\nTembakan melayang = Lay-up."
+    },
+    {
+        "instruction": "Sepak Bola (Kiper).",
+        "input": "Satu-satunya pemain dalam sepak bola yang boleh memegang bola dengan tangan di dalam area penalti sendiri adalah....",
+        "output": "Soal:\nA. Striker (Penyerang)\nB. Bek (Bertahan)\nC. Gelandang\nD. Kiper (Penjaga Gawang)\n\nKunci Jawaban: D\n\nPembahasan:\nKiper boleh pakai tangan di kotak penalti."
+    },
+    {
+        "instruction": "Voli (Blocking).",
+        "input": "Pemain melompat di dekat net dengan kedua tangan lurus ke atas untuk membendung smash lawan.",
+        "output": "Soal:\nGerakan membendung serangan lawan ini disebut....\n\nA. Servis\nB. Smash\nC. Blocking (Blok)\nD. Passing\n\nKunci Jawaban: C\n\nPembahasan:\nMembendung = Blocking."
+    },
+    {
+        "instruction": "Basket (Pivot).",
+        "input": "Gerakan memutar badan dengan bertumpu pada satu kaki sebagai poros untuk melindungi bola dari lawan disebut....",
+        "output": "Soal:\nA. Dribbling\nB. Pivot\nC. Rebound\nD. Lay-up\n\nKunci Jawaban: B\n\nPembahasan:\nGerakan berporos = Pivot."
+    },
+    {
+        "instruction": "Sepak Bola (Offside).",
+        "input": "Seorang pemain penyerang berdiri lebih dekat ke garis gawang lawan daripada bola dan pemain bertahan terakhir lawan saat bola dioper.",
+        "output": "Soal:\nPosisi pemain tersebut dinyatakan....\n\nA. Onside\nB. Offside\nC. Goal kick\nD. Corner kick\n\nKunci Jawaban: B\n\nPembahasan:\nOffside adalah pelanggaran posisi."
+    },
+    {
+        "instruction": "Voli (Jumlah Pemain).",
+        "input": "Setiap regu dalam permainan bola voli terdiri dari ... orang pemain inti.",
+        "output": "Soal:\nA. 5\nB. 6\nC. 11\nD. 12\n\nKunci Jawaban: B\n\nPembahasan:\nVoli = 6 pemain."
+    },
+    {
+        "instruction": "Basket (Poin).",
+        "input": "Tembakan yang masuk ke ring dari luar garis setengah lingkaran (three point line) bernilai....",
+        "output": "Soal:\nA. 1 poin\nB. 2 poin\nC. 3 poin\nD. 4 poin\n\nKunci Jawaban: C\n\nPembahasan:\nTembakan jauh = 3 poin."
+    },
+    {
+        "instruction": "Sepak Bola (Kartu Kuning).",
+        "input": "Wasit memberikan kartu kuning kepada pemain yang melakukan pelanggaran.",
+        "output": "Soal:\nArti kartu kuning adalah....\n\nA. Pemain dikeluarkan\nB. Peringatan keras\nC. Hadiah\nD. Pergantian pemain\n\nKunci Jawaban: B\n\nPembahasan:\nKartu Kuning = Peringatan, Merah = Usir."
+    },
+    {
+        "instruction": "Voli (Net).",
+        "input": "Anggota tubuh pemain voli tidak boleh menyentuh net saat permainan berlangsung.",
+        "output": "Soal:\nJika menyentuh net, maka....\n\nA. Permainan diulang\nB. Poin untuk lawan\nC. Tidak apa-apa\nD. Kartu merah\n\nKunci Jawaban: B\n\nPembahasan:\nTouch net = foul/poin lawan."
+    },
+    {
+        "instruction": "Basket (Overhead Pass).",
+        "input": "Mengoper bola dari atas kepala dengan kedua tangan disebut....",
+        "output": "Soal:\nA. Chest Pass\nB. Bounce Pass\nC. Overhead Pass\nD. Underhand Pass\n\nKunci Jawaban: C\n\nPembahasan:\nOverhead = Atas kepala."
+    },
+    {
+        "instruction": "Gerak Lokomotor Bola.",
+        "input": "Dalam permainan bola, gerak berpindah tempat seperti lari dan lompat disebut gerak....",
+        "output": "Soal:\nA. Lokomotor\nB. Non-lokomotor\nC. Manipulatif\nD. Diam\n\nKunci Jawaban: A\n\nPembahasan:\nBerpindah tempat = Lokomotor."
+    },
+    {
+        "instruction": "Gerak Manipulatif Bola.",
+        "input": "Gerakan yang menggunakan alat bantu (bola), seperti menendang, memukul, dan melempar disebut gerak....",
+        "output": "Soal:\nA. Lokomotor\nB. Non-lokomotor\nC. Manipulatif\nD. Akrobatik\n\nKunci Jawaban: C\n\nPembahasan:\nPakai alat (bola) = Manipulatif."
+    },
+    {
+        "instruction": "Sepak Bola (Corner Kick).",
+        "input": "Bola keluar melewati garis gawang yang disentuh terakhir oleh pemain bertahan.",
+        "output": "Soal:\nMaka terjadi tendangan....\n\nA. Gawang\nB. Penalti\nC. Sudut (Corner Kick)\nD. Bebas\n\nKunci Jawaban: C\n\nPembahasan:\nDisentuh bertahan & out garis gawang = Corner."
+    },
+    {
+        "instruction": "Basket (Rebound).",
+        "input": "Pemain melompat menangkap bola yang gagal masuk ke ring (memantul dari papan/ring).",
+        "output": "Soal:\nIstilah untuk gerakan ini adalah....\n\nA. Rebound\nB. Pivot\nC. Assist\nD. Block\n\nKunci Jawaban: A\n\nPembahasan:\nBola pantul = Rebound."
+    },
+    {
+        "instruction": "Voli (Libero).",
+        "input": "Pemain voli yang bertugas khusus bertahan menerima serangan dan memakai seragam berbeda warna disebut....",
+        "output": "Soal:\nA. Spiker\nB. Tosser\nC. Libero\nD. Server\n\nKunci Jawaban: C\n\nPembahasan:\nLibero = Pemain bertahan khusus."
+    },
+    {
+        "instruction": "Sepak Bola (Durasi).",
+        "input": "Lama permainan sepak bola resmi adalah....",
+        "output": "Soal:\nA. 2 x 30 menit\nB. 2 x 40 menit\nC. 2 x 45 menit\nD. 2 x 50 menit\n\nKunci Jawaban: C\n\nPembahasan:\nStandar FIFA = 2 x 45 menit."
+    },
+    {
+        "instruction": "Basket (Batas Waktu).",
+        "input": "Pemain penyerang tidak boleh berada di daerah bersyarat (key hole/paint area) lawan lebih dari....",
+        "output": "Soal:\nA. 3 detik\nB. 5 detik\nC. 10 detik\nD. 24 detik\n\nKunci Jawaban: A\n\nPembahasan:\n3-second rule."
+    },
+    {
+        "instruction": "Voli (Skor).",
+        "input": "Sistem hitungan yang digunakan dalam bola voli adalah rally point, game berakhir jika salah satu tim mencapai angka....",
+        "output": "Soal:\nA. 15\nB. 21\nC. 25\nD. 30\n\nKunci Jawaban: C\n\nPembahasan:\nGame point voli = 25."
+    },
+    {
+        "instruction": "Basket (Quarter).",
+        "input": "Pertandingan bola basket dibagi menjadi ... babak (quarter).",
+        "output": "Soal:\nA. 2\nB. 3\nC. 4\nD. 5\n\nKunci Jawaban: C\n\nPembahasan:\n4 Quarter/Babak."
+    },
+    {
+        "instruction": "Sepak Bola (Kick Off).",
+        "input": "Tanda dimulainya pertandingan sepak bola di babak pertama dan kedua disebut....",
+        "output": "Soal:\nA. Kick Off\nB. Throw In\nC. Corner Kick\nD. Free Kick\n\nKunci Jawaban: A\n\nPembahasan:\nKick Off = Tendangan pembuka."
+    },
+    {
+        "instruction": "Voli (Set).",
+        "input": "Kemenangan dalam bola voli ditentukan jika satu regu memenangkan....",
+        "output": "Soal:\nA. 1 set\nB. 2 set (Two winning set)\nC. 3 set (Three winning set)\nD. 5 set\n\nKunci Jawaban: C\n\nPembahasan:\nBiasanya 3 kemenangan set (Best of 5)."
+    },
+    {
+        "instruction": "Basket (Jump Ball).",
+        "input": "Wasit melempar bola ke udara di tengah lingkaran untuk diperebutkan dua pemain lawan sebagai tanda mulai pertandingan.",
+        "output": "Soal:\nIstilah ini adalah....\n\nA. Jump Ball\nB. Lay-up\nC. Rebound\nD. Dribble\n\nKunci Jawaban: A\n\nPembahasan:\nJump Ball = Bola loncat awal."
+    },
+    {
+        "instruction": "Sepak Bola (Handball).",
+        "input": "Bola mengenai tangan pemain (selain kiper) secara sengaja.",
+        "output": "Soal:\nPelanggaran ini disebut....\n\nA. Offside\nB. Handball\nC. Tackling\nD. Heading\n\nKunci Jawaban: B\n\nPembahasan:\nHandball = Bola kena tangan."
+    },
+    {
+        "instruction": "Voli (Tosser/Set-upper).",
+        "input": "Pemain yang bertugas memberikan umpan matang kepada smasher disebut....",
+        "output": "Soal:\nA. Libero\nB. Spiker\nC. Tosser/Set-upper\nD. Blocker\n\nKunci Jawaban: C\n\nPembahasan:\nPengumpan = Tosser."
+    },
+    {
+        "instruction": "Basket (Pelanggaran).",
+        "input": "Pemain membawa bola lebih dari 2 langkah tanpa memantulkannya (dribble).",
+        "output": "Soal:\nPelanggaran ini disebut....\n\nA. Travelling/Walking\nB. Double Dribble\nC. Foul\nD. Three seconds\n\nKunci Jawaban: A\n\nPembahasan:\nJalan bawa bola = Travelling."
+    },
+    {
+        "instruction": "Sepak Bola (Penalti).",
+        "input": "Pelanggaran keras dilakukan oleh pemain bertahan di dalam kotak penaltinya sendiri.",
+        "output": "Soal:\nHukuman yang diberikan wasit adalah....\n\nA. Tendangan Bebas\nB. Tendangan Sudut\nC. Tendangan Penalti\nD. Lemparan ke dalam\n\nKunci Jawaban: C\n\nPembahasan:\nPelanggaran di kotak terlarang = Penalti."
+    },
+    {
+        "instruction": "Voli (Servis Bawah).",
+        "input": "Pukulan servis dengan ayunan tangan dari bawah disebut....",
+        "output": "Soal:\nA. Servis Atas\nB. Servis Bawah\nC. Jump Serve\nD. Smash\n\nKunci Jawaban: B\n\nPembahasan:\nAyunan bawah = Servis Bawah."
+    },
+    {
+        "instruction": "Basket (Back Ball).",
+        "input": "Pemain yang sudah membawa bola ke daerah lawan tidak boleh mengembalikan bola ke daerah pertahanannya sendiri.",
+        "output": "Soal:\nPelanggaran ini disebut....\n\nA. Back Ball\nB. Travelling\nC. Double\nD. Foul\n\nKunci Jawaban: A\n\nPembahasan:\nKembali ke area sendiri = Back Ball."
+    },
+    {
+        "instruction": "Sepak Bola (Kapten).",
+        "input": "Pemain yang memimpin rekan-rekannya di lapangan dan memakai ban lengan disebut....",
+        "output": "Soal:\nA. Pelatih\nB. Wasit\nC. Kapten\nD. Cadangan\n\nKunci Jawaban: C\n\nPembahasan:\nKapten tim."
+    },
+    {
+        "instruction": "Voli (Timeout).",
+        "input": "Waktu istirahat sejenak yang diminta pelatih saat pertandingan berlangsung disebut....",
+        "output": "Soal:\nA. Holiday\nB. Timeout\nC. Subs\nD. Halftime\n\nKunci Jawaban: B\n\nPembahasan:\nJeda waktu = Timeout."
+    },
+    {
+        "instruction": "Basket (Ring).",
+        "input": "Tinggi ring basket dari lantai adalah sekitar....",
+        "output": "Soal:\nA. 2 meter\nB. 2,5 meter\nC. 3,05 meter\nD. 4 meter\n\nKunci Jawaban: C\n\nPembahasan:\nStandar tinggi ring = 3,05 m."
+    },
+    {
+        "instruction": "Bola Besar (Manfaat).",
+        "input": "Bermain bola besar secara rutin dapat melatih....",
+        "output": "Soal:\nA. Malas gerak\nB. Kerjasama tim dan kebugaran jantung\nC. Egois\nD. Tidur nyenyak saat pelajaran\n\nKunci Jawaban: B\n\nPembahasan:\nManfaat fisik & sosial."
+    },
+    {
+        "instruction": "Atletik (Induk Organisasi).",
+        "input": "Induk organisasi atletik di Indonesia adalah....",
+        "output": "Soal:\nA. PSSI\nB. PBVSI\nC. PERBASI\nD. PASI\n\nKunci Jawaban: D\n\nPembahasan:\nPASI = Persatuan Atletik Seluruh Indonesia."
+    },
+    {
+        "instruction": "Atletik (Lari Jarak Pendek).",
+        "input": "Lari jarak pendek menempuh jarak 100m, 200m, dan 400m.",
+        "output": "Soal:\nNama lain lari jarak pendek adalah....\n\nA. Sprint\nB. Marathon\nC. Estafet\nD. Jogging\n\nKunci Jawaban: A\n\nPembahasan:\nLari cepat = Sprint."
+    },
+    {
+        "instruction": "Atletik (Start Jongkok).",
+        "input": "Teknik start yang digunakan dalam lari jarak pendek adalah....",
+        "output": "Soal:\nA. Start Melayang\nB. Start Berdiri\nC. Start Jongkok\nD. Start Duduk\n\nKunci Jawaban: C\n\nPembahasan:\nSprint pakai start jongkok."
+    },
+    {
+        "instruction": "Atletik (Lari Estafet).",
+        "input": "Lari sambung di mana pelari memberikan tongkat kepada pelari berikutnya.",
+        "output": "Soal:\nLari ini disebut....\n\nA. Marathon\nB. Estafet\nC. Sprint\nD. Hurdles\n\nKunci Jawaban: B\n\nPembahasan:\nLari sambung = Estafet."
+    },
+    {
+        "instruction": "Atletik (Lompat Jauh).",
+        "input": "Gerakan menolak dengan satu kaki terkuat untuk mencapai jarak lompatan sejauh-jauhnya.",
+        "output": "Soal:\nOlahraga ini adalah....\n\nA. Lompat Tinggi\nB. Lompat Jauh\nC. Lompat Galah\nD. Lompat Tali\n\nKunci Jawaban: B\n\nPembahasan:\nMelompat jauh ke depan = Lompat Jauh."
+    },
+    {
+        "instruction": "Atletik (Tumpuan Lompat Jauh).",
+        "input": "Dalam lompat jauh, saat menumpu di papan tolak tidak boleh melebihi garis.",
+        "output": "Soal:\nJika melebihi garis, maka lompatan dinyatakan....\n\nA. Sah\nB. Diskualifikasi/Tidak sah\nC. Diulang\nD. Mendapat bonus\n\nKunci Jawaban: B\n\nPembahasan:\nInjak garis = Foul/Diskualifikasi."
+    },
+    {
+        "instruction": "Atletik (Tolak Peluru).",
+        "input": "Gerakan menolak benda logam bundar yang berat sejauh mungkin.",
+        "output": "Soal:\nCabang ini disebut....\n\nA. Lempar Lembing\nB. Lempar Cakram\nC. Tolak Peluru\nD. Lontar Martil\n\nKunci Jawaban: C\n\nPembahasan:\nMenolak peluru (besi bulat)."
+    },
+    {
+        "instruction": "Atletik (Gaya Tolak Peluru).",
+        "input": "Gaya menyamping dalam tolak peluru disebut gaya....",
+        "output": "Soal:\nA. O'Brien\nB. Ortodoks\nC. Flop\nD. Straddle\n\nKunci Jawaban: B\n\nPembahasan:\nMenyamping = Ortodoks, Membelakangi = O'Brien."
+    },
+    {
+        "instruction": "Atletik (Lempar Lembing).",
+        "input": "Alat yang digunakan berbentuk seperti tombak panjang.",
+        "output": "Soal:\nCabang olahraga ini adalah....\n\nA. Lempar Lembing\nB. Lempar Cakram\nC. Tolak Peluru\nD. Panahan\n\nKunci Jawaban: A\n\nPembahasan:\nTombak = Lembing."
+    },
+    {
+        "instruction": "Atletik (Start Berdiri).",
+        "input": "Start berdiri biasanya digunakan untuk lari....",
+        "output": "Soal:\nA. Jarak Pendek\nB. Jarak Jauh (Marathon)\nC. Estafet (Pelari 2,3,4)\nD. Gawang\n\nKunci Jawaban: B\n\nPembahasan:\nJarak jauh pakai start berdiri."
+    },
+    {
+        "instruction": "Atletik (Tongkat Estafet).",
+        "input": "Perpindahan tongkat estafet harus dilakukan di dalam daerah tertentu yang disebut....",
+        "output": "Soal:\nA. Wessel Zone\nB. Zona Aman\nC. Zona Bebas\nD. Zona Larangan\n\nKunci Jawaban: A\n\nPembahasan:\nWessel zone = daerah pergantian."
+    },
+    {
+        "instruction": "Atletik (Sikap Lari).",
+        "input": "Saat berlari cepat (sprint), posisi badan sebaiknya....",
+        "output": "Soal:\nA. Tegak lurus\nB. Condong ke depan\nC. Membungkuk\nD. Miring ke samping\n\nKunci Jawaban: B\n\nPembahasan:\nCondong depan mengurangi hambatan angin."
+    },
+    {
+        "instruction": "Atletik (Finish).",
+        "input": "Sikap memasuki garis finish lari cepat adalah....",
+        "output": "Soal:\nA. Melompat\nB. Berhenti mendadak\nC. Membusungkan dada ke depan atau menjatuhkan salah satu bahu\nD. Duduk\n\nKunci Jawaban: C\n\nPembahasan:\nTeknik finish: dada depan/bahu depan."
+    },
+    {
+        "instruction": "Atletik (Gaya Lompat Tinggi).",
+        "input": "Gaya di mana pelari melompat dengan posisi punggung menghadap mistar disebut....",
+        "output": "Soal:\nA. Gunting\nB. Guling Sisi\nC. Fosbury Flop\nD. Straddle\n\nKunci Jawaban: C\n\nPembahasan:\nFosbury Flop = Gaya punggung."
+    },
+    {
+        "instruction": "Atletik (Jalan Cepat).",
+        "input": "Perbedaan jalan cepat dan lari terletak pada....",
+        "output": "Soal:\nA. Kecepatan\nB. Adanya fase melayang (kedua kaki lepas dari tanah)\nC. Jarak tempuh\nD. Sepatu yang dipakai\n\nKunci Jawaban: B\n\nPembahasan:\nLari ada fase melayang, jalan selalu ada kaki kontak tanah."
+    },
+    {
+        "instruction": "Atletik (Lari Gawang).",
+        "input": "Lari dengan melompati rintangan berupa gawang-gawang besi.",
+        "output": "Soal:\nCabang ini disebut....\n\nA. Lari Sprint\nB. Lari Gawang\nC. Lari Estafet\nD. Lari Cross Country\n\nKunci Jawaban: B\n\nPembahasan:\nRintangan gawang = Lari Gawang."
+    },
+    {
+        "instruction": "Atletik (Lempar Cakram).",
+        "input": "Melempar benda berbentuk piringan kayu berbingkai besi.",
+        "output": "Soal:\nNama alat tersebut adalah....\n\nA. Peluru\nB. Lembing\nC. Cakram\nD. Martil\n\nKunci Jawaban: C\n\nPembahasan:\nPiringan = Cakram."
+    },
+    {
+        "instruction": "Atletik (Cara Memegang Cakram).",
+        "input": "Jari-jari tangan dibuka lebar menutupi pinggiran cakram dan ruas jari pertama menekuk pinggiran cakram.",
+        "output": "Soal:\nIni adalah teknik....\n\nA. Memegang lembing\nB. Memegang peluru\nC. Memegang cakram\nD. Memegang bola\n\nKunci Jawaban: C\n\nPembahasan:\nTeknik pegang cakram."
+    },
+    {
+        "instruction": "Atletik (Awalan Lompat Jauh).",
+        "input": "Awalan lompat jauh dilakukan dengan cara....",
+        "output": "Soal:\nA. Jalan santai\nB. Lari secepat-cepatnya\nC. Melompat-lompat kecil\nD. Diam di tempat\n\nKunci Jawaban: B\n\nPembahasan:\nAwalan lari cepat untuk momentum."
+    },
+    {
+        "instruction": "Atletik (Melayang Lompat Jauh).",
+        "input": "Saat melayang di udara dalam lompat jauh gaya jongkok, posisi kaki adalah....",
+        "output": "Soal:\nA. Lurus ke depan\nB. Ditekuk seperti orang jongkok\nC. Lurus ke belakang\nD. Menggunting\n\nKunci Jawaban: B\n\nPembahasan:\nGaya jongkok = kaki ditekuk."
+    },
+    {
+        "instruction": "Atletik (Mendarat Lompat Jauh).",
+        "input": "Pendaratan yang benar pada lompat jauh menggunakan....",
+        "output": "Soal:\nA. Satu kaki\nB. Dua kaki bersamaan\nC. Tangan\nD. Pantat\n\nKunci Jawaban: B\n\nPembahasan:\nMendarat dua kaki menghindari cedera."
+    },
+    {
+        "instruction": "Atletik (Start Melayang).",
+        "input": "Pelari kedua, ketiga, dan keempat dalam lari estafet menggunakan start....",
+        "output": "Soal:\nA. Jongkok\nB. Berdiri\nC. Melayang\nD. Guling\n\nKunci Jawaban: C\n\nPembahasan:\nPelari lari sambung selain pertama = Melayang."
+    },
+    {
+        "instruction": "Atletik (Lari Marathon).",
+        "input": "Lari jarak jauh yang menempuh jarak 42,195 km disebut....",
+        "output": "Soal:\nA. Sprint\nB. Marathon\nC. Cross Country\nD. Jogging\n\nKunci Jawaban: B\n\nPembahasan:\nMarathon = 42 km."
+    },
+    {
+        "instruction": "Atletik (Lempar Lembing).",
+        "input": "Posisi lembing saat dibawa lari awalan adalah....",
+        "output": "Soal:\nA. Diseret di tanah\nB. Di atas bahu mata lembing menghadap ke atas/depan\nC. Di bawah ketiak\nD. Dipegang dua tangan di depan dada\n\nKunci Jawaban: B\n\nPembahasan:\nBawa lembing di atas bahu."
+    },
+    {
+        "instruction": "Atletik (Tolak Peluru).",
+        "input": "Peluru diletakkan di....",
+        "output": "Soal:\nA. Bahu/Pangkal Leher\nB. Telapak tangan bebas\nC. Depan dada\nD. Atas kepala\n\nKunci Jawaban: A\n\nPembahasan:\nPeluru ditempel di leher."
+    },
+    {
+        "instruction": "Atletik (Diskualifikasi Tolak Peluru).",
+        "input": "Peserta tolak peluru didiskualifikasi jika....",
+        "output": "Soal:\nA. Peluru jatuh di sektor lemparan\nB. Keluar lewat belakang lingkaran\nC. Keluar lewat depan lingkaran setelah menolak\nD. Masuk lewat belakang\n\nKunci Jawaban: C\n\nPembahasan:\nKeluar wajib lewat belakang."
+    },
+    {
+        "instruction": "Atletik (Lompat Tinggi).",
+        "input": "Tujuan lompat tinggi adalah....",
+        "output": "Soal:\nA. Melompat sejauh-jauhnya\nB. Melompat setinggi-tingginya melewati mistar\nC. Melompat indah\nD. Melompat ke air\n\nKunci Jawaban: B\n\nPembahasan:\nLompat vertikal."
+    },
+    {
+        "instruction": "Atletik (Jalan Cepat).",
+        "input": "Dalam jalan cepat, posisi kaki tumpu harus....",
+        "output": "Soal:\nA. Selalu kontak dengan tanah\nB. Boleh melayang\nC. Ditekuk terus\nD. Jinjit\n\nKunci Jawaban: A\n\nPembahasan:\nPrinsip jalan = tak putus kontak tanah."
+    },
+    {
+        "instruction": "Atletik (Aba-aba Start Jongkok).",
+        "input": "Urutan aba-aba start jongkok adalah....",
+        "output": "Soal:\nA. Siap - Bersedia - Ya\nB. Bersedia - Siap - Ya/Bunyi Pistol\nC. Awas - Siap - Ya\nD. Satu - Dua - Tiga\n\nKunci Jawaban: B\n\nPembahasan:\nBersedia, Siap, Ya!"
+    },
+    {
+        "instruction": "Atletik (Lari Jarak Menengah).",
+        "input": "Nomor lari 800m dan 1500m termasuk lari jarak....",
+        "output": "Soal:\nA. Pendek\nB. Menengah\nC. Jauh\nD. Marathon\n\nKunci Jawaban: B\n\nPembahasan:\n800m-1500m = Menengah."
+    },
+    {
+        "instruction": "Atletik (Lempar).",
+        "input": "Gerakan melempar mengandalkan kekuatan otot....",
+        "output": "Soal:\nA. Kaki\nB. Leher\nC. Lengan dan Bahu\nD. Perut\n\nKunci Jawaban: C\n\nPembahasan:\nLempar = Lengan/Bahu."
+    },
+    {
+        "instruction": "Atletik (Lompat).",
+        "input": "Kekuatan utama dalam lompat jauh terletak pada otot....",
+        "output": "Soal:\nA. Tangan\nB. Kaki\nC. Punggung\nD. Leher\n\nKunci Jawaban: B\n\nPembahasan:\nLompat = Otot Tungkai/Kaki."
+    },
+    {
+        "instruction": "Atletik (Sirkuit Lari).",
+        "input": "Lintasan lari atletik berbentuk....",
+        "output": "Soal:\nA. Kotak\nB. Segitiga\nC. Oval (elips)\nD. Lurus saja\n\nKunci Jawaban: C\n\nPembahasan:\nTrack lari = Oval (400m)."
+    },
+    {
+        "instruction": "Atletik (Pendaratan Lompat).",
+        "input": "Untuk mengurangi benturan saat mendarat di bak pasir, lutut harus....",
+        "output": "Soal:\nA. Kaku\nB. Lurus tegang\nC. Mengeper (ditekuk sedikit)\nD. Silang\n\nKunci Jawaban: C\n\nPembahasan:\nMengeper = redam benturan."
+    },
+    {
+        "instruction": "Atletik (Estafet Disqualifikasi).",
+        "input": "Tim estafet akan didiskualifikasi jika....",
+        "output": "Soal:\nA. Tongkat jatuh dan diambil kembali (tergantung aturan, tapi biasanya masih boleh asal tidak ganggu)\nB. Tongkat diberikan di luar zona wessel\nC. Pelari berlari cepat\nD. Pelari memakai sepatu paku\n\nKunci Jawaban: B\n\nPembahasan:\nOper tongkat wajib di wessel zone."
+    },
+    {
+        "instruction": "Atletik (Martil).",
+        "input": "Lontar martil menggunakan alat berupa....",
+        "output": "Soal:\nA. Bola besi bertali kawat baja\nB. Palu tukang\nC. Cakram karet\nD. Bola kasti\n\nKunci Jawaban: A\n\nPembahasan:\nMartil atletik = bola besi + kawat."
+    },
+    {
+        "instruction": "Atletik (Panca Lomba).",
+        "input": "Pentathlon adalah perlombaan yang terdiri dari ... cabang.",
+        "output": "Soal:\nA. 3\nB. 5\nC. 7\nD. 10\n\nKunci Jawaban: B\n\nPembahasan:\nPenta = Lima."
+    },
+    {
+        "instruction": "Atletik (Decathlon).",
+        "input": "Dasa lomba (Decathlon) diperuntukkan untuk atlet....",
+        "output": "Soal:\nA. Putra\nB. Putri\nC. Anak-anak\nD. Lansia\n\nKunci Jawaban: A\n\nPembahasan:\nDecathlon (10 nomor) biasanya Putra, Heptathlon (7 nomor) Putri."
+    },
+    {
+        "instruction": "Atletik (Manfaat Lari).",
+        "input": "Lari pagi secara teratur sangat baik untuk melatih daya tahan....",
+        "output": "Soal:\nA. Otot tangan\nB. Jantung dan Paru-paru (Kardiovaskular)\nC. Otot leher\nD. Mata\n\nKunci Jawaban: B\n\nPembahasan:\nLari = Kardio."
+    },
+    {
+        "instruction": "Atletik (Sejarah).",
+        "input": "Atletik disebut sebagai 'Mother of Sports' karena....",
+        "output": "Soal:\nA. Olahraga paling tua dan dasar dari olahraga lain\nB. Olahraga paling mudah\nC. Olahraga paling murah\nD. Olahraga paling banyak penggemar\n\nKunci Jawaban: A\n\nPembahasan:\nInduk semua cabang olahraga (Jalan, Lari, Lompat, Lempar)."
+    },
+    {
+        "instruction": "Atletik (Kecepatan).",
+        "input": "Komponen kebugaran yang paling dominan dalam lari 100 meter adalah....",
+        "output": "Soal:\nA. Daya tahan\nB. Kecepatan (Speed)\nC. Kelenturan\nD. Keseimbangan\n\nKunci Jawaban: B\n\nPembahasan:\nSprint butuh kecepatan."
+    },
+    {
+        "instruction": "Atletik (Power).",
+        "input": "Tolak peluru membutuhkan kombinasi kekuatan dan kecepatan yang disebut....",
+        "output": "Soal:\nA. Daya ledak (Power)\nB. Kelincahan\nC. Stamina\nD. Akurasi\n\nKunci Jawaban: A\n\nPembahasan:\nForce x Velocity = Power."
+    },
+    {
+        "instruction": "Atletik (Start Pistol).",
+        "input": "Petugas yang memberangkatkan pelari disebut....",
+        "output": "Soal:\nA. Timer\nB. Starter\nC. Scorer\nD. Judge\n\nKunci Jawaban: B\n\nPembahasan:\nStarter."
+    },
+    {
+        "instruction": "Atletik (Lari Gawang Tinggi).",
+        "input": "Tinggi gawang untuk lari gawang putra senior adalah....",
+        "output": "Soal:\nA. 1,067 m\nB. 0,762 m\nC. 0,840 m\nD. 0,914 m\n\nKunci Jawaban: A\n\nPembahasan:\n110m gawang putra = 1.067m (High Hurdles)."
+    },
+    {
+        "instruction": "Atletik (Lari Jarak Jauh).",
+        "input": "Salah satu kunci sukses lari jarak jauh adalah pengaturan....",
+        "output": "Soal:\nA. Kecepatan maksimal sejak awal\nB. Napas dan irama lari (Pacing)\nC. Langkah lebar\nD. Minum banyak saat lari\n\nKunci Jawaban: B\n\nPembahasan:\nPacing/Pengaturan irama penting di jarak jauh."
+    },
+    {
+        "instruction": "Kebugaran (Push Up).",
+        "input": "Andi melakukan gerakan mengangkat tubuh dengan tumpuan kedua tangan dan ujung kaki dari posisi telungkup.",
+        "output": "Soal:\nGerakan ini bertujuan melatih kekuatan otot....\n\nA. Kaki\nB. Leher\nC. Lengan dan Bahu\nD. Perut\n\nKunci Jawaban: C\n\nPembahasan:\nPush up = Lengan & Dada."
+    },
+    {
+        "instruction": "Kebugaran (Sit Up).",
+        "input": "Budi berbaring telentang, lalu mengangkat badan bagian atas hingga mencium lutut.",
+        "output": "Soal:\nLatihan ini disebut....\n\nA. Push up\nB. Sit up\nC. Back up\nD. Pull up\n\nKunci Jawaban: B\n\nPembahasan:\nSit up = Otot perut."
+    },
+    {
+        "instruction": "Kebugaran (Back Up).",
+        "input": "Gerakan mengangkat dada dan kepala dari posisi telungkup bertujuan untuk melatih otot....",
+        "output": "Soal:\nA. Perut\nB. Punggung\nC. Kaki\nD. Leher\n\nKunci Jawaban: B\n\nPembahasan:\nBack up = Otot Punggung."
+    },
+    {
+        "instruction": "Kebugaran (Daya Tahan).",
+        "input": "Kemampuan tubuh untuk melakukan aktivitas dalam waktu lama tanpa mengalami kelelahan yang berarti disebut....",
+        "output": "Soal:\nA. Kekuatan\nB. Kelincahan\nC. Daya Tahan\nD. Kecepatan\n\nKunci Jawaban: C\n\nPembahasan:\nEndurance/Daya Tahan."
+    },
+    {
+        "instruction": "Kebugaran (Lari Zig-zag).",
+        "input": "Berlari berbelok-belok melewati rintangan bertujuan untuk melatih....",
+        "output": "Soal:\nA. Kekuatan\nB. Kelincahan\nC. Keseimbangan\nD. Kelenturan\n\nKunci Jawaban: B\n\nPembahasan:\nUbah arah cepat = Kelincahan (Agility)."
+    },
+    {
+        "instruction": "Kebugaran (Sikap Kapal Terbang).",
+        "input": "Berdiri dengan satu kaki, badan condong ke depan, dan kedua tangan direntangkan ke samping.",
+        "output": "Soal:\nGerakan ini melatih....\n\nA. Kekuatan\nB. Keseimbangan\nC. Kecepatan\nD. Daya ledak\n\nKunci Jawaban: B\n\nPembahasan:\nKapal terbang = Keseimbangan statis."
+    },
+    {
+        "instruction": "Kebugaran (Kelenturan).",
+        "input": "Latihan mencium lutut dalam posisi duduk selunjur bertujuan melatih kelenturan otot....",
+        "output": "Soal:\nA. Leher\nB. Punggung dan Paha Belakang\nC. Lengan\nD. Dada\n\nKunci Jawaban: B\n\nPembahasan:\nCium lutut = hamstring & punggung."
+    },
+    {
+        "instruction": "Kebugaran (Unsur).",
+        "input": "Berikut ini yang BUKAN merupakan unsur kebugaran jasmani adalah....",
+        "output": "Soal:\nA. Kekuatan\nB. Kecerdasan\nC. Kelincahan\nD. Daya Tahan\n\nKunci Jawaban: B\n\nPembahasan:\nKecerdasan adalah unsur mental/intelektual, bukan fisik."
+    },
+    {
+        "instruction": "Kebugaran (Pull Up).",
+        "input": "Mengangkat tubuh dengan bergantung pada palang tunggal disebut....",
+        "output": "Soal:\nA. Push Up\nB. Pull Up\nC. Squat Jump\nD. Sit Up\n\nKunci Jawaban: B\n\nPembahasan:\nPull up = Tarik badan."
+    },
+    {
+        "instruction": "Kebugaran (Squat Jump).",
+        "input": "Gerakan jongkok lalu melompat ke atas dengan tangan di belakang kepala.",
+        "output": "Soal:\nLatihan ini menguatkan otot....\n\nA. Tungkai/Kaki\nB. Lengan\nC. Leher\nD. Jari\n\nKunci Jawaban: A\n\nPembahasan:\nSquat jump = Otot kaki & daya ledak."
+    },
+    {
+        "instruction": "Kebugaran (Pendinginan).",
+        "input": "Setelah berolahraga, kita dianjurkan melakukan gerakan pendinginan (cooling down).",
+        "output": "Soal:\nTujuannya adalah....\n\nA. Meningkatkan suhu tubuh\nB. Mengembalikan kondisi tubuh ke keadaan semula secara bertahap\nC. Membuat otot kaku\nD. Menambah lelah\n\nKunci Jawaban: B\n\nPembahasan:\nCooling down = Recovery/Normalisasi."
+    },
+    {
+        "instruction": "Kebugaran (Pemanasan).",
+        "input": "Sebelum olahraga inti, wajib melakukan pemanasan (warming up).",
+        "output": "Soal:\nSalah satu manfaat pemanasan adalah....\n\nA. Mencegah cedera otot\nB. Cepat lelah\nC. Membuang waktu\nD. Supaya berkeringat saja\n\nKunci Jawaban: A\n\nPembahasan:\nWarming up = Siap fisik & cegah cedera."
+    },
+    {
+        "instruction": "Kebugaran (Naik Turun Bangku).",
+        "input": "Melakukan gerakan naik turun bangku atau tangga berulang-ulang.",
+        "output": "Soal:\nLatihan ini efektif untuk melatih....\n\nA. Daya tahan jantung dan kekuatan kaki\nB. Kelenturan pinggang\nC. Kekuatan tangan\nD. Keseimbangan\n\nKunci Jawaban: A\n\nPembahasan:\nStep up/down = Kardio & Leg power."
+    },
+    {
+        "instruction": "Kebugaran (Loncat Tali).",
+        "input": "Skipping atau loncat tali adalah latihan yang baik untuk melatih koordinasi kaki dan....",
+        "output": "Soal:\nA. Kekuatan Leher\nB. Daya tahan jantung\nC. Kekuatan perut\nD. Kelenturan Punggung\n\nKunci Jawaban: B\n\nPembahasan:\nSkipping = Kardio & Koordinasi."
+    },
+    {
+        "instruction": "Kebugaran (Tes Lari 1200m).",
+        "input": "Tes lari sejauh 1000 meter atau 1200 meter biasanya digunakan untuk mengukur....",
+        "output": "Soal:\nA. Kecepatan maksimal\nB. Daya tahan jantung-paru (VO2Max)\nC. Kelincahan\nD. Kekuatan otot lengan\n\nKunci Jawaban: B\n\nPembahasan:\nLari jarak menengah/jauh = Daya tahan (Aerobik)."
+    },
+    {
+        "instruction": "Kebugaran (Interval Training).",
+        "input": "Latihan yang diselingi dengan masa istirahat disebut....",
+        "output": "Soal:\nA. Interval Training\nB. Cross Country\nC. Fartlek\nD. Marathon\n\nKunci Jawaban: A\n\nPembahasan:\nInterval = Jeda istirahat."
+    },
+    {
+        "instruction": "Kebugaran (Kekuatan).",
+        "input": "Kemampuan otot untuk melakukan kontraksi guna membangkitkan tegangan terhadap suatu tahanan disebut....",
+        "output": "Soal:\nA. Daya Tahan\nB. Kekuatan (Strength)\nC. Kelenturan\nD. Kecepatan\n\nKunci Jawaban: B\n\nPembahasan:\nDefinisi Kekuatan."
+    },
+    {
+        "instruction": "Kebugaran (Kayang).",
+        "input": "Gerakan melentingkan badan ke belakang dengan bertumpu pada kedua tangan dan kaki.",
+        "output": "Soal:\nGerakan kayang melatih....\n\nA. Kelenturan punggung\nB. Kekuatan jari\nC. Kecepatan lari\nD. Daya tahan lari\n\nKunci Jawaban: A\n\nPembahasan:\nKayang = Fleksibilitas punggung."
+    },
+    {
+        "instruction": "Kebugaran (Shuttle Run).",
+        "input": "Lari bolak-balik dengan jarak pendek (misal 4x10 meter) secepat mungkin.",
+        "output": "Soal:\nLatihan ini disebut....\n\nA. Shuttle Run\nB. Marathon\nC. Sprint\nD. Estafet\n\nKunci Jawaban: A\n\nPembahasan:\nLari bolak-balik = Shuttle Run (Kelincahan)."
+    },
+    {
+        "instruction": "Kebugaran (Denyut Nadi).",
+        "input": "Untuk mengetahui intensitas latihan, kita bisa menghitung denyut nadi pada bagian....",
+        "output": "Soal:\nA. Perut\nB. Pergelangan tangan atau leher\nC. Betis\nD. Punggung\n\nKunci Jawaban: B\n\nPembahasan:\nNadi radialis (tangan) atau karotis (leher)."
+    },
+    {
+        "instruction": "Kebugaran (Fartlek).",
+        "input": "Sistem latihan lari dengan kecepatan yang berubah-ubah (speed play) di alam terbuka disebut....",
+        "output": "Soal:\nA. Interval\nB. Fartlek\nC. Circuit Training\nD. Weight Training\n\nKunci Jawaban: B\n\nPembahasan:\nSpeed play = Fartlek."
+    },
+    {
+        "instruction": "Kebugaran (Jasmani vs Rohani).",
+        "input": "Kebugaran jasmani berkaitan dengan fisik, sedangkan kesehatan mental berkaitan dengan....",
+        "output": "Soal:\nA. Otot\nB. Rohani/Jiwa\nC. Tulang\nD. Sendi\n\nKunci Jawaban: B\n\nPembahasan:\nJasmani (Fisik) vs Rohani (Mental)."
+    },
+    {
+        "instruction": "Kebugaran (Pola Makan).",
+        "input": "Selain olahraga, kebugaran jasmani juga dipengaruhi oleh....",
+        "output": "Soal:\nA. Harga sepatu\nB. Pola makan dan istirahat\nC. Merek baju\nD. Cuaca\n\nKunci Jawaban: B\n\nPembahasan:\nFaktor kebugaran: Olahraga, Nutrisi, Istirahat."
+    },
+    {
+        "instruction": "Kebugaran (Tidur).",
+        "input": "Istirahat yang paling baik untuk memulihkan kebugaran adalah....",
+        "output": "Soal:\nA. Duduk\nB. Tidur\nC. Nonton TV\nD. Main HP\n\nKunci Jawaban: B\n\nPembahasan:\nTidur = recovery terbaik."
+    },
+    {
+        "instruction": "Kebugaran (Split).",
+        "input": "Gerakan merentangkan kedua kaki lurus ke samping atau depan-belakang hingga menempel lantai.",
+        "output": "Soal:\nGerakan Split melatih....\n\nA. Kelenturan otot kaki\nB. Kekuatan tangan\nC. Daya tahan jantung\nD. Keseimbangan\n\nKunci Jawaban: A\n\nPembahasan:\nSplit = Fleksibilitas kaki."
+    },
+    {
+        "instruction": "Kebugaran (Lompat Box).",
+        "input": "Melompati peti lompat (box) membutuhkan unsur....",
+        "output": "Soal:\nA. Daya ledak dan keberanian\nB. Kelenturan saja\nC. Kecepatan lari saja\nD. Kesabaran\n\nKunci Jawaban: A\n\nPembahasan:\nLompat peti = Power."
+    },
+    {
+        "instruction": "Kebugaran (Handstand).",
+        "input": "Berdiri dengan tumpuan kedua tangan dan kaki lurus ke atas.",
+        "output": "Soal:\nGerakan ini disebut....\n\nA. Handstand\nB. Headstand\nC. Kopstand\nD. Guling depan\n\nKunci Jawaban: A\n\nPembahasan:\nHand = Tangan (tumpuan)."
+    },
+    {
+        "instruction": "Kebugaran (Circuit Training).",
+        "input": "Latihan yang dilakukan secara berurutan dalam beberapa pos disebut....",
+        "output": "Soal:\nA. Interval\nB. Sirkuit (Circuit Training)\nC. Fartlek\nD. Aerobik\n\nKunci Jawaban: B\n\nPembahasan:\nPos berurutan = Sirkuit."
+    },
+    {
+        "instruction": "Kebugaran (Protein).",
+        "input": "Zat gizi yang berfungsi sebagai zat pembangun dan memperbaiki sel tubuh yang rusak setelah olahraga adalah....",
+        "output": "Soal:\nA. Lemak\nB. Karbohidrat\nC. Protein\nD. Vitamin\n\nKunci Jawaban: C\n\nPembahasan:\nProtein = Zat pembangun."
+    },
+    {
+        "instruction": "Kebugaran (Karbohidrat).",
+        "input": "Sumber energi utama bagi tubuh untuk berolahraga berasal dari....",
+        "output": "Soal:\nA. Vitamin\nB. Mineral\nC. Karbohidrat\nD. Serat\n\nKunci Jawaban: C\n\nPembahasan:\nKarbo = Sumber energi utama."
+    },
+    {
+        "instruction": "Kebugaran (Dehidrasi).",
+        "input": "Kekurangan cairan tubuh saat berolahraga dapat menyebabkan....",
+        "output": "Soal:\nA. Obesitas\nB. Dehidrasi\nC. Hipertensi\nD. Anemia\n\nKunci Jawaban: B\n\nPembahasan:\nKurang cairan = Dehidrasi."
+    },
+    {
+        "instruction": "Kebugaran (Latihan Beban).",
+        "input": "Latihan mengangkat barbel ringan (dumbell) melatih....",
+        "output": "Soal:\nA. Kelenturan\nB. Kekuatan otot\nC. Kelincahan\nD. Keseimbangan\n\nKunci Jawaban: B\n\nPembahasan:\nWeight training = Kekuatan."
+    },
+    {
+        "instruction": "Kebugaran (Frekuensi).",
+        "input": "Untuk menjaga kebugaran, sebaiknya kita berolahraga minimal ... seminggu.",
+        "output": "Soal:\nA. 1 kali\nB. 3 kali\nC. 7 kali (setiap hari tanpa henti)\nD. 1 bulan sekali\n\nKunci Jawaban: B\n\nPembahasan:\nIdealnya 3-5 kali seminggu."
+    },
+    {
+        "instruction": "Kebugaran (Gerobak Dorong).",
+        "input": "Permainan gerobak dorong (teman memegang kaki, kita berjalan dengan tangan) melatih otot....",
+        "output": "Soal:\nA. Kaki\nB. Leher\nC. Lengan dan Bahu\nD. Perut\n\nKunci Jawaban: C\n\nPembahasan:\nTumpuan tangan = Otot lengan."
+    },
+    {
+        "instruction": "Kebugaran (Sikap Lilin).",
+        "input": "Tidur telentang lalu mengangkat kedua kaki dan pinggang lurus ke atas ditopang tangan.",
+        "output": "Soal:\nGerakan ini disebut....\n\nA. Kayang\nB. Sikap Lilin\nC. Guling Belakang\nD. Headstand\n\nKunci Jawaban: B\n\nPembahasan:\nLurus ke atas = Lilin."
+    },
+    {
+        "instruction": "Kebugaran (Jalan di Tempat).",
+        "input": "Jalan di tempat sambil mengangkat lutut tinggi merupakan latihan....",
+        "output": "Soal:\nA. Pemanasan\nB. Pendinginan\nC. Relaksasi\nD. Tidur\n\nKunci Jawaban: A\n\nPembahasan:\nJalan di tempat = Pemanasan dinamis."
+    },
+    {
+        "instruction": "Kebugaran (Lompat Katak).",
+        "input": "Gerakan melompat jongkok berulang-ulang seperti katak melatih kekuatan otot....",
+        "output": "Soal:\nA. Tangan\nB. Tungkai/Kaki\nC. Leher\nD. Punggung\n\nKunci Jawaban: B\n\nPembahasan:\nLompat katak = Leg power."
+    },
+    {
+        "instruction": "Kebugaran (Obesitas).",
+        "input": "Kondisi kelebihan berat badan akibat penumpukan lemak disebut....",
+        "output": "Soal:\nA. Gizi Buruk\nB. Obesitas\nC. Anoreksia\nD. Bulimia\n\nKunci Jawaban: B\n\nPembahasan:\nGemuk berlebih = Obesitas."
+    },
+    {
+        "instruction": "Kebugaran (Air Putih).",
+        "input": "Minuman terbaik setelah olahraga untuk mengganti cairan tubuh adalah....",
+        "output": "Soal:\nA. Air bersoda\nB. Air sirup manis\nC. Air putih\nD. Kopi panas\n\nKunci Jawaban: C\n\nPembahasan:\nAir putih paling sehat."
+    },
+    {
+        "instruction": "Kebugaran (VO2Max).",
+        "input": "Kapasitas maksimal paru-paru dan jantung dalam menyerap oksigen disebut....",
+        "output": "Soal:\nA. Vitalitas\nB. VO2 Max\nC. Stamina\nD. Energi\n\nKunci Jawaban: B\n\nPembahasan:\nVolume Oksigen Maksimal."
+    },
+    {
+        "instruction": "Reproduksi (Masa Pubertas).",
+        "input": "Masa peralihan dari anak-anak menuju dewasa yang ditandai dengan perubahan fisik dan psikis disebut....",
+        "output": "Soal:\nA. Balita\nB. Pubertas/Remaja\nC. Manula\nD. Dewasa\n\nKunci Jawaban: B\n\nPembahasan:\nPeralihan anak ke dewasa = Pubertas."
+    },
+    {
+        "instruction": "Reproduksi (Ciri Fisik Laki-laki).",
+        "input": "Berikut ini adalah ciri-ciri fisik anak laki-laki yang memasuki masa pubertas, KECUALI....",
+        "output": "Soal:\nA. Tumbuh jakun\nB. Suara menjadi berat\nC. Pinggul membesar\nD. Tumbuh kumis\n\nKunci Jawaban: C\n\nPembahasan:\nPinggul membesar adalah ciri perempuan."
+    },
+    {
+        "instruction": "Reproduksi (Ciri Fisik Perempuan).",
+        "input": "Salah satu tanda pubertas pada anak perempuan adalah....",
+        "output": "Soal:\nA. Suara memberat\nB. Tumbuh jakun\nC. Mengalami menstruasi\nD. Dada menjadi bidang\n\nKunci Jawaban: C\n\nPembahasan:\nMenstruasi = ciri utama pubertas perempuan."
+    },
+    {
+        "instruction": "Reproduksi (Kebersihan).",
+        "input": "Menjaga kebersihan alat reproduksi sangat penting untuk mencegah....",
+        "output": "Soal:\nA. Kelaparan\nB. Penyakit kulit dan infeksi saluran kencing\nC. Sakit gigi\nD. Rabun jauh\n\nKunci Jawaban: B\n\nPembahasan:\nKebersihan = Cegah infeksi."
+    },
+    {
+        "instruction": "Reproduksi (Celana Dalam).",
+        "input": "Sebaiknya kita mengganti celana dalam minimal ... sehari.",
+        "output": "Soal:\nA. 1 kali\nB. 2 kali (pagi dan sore/setelah mandi)\nC. 2 hari sekali\nD. Seminggu sekali\n\nKunci Jawaban: B\n\nPembahasan:\nMinimal 2x sehari."
+    },
+    {
+        "instruction": "Reproduksi (Menstruasi).",
+        "input": "Keluarnya darah dari vagina secara periodik pada perempuan disebut....",
+        "output": "Soal:\nA. Menstruasi/Haid\nB. Mimisan\nC. Luka\nD. Infeksi\n\nKunci Jawaban: A\n\nPembahasan:\nSiklus bulanan perempuan."
+    },
+    {
+        "instruction": "Reproduksi (Mimpi Basah).",
+        "input": "Tanda pubertas pada laki-laki yang ditandai dengan keluarnya sperma saat tidur disebut....",
+        "output": "Soal:\nA. Ngompol\nB. Mimpi Basah\nC. Mimpi Buruk\nD. Tidur lelap\n\nKunci Jawaban: B\n\nPembahasan:\nTanda biologis laki-laki."
+    },
+    {
+        "instruction": "Reproduksi (Bahan Celana).",
+        "input": "Bahan celana dalam yang baik untuk kesehatan alat reproduksi adalah yang....",
+        "output": "Soal:\nA. Tebal dan panas\nB. Menyerap keringat (katun)\nC. Plastik\nD. Ketat sekali\n\nKunci Jawaban: B\n\nPembahasan:\nKatun menyerap keringat, cegah jamur."
+    },
+    {
+        "instruction": "Reproduksi (Penyakit).",
+        "input": "Penyakit yang menyerang alat reproduksi akibat jamur karena kurang menjaga kebersihan adalah....",
+        "output": "Soal:\nA. Panu di wajah\nB. Keputihan (pada perempuan) atau gatal-gatal jamur\nC. Flu\nD. Batuk\n\nKunci Jawaban: B\n\nPembahasan:\nJamur/Keputihan akibat lembab."
+    },
+    {
+        "instruction": "Reproduksi (Cara Basuh).",
+        "input": "Bagi perempuan, cara membasuh alat kelamin setelah buang air yang benar adalah....",
+        "output": "Soal:\nA. Dari belakang ke depan\nB. Dari depan ke belakang\nC. Sembarangan\nD. Tidak perlu dibasuh\n\nKunci Jawaban: B\n\nPembahasan:\nDepan ke belakang cegah kuman anus masuk vagina."
+    },
+    {
+        "instruction": "Reproduksi (Keringkan).",
+        "input": "Setelah buang air, alat reproduksi harus dikeringkan dengan....",
+        "output": "Soal:\nA. Tisu atau handuk kering\nB. Baju\nC. Dibiarkan basah\nD. Kertas koran\n\nKunci Jawaban: A\n\nPembahasan:\nAgar tidak lembab."
+    },
+    {
+        "instruction": "Reproduksi (Jerawat).",
+        "input": "Munculnya jerawat di wajah merupakan salah satu perubahan fisik pada masa pubertas akibat aktivitas kelenjar....",
+        "output": "Soal:\nA. Air mata\nB. Minyak dan keringat\nC. Getah bening\nD. Ludah\n\nKunci Jawaban: B\n\nPembahasan:\nHormon memicu kelenjar minyak."
+    },
+    {
+        "instruction": "Reproduksi (Jakun).",
+        "input": "Benjolan di leher laki-laki yang tumbuh saat pubertas disebut....",
+        "output": "Soal:\nA. Amandel\nB. Jakun\nC. Gondok\nD. Tumor\n\nKunci Jawaban: B\n\nPembahasan:\nJakun = ciri seks sekunder laki-laki."
+    },
+    {
+        "instruction": "Reproduksi (Handuk).",
+        "input": "Kita tidak boleh bertukar handuk dengan orang lain untuk mencegah penularan penyakit....",
+        "output": "Soal:\nA. Kulit\nB. Jantung\nC. Tulang\nD. Maag\n\nKunci Jawaban: A\n\nPembahasan:\nJamur kulit/kudis menular lewat handuk."
+    },
+    {
+        "instruction": "Reproduksi (Toilet Umum).",
+        "input": "Saat menggunakan toilet umum, sebaiknya kita....",
+        "output": "Soal:\nA. Langsung duduk\nB. Menyiram kloset sebelum dan sesudah dipakai\nC. Menginjak kloset duduk\nD. Tidak menyiram\n\nKunci Jawaban: B\n\nPembahasan:\nKebersihan toilet umum."
+    },
+    {
+        "instruction": "Reproduksi (Peran Orang Tua).",
+        "input": "Jika mengalami kebingungan tentang perubahan masa pubertas, sebaiknya bertanya kepada....",
+        "output": "Soal:\nA. Orang asing\nB. Orang tua atau Guru\nC. Teman yang nakal\nD. Diam saja\n\nKunci Jawaban: B\n\nPembahasan:\nSumber info terpercaya: Ortu/Guru."
+    },
+    {
+        "instruction": "Reproduksi (Sunat).",
+        "input": "Khitan atau sunat pada laki-laki bertujuan untuk....",
+        "output": "Soal:\nA. Gaya-gayaan\nB. Menjaga kebersihan dan kesehatan alat reproduksi\nC. Menambah berat badan\nD. Supaya sakit\n\nKunci Jawaban: B\n\nPembahasan:\nBersih dari kotoran (smegma)."
+    },
+    {
+        "instruction": "Reproduksi (Hormon).",
+        "input": "Zat kimia dalam tubuh yang mempengaruhi perubahan fisik saat pubertas disebut....",
+        "output": "Soal:\nA. Vitamin\nB. Hormon\nC. Enzim\nD. Protein\n\nKunci Jawaban: B\n\nPembahasan:\nPerubahan hormon."
+    },
+    {
+        "instruction": "Reproduksi (Bau Badan).",
+        "input": "Anak pubertas sering mengalami masalah bau badan, cara mengatasinya adalah....",
+        "output": "Soal:\nA. Jarang mandi\nB. Mandi teratur dan memakai deodoran jika perlu\nC. Memakai parfum sebotol\nD. Tidak ganti baju\n\nKunci Jawaban: B\n\nPembahasan:\nKebersihan badan = solusi bau badan."
+    },
+    {
+        "instruction": "Reproduksi (Olahraga).",
+        "input": "Olahraga teratur pada masa remaja sangat baik untuk....",
+        "output": "Soal:\nA. Mengganggu pertumbuhan\nB. Memaksimalkan pertumbuhan tinggi badan\nC. Membuat pendek\nD. Mengurangi nafsu makan\n\nKunci Jawaban: B\n\nPembahasan:\nStimulasi pertumbuhan tulang."
+    },
+    {
+        "instruction": "Reproduksi (Pakaian Ketat).",
+        "input": "Sering memakai celana yang terlalu ketat dapat menyebabkan....",
+        "output": "Soal:\nA. Kulit bebas bernapas\nB. Iritasi dan lembab pada area vital\nC. Kaki jenjang\nD. Perut kecil\n\nKunci Jawaban: B\n\nPembahasan:\nKetat = Lembab & Iritasi."
+    },
+    {
+        "instruction": "Reproduksi (Rambut Halus).",
+        "input": "Tumbuhnya rambut halus di ketiak dan sekitar alat kelamin merupakan tanda....",
+        "output": "Soal:\nA. Penyakit\nB. Pubertas (Kematangan seksual)\nC. Kelainan\nD. Gizi buruk\n\nKunci Jawaban: B\n\nPembahasan:\nCiri seks sekunder."
+    },
+    {
+        "instruction": "Reproduksi (Suara).",
+        "input": "Suara anak perempuan saat pubertas biasanya menjadi lebih....",
+        "output": "Soal:\nA. Berat/Bas\nB. Melengking/Nyaring\nC. Serak\nD. Hilang\n\nKunci Jawaban: B\n\nPembahasan:\nLaki-laki berat, Perempuan melengking."
+    },
+    {
+        "instruction": "Reproduksi (Nutrisi).",
+        "input": "Makanan sehat bergizi seimbang sangat dibutuhkan remaja untuk....",
+        "output": "Soal:\nA. Menjadi gemuk\nB. Mendukung pertumbuhan dan perkembangan\nC. Menjadi model\nD. Menghabiskan uang\n\nKunci Jawaban: B\n\nPembahasan:\nNutrisi untuk tumbuh kembang."
+    },
+    {
+        "instruction": "Reproduksi (Pergaulan).",
+        "input": "Dalam masa pubertas, kita harus berhati-hati dalam pergaulan agar terhindar dari....",
+        "output": "Soal:\nA. Prestasi\nB. Teman baik\nC. Pergaulan bebas\nD. Kesehatan\n\nKunci Jawaban: C\n\nPembahasan:\nHindari pergaulan negatif."
+    },
+    {
+        "instruction": "Reproduksi (Emosi).",
+        "input": "Selain fisik, perubahan psikis saat pubertas adalah....",
+        "output": "Soal:\nA. Emosi tidak stabil/mudah tersinggung\nB. Selalu senang\nC. Tidak punya perasaan\nD. Selalu menangis\n\nKunci Jawaban: A\n\nPembahasan:\nGejolak emosi remaja."
+    },
+    {
+        "instruction": "Reproduksi (Narkoba).",
+        "input": "Salah satu cara menjaga kesehatan reproduksi adalah menjauhi....",
+        "output": "Soal:\nA. Narkoba dan Alkohol\nB. Sayuran\nC. Buah-buahan\nD. Air putih\n\nKunci Jawaban: A\n\nPembahasan:\nNarkoba merusak sistem saraf & hormon."
+    },
+    {
+        "instruction": "Reproduksi (Sopan Santun).",
+        "input": "Menjaga etika dan sopan santun dengan lawan jenis termasuk cara menjaga diri dari....",
+        "output": "Soal:\nA. Pujian\nB. Pelecehan seksual\nC. Hadiah\nD. Hukuman\n\nKunci Jawaban: B\n\nPembahasan:\nEtika pergaulan."
+    },
+    {
+        "instruction": "Reproduksi (Ganti Pembalut).",
+        "input": "Saat menstruasi, perempuan sebaiknya mengganti pembalut setiap....",
+        "output": "Soal:\nA. 24 jam sekali\nB. 3-4 jam sekali (atau jika penuh)\nC. 2 hari sekali\nD. Seminggu sekali\n\nKunci Jawaban: B\n\nPembahasan:\nCegah bakteri berkembang biak."
+    },
+    {
+        "instruction": "Reproduksi (Air Bersih).",
+        "input": "Membasuh alat reproduksi harus menggunakan air yang....",
+        "output": "Soal:\nA. Kotor\nB. Bersih dan mengalir\nC. Panas mendidih\nD. Berwarna\n\nKunci Jawaban: B\n\nPembahasan:\nAir bersih syarat mutlak."
+    },
+    {
+        "instruction": "Reproduksi (Dada Bidang).",
+        "input": "Ciri fisik dada menjadi lebih bidang terjadi pada....",
+        "output": "Soal:\nA. Anak perempuan\nB. Anak laki-laki\nC. Lansia\nD. Bayi\n\nKunci Jawaban: B\n\nPembahasan:\nOtot dada laki-laki berkembang."
+    },
+    {
+        "instruction": "Reproduksi (Infeksi).",
+        "input": "Rasa gatal dan panas di area kemaluan bisa menjadi tanda adanya....",
+        "output": "Soal:\nA. Pertumbuhan\nB. Infeksi jamur atau bakteri\nC. Kesehatan\nD. Kebersihan\n\nKunci Jawaban: B\n\nPembahasan:\nGejala infeksi."
+    },
+    {
+        "instruction": "Reproduksi (Lembab).",
+        "input": "Kondisi lembab pada area reproduksi sangat disukai oleh....",
+        "output": "Soal:\nA. Virus dan Bakteri/Jamur\nB. Keringat\nC. Udara\nD. Debu\n\nKunci Jawaban: A\n\nPembahasan:\nLembab = sarang kuman."
+    },
+    {
+        "instruction": "Reproduksi (Pakaian Dalam).",
+        "input": "Pakaian dalam yang kotor dan tidak diganti bisa menjadi sumber....",
+        "output": "Soal:\nA. Rezeki\nB. Penyakit\nC. Kekuatan\nD. Percaya diri\n\nKunci Jawaban: B\n\nPembahasan:\nKotor = Penyakit."
+    },
+    {
+        "instruction": "Reproduksi (Privasi).",
+        "input": "Bagian tubuh pribadi (termasuk alat reproduksi) tidak boleh....",
+        "output": "Soal:\nA. Dijaga\nB. Disentuh sembarangan oleh orang lain\nC. Dibersihkan\nD. Dilindungi\n\nKunci Jawaban: B\n\nPembahasan:\nPendidikan seks (Sentuhan boleh/tidak boleh)."
+    },
+    {
+        "instruction": "Reproduksi (Tanggung Jawab).",
+        "input": "Memasuki masa pubertas berarti kita mulai memiliki ... atas diri sendiri.",
+        "output": "Soal:\nA. Tanggung jawab\nB. Kebebasan tanpa batas\nC. Kekuasaan\nD. Uang\n\nKunci Jawaban: A\n\nPembahasan:\nDewasa = Tanggung jawab."
+    },
+    {
+        "instruction": "Reproduksi (Konsultasi).",
+        "input": "Jika merasakan nyeri yang tidak wajar pada alat reproduksi, segera....",
+        "output": "Soal:\nA. Diam saja\nB. Periksa ke dokter didampingi orang tua\nC. Minum obat sembarangan\nD. Menangis\n\nKunci Jawaban: B\n\nPembahasan:\nMedis."
+    },
+    {
+        "instruction": "Reproduksi (Potong Kuku).",
+        "input": "Memotong kuku secara teratur juga penting untuk menjaga kebersihan alat reproduksi saat....",
+        "output": "Soal:\nA. Makan\nB. Membersihkan diri (cebok)\nC. Tidur\nD. Belajar\n\nKunci Jawaban: B\n\nPembahasan:\nKuku kotor bisa melukai/infeksi saat cebok."
+    },
+    {
+        "instruction": "Reproduksi (Sabun).",
+        "input": "Penggunaan sabun pembersih kewanitaan yang terlalu sering tidak dianjurkan karena....",
+        "output": "Soal:\nA. Mahal\nB. Membunuh bakteri baik dan mengganggu pH alami\nC. Wangi\nD. Susah dicari\n\nKunci Jawaban: B\n\nPembahasan:\npH alami vagina bisa rusak."
+    },
+    {
+        "instruction": "Reproduksi (Ibadah).",
+        "input": "Salah satu cara menenangkan gejolak emosi saat pubertas adalah dengan....",
+        "output": "Soal:\nA. Marah-marah\nB. Mendekatkan diri kepada Tuhan (Beribadah)\nC. Keluyuran\nD. Mengurung diri\n\nKunci Jawaban: B\n\nPembahasan:\nKesehatan mental/spiritual."
+    },
+    {
+        "instruction": "NAPZA (Singkatan).",
+        "input": "Kepanjangan dari NAPZA adalah....",
+        "output": "Soal:\nA. Narkoba, Alkohol, Psikotropika, dan Zat Aditif\nB. Narkotika, Psikotropika, dan Zat Adiktif\nC. Narkoba Aman Pake Zat Asli\nD. Narkotika dan Zat Alami\n\nKunci Jawaban: B\n\nPembahasan:\nNarkotika, Psikotropika, Zat Adiktif."
+    },
+    {
+        "instruction": "NAPZA (Narkotika).",
+        "input": "Zat atau obat yang berasal dari tanaman atau bukan tanaman yang dapat menyebabkan penurunan kesadaran dan ketergantungan disebut....",
+        "output": "Soal:\nA. Vitamin\nB. Narkotika\nC. Protein\nD. Mineral\n\nKunci Jawaban: B\n\nPembahasan:\nDefinisi Narkotika."
+    },
+    {
+        "instruction": "NAPZA (Psikotropika).",
+        "input": "Zat atau obat yang berkhasiat psikoaktif dan mempengaruhi susunan saraf pusat disebut....",
+        "output": "Soal:\nA. Narkotika\nB. Psikotropika\nC. Antibiotik\nD. Antiseptik\n\nKunci Jawaban: B\n\nPembahasan:\nPsikoaktif = Psikotropika."
+    },
+    {
+        "instruction": "NAPZA (Zat Adiktif).",
+        "input": "Bahan lain bukan narkotika atau psikotropika yang penggunaannya dapat menimbulkan ketergantungan disebut....",
+        "output": "Soal:\nA. Zat Adiktif\nB. Zat Pewarna\nC. Zat Pengawet\nD. Zat Besi\n\nKunci Jawaban: A\n\nPembahasan:\nMenimbulkan adiksi/candu = Zat Adiktif."
+    },
+    {
+        "instruction": "NAPZA (Rokok).",
+        "input": "Rokok mengandung zat adiktif yang disebut....",
+        "output": "Soal:\nA. Kafein\nB. Nikotin\nC. Kodein\nD. Morfin\n\nKunci Jawaban: B\n\nPembahasan:\nZat candu rokok = Nikotin."
+    },
+    {
+        "instruction": "NAPZA (Alkohol).",
+        "input": "Minuman keras mengandung etanol yang dapat menyebabkan....",
+        "output": "Soal:\nA. Badan sehat\nB. Mabuk dan hilang kesadaran\nC. Pintar\nD. Kuat lari\n\nKunci Jawaban: B\n\nPembahasan:\nAlkohol memabukkan."
+    },
+    {
+        "instruction": "NAPZA (Bahaya Fisik).",
+        "input": "Salah satu dampak negatif penyalahgunaan narkoba bagi kesehatan fisik adalah....",
+        "output": "Soal:\nA. Tubuh menjadi bugar\nB. Kerusakan organ vital (jantung, hati, otak)\nC. Kulit glowing\nD. Mata tajam\n\nKunci Jawaban: B\n\nPembahasan:\nMerusak organ tubuh."
+    },
+    {
+        "instruction": "NAPZA (Bahaya Psikis).",
+        "input": "Dampak penyalahgunaan narkoba bagi kejiwaan (psikis) adalah....",
+        "output": "Soal:\nA. Tenang dan damai\nB. Halusinasi, depresi, dan paranoid\nC. Semangat belajar\nD. Disayang teman\n\nKunci Jawaban: B\n\nPembahasan:\nGangguan mental."
+    },
+    {
+        "instruction": "NAPZA (Hukum).",
+        "input": "Penyalahgunaan narkoba di Indonesia melanggar undang-undang dan dapat dikenakan sanksi....",
+        "output": "Soal:\nA. Hadiah uang\nB. Penjara/Hukuman mati\nC. Beasiswa\nD. Piagam penghargaan\n\nKunci Jawaban: B\n\nPembahasan:\nTindak pidana berat."
+    },
+    {
+        "instruction": "NAPZA (Jenis Narkotika).",
+        "input": "Ganja, Sabu-sabu, dan Heroin termasuk jenis....",
+        "output": "Soal:\nA. Obat warung\nB. Narkotika Golongan I (Ilegal)\nC. Vitamin suplemen\nD. Makanan ringan\n\nKunci Jawaban: B\n\nPembahasan:\nGolongan I dilarang untuk medis (kecuali riset)."
+    },
+    {
+        "instruction": "NAPZA (HIV/AIDS).",
+        "input": "Penggunaan jarum suntik narkoba secara bergantian dapat menularkan virus berbahaya yaitu....",
+        "output": "Soal:\nA. Influenza\nB. HIV/AIDS\nC. Panu\nD. Cacar air\n\nKunci Jawaban: B\n\nPembahasan:\nHIV menular lewat darah (jarum suntik)."
+    },
+    {
+        "instruction": "NAPZA (Rehabilitasi).",
+        "input": "Upaya penyembuhan bagi korban penyalahgunaan narkoba disebut....",
+        "output": "Soal:\nA. Rehabilitasi\nB. Reboisasi\nC. Rekreasi\nD. Renovasi\n\nKunci Jawaban: A\n\nPembahasan:\nPemulihan = Rehabilitasi."
+    },
+    {
+        "instruction": "NAPZA (Perokok Pasif).",
+        "input": "Orang yang tidak merokok tetapi ikut menghirup asap rokok orang lain disebut....",
+        "output": "Soal:\nA. Perokok Aktif\nB. Perokok Pasif\nC. Perokok Berat\nD. Perokok Santai\n\nKunci Jawaban: B\n\nPembahasan:\nMenghirup asap orang lain = Pasif."
+    },
+    {
+        "instruction": "NAPZA (Kafein).",
+        "input": "Zat adiktif yang terkandung dalam kopi dan teh adalah....",
+        "output": "Soal:\nA. Nikotin\nB. Kafein\nC. Alkohol\nD. Tar\n\nKunci Jawaban: B\n\nPembahasan:\nStimulan ringan = Kafein."
+    },
+    {
+        "instruction": "NAPZA (Lem).",
+        "input": "Menghirup uap lem (ngelem) termasuk penyalahgunaan zat adiktif yang dapat merusak....",
+        "output": "Soal:\nA. Sepatu\nB. Sel-sel otak dan saraf\nC. Kuku\nD. Rambut\n\nKunci Jawaban: B\n\nPembahasan:\nInhalan merusak otak."
+    },
+    {
+        "instruction": "NAPZA (Dampak Sosial).",
+        "input": "Akibat penyalahgunaan narkoba di lingkungan masyarakat adalah....",
+        "output": "Soal:\nA. Dikucilkan dan meningkatnya angka kriminalitas\nB. Dihormati tetangga\nC. Menjadi ketua RT\nD. Gotong royong meningkat\n\nKunci Jawaban: A\n\nPembahasan:\nMasalah sosial & kriminal."
+    },
+    {
+        "instruction": "NAPZA (Modus Operandi).",
+        "input": "Pengedar narkoba sering mencampurkan narkoba ke dalam ... untuk menjebak anak-anak.",
+        "output": "Soal:\nA. Sayur bayam\nB. Permen atau jajanan\nC. Nasi goreng\nD. Air mineral segel\n\nKunci Jawaban: B\n\nPembahasan:\nModus lewat jajanan anak."
+    },
+    {
+        "instruction": "NAPZA (Prestasi).",
+        "input": "Pengaruh narkoba terhadap prestasi belajar siswa adalah....",
+        "output": "Soal:\nA. Meningkat pesat\nB. Menurun drastis dan malas belajar\nC. Tetap stabil\nD. Menjadi juara kelas\n\nKunci Jawaban: B\n\nPembahasan:\nMerusak fokus & motivasi."
+    },
+    {
+        "instruction": "NAPZA (Tolak Tawaran).",
+        "input": "Sikap kita jika ditawari obat-obatan yang tidak jelas atau narkoba oleh teman adalah....",
+        "output": "Soal:\nA. Mencobanya sedikit\nB. Menolak dengan tegas dan melaporkan kepada guru/orang tua\nC. Menerima untuk dijual lagi\nD. Disimpan saja\n\nKunci Jawaban: B\n\nPembahasan:\nAsertif (Berani menolak)."
+    },
+    {
+        "instruction": "NAPZA (Tar).",
+        "input": "Zat berbahaya dalam rokok yang dapat menyebabkan kanker paru-paru adalah....",
+        "output": "Soal:\nA. Nikotin\nB. Tar\nC. Oksigen\nD. Air\n\nKunci Jawaban: B\n\nPembahasan:\nZat karsinogenik = Tar."
+    },
+    {
+        "instruction": "NAPZA (Ekstasi).",
+        "input": "Salah satu jenis psikotropika yang sering disalahgunakan dalam bentuk pil warna-warni adalah....",
+        "output": "Soal:\nA. Ekstasi/Ineks\nB. Ganja\nC. Alkohol\nD. Rokok\n\nKunci Jawaban: A\n\nPembahasan:\nPil psikotropika = Ekstasi."
+    },
+    {
+        "instruction": "NAPZA (Miras Oplosan).",
+        "input": "Bahaya meminum minuman keras oplosan (campuran sembarangan) adalah....",
+        "output": "Soal:\nA. Menyegarkan badan\nB. Keracunan fatal hingga kematian\nC. Menghilangkan haus\nD. Menambah tenaga\n\nKunci Jawaban: B\n\nPembahasan:\nSangat mematikan (Metanol)."
+    },
+    {
+        "instruction": "NAPZA (Sakau).",
+        "input": "Gejala putus obat (sakau) terjadi ketika pecandu....",
+        "output": "Soal:\nA. Memakai narkoba\nB. Menghentikan pemakaian narkoba secara tiba-tiba\nC. Tidur nyenyak\nD. Makan kenyang\n\nKunci Jawaban: B\n\nPembahasan:\nWithdrawal syndrome."
+    },
+    {
+        "instruction": "NAPZA (Penyebab).",
+        "input": "Faktor penyebab seseorang terjerumus narkoba biasanya berawal dari....",
+        "output": "Soal:\nA. Keinginan berprestasi\nB. Coba-coba dan pengaruh teman sebaya (peer pressure)\nC. Rajin beribadah\nD. Hidup bahagia\n\nKunci Jawaban: B\n\nPembahasan:\nEksperimen & teman."
+    },
+    {
+        "instruction": "NAPZA (Ketergantungan).",
+        "input": "Kondisi di mana tubuh menuntut dosis narkoba yang semakin tinggi untuk mendapatkan efek yang sama disebut....",
+        "output": "Soal:\nA. Toleransi (Ketergantungan fisik)\nB. Alergi\nC. Imunisasi\nD. Vaksinasi\n\nKunci Jawaban: A\n\nPembahasan:\nToleransi obat."
+    },
+    {
+        "instruction": "NAPZA (BNN).",
+        "input": "Lembaga pemerintah non-kementerian yang bertugas memberantas penyalahgunaan narkoba adalah....",
+        "output": "Soal:\nA. KPK\nB. BNN (Badan Narkotika Nasional)\nC. BNPB\nD. BULOG\n\nKunci Jawaban: B\n\nPembahasan:\nBNN."
+    },
+    {
+        "instruction": "NAPZA (Keluarga).",
+        "input": "Peran keluarga dalam mencegah penyalahgunaan narkoba adalah....",
+        "output": "Soal:\nA. Membiarkan anak bebas tanpa aturan\nB. Menciptakan suasana harmonis, komunikasi terbuka, dan kasih sayang\nC. Memberi uang saku berlebihan\nD. Tidak peduli urusan anak\n\nKunci Jawaban: B\n\nPembahasan:\nKetahanan keluarga."
+    },
+    {
+        "instruction": "NAPZA (Halusinogen).",
+        "input": "Jenis narkoba yang dapat membuat penggunanya berhalusinasi (melihat sesuatu yang tidak nyata) disebut....",
+        "output": "Soal:\nA. Stimulan\nB. Depresan\nC. Halusinogen\nD. Vitamin\n\nKunci Jawaban: C\n\nPembahasan:\nEfek halusinasi (LSD, Jamur)."
+    },
+    {
+        "instruction": "NAPZA (Stimulan).",
+        "input": "Sabu-sabu dan Kokain termasuk jenis stimulan, efeknya adalah....",
+        "output": "Soal:\nA. Mengantuk\nB. Memacu kerja jantung dan otak berlebihan (hiperaktif)\nC. Halusinasi\nD. Lapar\n\nKunci Jawaban: B\n\nPembahasan:\nStimulan = Perangsang."
+    },
+    {
+        "instruction": "NAPZA (Depresan).",
+        "input": "Alkohol dan obat penenang termasuk jenis depresan, efeknya adalah....",
+        "output": "Soal:\nA. Menekan sistem saraf pusat (menjadi lamban/mengantuk)\nB. Menjadi lincah\nC. Mata melotot\nD. Tidak bisa tidur\n\nKunci Jawaban: A\n\nPembahasan:\nDepresan = Penekan."
+    },
+    {
+        "instruction": "NAPZA (Ekonomi).",
+        "input": "Dampak penyalahgunaan narkoba bagi ekonomi keluarga adalah....",
+        "output": "Soal:\nA. Cepat kaya\nB. Hartanya habis untuk membeli narkoba (bangkrut)\nC. Tabungan bertambah\nD. Dapat warisan\n\nKunci Jawaban: B\n\nPembahasan:\nPemborosan/Kebangkrutan."
+    },
+    {
+        "instruction": "NAPZA (Masa Depan).",
+        "input": "Pengguna narkoba akan kehilangan masa depan karena....",
+        "output": "Soal:\nA. Bisa sekolah tinggi\nB. Otak rusak, putus sekolah, dan masa depan suram\nC. Banyak teman sukses\nD. Menjadi pemimpin negara\n\nKunci Jawaban: B\n\nPembahasan:\nLost generation."
+    },
+    {
+        "instruction": "NAPZA (Pencegahan Sekolah).",
+        "input": "Kegiatan sekolah untuk mencegah narkoba antara lain....",
+        "output": "Soal:\nA. Tawuran\nB. Penyuluhan bahaya narkoba dan kegiatan ekstrakurikuler positif\nC. Bolos sekolah\nD. Merokok di kantin\n\nKunci Jawaban: B\n\nPembahasan:\nEdukasi & aktivitas positif."
+    },
+    {
+        "instruction": "NAPZA (Pecandu).",
+        "input": "Orang yang sudah ketergantungan narkoba disebut....",
+        "output": "Soal:\nA. Pecandu/Addict\nB. Penjual\nC. Kurir\nD. Polisi\n\nKunci Jawaban: A\n\nPembahasan:\nIstilah pengguna berat."
+    },
+    {
+        "instruction": "NAPZA (Overdosis).",
+        "input": "Kondisi keracunan obat akibat dosis berlebih yang bisa menyebabkan kematian disebut....",
+        "output": "Soal:\nA. Overdosis (OD)\nB. Operasi\nC. Obesitas\nD. Observasi\n\nKunci Jawaban: A\n\nPembahasan:\nOD = Overdose."
+    },
+    {
+        "instruction": "NAPZA (Jauhi).",
+        "input": "Cara terbaik agar tidak terjerumus narkoba adalah....",
+        "output": "Soal:\nA. Mencoba sekali saja\nB. Tidak pernah mencoba sama sekali (Say No to Drugs)\nC. Berteman dengan pengedar\nD. Main ke diskotik\n\nKunci Jawaban: B\n\nPembahasan:\nPencegahan primer = Jangan coba."
+    },
+    {
+        "instruction": "NAPZA (Wajah Pucat).",
+        "input": "Ciri fisik pengguna narkoba biasanya....",
+        "output": "Soal:\nA. Wajah segar kemerahan\nB. Wajah pucat, mata merah, dan badan kurus tidak terawat\nC. Badan berotot\nD. Gigi putih bersih\n\nKunci Jawaban: B\n\nPembahasan:\nPenampilan fisik memburuk."
+    },
+    {
+        "instruction": "NAPZA (Emfisema).",
+        "input": "Penyakit kerusakan kantung udara di paru-paru akibat merokok disebut....",
+        "output": "Soal:\nA. Emfisema\nB. Sembelit\nC. Diare\nD. Panu\n\nKunci Jawaban: A\n\nPembahasan:\nPenyakit rokok."
+    },
+    {
+        "instruction": "NAPZA (Karbon Monoksida).",
+        "input": "Gas beracun dalam asap rokok yang mengikat hemoglobin darah sehingga tubuh kekurangan oksigen adalah....",
+        "output": "Soal:\nA. Oksigen\nB. Karbon Monoksida (CO)\nC. Nitrogen\nD. Hidrogen\n\nKunci Jawaban: B\n\nPembahasan:\nCO mengikat Hb."
+    },
+    {
+        "instruction": "NAPZA (Janin).",
+        "input": "Ibu hamil yang merokok atau minum alkohol dapat menyebabkan....",
+        "output": "Soal:\nA. Bayi lahir sehat dan cerdas\nB. Cacat janin atau keguguran\nC. Bayi lahir kembar\nD. Ibu menjadi kuat\n\nKunci Jawaban: B\n\nPembahasan:\nBahaya bagi janin."
+    },
+    {
+        "instruction": "Kesehatan (Cuci Tangan).",
+        "input": "Mencuci tangan dengan sabun sebelum makan bertujuan untuk....",
+        "output": "Soal:\nA. Menghilangkan rasa lapar\nB. Membunuh kuman penyakit\nC. Membuat tangan wangi saja\nD. Membuang waktu\n\nKunci Jawaban: B\n\nPembahasan:\nCuci tangan = Bunuh kuman."
+    }
+]
