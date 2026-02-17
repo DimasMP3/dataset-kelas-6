@@ -1,0 +1,1057 @@
+[
+    {
+        "instruction": "Al-Qur'an (Q.S. Al-Kafirun).",
+        "input": "Ayat 'Lakum diinukum waliyadiin' artinya ....",
+        "output": "Soal:\nA. Untukmu agamamu, dan untukkulah agamaku\nB. Aku tidak menyembah apa yang kamu sembah\nC. Dan kamu bukan penyembah Tuhan yang aku sembah\nD. Katakanlah: Hai orang-orang kafir\n\nKunci Jawaban: A\n\nPembahasan:\nTerjemahan ayat terakhir surat Al-Kafirun yang mengajarkan toleransi."
+    },
+    {
+        "instruction": "Al-Qur'an (Q.S. Al-Kafirun).",
+        "input": "Surat Al-Kafirun mengajarkan kita untuk memiliki sikap ... dalam beragama.",
+        "output": "Soal:\nA. Toleransi (Tasamuh)\nB. Egois\nC. Memaksakan kehendak\nD. Acuh tak acuh\n\nKunci Jawaban: A\n\nPembahasan:\nNilai utama Q.S. Al-Kafirun adalah toleransi antar umat beragama."
+    },
+    {
+        "instruction": "Al-Qur'an (Q.S. Al-Ma'idah).",
+        "input": "Q.S. Al-Ma'idah ayat 2 memerintahkan kita untuk tolong-menolong dalam ....",
+        "output": "Soal:\nA. Dosa dan permusuhan\nB. Kebajikan dan takwa\nC. Kejahatan dan kemaksiatan\nD. Kesenangan dunia\n\nKunci Jawaban: B\n\nPembahasan:\n'Wata'awanu 'alal birri wattaqwa' (Tolong-menolonglah dalam kebajikan dan takwa)."
+    },
+    {
+        "instruction": "Al-Qur'an (Q.S. Al-Ma'idah).",
+        "input": "Q.S. Al-Ma'idah ayat 3 menjelaskan tentang larangan memakan ....",
+        "output": "Soal:\nA. Buah-buahan\nB. Sayuran\nC. Bangkai, darah, dan daging babi\nD. Ikan laut\n\nKunci Jawaban: C\n\nPembahasan:\nAyat ini merinci makanan yang diharamkan (bangkai, darah, daging babi, dll)."
+    },
+    {
+        "instruction": "Al-Qur'an (Q.S. Al-Hujurat).",
+        "input": "Q.S. Al-Hujurat ayat 13 menjelaskan bahwa manusia diciptakan berbangsa-bangsa dan bersuku-suku agar saling ....",
+        "output": "Soal:\nA. Mengenal (Ta'aruf)\nB. Bermusuhan\nC. Bersaing\nD. Menjauh\n\nKunci Jawaban: A\n\nPembahasan:\n'Lita'arafu' (agar kamu saling mengenal)."
+    },
+    {
+        "instruction": "Al-Qur'an (Q.S. Al-Hujurat).",
+        "input": "Menurut Q.S. Al-Hujurat ayat 13, orang yang paling mulia di sisi Allah adalah orang yang paling ....",
+        "output": "Soal:\nA. Kaya\nB. Pintar\nC. Bertakwa\nD. Kuat\n\nKunci Jawaban: C\n\nPembahasan:\n'Inna akramakum 'indallahi atqakum' (Sesungguhnya yang paling mulia di antara kamu di sisi Allah ialah orang yang paling bertakwa)."
+    },
+    {
+        "instruction": "Al-Qur'an (Q.S. Al-Kafirun).",
+        "input": "Sebab turunnya (Asbabun Nuzul) surat Al-Kafirun adalah ajakan kaum kafir Quraisy kepada Nabi Muhammad SAW untuk ....",
+        "output": "Soal:\nA. Berperang\nB. Bertukar sesembahan/ibadah\nC. Berdagang\nD. Berdamai\n\nKunci Jawaban: B\n\nPembahasan:\nKaum kafir mengajak Nabi menyembah berhala mereka, dan mereka akan menyembah Allah."
+    },
+    {
+        "instruction": "Al-Qur'an (Q.S. Al-Ma'idah).",
+        "input": "Potongan ayat 'Wala ta'awanu 'alal itsmi wal 'udwan' artinya jangan tolong menolong dalam ....",
+        "output": "Soal:\nA. Kebaikan\nB. Takwa\nC. Berbuat dosa dan permusuhan\nD. Ibadah\n\nKunci Jawaban: C\n\nPembahasan:\nLarangan tolong-menolong dalam dosa dan permusuhan."
+    },
+    {
+        "instruction": "Al-Qur'an (Q.S. Al-Hujurat).",
+        "input": "Q.S. Al-Hujurat ayat 12 melarang kita untuk berprasangka buruk, yang disebut juga ....",
+        "output": "Soal:\nA. Husnuzan\nB. Suuzan\nC. Tawadhu\nD. Qanaah\n\nKunci Jawaban: B\n\nPembahasan:\n'Ijtanibu katsiran minaz zhanni' (Jauhilah kebanyakan purbasangka/suuzan)."
+    },
+    {
+        "instruction": "Al-Qur'an (Q.S. Al-Hujurat).",
+        "input": "Menggunjing atau membicarakan keburukan orang lain diibaratkan dalam Q.S. Al-Hujurat ayat 12 seperti memakan ....",
+        "output": "Soal:\nA. Daging saudaranya yang sudah mati\nB. Daging babi\nC. Buah yang busuk\nD. Kotoran sendiri\n\nKunci Jawaban: A\n\nPembahasan:\nPerumpamaan ghibah seperti memakan daging saudara sendiri yang sudah mati."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Hukum bacaan Ikhfa' terjadi apabila Nun Mati atau Tanwin bertemu dengan huruf ....",
+        "output": "Soal:\nA. Hamzah, Ha, Kho, Ain, Ghoin, Ha\nB. Ta, Tsa, Jim, Dal, Dzal, Zai, Sin, Syin, Sod, Dhod, Tho, Zho, Fa, Qof, Kaf\nC. Ba\nD. Ya, Nun, Mim, Wau\n\nKunci Jawaban: B\n\nPembahasan:\nHuruf Ikhfa' ada 15."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Apabila ada Mim Mati bertemu dengan huruf Ba, maka hukum bacaannya adalah ....",
+        "output": "Soal:\nA. Ikhfa Syafawi\nB. Idgham Mimi\nC. Izhar Syafawi\nD. Qalqalah\n\nKunci Jawaban: A\n\nPembahasan:\nMim mati bertemu Ba = Ikhfa Syafawi."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Huruf Qalqalah ada 5, yaitu ....",
+        "output": "Soal:\nA. Ba, Jim, Dal, Tho, Qof\nB. Ya, Nun, Mim, Wau\nC. Hamzah, Ha, Kho\nD. Lam, Ro\n\nKunci Jawaban: A\n\nPembahasan:\nBaju Di Toko (Ba, Jim, Dal, Tho, Qof)."
+    },
+    {
+        "instruction": "Al-Qur'an (Q.S. Al-Kafirun).",
+        "input": "Nama 'Al-Kafirun' diambil dari perkataan Al-Kafirun yang terdapat pada ayat ....",
+        "output": "Soal:\nA. Pertama\nB. Kedua\nC. Ketiga\nD. Keempat\n\nKunci Jawaban: A\n\nPembahasan:\n'Qul yaa ayyuhal kafirun' (ayat 1)."
+    },
+    {
+        "instruction": "Al-Qur'an (Q.S. Al-Ma'idah).",
+        "input": "Pada hari ini telah Kusempurnakan untuk kamu agamamu... adalah terjemahan dari Q.S. ....",
+        "output": "Soal:\nA. Al-Ma'idah ayat 3\nB. Al-Ma'idah ayat 2\nC. Al-Hujurat ayat 12\nD. Al-Kafirun ayat 6\n\nKunci Jawaban: A\n\nPembahasan:\n'Alyawma akmaltu lakum dinakum...' (Al-Ma'idah ayat 3)."
+    },
+    {
+        "instruction": "Al-Qur'an (Q.S. Al-Hujurat).",
+        "input": "Sikap yang sesuai dengan Q.S. Al-Hujurat ayat 13 dalam kehidupan sehari-hari adalah ....",
+        "output": "Soal:\nA. Berteman hanya dengan satu suku saja\nB. Menghina budaya orang lain\nC. Menghormati perbedaan suku dan budaya\nD. Merasa sukunya paling hebat\n\nKunci Jawaban: C\n\nPembahasan:\nAgar saling mengenal dan menghormati perbedaan."
+    },
+    {
+        "instruction": "Al-Qur'an (Q.S. Al-Kafirun).",
+        "input": "Sikap tegas Nabi Muhammad SAW terhadap orang kafir dalam hal akidah adalah ....",
+        "output": "Soal:\nA. Mengikuti ibadah mereka sesekali\nB. Menolak dengan santun untuk mencampuradukkan akidah\nC. Memusuhi mereka\nD. Mengusir mereka\n\nKunci Jawaban: B\n\nPembahasan:\nLakum dinukum waliyadin (Tidak mencampuradukkan akidah)."
+    },
+    {
+        "instruction": "Al-Qur'an (Q.S. Al-Ma'idah).",
+        "input": "Makanan yang halal (Halalan Thayyiban) artinya ....",
+        "output": "Soal:\nA. Makanan yang mahal\nB. Makanan yang enak\nC. Makanan yang boleh dimakan menurut syariat dan baik bagi tubuh\nD. Makanan impor\n\nKunci Jawaban: C\n\nPembahasan:\nHalal (boleh) dan Thayyib (baik/sehat)."
+    },
+    {
+        "instruction": "Al-Qur'an (Q.S. Al-Hujurat).",
+        "input": "Mencari-cari kesalahan orang lain dilarang dalam Islam, hal ini disebut ....",
+        "output": "Soal:\nA. Tajassus\nB. Ghibah\nC. Namimah\nD. Fitnah\n\nKunci Jawaban: A\n\nPembahasan:\n'Wala tajassasu' (dan janganlah mencari-cari kesalahan orang lain)."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Apabila Nun Mati bertemu dengan huruf Lam, maka hukum bacaannya adalah ....",
+        "output": "Soal:\nA. Idgham Bigunnah\nB. Idgham Bilagunnah\nC. Izhar\nD. Iqlab\n\nKunci Jawaban: B\n\nPembahasan:\nIdgham Bilagunnah (Lam dan Ro)."
+    },
+    {
+        "instruction": "Al-Qur'an (Q.S. Al-Kafirun).",
+        "input": "Arti 'Laa a'budu maa ta'buduun' adalah ....",
+        "output": "Soal:\nA. Aku tidak menyembah apa yang kamu sembah\nB. Kamu bukan penyembah Tuhan yang aku sembah\nC. Dan aku tidak pernah menjadi penyembah apa yang kamu sembah\nD. Untukmu agamamu\n\nKunci Jawaban: A\n\nPembahasan:\nTerjemahan ayat 2."
+    },
+    {
+        "instruction": "Al-Qur'an (Q.S. Al-Ma'idah).",
+        "input": "Potongan ayat 'Innallaaha syadiidul 'iqaab' artinya ....",
+        "output": "Soal:\nA. Sesungguhnya Allah Maha Pengampun\nB. Sesungguhnya Allah Maha Penyayang\nC. Sesungguhnya Allah sangat berat siksa-Nya\nD. Sesungguhnya Allah Maha Mengetahui\n\nKunci Jawaban: C\n\nPembahasan:\nSyadiidul 'iqaab = Sangat berat siksa-Nya."
+    },
+    {
+        "instruction": "Al-Qur'an (Q.S. Al-Hujurat).",
+        "input": "Sesama mukmin itu bersaudara, maka hendaklah ....",
+        "output": "Soal:\nA. Saling bermusuhan\nB. Mendamaikan antara kedua saudaramu\nC. Tidak peduli\nD. Saling mengejek\n\nKunci Jawaban: B\n\nPembahasan:\n'Fa ashlihu baina akhawaikum' (Damaikanlah antara kedua saudaramu)."
+    },
+    {
+        "instruction": "Al-Qur'an (Umum).",
+        "input": "Al-Qur'an diturunkan kepada Nabi Muhammad SAW secara ....",
+        "output": "Soal:\nA. Sekaligus\nB. Berangsur-angsur\nC. Dibukukan langsung\nD. Cepat\n\nKunci Jawaban: B\n\nPembahasan:\nAl-Qur'an turun bertahap selama ±23 tahun."
+    },
+    {
+        "instruction": "Al-Qur'an (Umum).",
+        "input": "Membaca Al-Qur'an bernilai ibadah. Satu huruf yang dibaca akan mendapatkan ... kebaikan.",
+        "output": "Soal:\nA. 1\nB. 10\nC. 100\nD. 1000\n\nKunci Jawaban: B\n\nPembahasan:\nHadis: Satu huruf diganjar 10 kebaikan."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Hukum bacaan Alif Lam Syamsiyah ditandai dengan ....",
+        "output": "Soal:\nA. Alif Lam dibaca jelas\nB. Alif Lam dianggap tidak ada (lebur ke huruf tasydid)\nC. Alif Lam dibaca panjang\nD. Alif Lam dibaca dengung\n\nKunci Jawaban: B\n\nPembahasan:\nAl-Syamsiyah: Al lebur ke huruf berikutnya."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Hukum bacaan Alif Lam Qamariyah ditandai dengan ....",
+        "output": "Soal:\nA. Alif Lam dibaca jelas\nB. Alif Lam lebur\nC. Alif Lam hilang\nD. Alif Lam samar\n\nKunci Jawaban: A\n\nPembahasan:\nAl-Qamariyah: Al dibaca jelas."
+    },
+    {
+        "instruction": "Al-Qur'an (Q.S. Al-Kafirun).",
+        "input": "Surat Al-Kafirun tergolong surat ....",
+        "output": "Soal:\nA. Madaniyah\nB. Makkiyah\nC. Ajamiyah\nD. Suriah\n\nKunci Jawaban: B\n\nPembahasan:\nTurun di Mekkah sebelum hijrah."
+    },
+    {
+        "instruction": "Al-Qur'an (Q.S. Al-Ma'idah).",
+        "input": "Surat Al-Ma'idah artinya ....",
+        "output": "Soal:\nA. Sapi Betina\nB. Hidangan\nC. Lebah\nD. Semut\n\nKunci Jawaban: B\n\nPembahasan:\nAl-Ma'idah = Hidangan."
+    },
+    {
+        "instruction": "Al-Qur'an (Q.S. Al-Hujurat).",
+        "input": "Surat Al-Hujurat artinya ....",
+        "output": "Soal:\nA. Kamar-kamar\nB. Pagar-pagar\nC. Rumah-rumah\nD. Kota-kota\n\nKunci Jawaban: A\n\nPembahasan:\nAl-Hujurat = Kamar-kamar."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Hukum bacaan Mad Thabi'i panjangnya adalah ... harakat.",
+        "output": "Soal:\nA. 1\nB. 2\nC. 4\nD. 6\n\nKunci Jawaban: B\n\nPembahasan:\nMad Thabi'i = 2 harakat (1 alif)."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Apabila ada Mad Thabi'i bertemu Hamzah dalam satu kata, maka hukum bacaannya adalah ....",
+        "output": "Soal:\nA. Mad Wajib Muttasil\nB. Mad Jaiz Munfasil\nC. Mad 'Aridh Lissukun\nD. Mad Iwad\n\nKunci Jawaban: A\n\nPembahasan:\nSatu kata = Wajib Muttasil (Panjang 4-5 harakat)."
+    },
+    {
+        "instruction": "Al-Qur'an (Q.S. Al-Kafirun).",
+        "input": "Dalam surat Al-Kafirun, kata 'Walaa antum 'abiduuna maa a'bud' diulang sebanyak ... kali.",
+        "output": "Soal:\nA. 1\nB. 2\nC. 3\nD. 4\n\nKunci Jawaban: B\n\nPembahasan:\nTerdapat pada ayat 3 dan 5."
+    },
+    {
+        "instruction": "Al-Qur'an (Q.S. Al-Ma'idah).",
+        "input": "Potongan ayat 'Hurrimat 'alaikumul maitatu waddamu...' menjelaskan tentang ....",
+        "output": "Soal:\nA. Makanan yang dihalalkan\nB. Makanan yang diharamkan\nC. Cara menyembelih hewan\nD. Adab makan\n\nKunci Jawaban: B\n\nPembahasan:\nDijelaskan apa saja yang haram dimakan."
+    },
+    {
+        "instruction": "Al-Qur'an (Q.S. Al-Hujurat).",
+        "input": "Sifat curiga berlebihan terhadap orang lain dilarang agama, karena sebagian prasangka itu adalah ....",
+        "output": "Soal:\nA. Dosa\nB. Pahala\nC. Kebaikan\nD. Ibadah\n\nKunci Jawaban: A\n\nPembahasan:\n'Inna ba'dhaz zhanni itsm' (Sesungguhnya sebagian prasangka itu dosa)."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Huruf Iqlab hanya satu, yaitu ....",
+        "output": "Soal:\nA. Mim\nB. Nun\nC. Ba\nD. Wau\n\nKunci Jawaban: C\n\nPembahasan:\nIqlab: Nun mati bertemu Ba."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Cara membaca Iqlab adalah mengganti bunyi Nun Mati/Tanwin menjadi bunyi ....",
+        "output": "Soal:\nA. Mim\nB. Nun\nC. Ba\nD. Lam\n\nKunci Jawaban: A\n\nPembahasan:\nBunyi N diganti M."
+    },
+    {
+        "instruction": "Al-Qur'an (Q.S. Al-Kafirun).",
+        "input": "Toleransi dalam Q.S. Al-Kafirun adalah toleransi dalam bidang ....",
+        "output": "Soal:\nA. Muamalah (Jual beli)\nB. Akidah dan Ibadah\nC. Sosial\nD. Politik\n\nKunci Jawaban: B\n\nPembahasan:\nKetegasan tidak mencampuradukkan akidah/ibadah."
+    },
+    {
+        "instruction": "Al-Qur'an (Q.S. Al-Ma'idah).",
+        "input": "Allah menyukai orang-orang yang bertakwa. 'Bertakwa' artinya ....",
+        "output": "Soal:\nA. Takut kepada musuh\nB. Menjalankan perintah Allah dan menjauhi larangan-Nya\nC. Rajin belajar saja\nD. Suka menolong teman saja\n\nKunci Jawaban: B\n\nPembahasan:\nDefinisi Takwa."
+    },
+    {
+        "instruction": "Al-Qur'an (Q.S. Al-Hujurat).",
+        "input": "Persaudaraan sesama umat Islam disebut ukhuwah ....",
+        "output": "Soal:\nA. Islamiyah\nB. Basyariyah\nC. Wathaniyah\nD. Insaniyah\n\nKunci Jawaban: A\n\nPembahasan:\nUkhuwah Islamiyah."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Apabila Nun Mati bertemu Huruf 'Ya', maka hukum bacaannya adalah ....",
+        "output": "Soal:\nA. Idgham Bilagunnah\nB. Idgham Bigunnah\nC. Izhar\nD. Ikhfa\n\nKunci Jawaban: B\n\nPembahasan:\nYa, Nun, Mim, Wau (Yanmu) -> Idgham Bigunnah."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Apabila Nun Mati bertemu Huruf 'Hamzah', maka hukum bacaannya adalah ....",
+        "output": "Soal:\nA. Ikhfa\nB. Idgham\nC. Izhar Halqi\nD. Iqlab\n\nKunci Jawaban: C\n\nPembahasan:\nHamzah = Huruf Halqi -> Izhar (Jelas)."
+    },
+    {
+        "instruction": "Al-Qur'an (Q.S. Al-Kafirun).",
+        "input": "Jumlah ayat dalam surat Al-Kafirun adalah ....",
+        "output": "Soal:\nA. 4 ayat\nB. 5 ayat\nC. 6 ayat\nD. 7 ayat\n\nKunci Jawaban: C\n\nPembahasan:\nAda 6 ayat."
+    },
+    {
+        "instruction": "Al-Qur'an (Q.S. Al-Ma'idah).",
+        "input": "Hewan yang mati tanpa disembelih dengan nama Allah disebut ....",
+        "output": "Soal:\nA. Halal\nB. Bangkai\nC. Kurban\nD. Aqiqah\n\nKunci Jawaban: B\n\nPembahasan:\nHaram dimakan."
+    },
+    {
+        "instruction": "Al-Qur'an (Q.S. Al-Hujurat).",
+        "input": "Tujuan Allah menciptakan manusia berbeda jenis kelamin, bangsa, dan suku adalah untuk ....",
+        "output": "Soal:\nA. Saling membanggakan diri\nB. Saling mengenal\nC. Saling berperang\nD. Saling menjatuhkan\n\nKunci Jawaban: B\n\nPembahasan:\nLita'arafu (Saling mengenal)."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Lafaz 'Allah' dibaca tebal (Tafkhim) apabila didahului harakat ....",
+        "output": "Soal:\nA. Kasrah\nB. Fathah atau Dhommah\nC. Sukun\nD. Tanwin\n\nKunci Jawaban: B\n\nPembahasan:\nLafzul Jalalah Tafkhim."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Lafaz 'Allah' dibaca tipis (Tarqiq) apabila didahului harakat ....",
+        "output": "Soal:\nA. Fathah\nB. Dhommah\nC. Kasrah\nD. Fathah Tain\n\nKunci Jawaban: C\n\nPembahasan:\nLafzul Jalalah Tarqiq (Misal: Bismillah)."
+    },
+    {
+        "instruction": "Al-Qur'an (Umum).",
+        "input": "Kitab suci Al-Qur'an berfungsi sebagai ... bagi umat manusia.",
+        "output": "Soal:\nA. Hiasan\nB. Pedoman hidup (Hudan)\nC. Koleksi\nD. Bacaan hiburan\n\nKunci Jawaban: B\n\nPembahasan:\nHudan lin nas (Petunjuk bagi manusia)."
+    },
+    {
+        "instruction": "Al-Qur'an (Umum).",
+        "input": "Surat Al-Fatihah disebut juga Ummul Qur'an yang berarti ....",
+        "output": "Soal:\nA. Penutup Al-Qur'an\nB. Induk Al-Qur'an\nC. Jantung Al-Qur'an\nD. Puncak Al-Qur'an\n\nKunci Jawaban: B\n\nPembahasan:\nInduk Al-Qur'an."
+    },
+    {
+        "instruction": "Al-Qur'an (Q.S. Al-Kafirun).",
+        "input": "Turunnya surat Al-Kafirun memberikan jawaban tegas bahwa dalam hal akidah tidak ada ....",
+        "output": "Soal:\nA. Kompromi/Toleransi\nB. Kekerasan\nC. Perdamaian\nD. Persaudaraan\n\nKunci Jawaban: A\n\nPembahasan:\nTidak ada kompromi pencampuran akidah."
+    },
+    {
+        "instruction": "Al-Qur'an (Q.S. Al-Ma'idah).",
+        "input": "Daging babi haram dimakan karena mengandung banyak ....",
+        "output": "Soal:\nA. Vitamin\nB. Protein\nC. Penyakit/Cacing pita\nD. Lemak baik\n\nKunci Jawaban: C\n\nPembahasan:\nHikmah pengharaman (kesehatan)."
+    },
+    {
+        "instruction": "Al-Qur'an (Q.S. Al-Hujurat).",
+        "input": "Sifat rendah hati dan tidak sombong disebut ....",
+        "output": "Soal:\nA. Takabur\nB. Tawadhu\nC. Riya\nD. Hasad\n\nKunci Jawaban: B\n\nPembahasan:\nKebalikan dari sombong."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Wakaf artinya ....",
+        "output": "Soal:\nA. Terus\nB. Berhenti\nC. Dengung\nD. Jelas\n\nKunci Jawaban: B\n\nPembahasan:\nBerhenti membaca."
+    },
+    {
+        "instruction": "Aqidah (Asmaul Husna).",
+        "input": "Allah Maha Pengampun adalah arti dari Asmaul Husna ....",
+        "output": "Soal:\nA. Al-Ghaffar\nB. Al-Afuww\nC. As-Samad\nD. Al-Wahid\n\nKunci Jawaban: A\n\nPembahasan:\nAl-Ghaffar = Maha Pengampun."
+    },
+    {
+        "instruction": "Aqidah (Asmaul Husna).",
+        "input": "Allah Maha Pemaaf adalah arti dari Asmaul Husna ....",
+        "output": "Soal:\nA. Al-Ghaffar\nB. Al-Afuww\nC. Al-Muqtadir\nD. Al-Muqaddim\n\nKunci Jawaban: B\n\nPembahasan:\nAl-Afuww = Maha Pemaaf (menghapus dosa)."
+    },
+    {
+        "instruction": "Aqidah (Asmaul Husna).",
+        "input": "Perbedaan Al-Ghaffar dan Al-Afuww adalah ....",
+        "output": "Soal:\nA. Al-Ghaffar menutupi dosa, Al-Afuww menghapus dosa\nB. Al-Ghaffar menghapus dosa, Al-Afuww menutupi dosa\nC. Sama saja artinya\nD. Tidak ada bedanya\n\nKunci Jawaban: A\n\nPembahasan:\nAl-Afuww lebih dalam maknanya (menghapus bekas dosa)."
+    },
+    {
+        "instruction": "Aqidah (Asmaul Husna).",
+        "input": "Kita meneladani Asmaul Husna Al-Ghaffar dengan cara ....",
+        "output": "Soal:\nA. Suka memaafkan kesalahan teman\nB. Suka menyembunyikan aib orang lain\nC. Suka memberi hadiah\nD. Suka menabung\n\nKunci Jawaban: B\n\nPembahasan:\nMenutupi aib/kesalahan orang lain."
+    },
+    {
+        "instruction": "Aqidah (Asmaul Husna).",
+        "input": "Kita meneladani Asmaul Husna Al-Afuww dengan cara ....",
+        "output": "Soal:\nA. Mudah memaafkan kesalahan orang lain\nB. Membalas dendam\nC. Menyimpan dendam\nD. Mengungkit kesalahan\n\nKunci Jawaban: A\n\nPembahasan:\nSuka memaafkan."
+    },
+    {
+        "instruction": "Aqidah (Asmaul Husna).",
+        "input": "Allah Maha Esa adalah arti dari Asmaul Husna ....",
+        "output": "Soal:\nA. Al-Wahid\nB. Al-Ahad\nC. As-Samad\nD. Al-Baqi\n\nKunci Jawaban: A\n\nPembahasan:\nAl-Wahid/Al-Ahad = Maha Esa."
+    },
+    {
+        "instruction": "Aqidah (Asmaul Husna).",
+        "input": "Allah Maha Dibutuhkan (Tempat Meminta) adalah arti dari Asmaul Husna ....",
+        "output": "Soal:\nA. As-Samad\nB. Al-Muqtadir\nC. Al-Muqaddim\nD. Al-Baqi\n\nKunci Jawaban: A\n\nPembahasan:\nAs-Samad = Tempat bergantung."
+    },
+    {
+        "instruction": "Aqidah (Asmaul Husna).",
+        "input": "Allah Maha Kuasa/Menentukan adalah arti dari Asmaul Husna ....",
+        "output": "Soal:\nA. Al-Muqtadir\nB. Al-Muqaddim\nC. Al-Baqi\nD. As-Samad\n\nKunci Jawaban: A\n\nPembahasan:\nAl-Muqtadir = Maha Kuasa/Menentukan."
+    },
+    {
+        "instruction": "Aqidah (Asmaul Husna).",
+        "input": "Allah Maha Mendahulukan adalah arti dari Asmaul Husna ....",
+        "output": "Soal:\nA. Al-Muqtadir\nB. Al-Muqaddim\nC. Al-Baqi\nD. Al-Awwal\n\nKunci Jawaban: B\n\nPembahasan:\nAl-Muqaddim."
+    },
+    {
+        "instruction": "Aqidah (Asmaul Husna).",
+        "input": "Allah Maha Kekal adalah arti dari Asmaul Husna ....",
+        "output": "Soal:\nA. Al-Baqi\nB. Al-Fana\nC. Al-Mumin\nD. Al-Muhaimin\n\nKunci Jawaban: A\n\nPembahasan:\nAl-Baqi = Kekal Abadi."
+    },
+    {
+        "instruction": "Aqidah (Hari Akhir).",
+        "input": "Percaya kepada Hari Akhir adalah rukun iman ke-....",
+        "output": "Soal:\nA. 3\nB. 4\nC. 5\nD. 6\n\nKunci Jawaban: C\n\nPembahasan:\nRukun Iman ke-5."
+    },
+    {
+        "instruction": "Aqidah (Hari Akhir).",
+        "input": "Hari Akhir disebut juga Hari ....",
+        "output": "Soal:\nA. Kiamat\nB. Raya\nC. Buruh\nD. Pahlawan\n\nKunci Jawaban: A\n\nPembahasan:\nHari Kiamat."
+    },
+    {
+        "instruction": "Aqidah (Hari Akhir).",
+        "input": "Kiamat kecil disebut ....",
+        "output": "Soal:\nA. Kiamat Sugra\nB. Kiamat Kubra\nC. Kiamat Wustha\nD. Kiamat Besar\n\nKunci Jawaban: A\n\nPembahasan:\nSugra = Kecil."
+    },
+    {
+        "instruction": "Aqidah (Hari Akhir).",
+        "input": "Kiamat besar (hancurnya seluruh alam semesta) disebut ....",
+        "output": "Soal:\nA. Kiamat Sugra\nB. Kiamat Kubra\nC. Kiamat Wustha\nD. Kiamat Kecil\n\nKunci Jawaban: B\n\nPembahasan:\nKubra = Besar."
+    },
+    {
+        "instruction": "Aqidah (Hari Akhir).",
+        "input": "Contoh Kiamat Sugra adalah ....",
+        "output": "Soal:\nA. Matahari terbit dari barat\nB. Gunung meletus, banjir, kematian seseorang\nC. Hancurnya seluruh planet\nD. Munculnya Dajjal\n\nKunci Jawaban: B\n\nPembahasan:\nBencana alam dan kematian adalah kiamat kecil."
+    },
+    {
+        "instruction": "Aqidah (Hari Akhir).",
+        "input": "Salah satu tanda besar (tanda-tanda kiamat kubra) adalah ....",
+        "output": "Soal:\nA. Banyak ulama wafat\nB. Banyak gempa bumi\nC. Matahari terbit dari barat\nD. Manusia berlomba membangun gedung tinggi\n\nKunci Jawaban: C\n\nPembahasan:\nTanda besar: Matahari terbit barat, Dajjal, dll."
+    },
+    {
+        "instruction": "Aqidah (Hari Akhir).",
+        "input": "Hari dibangkitkannya manusia dari alam kubur disebut Yaumul ....",
+        "output": "Soal:\nA. Ba'ats\nB. Mahsyar\nC. Hisab\nD. Mizan\n\nKunci Jawaban: A\n\nPembahasan:\nBa'ats = Kebangkitan."
+    },
+    {
+        "instruction": "Aqidah (Hari Akhir).",
+        "input": "Hari dikumpulkannya manusia di padang yang sangat luas disebut Yaumul ....",
+        "output": "Soal:\nA. Ba'ats\nB. Mahsyar\nC. Hisab\nD. Jaza\n\nKunci Jawaban: B\n\nPembahasan:\nMahsyar = Tempat berkumpul."
+    },
+    {
+        "instruction": "Aqidah (Hari Akhir).",
+        "input": "Hari perhitungan amal perbuatan manusia disebut Yaumul ....",
+        "output": "Soal:\nA. Hisab\nB. Mizan\nC. Jaza\nD. Ba'ats\n\nKunci Jawaban: A\n\nPembahasan:\nHisab = Perhitungan."
+    },
+    {
+        "instruction": "Aqidah (Hari Akhir).",
+        "input": "Hari penimbangan amal perbuatan manusia disebut Yaumul ....",
+        "output": "Soal:\nA. Hisab\nB. Mizan\nC. Jaza\nD. Mahsyar\n\nKunci Jawaban: B\n\nPembahasan:\nMizan = Timbangan."
+    },
+    {
+        "instruction": "Aqidah (Hari Akhir).",
+        "input": "Hari pembalasan atas segala amal perbuatan disebut Yaumul ....",
+        "output": "Soal:\nA. Jaza\nB. Hisab\nC. Ba'ats\nD. Mizan\n\nKunci Jawaban: A\n\nPembahasan:\nJaza = Pembalasan."
+    },
+    {
+        "instruction": "Aqidah (Hari Akhir).",
+        "input": "Sikap kita sebagai orang beriman terhadap Hari Akhir adalah ....",
+        "output": "Soal:\nA. Takut berlebihan\nB. Tidak peduli\nC. Mempersiapkan bekal amal shaleh\nD. Menikmati dunia sepuasnya\n\nKunci Jawaban: C\n\nPembahasan:\nPersiapan amal."
+    },
+    {
+        "instruction": "Aqidah (Asmaul Husna).",
+        "input": "Kita mengakui bahwa Allah Maha Kuasa, maka kita tidak boleh bersikap ....",
+        "output": "Soal:\nA. Sombong\nB. Rendah hati\nC. Dermawan\nD. Jujur\n\nKunci Jawaban: A\n\nPembahasan:\nManusia lemah, Allah Maha Kuasa (Al-Muqtadir)."
+    },
+    {
+        "instruction": "Aqidah (Asmaul Husna).",
+        "input": "Salah satu cara meneladani Asmaul Husna As-Samad adalah ....",
+        "output": "Soal:\nA. Menjadi orang yang bermanfaat bagi orang lain\nB. Meminta-minta kepada orang lain\nC. Bergantung pada teman\nD. Malas berusaha\n\nKunci Jawaban: A\n\nPembahasan:\nMenjadi tempat orang meminta bantuan (bermanfaat)."
+    },
+    {
+        "instruction": "Aqidah (Asmaul Husna).",
+        "input": "Meneladani Al-Muqaddim (Maha Mendahulukan) berarti kita harus ....",
+        "output": "Soal:\nA. Mendahulukan kepentingan umum daripada pribadi\nB. Mementingkan diri sendiri\nC. Menunda-nunda pekerjaan\nD. Datang terlambat\n\nKunci Jawaban: A\n\nPembahasan:\nMendahulukan kewajiban/kepentingan umum."
+    },
+    {
+        "instruction": "Aqidah (Asmaul Husna).",
+        "input": "Meneladani Al-Baqi (Maha Kekal) mengingatkan kita bahwa dunia ini ....",
+        "output": "Soal:\nA. Kekal\nB. Sementara/Fana\nC. Abadi\nD. Selamanya\n\nKunci Jawaban: B\n\nPembahasan:\nManusia akan mati, dunia fana."
+    },
+    {
+        "instruction": "Aqidah (Hari Akhir).",
+        "input": "Malaikat yang bertugas meniup sangkakala pada hari kiamat adalah ....",
+        "output": "Soal:\nA. Jibril\nB. Israfil\nC. Izrail\nD. Mikail\n\nKunci Jawaban: B\n\nPembahasan:\nIsrafil peniup sangkakala."
+    },
+    {
+        "instruction": "Aqidah (Hari Akhir).",
+        "input": "Alam kubur disebut juga alam ....",
+        "output": "Soal:\nA. Barzah\nB. Rahim\nC. Arwah\nD. Gaib\n\nKunci Jawaban: A\n\nPembahasan:\nAlam Barzah (pembatas dunia akhirat)."
+    },
+    {
+        "instruction": "Aqidah (Hari Akhir).",
+        "input": "Balasan bagi orang yang beriman dan beramal shaleh di akhirat adalah surga. Istilah surga dalam Al-Qur'an disebut ....",
+        "output": "Soal:\nA. Jannah\nB. Nar\nC. Lahab\nD. Saqar\n\nKunci Jawaban: A\n\nPembahasan:\nJannah = Kebun/Surga."
+    },
+    {
+        "instruction": "Aqidah (Hari Akhir).",
+        "input": "Balasan bagi orang kafir dan ingkar di akhirat adalah neraka. Istilah neraka dalam Al-Qur'an disebut ....",
+        "output": "Soal:\nA. Jannah\nB. Nar\nC. Firdaus\nD. Adn\n\nKunci Jawaban: B\n\nPembahasan:\nNar = Api/Neraka."
+    },
+    {
+        "instruction": "Aqidah (Hari Akhir).",
+        "input": "Tiupan sangkakala yang pertama akan mengakibatkan ....",
+        "output": "Soal:\nA. Manusia bangkit dari kubur\nB. Hancurnya seluruh alam semesta (kematian)\nC. Manusia dikumpulkan\nD. Manusia dihisab\n\nKunci Jawaban: B\n\nPembahasan:\nTiupan 1: Kehancuran."
+    },
+    {
+        "instruction": "Aqidah (Hari Akhir).",
+        "input": "Tiupan sangkakala yang kedua akan mengakibatkan ....",
+        "output": "Soal:\nA. Hancurnya alam semesta\nB. Manusia bangkit dari kubur (hidup kembali)\nC. Manusia masuk surga\nD. Manusia masuk neraka\n\nKunci Jawaban: B\n\nPembahasan:\nTiupan 2: Kebangkitan."
+    },
+    {
+        "instruction": "Aqidah (Asmaul Husna).",
+        "input": "Jika kita berbuat salah, kita harus segera bertaubat. Ini meneladani sifat Allah ....",
+        "output": "Soal:\nA. Al-Muntaqim\nB. Al-Ghaffar / Al-Afuww\nC. Al-Jabbar\nD. Al-Mutakabbir\n\nKunci Jawaban: B\n\nPembahasan:\nMemohon ampunan."
+    },
+    {
+        "instruction": "Aqidah (Hari Akhir).",
+        "input": "Hikmah beriman kepada Hari Akhir adalah ....",
+        "output": "Soal:\nA. Membuat kita malas bekerja\nB. Membuat kita takut hidup\nC. Mendorong kita untuk rajin beribadah dan berbuat baik\nD. Membuat kita sombong\n\nKunci Jawaban: C\n\nPembahasan:\nMotivasi beramal shaleh."
+    },
+    {
+        "instruction": "Aqidah (Asmaul Husna).",
+        "input": "Allah tidak membutuhkan bantuan makhluk-Nya, karena Allah bersifat ....",
+        "output": "Soal:\nA. Qiyamuhu Binafsihi / Al-Qayyum\nB. Fana\nC. Ta'adud\nD. Huduts\n\nKunci Jawaban: A\n\nPembahasan:\nBerdiri sendiri."
+    },
+    {
+        "instruction": "Aqidah (Hari Akhir).",
+        "input": "Jembatan yang terbentang di atas neraka menuju surga disebut ....",
+        "output": "Soal:\nA. Shiratal Mustaqim\nB. Shirat\nC. Arafah\nD. Mina\n\nKunci Jawaban: B\n\nPembahasan:\nJembatan Shirat."
+    },
+    {
+        "instruction": "Aqidah (Asmaul Husna).",
+        "input": "Jumlah Asmaul Husna yang wajib kita ketahui ada ....",
+        "output": "Soal:\nA. 99\nB. 100\nC. 25\nD. 10\n\nKunci Jawaban: A\n\nPembahasan:\n99 Nama Baik Allah."
+    },
+    {
+        "instruction": "Aqidah (Hari Akhir).",
+        "input": "Buku catatan amal yang akan diterima manusia di akhirat disebut ....",
+        "output": "Soal:\nA. Kitabullah\nB. Suhuf\nC. Catatan Rakib Atid\nD. Lauhul Mahfudz\n\nKunci Jawaban: C\n\nPembahasan:\nBuku catatan amal (dari Malaikat pencatat)."
+    },
+    {
+        "instruction": "Aqidah (Asmaul Husna).",
+        "input": "Ketika terjadi bencana alam, kita menyadari bahwa kuasa manusia sangat terbatas dibandingkan kuasa Allah Yang Maha ....",
+        "output": "Soal:\nA. Al-Muqtadir\nB. Al-Ghaffar\nC. Al-Afuww\nD. As-Samad\n\nKunci Jawaban: A\n\nPembahasan:\nAl-Muqtadir (Maha Kuasa)."
+    },
+    {
+        "instruction": "Aqidah (Hari Akhir).",
+        "input": "Tidak ada seorang pun yang mengetahui kapan datangnya Kiamat, kecuali ....",
+        "output": "Soal:\nA. Nabi Muhammad SAW\nB. Malaikat Jibril\nC. Allah SWT\nD. Para Wali\n\nKunci Jawaban: C\n\nPembahasan:\nHanya Allah yang tahu."
+    },
+    {
+        "instruction": "Aqidah (Asmaul Husna).",
+        "input": "Sifat wajib bagi Allah yang artinya 'Kekal' adalah ....",
+        "output": "Soal:\nA. Wujud\nB. Qidam\nC. Baqa'\nD. Mukhalafatu lil hawaditsi\n\nKunci Jawaban: C\n\nPembahasan:\nBaqa' = Kekal (mirip Al-Baqi)."
+    },
+    {
+        "instruction": "Aqidah (Asmaul Husna).",
+        "input": "Sifat mustahil bagi Allah yang artinya 'Fana/Rusak' adalah ....",
+        "output": "Soal:\nA. Adam\nB. Huduts\nC. Fana\nD. 'Ajzun\n\nKunci Jawaban: C\n\nPembahasan:\nFana = Rusak/Binasa."
+    },
+    {
+        "instruction": "Aqidah (Asmaul Husna).",
+        "input": "Bukti bahwa Allah Maha Esa (Al-Wahid) adalah ....",
+        "output": "Soal:\nA. Alam semesta teratur dan tidak bertabrakan\nB. Matahari ada dua\nC. Manusia banyak jumlahnya\nD. Hewan bermacam-macam\n\nKunci Jawaban: A\n\nPembahasan:\nKeteraturan alam bukti Pencipta Tunggal."
+    },
+    {
+        "instruction": "Aqidah (Hari Akhir).",
+        "input": "Surga Firdaus diperuntukkan bagi orang yang ....",
+        "output": "Soal:\nA. Paling kaya\nB. Paling tinggi jabatan\nC. Paling banyak amalnya/khusyuk shalatnya\nD. Paling tampan\n\nKunci Jawaban: C\n\nPembahasan:\nTingkatan surga tertinggi."
+    },
+    {
+        "instruction": "Aqidah (Asmaul Husna).",
+        "input": "Orang yang suka memaafkan kesalahan orang lain akan mendapatkan ....",
+        "output": "Soal:\nA. Dosa\nB. Ketenangan hati dan pahala\nC. Musuh\nD. Kesedihan\n\nKunci Jawaban: B\n\nPembahasan:\nHikmah memaafkan."
+    },
+    {
+        "instruction": "Aqidah (Asmaul Husna).",
+        "input": "Allah menutupi aib hamba-Nya agar hamba tersebut tidak ....",
+        "output": "Soal:\nA. Malu\nB. Sombong\nC. Kaya\nD. Miskin\n\nKunci Jawaban: A\n\nPembahasan:\nKasih sayang Allah (Al-Ghaffar)."
+    },
+    {
+        "instruction": "Aqidah (Hari Akhir).",
+        "input": "Kalimat Toyyibah yang diucapkan ketika melihat musibah (Kiamat Sugra) adalah ....",
+        "output": "Soal:\nA. Alhamdulillah\nB. Subhanallah\nC. Innalillahi wa inna ilaihi rajiun\nD. Allahu Akbar\n\nKunci Jawaban: C\n\nPembahasan:\nIstirja'."
+    },
+    {
+        "instruction": "Aqidah (Asmaul Husna).",
+        "input": "Kita menggantungkan segala harapan hanya kepada Allah, sesuai sifat ....",
+        "output": "Soal:\nA. As-Samad\nB. Al-Muqtadir\nC. Al-Baqi\nD. Al-Awwal\n\nKunci Jawaban: A\n\nPembahasan:\nTempat bergantung."
+    },
+    {
+        "instruction": "Aqidah (Hari Akhir).",
+        "input": "Yaumul Hasrah artinya hari ....",
+        "output": "Soal:\nA. Kegembiraan\nB. Penyesalan\nC. Perhitungan\nD. Pertemuan\n\nKunci Jawaban: B\n\nPembahasan:\nPenyesalan bagi orang kafir."
+    },
+    {
+        "instruction": "Aqidah (Asmaul Husna).",
+        "input": "Allah mendahulukan penciptaan alam semesta sebelum manusia. Ini bukti Allah ....",
+        "output": "Soal:\nA. Al-Akhir\nB. Al-Muqaddim\nC. Al-Baqi\nD. Al-Mumin\n\nKunci Jawaban: B\n\nPembahasan:\nMaha Mendahulukan."
+    },
+    {
+        "instruction": "Aqidah (Asmaul Husna).",
+        "input": "Al-Awwal artinya Allah Maha ....",
+        "output": "Soal:\nA. Akhir\nB. Pertama/Awal\nC. Tengah\nD. Menyeluruh\n\nKunci Jawaban: B\n\nPembahasan:\nAl-Awwal = Pertama Tanpa Permulaan."
+    },
+    {
+        "instruction": "Aqidah (Asmaul Husna).",
+        "input": "Al-Akhir artinya Allah Maha ....",
+        "output": "Soal:\nA. Awal\nB. Terakhir/Akhir\nC. Abadi\nD. Binasa\n\nKunci Jawaban: B\n\nPembahasan:\nAl-Akhir = Terakhir Tanpa Akhir."
+    },
+    {
+        "instruction": "SKI (Kisah Nabi).",
+        "input": "Peristiwa pembebasan kota Mekkah oleh kaum Muslimin disebut ....",
+        "output": "Soal:\nA. Fathu Makkah\nB. Haji Wada\nC. Isra Mi'raj\nD. Hijrah\n\nKunci Jawaban: A\n\nPembahasan:\nFathu Makkah = Pembebasan Mekkah."
+    },
+    {
+        "instruction": "SKI (Kisah Nabi).",
+        "input": "Fathu Makkah terjadi pada tahun ... Hijriyah.",
+        "output": "Soal:\nA. 2\nB. 8\nC. 10\nD. 12\n\nKunci Jawaban: B\n\nPembahasan:\nTahun 8 H."
+    },
+    {
+        "instruction": "SKI (Kisah Nabi).",
+        "input": "Penyebab utama terjadinya Fathu Makkah adalah ....",
+        "output": "Soal:\nA. Kaum Quraisy melanggar Perjanjian Hudaibiyah\nB. Kaum Muslimin ingin balas dendam\nC. Nabi ingin menguasai Mekkah\nD. Kaum Quraisy menantang perang\n\nKunci Jawaban: A\n\nPembahasan:\nPelanggaran gencatan senjata Hudaibiyah."
+    },
+    {
+        "instruction": "SKI (Kisah Nabi).",
+        "input": "Ketika memasuki kota Mekkah saat Fathu Makkah, Nabi Muhammad SAW memerintahkan pasukannya untuk ....",
+        "output": "Soal:\nA. Membunuh semua orang kafir\nB. Merusak berhala saja dan tidak menumpahkan darah\nC. Membakar rumah penduduk\nD. Mengusir penduduk Mekkah\n\nKunci Jawaban: B\n\nPembahasan:\nMasuk dengan damai, hancurkan berhala."
+    },
+    {
+        "instruction": "SKI (Kisah Nabi).",
+        "input": "Sikap Nabi Muhammad SAW terhadap penduduk Mekkah setelah Fathu Makkah adalah ....",
+        "output": "Soal:\nA. Menghukum mereka\nB. Memaafkan dan membebaskan mereka\nC. Menjadikan mereka budak\nD. Mengasingkan mereka\n\nKunci Jawaban: B\n\nPembahasan:\n'Pergilah, kalian bebas' (Memaafkan)."
+    },
+    {
+        "instruction": "SKI (Kisah Nabi).",
+        "input": "Haji terakhir yang dilakukan oleh Nabi Muhammad SAW disebut ....",
+        "output": "Soal:\nA. Haji Akbar\nB. Haji Wada\nC. Haji Mabrur\nD. Haji Tamattu\n\nKunci Jawaban: B\n\nPembahasan:\nHaji Wada = Haji Perpisahan."
+    },
+    {
+        "instruction": "SKI (Kisah Nabi).",
+        "input": "Pada saat Haji Wada, wahyu terakhir yang turun adalah ....",
+        "output": "Soal:\nA. Al-Ma'idah ayat 3\nB. Al-Alaq ayat 1-5\nC. Al-Fatihah\nD. Al-Nasr\n\nKunci Jawaban: A\n\nPembahasan:\n'Pada hari ini telah Kusempurnakan agamamau...'."
+    },
+    {
+        "instruction": "SKI (Kisah Nabi).",
+        "input": "Nabi Muhammad SAW wafat pada usia ... tahun.",
+        "output": "Soal:\nA. 60\nB. 63\nC. 65\nD. 70\n\nKunci Jawaban: B\n\nPembahasan:\nUsia 63 tahun (tahun gajah + 63)."
+    },
+    {
+        "instruction": "SKI (Kisah Nabi).",
+        "input": "Sahabat yang menggantikan Nabi Muhammad SAW sebagai imam shalat ketika Nabi sakit parah adalah ....",
+        "output": "Soal:\nA. Umar bin Khattab\nB. Utsman bin Affan\nC. Ali bin Abi Thalib\nD. Abu Bakar Ash-Shiddiq\n\nKunci Jawaban: D\n\nPembahasan:\nAbu Bakar ditunjuk Nabi."
+    },
+    {
+        "instruction": "SKI (Sahabat).",
+        "input": "Khulafaur Rasyidin artinya ....",
+        "output": "Soal:\nA. Pemimpin yang kejam\nB. Pemimpin yang mendapat petunjuk\nC. Pemimpin yang kaya\nD. Pemimpin yang muda\n\nKunci Jawaban: B\n\nPembahasan:\nKhalifah yang lurus/dapat petunjuk."
+    },
+    {
+        "instruction": "SKI (Sahabat).",
+        "input": "Khalifah pertama setelah Nabi wafat adalah ....",
+        "output": "Soal:\nA. Umar bin Khattab\nB. Abu Bakar Ash-Shiddiq\nC. Utsman bin Affan\nD. Ali bin Abi Thalib\n\nKunci Jawaban: B\n\nPembahasan:\nAbu Bakar (11-13 H)."
+    },
+    {
+        "instruction": "SKI (Sahabat).",
+        "input": "Gelar 'Ash-Shiddiq' diberikan kepada Abu Bakar karena beliau selalu ....",
+        "output": "Soal:\nA. Berkata jujur dan membenarkan ucapan Nabi\nB. Berani di medan perang\nC. Dermawan\nD. Cerdas\n\nKunci Jawaban: A\n\nPembahasan:\nMembenarkan Isra Mi'raj."
+    },
+    {
+        "instruction": "SKI (Sahabat).",
+        "input": "Khalifah kedua yang terkenal tegas dan pemberani adalah ....",
+        "output": "Soal:\nA. Abu Bakar Ash-Shiddiq\nB. Umar bin Khattab\nC. Utsman bin Affan\nD. Ali bin Abi Thalib\n\nKunci Jawaban: B\n\nPembahasan:\nUmar bin Khattab (Al-Faruq)."
+    },
+    {
+        "instruction": "SKI (Sahabat).",
+        "input": "Gelar 'Al-Faruq' yang diberikan kepada Umar bin Khattab artinya ....",
+        "output": "Soal:\nA. Pembeda antara yang haq dan batil\nB. Pedang Allah\nC. Gerbang Ilmu\nD. Pemilik Dua Cahaya\n\nKunci Jawaban: A\n\nPembahasan:\nPembeda kebenaran dan kebatilan."
+    },
+    {
+        "instruction": "SKI (Sahabat).",
+        "input": "Khalifah ketiga yang menikahi dua putri Nabi adalah ....",
+        "output": "Soal:\nA. Abu Bakar\nB. Umar bin Khattab\nC. Utsman bin Affan\nD. Ali bin Abi Thalib\n\nKunci Jawaban: C\n\nPembahasan:\nDzun Nurain (Pemilik Dua Cahaya)."
+    },
+    {
+        "instruction": "SKI (Sahabat).",
+        "input": "Salah satu jasa besar Khalifah Utsman bin Affan adalah ....",
+        "output": "Soal:\nA. Memerangi nabi palsu\nB. Menetapkan kalender Hijriyah\nC. Membukukan/Kodifikasi Al-Qur'an (Mushaf Utsmani)\nD. Membangun Baitul Maal\n\nKunci Jawaban: C\n\nPembahasan:\nKodifikasi Al-Qur'an."
+    },
+    {
+        "instruction": "SKI (Sahabat).",
+        "input": "Khalifah keempat yang merupakan menantu Nabi adalah ....",
+        "output": "Soal:\nA. Abu Bakar\nB. Umar bin Khattab\nC. Utsman bin Affan\nD. Ali bin Abi Thalib\n\nKunci Jawaban: D\n\nPembahasan:\nSuami Fatimah Az-Zahra."
+    },
+    {
+        "instruction": "SKI (Sahabat).",
+        "input": "Nabi menjuluki Ali bin Abi Thalib sebagai 'Babul Ilmi', yang artinya ....",
+        "output": "Soal:\nA. Pintu Ilmu\nB. Gudang Ilmu\nC. Sumber Ilmu\nD. Cahaya Ilmu\n\nKunci Jawaban: A\n\nPembahasan:\nAna madinatul ilmi wa aliyu babuha."
+    },
+    {
+        "instruction": "SKI (Kisah Nabi).",
+        "input": "Strategi Nabi Muhammad SAW saat Fathu Makkah adalah membagi pasukan menjadi ... arah.",
+        "output": "Soal:\nA. 1\nB. 2\nC. 3\nD. 4\n\nKunci Jawaban: D\n\nPembahasan:\nMasuk dari 4 penjuru Mekkah."
+    },
+    {
+        "instruction": "SKI (Kisah Nabi).",
+        "input": "Kaum Anshar adalah penduduk Madinah yang ....",
+        "output": "Soal:\nA. Memusuhi Nabi\nB. Menolong Nabi dan kaum Muhajirin\nC. Hijrah dari Mekkah\nD. Berdagang dengan Nabi\n\nKunci Jawaban: B\n\nPembahasan:\nPenolong (Anshar)."
+    },
+    {
+        "instruction": "SKI (Kisah Nabi).",
+        "input": "Kaum Muhajirin adalah pengikut Nabi yang ....",
+        "output": "Soal:\nA. Menetap di Madinah\nB. Hijrah dari Mekkah ke Madinah\nC. Berperang melawan Nabi\nD. Tidak mau beriman\n\nKunci Jawaban: B\n\nPembahasan:\nHijrah (Muhajirin)."
+    },
+    {
+        "instruction": "SKI (Kisah Nabi).",
+        "input": "Perjanjian Hudaibiyah adalah perjanjian damai antara kaum Muslimin dengan ....",
+        "output": "Soal:\nA. Kaum Yahudi Madinah\nB. Kaum Kafir Quraisy Mekkah\nC. Raja Habasyah\nD. Penduduk Thaif\n\nKunci Jawaban: B\n\nPembahasan:\nGencatan senjata 10 tahun."
+    },
+    {
+        "instruction": "SKI (Kisah Nabi).",
+        "input": "Paman Nabi yang sangat memusuhi dakwah Nabi adalah ....",
+        "output": "Soal:\nA. Hamzah\nB. Abbas\nC. Abu Lahab / Abu Jahal\nD. Abu Thalib\n\nKunci Jawaban: C\n\nPembahasan:\nAbu Lahab & Abu Jahal (Musuh)."
+    },
+    {
+        "instruction": "SKI (Kisah Nabi).",
+        "input": "Istri Nabi yang pertama dan sangat mendukung dakwah Nabi adalah ....",
+        "output": "Soal:\nA. Aisyah\nB. Khadijah\nC. Hafsah\nD. Zainab\n\nKunci Jawaban: B\n\nPembahasan:\nSiti Khadijah RA."
+    },
+    {
+        "instruction": "SKI (Sahabat).",
+        "input": "Salah jasa Khalifah Abu Bakar adalah memerangi orang-orang yang ....",
+        "output": "Soal:\nA. Masuk Islam\nB. Murtad, nabi palsu, dan enggan zakat\nC. Rajin shalat\nD. Bersedekah\n\nKunci Jawaban: B\n\nPembahasan:\nPerang Riddah."
+    },
+    {
+        "instruction": "SKI (Sahabat).",
+        "input": "Umar bin Khattab menetapkan permulaan kalender Islam (Hijriyah) dimulai dari peristiwa ....",
+        "output": "Soal:\nA. Kelahiran Nabi\nB. Wafatnya Nabi\nC. Hijrahnya Nabi\nD. Turunnya Wahyu\n\nKunci Jawaban: C\n\nPembahasan:\nHijrah Nabi ke Madinah."
+    },
+    {
+        "instruction": "SKI (Sahabat).",
+        "input": "Utsman bin Affan dikenal sebagai saudagar yang sangat ....",
+        "output": "Soal:\nA. Kikir\nB. Dermawan\nC. Sombong\nD. Miskin\n\nKunci Jawaban: B\n\nPembahasan:\nMewakafkan sumur, membiayai perang."
+    },
+    {
+        "instruction": "SKI (Sahabat).",
+        "input": "Ali bin Abi Thalib pernah menggantikan Nabi tidur di kasurnya saat peristiwa ....",
+        "output": "Soal:\nA. Isra Mi'raj\nB. Hijrah\nC. Perang Badar\nD. Fathu Makkah\n\nKunci Jawaban: B\n\nPembahasan:\nMengelabui kaum Quraisy saat Hijrah."
+    },
+    {
+        "instruction": "SKI (Kisah Nabi).",
+        "input": "Masjid pertama yang dibangun Nabi saat tiba di Madinah (Quba) adalah Masjid ....",
+        "output": "Soal:\nA. Nabawi\nB. Quba\nC. Haram\nD. Aqsa\n\nKunci Jawaban: B\n\nPembahasan:\nMasjid Quba."
+    },
+    {
+        "instruction": "SKI (Kisah Nabi).",
+        "input": "Persaudaraan antara Muhajirin dan Anshar didasarkan pada ikatan ....",
+        "output": "Soal:\nA. Darah\nB. Suku\nC. Akidah / Iman\nD. Harta\n\nKunci Jawaban: C\n\nPembahasan:\nUkhuwah Islamiyah."
+    },
+    {
+        "instruction": "SKI (Sahabat).",
+        "input": "Bilal bin Rabah adalah sahabat Nabi yang terkenal sebagai ....",
+        "output": "Soal:\nA. Penulis wahyu\nB. Muadzin pertama\nC. Panglima perang\nD. Bendahara\n\nKunci Jawaban: B\n\nPembahasan:\nMuadzin Rasulullah."
+    },
+    {
+        "instruction": "SKI (Kisah Nabi).",
+        "input": "Salah satu isi khutbah Nabi saat Haji Wada adalah larangan untuk melakukan ....",
+        "output": "Soal:\nA. Riba dan menumpahkan darah\nB. Puasa\nC. Shalat\nD. Zakat\n\nKunci Jawaban: A\n\nPembahasan:\nPesan kemanusiaan dan ekonomi."
+    },
+    {
+        "instruction": "SKI (Kisah Nabi).",
+        "input": "Sifat Nabi yang 'Siddiq' artinya ....",
+        "output": "Soal:\nA. Dapat dipercaya\nB. Jujur/Benar\nC. Cerdas\nD. Menyampaikan\n\nKunci Jawaban: B\n\nPembahasan:\nBenar/Jujur."
+    },
+    {
+        "instruction": "SKI (Kisah Nabi).",
+        "input": "Sifat Nabi yang 'Amanah' artinya ....",
+        "output": "Soal:\nA. Jujur\nB. Dapat dipercaya\nC. Cerdas\nD. Menyampaikan\n\nKunci Jawaban: B\n\nPembahasan:\nTerpercaya."
+    },
+    {
+        "instruction": "SKI (Kisah Nabi).",
+        "input": "Sifat Nabi yang 'Fathonah' artinya ....",
+        "output": "Soal:\nA. Jujur\nB. Cerdas\nC. Dapat dipercaya\nD. Menyampaikan\n\nKunci Jawaban: B\n\nPembahasan:\nCerdas."
+    },
+    {
+        "instruction": "SKI (Kisah Nabi).",
+        "input": "Sifat Nabi yang 'Tabligh' artinya ....",
+        "output": "Soal:\nA. Menyampaikan\nB. Menyembunyikan\nC. Cerdas\nD. Jujur\n\nKunci Jawaban: A\n\nPembahasan:\nMenyampaikan wahyu."
+    },
+    {
+        "instruction": "SKI (Sahabat).",
+        "input": "Khalifah Utsman bin Affan wafat karena ....",
+        "output": "Soal:\nA. Sakit tua\nB. Terbunuh oleh pemberontak saat membaca Al-Qur'an\nC. Perang\nD. Racun\n\nKunci Jawaban: B\n\nPembahasan:\nFitnah dan pemberontakan."
+    },
+    {
+        "instruction": "SKI (Sahabat).",
+        "input": "Perang antara pihak Ali bin Abi Thalib dan Muawiyah disebut perang ....",
+        "output": "Soal:\nA. Badar\nB. Uhud\nC. Shiffin\nD. Khandaq\n\nKunci Jawaban: C\n\nPembahasan:\nPerang saudara (Fitnah Kubra)."
+    },
+    {
+        "instruction": "SKI (Kisah Nabi).",
+        "input": "Putri Nabi yang menikah dengan Ali bin Abi Thalib adalah ....",
+        "output": "Soal:\nA. Ruqayyah\nB. Ummu Kultsum\nC. Fatimah Az-Zahra\nD. Zainab\n\nKunci Jawaban: C\n\nPembahasan:\nFatimah hulu ledak keturunan Nabi."
+    },
+    {
+        "instruction": "SKI (Kisah Nabi).",
+        "input": "Cucu kesayangan Nabi Muhammad SAW adalah ....",
+        "output": "Soal:\nA. Hasan dan Husain\nB. Abdullah dan Ibrahim\nC. Zaid dan Usamah\nD. Bilal dan Ammar\n\nKunci Jawaban: A\n\nPembahasan:\nAnak Fatimah dan Ali."
+    },
+    {
+        "instruction": "SKI (Kisah Nabi).",
+        "input": "Perilaku Nabi yang patut diteladani saat Fathu Makkah adalah ....",
+        "output": "Soal:\nA. Pemaaf dan rendah hati\nB. Sombong dan angkuh\nC. Pendendam\nD. Keras kepala\n\nKunci Jawaban: A\n\nPembahasan:\nAkhlak mulia."
+    },
+    {
+        "instruction": "SKI (Sahabat).",
+        "input": "Musailamah Al-Kazzab adalah seorang ....",
+        "output": "Soal:\nA. Nabi palsu\nB. Teman Nabi\nC. Khalifah\nD. Sahabat sejati\n\nKunci Jawaban: A\n\nPembahasan:\nNabi palsu yang diperangi Abu Bakar."
+    },
+    {
+        "instruction": "SKI (Kisah Nabi).",
+        "input": "Gua tempat Nabi menerima wahyu pertama adalah Gua ....",
+        "output": "Soal:\nA. Tstur\nB. Hira\nC. Kahfi\nD. Uhud\n\nKunci Jawaban: B\n\nPembahasan:\nGua Hira."
+    },
+    {
+        "instruction": "SKI (Kisah Nabi).",
+        "input": "Gua tempat Nabi dan Abu Bakar bersembunyi saat hijrah adalah Gua ....",
+        "output": "Soal:\nA. Hira\nB. Tstur (Tsur)\nC. Kahfi\nD. Uhud\n\nKunci Jawaban: B\n\nPembahasan:\nGua Tsur."
+    },
+    {
+        "instruction": "SKI (Sahabat).",
+        "input": "Zaid bin Tsabit ditunjuk oleh Abu Bakar dan Utsman untuk memimpin proyek ....",
+        "output": "Soal:\nA. Perluasan wilayah\nB. Pengumpulan dan penulisan Al-Qur'an\nC. Pembangunan masjid\nD. Perdagangan\n\nKunci Jawaban: B\n\nPembahasan:\nSekretaris Nabi, Ketua panitia mushaf."
+    },
+    {
+        "instruction": "SKI (Kisah Nabi).",
+        "input": "Pasukan gajah yang ingin menghancurkan Ka'bah dipimpin oleh Raja ....",
+        "output": "Soal:\nA. Abrahah\nB. Namrud\nC. Firaun\nD. Najasyi\n\nKunci Jawaban: A\n\nPembahasan:\nTahun Gajah."
+    },
+    {
+        "instruction": "SKI (Kisah Nabi).",
+        "input": "Mukjizat terbesar Nabi Muhammad SAW adalah ....",
+        "output": "Soal:\nA. Membelah bulan\nB. Air keluar dari jari\nC. Al-Qur'an\nD. Tongkat jadi ular\n\nKunci Jawaban: C\n\nPembahasan:\nMukjizat abadi."
+    },
+    {
+        "instruction": "SKI (Sahabat).",
+        "input": "Khalid bin Walid dijuluki 'Saifullah' yang artinya ....",
+        "output": "Soal:\nA. Pedang Allah\nB. Singa Allah\nC. Cahaya Allah\nD. Kekasih Allah\n\nKunci Jawaban: A\n\nPembahasan:\nPanglima perang tak terkalahkan."
+    },
+    {
+        "instruction": "SKI (Sahabat).",
+        "input": "Hamzah bin Abdul Muthalib dijuluki 'Assadullah' yang artinya ....",
+        "output": "Soal:\nA. Pedang Allah\nB. Singa Allah\nC. Harimau Allah\nD. Tentara Allah\n\nKunci Jawaban: B\n\nPembahasan:\nSinga Allah (Paman Nabi)."
+    },
+    {
+        "instruction": "SKI (Umum).",
+        "input": "Suri tauladan yang baik ada pada diri Rasulullah disebut ....",
+        "output": "Soal:\nA. Uswatun Hasanah\nB. Akhlakul Mazmumah\nC. Suul Khotimah\nD. Khusnul Khotimah\n\nKunci Jawaban: A\n\nPembahasan:\nQ.S. Al-Ahzab 21."
+    },
+    {
+        "instruction": "SKI (Kisah Nabi).",
+        "input": "Tahun kesedihan saat meninggalnya Abu Thalib dan Khadijah disebut ....",
+        "output": "Soal:\nA. 'Amul Huzni\nB. 'Amul Fil\nC. 'Amul Jamaah\nD. 'Amul Fatah\n\nKunci Jawaban: A\n\nPembahasan:\nTahun Kesedihan."
+    },
+    {
+        "instruction": "SKI (Kisah Nabi).",
+        "input": "Nabi Muhammad SAW lahir pada tanggal ....",
+        "output": "Soal:\nA. 17 Ramadhan\nB. 12 Rabiul Awal\nC. 1 Muharram\nD. 10 Dzulhijjah\n\nKunci Jawaban: B\n\nPembahasan:\nMaulid Nabi."
+    },
+    {
+        "instruction": "SKI (Sahabat).",
+        "input": "Wanita pertama yang masuk Islam (Assabiqunal Awwaluun) adalah ....",
+        "output": "Soal:\nA. Aisyah\nB. Khadijah\nC. Fatimah\nD. Sumayyah\n\nKunci Jawaban: B\n\nPembahasan:\nIstri Nabi."
+    },
+    {
+        "instruction": "Fiqih (Zakat).",
+        "input": "Zakat menurut bahasa artinya ....",
+        "output": "Soal:\nA. Membayar\nB. Tumbuh, suci, dan berkah\nC. Memberi\nD. Menabung\n\nKunci Jawaban: B\n\nPembahasan:\nZakat = Suci/Tumbuh."
+    },
+    {
+        "instruction": "Fiqih (Zakat).",
+        "input": "Hukum membayar zakat bagi umat Islam yang mampu adalah ....",
+        "output": "Soal:\nA. Sunnah\nB. Wajib/Fardhu Ain\nC. Makruh\nD. Mubah\n\nKunci Jawaban: B\n\nPembahasan:\nRukun Islam ke-3."
+    },
+    {
+        "instruction": "Fiqih (Zakat).",
+        "input": "Zakat Fitrah dikeluarkan pada bulan ....",
+        "output": "Soal:\nA. Muharram\nB. Ramadhan (sebelum Shalat Idul Fitri)\nC. Dzulhijjah\nD. Rajab\n\nKunci Jawaban: B\n\nPembahasan:\nBatas akhir sebelum shalat Id."
+    },
+    {
+        "instruction": "Fiqih (Zakat).",
+        "input": "Besarnya zakat fitrah yang wajib dikeluarkan per orang adalah ... beras/makanan pokok.",
+        "output": "Soal:\nA. 1 kg\nB. 2,5 kg / 3,5 liter\nC. 5 kg\nD. 10 kg\n\nKunci Jawaban: B\n\nPembahasan:\n2,5 kg atau 3,5 liter."
+    },
+    {
+        "instruction": "Fiqih (Zakat).",
+        "input": "Tujuan utama zakat fitrah adalah untuk menyucikan ....",
+        "output": "Soal:\nA. Harta\nB. Jiwa/Diri\nC. Rumah\nD. Pakaian\n\nKunci Jawaban: B\n\nPembahasan:\nZakat nafs (jiwa)."
+    },
+    {
+        "instruction": "Fiqih (Zakat).",
+        "input": "Zakat Mal disebut juga zakat ....",
+        "output": "Soal:\nA. Jiwa\nB. Harta\nC. Profesi\nD. Fitrah\n\nKunci Jawaban: B\n\nPembahasan:\nMal = Harta."
+    },
+    {
+        "instruction": "Fiqih (Zakat).",
+        "input": "Syarat harta yang wajib dizakati adalah harus mencapai batas minimal yang disebut ....",
+        "output": "Soal:\nA. Nisab\nB. Haul\nC. Rukun\nD. Syarat\n\nKunci Jawaban: A\n\nPembahasan:\nNisab = Batas minimal."
+    },
+    {
+        "instruction": "Fiqih (Zakat).",
+        "input": "Syarat harta wajib zakat juga harus dimiliki selama satu tahun penuh, yang disebut ....",
+        "output": "Soal:\nA. Nisab\nB. Haul\nC. Wajib\nD. Sunnah\n\nKunci Jawaban: B\n\nPembahasan:\nHaul = Satu tahun."
+    },
+    {
+        "instruction": "Fiqih (Zakat).",
+        "input": "Nisab zakat emas adalah ... gram.",
+        "output": "Soal:\nA. 50\nB. 85 / 93\nC. 100\nD. 1000\n\nKunci Jawaban: B\n\nPembahasan:\nUmumnya 85 gram emas murni."
+    },
+    {
+        "instruction": "Fiqih (Zakat).",
+        "input": "Orang yang berhak menerima zakat disebut ....",
+        "output": "Soal:\nA. Muzakki\nB. Mustahik\nC. Amil\nD. Donatur\n\nKunci Jawaban: B\n\nPembahasan:\nMustahik Zakat."
+    },
+    {
+        "instruction": "Fiqih (Zakat).",
+        "input": "Orang yang wajib mengeluarkan zakat disebut ....",
+        "output": "Soal:\nA. Muzakki\nB. Mustahik\nC. Amil\nD. Panitia\n\nKunci Jawaban: A\n\nPembahasan:\nMuzakki."
+    },
+    {
+        "instruction": "Fiqih (Zakat).",
+        "input": "Jumlah golongan (asnaf) yang berhak menerima zakat ada ....",
+        "output": "Soal:\nA. 5\nB. 8\nC. 10\nD. 7\n\nKunci Jawaban: B\n\nPembahasan:\n8 Asnaf (At-Taubah 60)."
+    },
+    {
+        "instruction": "Fiqih (Zakat).",
+        "input": "Fakir adalah orang yang ....",
+        "output": "Soal:\nA. Mempunyai harta tapi tidak cukup\nB. Tidak mempunyai harta dan pekerjaan\nC. Banyak hutang\nD. Dalam perjalanan\n\nKunci Jawaban: B\n\nPembahasan:\nSangat kekurangan."
+    },
+    {
+        "instruction": "Fiqih (Zakat).",
+        "input": "Miskin adalah orang yang ....",
+        "output": "Soal:\nA. Tidak punya harta sama sekali\nB. Mempunyai harta/pekerjaan tapi tidak mencukupi kebutuhan pokok\nC. Kaya raya\nD. Terlilit hutang\n\nKunci Jawaban: B\n\nPembahasan:\nKekurangan tapi lebih baik dari fakir."
+    },
+    {
+        "instruction": "Fiqih (Zakat).",
+        "input": "Amil zakat adalah ....",
+        "output": "Soal:\nA. Orang yang berhutang\nB. Panitia pengumpul dan pengelola zakat\nC. Budak\nD. Musafir\n\nKunci Jawaban: B\n\nPembahasan:\nPanitia zakat."
+    },
+    {
+        "instruction": "Fiqih (Zakat).",
+        "input": "Mualaf adalah orang yang ....",
+        "output": "Soal:\nA. Baru masuk Islam / hatinya mau dijinakkan\nB. Keluar dari Islam\nC. Banyak hutang\nD. Kehabisan bekal\n\nKunci Jawaban: A\n\nPembahasan:\nBaru masuk Islam."
+    },
+    {
+        "instruction": "Fiqih (Zakat).",
+        "input": "Gharim adalah orang yang ....",
+        "output": "Soal:\nA. Berjuang di jalan Allah\nB. Memiliki banyak hutang untuk kebaikan/kebutuhan\nC. Hamba sahaya\nD. Musafir\n\nKunci Jawaban: B\n\nPembahasan:\nOrang berhutang (bukan maksiat)."
+    },
+    {
+        "instruction": "Fiqih (Zakat).",
+        "input": "Fisabilillah adalah orang yang ....",
+        "output": "Soal:\nA. Berjuang di jalan Allah (dakwah, perang, pendidikan)\nB. Dalam perjalanan\nC. Mengurus zakat\nD. Baru masuk Islam\n\nKunci Jawaban: A\n\nPembahasan:\nJihad fi sabilillah."
+    },
+    {
+        "instruction": "Fiqih (Zakat).",
+        "input": "Ibnu Sabil adalah ....",
+        "output": "Soal:\nA. Anak yatim\nB. Musafir yang kehabisan bekal dalam perjalanan ketaatan\nC. Hamba sahaya\nD. Orang miskin\n\nKunci Jawaban: B\n\nPembahasan:\nMusafir."
+    },
+    {
+        "instruction": "Fiqih (Zakat).",
+        "input": "Riqab adalah ....",
+        "output": "Soal:\nA. Hamba sahaya / Budak yang ingin memerdekakan diri\nB. Orang kaya\nC. Pedagang\nD. Pejabat\n\nKunci Jawaban: A\n\nPembahasan:\nMemerdekakan budak."
+    },
+    {
+        "instruction": "Fiqih (Infaq/Sedekah).",
+        "input": "Infaq berasal dari kata 'anfaqa' yang artinya ....",
+        "output": "Soal:\nA. Menahan\nB. Membelanjakan/Mengeluarkan harta\nC. Menabung\nD. Meminta\n\nKunci Jawaban: B\n\nPembahasan:\nInfaq: Membelanjakan harta."
+    },
+    {
+        "instruction": "Fiqih (Infaq/Sedekah).",
+        "input": "Sedekah artinya ....",
+        "output": "Soal:\nA. Benar/Pemberian sukarela\nB. Salah\nC. Wajib\nD. Denda\n\nKunci Jawaban: A\n\nPembahasan:\nShadaqah = Benar (bukti iman)."
+    },
+    {
+        "instruction": "Fiqih (Infaq/Sedekah).",
+        "input": "Perbedaan zakat dan sedekah adalah ....",
+        "output": "Soal:\nA. Zakat waktunya ditentukan, sedekah kapan saja\nB. Zakat sunnah, sedekah wajib\nC. Zakat barang, sedekah uang\nD. Tidak ada beda\n\nKunci Jawaban: A\n\nPembahasan:\nZakat terikat aturan waktu/nisab, sedekah bebas."
+    },
+    {
+        "instruction": "Fiqih (Infaq/Sedekah).",
+        "input": "Hukum bersedekah adalah ....",
+        "output": "Soal:\nA. Wajib\nB. Sunnah\nC. Haram\nD. Makruh\n\nKunci Jawaban: B\n\nPembahasan:\nSunnah Muakkad."
+    },
+    {
+        "instruction": "Fiqih (Infaq/Sedekah).",
+        "input": "Senyum kepada saudara termasuk ....",
+        "output": "Soal:\nA. Zakat\nB. Sedekah\nC. Hutang\nD. Riba\n\nKunci Jawaban: B\n\nPembahasan:\nSedekah non-materi."
+    },
+    {
+        "instruction": "Fiqih (Infaq/Sedekah).",
+        "input": "Menyingkirkan duri dari jalan termasuk perbuatan ....",
+        "output": "Soal:\nA. Sia-sia\nB. Sedekah (Cabang iman)\nC. Maksiat\nD. Zakat\n\nKunci Jawaban: B\n\nPembahasan:\nSedekah tenaga/perbuatan."
+    },
+    {
+        "instruction": "Fiqih (Zakat).",
+        "input": "Zakat membersihkan harta dari hak ....",
+        "output": "Soal:\nA. Milik sendiri\nB. Orang lain (Mustahik)\nC. Pemerintah\nD. Keluarga\n\nKunci Jawaban: B\n\nPembahasan:\nDalam harta kita ada hak orang miskin."
+    },
+    {
+        "instruction": "Fiqih (Infaq/Sedekah).",
+        "input": "Sikap yang baik ketika bersedekah adalah ....",
+        "output": "Soal:\nA. Pamer (Riya)\nB. Ikhlas karena Allah\nC. Mengharap pujian\nD. Mengungkit-ungkit\n\nKunci Jawaban: B\n\nPembahasan:\nIkhlas kunci diterima."
+    },
+    {
+        "instruction": "Fiqih (Infaq/Sedekah).",
+        "input": "Allah melarang kita membatalkan pahala sedekah dengan cara ....",
+        "output": "Soal:\nA. Menyebut-nyebut (Mannan) dan menyakiti hati penerima\nB. Diam saja\nC. Tersenyum\nD. Mendoakan\n\nKunci Jawaban: A\n\nPembahasan:\nQ.S. Al-Baqarah 264."
+    },
+    {
+        "instruction": "Fiqih (Zakat).",
+        "input": "Zakat Fitrah sebaiknya dibayarkan berupa ....",
+        "output": "Soal:\nA. Baju baru\nB. Makanan pokok (Beras)\nC. Emas\nD. Kendaraan\n\nKunci Jawaban: B\n\nPembahasan:\nMakanan pokok setempat."
+    },
+    {
+        "instruction": "Fiqih (Infaq/Sedekah).",
+        "input": "Salah satu manfaat gemar bersedekah adalah ....",
+        "output": "Soal:\nA. Harta berkurang\nB. Menjadi miskin\nC. Menolak bala dan memperpanjang umur (berkah)\nD. Dibenci orang\n\nKunci Jawaban: C\n\nPembahasan:\nManfaat sedekah."
+    },
+    {
+        "instruction": "Fiqih (Zakat).",
+        "input": "Nisab zakat hasil pertanian (biji-bijian ) adalah ... kg gabah/beras (setara 5 wasaq).",
+        "output": "Soal:\nA. 100 kg\nB. 500 kg\nC. 653 kg / 750 kg\nD. 1 ton\n\nKunci Jawaban: C\n\nPembahasan:\n± 653 kg beras (atau angka pendekatan 750kg gabah)."
+    },
+    {
+        "instruction": "Fiqih (Zakat).",
+        "input": "Besar zakat perniagaan yang harus dikeluarkan adalah ....",
+        "output": "Soal:\nA. 2,5%\nB. 5%\nC. 10%\nD. 20%\n\nKunci Jawaban: A\n\nPembahasan:\nSama dengan emas/perak (2,5%)."
+    },
+    {
+        "instruction": "Fiqih (Zakat).",
+        "input": "Zakat pertanian yang diairi dengan biaya (irigasi) maka zakatnya sebesar ....",
+        "output": "Soal:\nA. 2,5%\nB. 5%\nC. 10%\nD. 20%\n\nKunci Jawaban: B\n\nPembahasan:\nAda biaya air = 5%."
+    },
+    {
+        "instruction": "Fiqih (Zakat).",
+        "input": "Zakat pertanian yang diairi air hujan (tanpa biaya) maka zakatnya sebesar ....",
+        "output": "Soal:\nA. 2,5%\nB. 5%\nC. 10%\nD. 20%\n\nKunci Jawaban: C\n\nPembahasan:\nTanpa biaya air = 10%."
+    },
+    {
+        "instruction": "Fiqih (Infaq/Sedekah).",
+        "input": "Berinfak untuk pembangunan masjid termasuk amal ....",
+        "output": "Soal:\nA. Jariyah\nB. Buruk\nC. Sia-sia\nD. Maksiat\n\nKunci Jawaban: A\n\nPembahasan:\nAmal jariyah (pahalanya mengalir)."
+    },
+    {
+        "instruction": "Fiqih (Zakat).",
+        "input": "Barang temuan harta karun (Rikaz) wajib dizakati sebesar ....",
+        "output": "Soal:\nA. 2,5%\nB. 5%\nC. 10%\nD. 20%\n\nKunci Jawaban: D\n\nPembahasan:\nRikaz = 20%."
+    },
+    {
+        "instruction": "Fiqih (Infaq/Sedekah).",
+        "input": "Tangan di atas lebih baik daripada ....",
+        "output": "Soal:\nA. Tangan di bawah\nB. Tangan di samping\nC. Kaki di atas\nD. Kepala di bawah\n\nKunci Jawaban: A\n\nPembahasan:\nPemberi lebih mulia dari penerima."
+    },
+    {
+        "instruction": "Fiqih (Zakat).",
+        "input": "Membayar zakat fitrah setelah shalat Idul Fitri hukumnya ....",
+        "output": "Soal:\nA. Haram\nB. Makruh\nC. Tidak sah sebagai zakat (hanya sedekah biasa)\nD. Wajib\n\nKunci Jawaban: C\n\nPembahasan:\nTerlambat = Sedekah biasa."
+    },
+    {
+        "instruction": "Fiqih (Zakat).",
+        "input": "Salah satu hikmah zakat bagi si kaya adalah ....",
+        "output": "Soal:\nA. Mengurangi kekayaan\nB. Menghilangkan sifat kikir/pelit\nC. Menambah musuh\nD. Agar dipuji\n\nKunci Jawaban: B\n\nPembahasan:\nMembersihkan hati dari kikir."
+    },
+    {
+        "instruction": "Fiqih (Zakat).",
+        "input": "Hikmah zakat bagi si miskin adalah ....",
+        "output": "Soal:\nA. Menjadi malas\nB. Meringankan beban ekonomi dan merasa diperhatikan\nC. Menjadi kaya mendadak\nD. Malu\n\nKunci Jawaban: B\n\nPembahasan:\nBantuan ekonomi/solidaritas."
+    },
+    {
+        "instruction": "Fiqih (Infaq/Sedekah).",
+        "input": "Contoh sedekah non-materi adalah ....",
+        "output": "Soal:\nA. Uang\nB. Makanan\nC. Tenaga, pikiran, atau senyuman\nD. Baju\n\nKunci Jawaban: C\n\nPembahasan:\nBukan harta."
+    },
+    {
+        "instruction": "Fiqih (Infaq/Sedekah).",
+        "input": "Infaq wajib contohnya adalah ....",
+        "output": "Soal:\nA. Nafkah suami kepada istri/keluarga\nB. Kotak amal masjid\nC. Sumbangan bencana\nD. Hadiah ulang tahun\n\nKunci Jawaban: A\n\nPembahasan:\nNafkah keluarga = Wajib."
+    },
+    {
+        "instruction": "Fiqih (Zakat).",
+        "input": "Lembaga resmi pemerintah yang mengelola zakat di Indonesia adalah ....",
+        "output": "Soal:\nA. KPK\nB. BAZNAS (Badan Amil Zakat Nasional)\nC. MUI\nD. KUA\n\nKunci Jawaban: B\n\nPembahasan:\nBAZNAS."
+    },
+    {
+        "instruction": "Fiqih (Zakat).",
+        "input": "Membayar zakat mal boleh dilakukan ....",
+        "output": "Soal:\nA. Hanya di bulan Ramadhan\nB. Kapan saja jika sudah mencapai haul dan nisab\nC. Seumur hidup sekali\nD. Saat mau meninggal\n\nKunci Jawaban: B\n\nPembahasan:\nTergantung haul."
+    },
+    {
+        "instruction": "Fiqih (Infaq/Sedekah).",
+        "input": "Keutamaan orang yang bersedekah diibaratkan seperti menanam sebutir benih yang menumbuhkan ... bulir.",
+        "output": "Soal:\nA. 7\nB. 100\nC. 700\nD. 1000\n\nKunci Jawaban: C\n\nPembahasan:\nAl-Baqarah 261 (1 butir -> 7 tangkai -> 100 bulir = 700)."
+    },
+    {
+        "instruction": "Fiqih (Zakat).",
+        "input": "Jika kita memiliki tabungan emas 90 gram dan sudah tersimpan satu tahun, maka kita ....",
+        "output": "Soal:\nA. Tidak wajib zakat\nB. Wajib zakat\nC. Sunnah zakat\nD. Haram zakat\n\nKunci Jawaban: B\n\nPembahasan:\nSudah di atas nisab (85gr)."
+    },
+    {
+        "instruction": "Fiqih (Infaq/Sedekah).",
+        "input": "Memberikan sesuatu yang sudah rusak atau tidak layak kepada orang lain hukumnya ....",
+        "output": "Soal:\nA. Boleh\nB. Makruh/Tidak etis\nC. Wajib\nD. Sunnah\n\nKunci Jawaban: B\n\nPembahasan:\nSebaiknya barang yang dicintai/layak."
+    },
+    {
+        "instruction": "Fiqih (Zakat).",
+        "input": "Inti dari ibadah zakat adalah kepedulian ....",
+        "output": "Soal:\nA. Politik\nB. Sosial\nC. Budaya\nD. Pribadi\n\nKunci Jawaban: B\n\nPembahasan:\nKesalehan sosial."
+    },
+    {
+        "instruction": "Fiqih (Infaq/Sedekah).",
+        "input": "Waqaf adalah menahan harta yang pokok untuk diambil ... nya.",
+        "output": "Soal:\nA. Modalnya\nB. Manfaatnya\nC. Bunganya\nD. Rugi\n\nKunci Jawaban: B\n\nPembahasan:\nDefinisi Wakaf."
+    },
+    {
+        "instruction": "Fiqih (Zakat).",
+        "input": "Bolehkah zakat fitrah dibayar dengan uang?",
+        "output": "Soal:\nA. Tidak boleh sama sekali\nB. Boleh, seharga makanan pokok tersebut\nC. Boleh, tapi separuh harga\nD. Harus emas\n\nKunci Jawaban: B\n\nPembahasan:\nMayoritas ulama membolehkan konversi uang."
+    },
+    {
+        "instruction": "Fiqih (All).",
+        "input": "Rukun Islam yang berkaitan dengan harta adalah ....",
+        "output": "Soal:\nA. Syahadat\nB. Shalat\nC. Zakat\nD. Puasa\n\nKunci Jawaban: C\n\nPembahasan:\nIbadah Maliyah."
+    },
+    {
+        "instruction": "Fiqih (Umum).",
+        "input": "Membayar zakat, infaq, dan sedekah merupakan wujud rasa ... kepada Allah SWT.",
+        "output": "Soal:\nA. Syukur\nB. Takut\nC. Malu\nD. Bangga\n\nKunci Jawaban: A\n\nPembahasan:\nWujud syukur atas nikmat harta."
+    }
+]
