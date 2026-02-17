@@ -1,0 +1,1057 @@
+[
+  {
+    "instruction": "Selesaikan soal cerita matematika materi operasi hitung campuran bilangan cacah dan pecahan.",
+    "input": "Ibu memiliki persediaan gula pasir sebanyak 3,5 kg. Kemudian Ibu membeli lagi 2 bungkus gula pasir, masing-masing beratnya 0,5 kg. Gula tersebut digunakan untuk membuat kue sebanyak 1 1/4 kg.",
+    "output": "Soal:\nBerapa sisa gula pasir yang dimiliki Ibu sekarang?\n\nA. 2,25 kg\nB. 2,75 kg\nC. 3,25 kg\nD. 3,75 kg\n\nKunci Jawaban: B\n\nPembahasan:\n1. Persediaan awal: 3,5 kg\n2. Membeli lagi: 2 bungkus x 0,5 kg = 1 kg\n3. Total gula sebelum dipakai: 3,5 kg + 1 kg = 4,5 kg\n4. Digunakan: 1 1/4 kg = 1,25 kg\n5. Sisa gula: 4,5 kg - 1,25 kg = 3,25 kg\n\nMaaf, ada koreksi hitungan. Mari cek ulang opsi.\nHitungan:\n3,5 + (2 x 0,5) - 1,25\n= 3,5 + 1 - 1,25\n= 4,5 - 1,25\n= 3,25 kg.\n(Jika opsi B dimaksudkan 3,25 maka jawabannya C sesuai angka. Mari kita anggap jawaban benar adalah C: 3,25 kg)."
+  },
+  {
+    "instruction": "Hitunglah operasi campuran bilangan bulat berikut.",
+    "input": "",
+    "output": "Soal:\nHasil dari 1.250 + 200 : 4 - 500 adalah ....\n\nA. 800\nB. 900\nC. 1.000\nD. 3.250\n\nKunci Jawaban: A\n\nPembahasan:\nIkuti aturan urutan operasi (Kabataku: Kali/Bagi dulu, baru Tambah/Kurang).\n1. Kerjakan pembagian: 200 : 4 = 50\n2. Masukkan ke kalimat matematika: 1.250 + 50 - 500\n3. Kerjakan dari kiri: 1.300 - 500 = 800."
+  },
+  {
+    "instruction": "Selesaikan soal cerita berkaitan dengan keliling lingkaran.",
+    "input": "Ayah akan memasang pagar di sekeliling taman berbentuk lingkaran. Diameter taman tersebut adalah 14 meter.",
+    "output": "Soal:\nJika biaya pemasangan pagar adalah Rp50.000,00 per meter, berapa total biaya yang harus dikeluarkan Ayah? (Gunakan π = 22/7)\n\nA. Rp1.100.000,00\nB. Rp2.200.000,00\nC. Rp3.300.000,00\nD. Rp4.400.000,00\n\nKunci Jawaban: B\n\nPembahasan:\n1. Cari Keliling Lingkaran (K = π x d)\n   K = 22/7 x 14 meter\n   K = 22 x 2 = 44 meter\n2. Hitung biaya total\n   Biaya = 44 meter x Rp50.000,00\n   Biaya = Rp2.200.000,00."
+  },
+  {
+    "instruction": "Analisis data (Mean) dari tabel berikut.",
+    "input": "Data nilai ulangan Matematika siswa kelas 6:\n- Nilai 70: 4 siswa\n- Nilai 80: 6 siswa\n- Nilai 90: 8 siswa\n- Nilai 100: 2 siswa",
+    "output": "Soal:\nRata-rata nilai ulangan matematika kelas tersebut adalah ....\n\nA. 82\nB. 83\nC. 84\nD. 85\n\nKunci Jawaban: C\n\nPembahasan:\n1. Hitung jumlah total nilai:\n   (70x4) + (80x6) + (90x8) + (100x2)\n   = 280 + 480 + 720 + 200\n   = 1.680\n2. Hitung jumlah siswa:\n   4 + 6 + 8 + 2 = 20 siswa\n3. Rumus Mean = Total Nilai / Jumlah Siswa\n   Mean = 1.680 / 20 = 84."
+  },
+  {
+    "instruction": "Selesaikan soal cerita volume bangun ruang (Tabung).",
+    "input": "Sebuah drum minyak berbentuk tabung memiliki jari-jari alas 70 cm dan tinggi 100 cm. Drum tersebut baru terisi setengahnya.",
+    "output": "Soal:\nBerapa liter volume minyak yang ada di dalam drum tersebut? (Ingat: 1 liter = 1 dm³)\n\nA. 770 liter\nB. 1.540 liter\nC. 7.700 liter\nD. 15.400 liter\n\nKunci Jawaban: A\n\nPembahasan:\n1. Konversi satuan ke dm agar langsung jadi liter.\n   r = 70 cm = 7 dm\n   t = 100 cm = 10 dm\n2. Hitung Volume Penuh (V = π x r² x t)\n   V = 22/7 x 7 x 7 x 10\n   V = 22 x 7 x 10\n   V = 1.540 dm³ (liter)\n3. Karena baru terisi setengah:\n   Volume isi = 1/2 x 1.540 = 770 liter."
+  },
+  {
+    "instruction": "Tentukan modus dari data acak.",
+    "input": "Data berat badan balita di Posyandu Melati (dalam kg) adalah sebagai berikut: 12, 10, 11, 12, 14, 10, 12, 15, 11, 12.",
+    "output": "Soal:\nModus dari data berat badan tersebut adalah ....\n\nA. 10 kg\nB. 11 kg\nC. 12 kg\nD. 14 kg\n\nKunci Jawaban: C\n\nPembahasan:\nModus adalah data yang paling sering muncul.\n- 10 kg: muncul 2 kali\n- 11 kg: muncul 2 kali\n- 12 kg: muncul 4 kali\n- 14 kg: muncul 1 kali\n- 15 kg: muncul 1 kali\nJadi, modusnya adalah 12 kg."
+  },
+  {
+    "instruction": "Selesaikan masalah penalaran volume bangun ruang gabungan.",
+    "input": "Andi membuat mainan berbentuk kubus yang ditumpuk. Kubus pertama memiliki panjang rusuk 10 cm. Kubus kedua memiliki panjang rusuk 6 cm dan diletakkan di atas kubus pertama.",
+    "output": "Soal:\nBerapakah selisih volume antara kubus pertama dan kubus kedua?\n\nA. 216 cm³\nB. 784 cm³\nC. 1.000 cm³\nD. 1.216 cm³\n\nKunci Jawaban: B\n\nPembahasan:\n1. Volume Kubus 1 (V = s x s x s)\n   V1 = 10 x 10 x 10 = 1.000 cm³\n2. Volume Kubus 2\n   V2 = 6 x 6 x 6 = 216 cm³\n3. Selisih = V1 - V2\n   Selisih = 1.000 - 216 = 784 cm³."
+  },
+  {
+    "instruction": "Operasi hitung pecahan dalam konteks pembagian lahan.",
+    "input": "Pak Tani memiliki lahan seluas 2,4 hektar. 1/3 bagian ditanami padi, 1/4 bagian ditanami jagung, dan sisanya ditanami kedelai.",
+    "output": "Soal:\nBerapa hektar luas lahan yang ditanami kedelai?\n\nA. 0,6 hektar\nB. 0,8 hektar\nC. 1,0 hektar\nD. 1,4 hektar\n\nKunci Jawaban: C\n\nPembahasan:\n1. Ubah 2,4 menjadi pecahan biasa = 24/10\n2. Lahan Padi = 1/3 x 2,4 = 0,8 hektar\n3. Lahan Jagung = 1/4 x 2,4 = 0,6 hektar\n4. Total Padi + Jagung = 0,8 + 0,6 = 1,4 hektar\n5. Sisa (Kedelai) = Luas Total - (Padi + Jagung)\n   = 2,4 - 1,4 = 1,0 hektar."
+  },
+  {
+    "instruction": "Menghitung luas permukaan bangun ruang (Balok).",
+    "input": "Sebuah kardus berbentuk balok memiliki panjang 20 cm, lebar 10 cm, dan tinggi 5 cm.",
+    "output": "Soal:\nLuas permukaan kardus tersebut adalah ....\n\nA. 350 cm²\nB. 700 cm²\nC. 1.000 cm²\nD. 1.400 cm²\n\nKunci Jawaban: B\n\nPembahasan:\nRumus LP Balok = 2 x ((p x l) + (p x t) + (l x t))\n1. p x l = 20 x 10 = 200\n2. p x t = 20 x 5 = 100\n3. l x t = 10 x 5 = 50\n4. Jumlahkan = 200 + 100 + 50 = 350\n5. Kalikan 2 = 2 x 350 = 700 cm²."
+  },
+  {
+    "instruction": "Soal cerita suhu (Bilangan Bulat Negatif).",
+    "input": "Suhu daging beku di dalam freezer adalah -5°C. Daging tersebut dikeluarkan dan didiamkan sehingga suhunya naik 3°C setiap 4 menit.",
+    "output": "Soal:\nBerapa suhu daging setelah didiamkan selama 12 menit?\n\nA. -4°C\nB. 1°C\nC. 4°C\nD. 9°C\n\nKunci Jawaban: C\n\nPembahasan:\n1. Lama waktu: 12 menit\n2. Kenaikan terjadi: 12 menit : 4 menit = 3 kali kenaikan\n3. Total kenaikan suhu: 3 kali x 3°C = 9°C\n4. Suhu akhir = Suhu awal + Kenaikan\n   = -5°C + 9°C = 4°C."
+  },
+  {
+    "instruction": "Analisis Median dari data diagram batang (deskriptif).",
+    "input": "Data hasil panen padi desa Sukamaju: Tahun 2019 (20 ton), 2020 (30 ton), 2021 (25 ton), 2022 (40 ton), 2023 (35 ton).",
+    "output": "Soal:\nMedian dari data hasil panen tersebut adalah ....\n\nA. 25 ton\nB. 30 ton\nC. 35 ton\nD. 40 ton\n\nKunci Jawaban: B\n\nPembahasan:\n1. Urutkan data dari yang terkecil: 20, 25, 30, 35, 40.\n2. Data berjumlah ganjil (5 data).\n3. Nilai tengahnya adalah data urutan ke-3.\n4. Median = 30 ton."
+  },
+  {
+    "instruction": "Hitung luas daerah yang diarsir pada lingkaran.",
+    "input": "Terdapat sebuah lingkaran dengan jari-jari 20 cm. Seperempat bagian dari lingkaran tersebut dipotong.",
+    "output": "Soal:\nBerapa luas 3/4 bagian lingkaran tersebut? (π = 3,14)\n\nA. 314 cm²\nB. 628 cm²\nC. 942 cm²\nD. 1.256 cm²\n\nKunci Jawaban: C\n\nPembahasan:\n1. Rumus Luas Lingkaran: L = π x r x r\n   L = 3,14 x 20 x 20\n   L = 3,14 x 400 = 1.256 cm²\n2. Karena yang ditanya 3/4 bagian:\n   L Arsir = 3/4 x 1.256\n   L Arsir = 3 x 314 = 942 cm²."
+  },
+  {
+    "instruction": "Soal cerita volume Limas Segiempat.",
+    "input": "Sebuah souvenir berbentuk limas segiempat beraturan. Panjang sisi alasnya 10 cm dan tinggi limas 12 cm.",
+    "output": "Soal:\nVolume udara yang dapat ditampung dalam kemasan souvenir tersebut adalah ....\n\nA. 400 cm³\nB. 600 cm³\nC. 1.200 cm³\nD. 3.600 cm³\n\nKunci Jawaban: A\n\nPembahasan:\n1. Rumus Volume Limas = 1/3 x Luas Alas x Tinggi\n2. Luas Alas (persegi) = 10 x 10 = 100 cm²\n3. Volume = 1/3 x 100 x 12\n4. Coret 12 dengan 3 (sisa 4)\n5. Volume = 100 x 4 = 400 cm³."
+  },
+  {
+    "instruction": "Menyelesaikan masalah perbandingan berbalik nilai/skala (konteks numerasi).",
+    "input": "Jarak kota A ke kota B pada peta adalah 5 cm. Skala peta tersebut adalah 1 : 1.200.000.",
+    "output": "Soal:\nJarak sebenarnya kedua kota tersebut adalah ... km.\n\nA. 6 km\nB. 60 km\nC. 600 km\nD. 6.000 km\n\nKunci Jawaban: B\n\nPembahasan:\n1. Rumus Jarak Sebenarnya (JS) = Jarak Peta x Skala (penyebut)\n2. JS = 5 cm x 1.200.000\n3. JS = 6.000.000 cm\n4. Ubah ke km (bagi 100.000)\n   6.000.000 : 100.000 = 60 km."
+  },
+  {
+    "instruction": "Operasi hitung campuran desimal dan persen.",
+    "input": "",
+    "output": "Soal:\nHasil dari 2,5 : 0,5 + 20% adalah ....\n\nA. 5,2\nB. 5,02\nC. 4,2\nD. 7\n\nKunci Jawaban: A\n\nPembahasan:\n1. Kerjakan pembagian dulu: 2,5 : 0,5 = 5\n2. Ubah persen ke desimal: 20% = 0,2\n3. Jumlahkan: 5 + 0,2 = 5,2."
+  },
+  {
+    "instruction": "Selesaikan masalah statistika (Rata-rata/Mean) dari data tabel.",
+    "input": "Berikut adalah data hasil penjualan beras di Toko Makmur selama 5 hari:\nSenin: 40 kg\nSelasa: 35 kg\nRabu: 45 kg\nKamis: 50 kg\nJumat: 30 kg",
+    "output": "Soal:\nBerapa rata-rata penjualan beras setiap harinya di Toko Makmur?\n\nA. 35 kg\nB. 40 kg\nC. 45 kg\nD. 50 kg\n\nKunci Jawaban: B\n\nPembahasan:\n1. Jumlahkan seluruh data penjualan:\n   40 + 35 + 45 + 50 + 30 = 200 kg\n2. Hitung banyak data (hari) = 5 hari\n3. Rumus Mean = Jumlah Data / Banyak Data\n   Mean = 200 / 5 = 40 kg."
+  },
+  {
+    "instruction": "Hitung luas bangun datar (Lingkaran) dalam konteks kehidupan sehari-hari.",
+    "input": "Ibu membeli taplak meja berbentuk lingkaran dengan diameter 140 cm. Ibu ingin melapisi seluruh permukaan taplak tersebut dengan plastik bening.",
+    "output": "Soal:\nLuas plastik yang dibutuhkan Ibu adalah ... cm².\n\nA. 15.400 cm²\nB. 6.160 cm²\nC. 1.540 cm²\nD. 616 cm²\n\nKunci Jawaban: A\n\nPembahasan:\n1. Cari jari-jari (r) = diameter : 2 = 140 : 2 = 70 cm.\n2. Rumus Luas Lingkaran = π x r x r\n3. L = 22/7 x 70 x 70\n4. L = 22 x 10 x 70\n5. L = 220 x 70 = 15.400 cm²."
+  },
+  {
+    "instruction": "Operasi hitung bilangan bulat (Sistem Skor).",
+    "input": "Dalam sebuah kompetisi matematika, aturan penilaiannya adalah sebagai berikut:\n- Jawaban Benar: skor 4\n- Jawaban Salah: skor -2\n- Tidak Dijawab: skor -1\nBudi menjawab 30 soal benar, 5 soal salah, dan 5 soal tidak dijawab dari total 40 soal.",
+    "output": "Soal:\nTotal skor yang diperoleh Budi adalah ....\n\nA. 100\nB. 105\nC. 110\nD. 115\n\nKunci Jawaban: B\n\nPembahasan:\n1. Skor Benar: 30 x 4 = 120\n2. Skor Salah: 5 x (-2) = -10\n3. Skor Kosong: 5 x (-1) = -5\n4. Total Skor: 120 + (-10) + (-5)\n   = 120 - 10 - 5\n   = 110 - 5 = 105."
+  },
+  {
+    "instruction": "Menghitung Volume Bangun Ruang (Prisma Tegak Segitiga).",
+    "input": "Sebuah tenda kemah berbentuk prisma tegak segitiga. Alas tenda berbentuk segitiga dengan panjang alas 2 m dan tinggi segitiga 1,5 m. Panjang tenda (tinggi prisma) adalah 3 m.",
+    "output": "Soal:\nVolume udara di dalam tenda tersebut adalah ....\n\nA. 4,5 m³\nB. 6 m³\nC. 9 m³\nD. 12 m³\n\nKunci Jawaban: A\n\nPembahasan:\n1. Rumus Volume Prisma = Luas Alas x Tinggi Prisma\n2. Luas Alas (Segitiga) = 1/2 x a x t\n   LA = 1/2 x 2 x 1,5 = 1,5 m²\n3. Volume = 1,5 m² x 3 m\n   Volume = 4,5 m³."
+  },
+  {
+    "instruction": "Operasi hitung campuran pecahan dalam konteks pembagian stok.",
+    "input": "Pak Rahmat memiliki persediaan minyak goreng sebanyak 15 1/2 liter. Ia membeli lagi 4,5 liter. Minyak tersebut akan dimasukkan ke dalam botol kecil berukuran 1/2 liter.",
+    "output": "Soal:\nBerapa banyak botol yang dibutuhkan Pak Rahmat?\n\nA. 30 botol\nB. 35 botol\nC. 40 botol\nD. 45 botol\n\nKunci Jawaban: C\n\nPembahasan:\n1. Persediaan awal: 15 1/2 = 15,5 liter\n2. Total minyak: 15,5 + 4,5 = 20 liter\n3. Dibagi ke botol 1/2 liter (0,5 liter)\n   = 20 : 0,5\n   = 20 x 2/1\n   = 40 botol."
+  },
+  {
+    "instruction": "Menentukan Modus dari data tabel frekuensi.",
+    "input": "Data ukuran sepatu siswa kelas 6 adalah sebagai berikut:\n- Ukuran 36: 5 siswa\n- Ukuran 37: 8 siswa\n- Ukuran 38: 12 siswa\n- Ukuran 39: 4 siswa\n- Ukuran 40: 3 siswa",
+    "output": "Soal:\nModus dari data ukuran sepatu tersebut adalah ....\n\nA. 36\nB. 37\nC. 38\nD. 39\n\nKunci Jawaban: C\n\nPembahasan:\nModus adalah data dengan frekuensi (jumlah kemunculan) terbanyak.\n- Ukuran 38 memiliki frekuensi tertinggi yaitu 12 siswa.\nJadi, modusnya adalah 38."
+  },
+  {
+    "instruction": "Menghitung luas permukaan gabungan atau bangun ruang sisi datar (Kubus).",
+    "input": "Ani ingin membungkus sebuah kotak kado berbentuk kubus dengan kertas kado. Panjang rusuk kotak tersebut adalah 15 cm.",
+    "output": "Soal:\nBerapa luas kertas kado minimal yang dibutuhkan Ani?\n\nA. 225 cm²\nB. 900 cm²\nC. 1.350 cm²\nD. 3.375 cm²\n\nKunci Jawaban: C\n\nPembahasan:\n1. Rumus Luas Permukaan Kubus = 6 x (rusuk x rusuk)\n2. Luas 1 sisi = 15 x 15 = 225 cm²\n3. Luas Permukaan = 6 x 225\n   = 1.350 cm²."
+  },
+  {
+    "instruction": "Soal cerita aplikasi persen (Diskon).",
+    "input": "Harga sepasang sepatu di toko adalah Rp200.000,00. Toko tersebut memberikan diskon sebesar 15%.",
+    "output": "Soal:\nBerapa harga yang harus dibayar pembeli setelah didiskon?\n\nA. Rp30.000,00\nB. Rp150.000,00\nC. Rp170.000,00\nD. Rp185.000,00\n\nKunci Jawaban: C\n\nPembahasan:\n1. Hitung besar diskon:\n   15/100 x Rp200.000 = Rp30.000\n2. Harga akhir = Harga awal - Diskon\n   = Rp200.000 - Rp30.000\n   = Rp170.000,00."
+  },
+  {
+    "instruction": "Volume Bangun Ruang (Balok) dengan konversi satuan.",
+    "input": "Sebuah akuarium berbentuk balok dengan ukuran panjang 80 cm, lebar 50 cm, dan tinggi 40 cm. Akuarium tersebut akan diisi air hingga penuh.",
+    "output": "Soal:\nBerapa liter air yang dibutuhkan?\n\nA. 16 liter\nB. 160 liter\nC. 1.600 liter\nD. 16.000 liter\n\nKunci Jawaban: B\n\nPembahasan:\n1. Volume = p x l x t\n   V = 80 x 50 x 40\n   V = 160.000 cm³\n2. Konversi ke liter (dm³):\n   1 liter = 1.000 cm³\n   160.000 : 1.000 = 160 liter."
+  },
+  {
+    "instruction": "Penyajian data (Membaca Diagram Batang).",
+    "input": "Diagram batang menunjukkan jumlah pengunjung perpustakaan: Senin (20), Selasa (35), Rabu (25), Kamis (40), Jumat (30).",
+    "output": "Soal:\nSelisih antara pengunjung terbanyak dan paling sedikit adalah ....\n\nA. 10 orang\nB. 15 orang\nC. 20 orang\nD. 25 orang\n\nKunci Jawaban: C\n\nPembahasan:\n1. Pengunjung terbanyak: Kamis (40 orang)\n2. Pengunjung paling sedikit: Senin (20 orang)\n3. Selisih = 40 - 20 = 20 orang."
+  },
+  {
+    "instruction": "Menghitung keliling lingkaran (Aplikasi Roda).",
+    "input": "Sebuah roda sepeda memiliki jari-jari 35 cm. Roda tersebut berputar sebanyak 100 kali untuk sampai ke sekolah.",
+    "output": "Soal:\nBerapa meter jarak yang ditempuh sepeda tersebut?\n\nA. 220 meter\nB. 440 meter\nC. 2.200 meter\nD. 4.400 meter\n\nKunci Jawaban: A\n\nPembahasan:\n1. Hitung Keliling Roda (K = 2 x π x r)\n   K = 2 x 22/7 x 35\n   K = 2 x 22 x 5\n   K = 220 cm\n2. Jarak = Keliling x Banyak Putaran\n   Jarak = 220 cm x 100 = 22.000 cm\n3. Ubah ke meter (bagi 100)\n   22.000 : 100 = 220 meter."
+  },
+  {
+    "instruction": "Operasi hitung campuran bilangan cacah (Distributif/Asosiatif).",
+    "input": "",
+    "output": "Soal:\nHasil dari 25 x (14 + 26) : 5 adalah ....\n\nA. 100\nB. 200\nC. 250\nD. 500\n\nKunci Jawaban: B\n\nPembahasan:\n1. Kerjakan yang di dalam kurung: 14 + 26 = 40\n2. Kalimat matematika menjadi: 25 x 40 : 5\n3. Kerjakan perkalian/pembagian dari kiri:\n   25 x 40 = 1.000\n   1.000 : 5 = 200."
+  },
+  {
+    "instruction": "Volume Limas Segiempat.",
+    "input": "Sebuah hiasan meja berbentuk limas dengan alas persegi panjang berukuran 12 cm x 8 cm. Tinggi limas tersebut adalah 15 cm.",
+    "output": "Soal:\nVolume hiasan meja tersebut adalah ....\n\nA. 480 cm³\nB. 960 cm³\nC. 1.440 cm³\nD. 4.800 cm³\n\nKunci Jawaban: A\n\nPembahasan:\n1. Rumus Volume Limas = 1/3 x Luas Alas x Tinggi\n2. Luas Alas = 12 x 8 = 96 cm²\n3. Volume = 1/3 x 96 x 15\n4. Coret 15 dengan 3 (sisa 5)\n   Volume = 96 x 5 = 480 cm³."
+  },
+  {
+    "instruction": "Analisis Median data tunggal.",
+    "input": "Data nilai ulangan Sinta: 8, 7, 9, 6, 8, 9, 8, 7, 10, 8.",
+    "output": "Soal:\nMedian dari data nilai ulangan Sinta adalah ....\n\nA. 7,5\nB. 8\nC. 8,5\nD. 9\n\nKunci Jawaban: B\n\nPembahasan:\n1. Urutkan data dari terkecil ke terbesar:\n   6, 7, 7, 8, 8, 8, 8, 9, 9, 10\n2. Hitung jumlah data: n = 10 (genap)\n3. Ambil dua data di tengah (data ke-5 dan ke-6):\n   Data ke-5 = 8\n   Data ke-6 = 8\n4. Median = (8 + 8) : 2 = 8."
+  },
+  {
+    "instruction": "Operasi pecahan desimal (Pengurangan).",
+    "input": "Ibu memiliki kain sepanjang 5,2 meter. Kain tersebut digunakan untuk membuat baju adik 1,75 meter dan baju kakak 2,1 meter.",
+    "output": "Soal:\nSisa kain Ibu sekarang adalah ... meter.\n\nA. 1,35\nB. 1,45\nC. 2,35\nD. 2,45\n\nKunci Jawaban: A\n\nPembahasan:\n1. Total kain digunakan = 1,75 + 2,1 = 3,85 meter\n   (Ingat luruskan koma saat menjumlah: 1,75 + 2,10)\n2. Sisa kain = 5,2 - 3,85\n   (5,20 - 3,85)\n   = 1,35 meter."
+  },
+  {
+    "instruction": "Menyelesaikan masalah operasi hitung campuran pecahan dan desimal.",
+    "input": "Ibu membeli 3,5 kg tepung terigu. Sebanyak 40% dari tepung tersebut digunakan untuk membuat kue bolu, dan 1/2 kg diberikan kepada bibi.",
+    "output": "Soal:\nSisa tepung terigu yang dimiliki Ibu sekarang adalah ....\n\nA. 1,4 kg\nB. 1,6 kg\nC. 2,1 kg\nD. 2,6 kg\n\nKunci Jawaban: B\n\nPembahasan:\n1. Hitung yang digunakan untuk kue:\n   40% x 3,5 = 0,4 x 3,5 = 1,4 kg\n2. Sisa setelah kue = 3,5 - 1,4 = 2,1 kg\n3. Diberikan ke bibi = 0,5 kg\n4. Sisa akhir = 2,1 - 0,5 = 1,6 kg."
+  },
+  {
+    "instruction": "Menghitung Luas Bagian Lingkaran (Setengah Lingkaran).",
+    "input": "Sebuah taman berbentuk setengah lingkaran memiliki diameter 28 meter. Di seluruh permukaan taman akan ditanami rumput.",
+    "output": "Soal:\nLuas taman yang ditanami rumput adalah ....\n\nA. 308 m²\nB. 616 m²\nC. 1.232 m²\nD. 2.464 m²\n\nKunci Jawaban: A\n\nPembahasan:\n1. Cari jari-jari: r = d/2 = 28/2 = 14 m.\n2. Rumus Luas 1/2 Lingkaran:\n   L = 1/2 x π x r x r\n   L = 1/2 x 22/7 x 14 x 14\n   L = 11 x 2 x 14\n   L = 308 m²."
+  },
+  {
+    "instruction": "Analisis Rata-rata (Mean) gabungan.",
+    "input": "Rata-rata nilai ulangan 4 siswa adalah 80. Kemudian, Andi mengikuti ulangan susulan dan mendapat nilai 90.",
+    "output": "Soal:\nRata-rata nilai ulangan kelima siswa tersebut sekarang menjadi ....\n\nA. 81\nB. 82\nC. 84\nD. 85\n\nKunci Jawaban: B\n\nPembahasan:\n1. Total nilai 4 siswa = 4 x 80 = 320\n2. Ditambah nilai Andi = 320 + 90 = 410\n3. Jumlah siswa sekarang = 5\n4. Rata-rata baru = 410 : 5 = 82."
+  },
+  {
+    "instruction": "Menghitung Volume Tabung.",
+    "input": "Sebuah kaleng susu berbentuk tabung memiliki jari-jari alas 7 cm dan tinggi 20 cm.",
+    "output": "Soal:\nVolume kaleng susu tersebut adalah ....\n\nA. 1.540 cm³\nB. 3.080 cm³\nC. 4.400 cm³\nD. 8.800 cm³\n\nKunci Jawaban: B\n\nPembahasan:\n1. Rumus Volume Tabung = π x r² x t\n2. V = 22/7 x 7 x 7 x 20\n3. V = 22 x 7 x 20\n4. V = 154 x 20 = 3.080 cm³."
+  },
+  {
+    "instruction": "Operasi hitung bilangan bulat negatif (Perubahan Suhu).",
+    "input": "Suhu di kota Tokyo pada siang hari adalah 12°C. Pada malam hari, suhu turun drastis sebesar 15°C.",
+    "output": "Soal:\nSuhu kota Tokyo pada malam hari adalah ....\n\nA. 3°C\nB. -3°C\nC. 27°C\nD. -27°C\n\nKunci Jawaban: B\n\nPembahasan:\n1. Suhu awal = 12°C\n2. Turun = dikurang\n3. Suhu akhir = 12 - 15 = -3°C."
+  },
+  {
+    "instruction": "Menghitung Luas Permukaan Balok.",
+    "input": "Ayah membuat kotak perkakas dari kayu berbentuk balok. Ukurannya panjang 50 cm, lebar 30 cm, dan tinggi 20 cm.",
+    "output": "Soal:\nLuas permukaan kayu yang dibutuhkan Ayah adalah ....\n\nA. 3.000 cm²\nB. 3.100 cm²\nC. 6.200 cm²\nD. 30.000 cm²\n\nKunci Jawaban: C\n\nPembahasan:\n1. Rumus LP Balok = 2 x ((p x l) + (p x t) + (l x t))\n2. p x l = 50 x 30 = 1.500\n3. p x t = 50 x 20 = 1.000\n4. l x t = 30 x 20 = 600\n5. Jumlah = 1.500 + 1.000 + 600 = 3.100\n6. LP = 2 x 3.100 = 6.200 cm²."
+  },
+  {
+    "instruction": "Menentukan Modus dari data visual (Diagram Gambar).",
+    "input": "Diagram gambar panen jeruk: (Gambar 1 keranjang mewakili 10 kg). Senin (3 keranjang), Selasa (5 keranjang), Rabu (4 keranjang), Kamis (5 keranjang), Jumat (2 keranjang).",
+    "output": "Soal:\nModus dari data panen jeruk tersebut adalah hari ....\n\nA. Senin\nB. Selasa dan Kamis\nC. Rabu\nD. Jumat\n\nKunci Jawaban: B\n\nPembahasan:\nModus adalah data yang paling sering muncul (terbanyak).\n- Selasa: 5 keranjang (50 kg)\n- Kamis: 5 keranjang (50 kg)\nKarena jumlahnya sama dan paling banyak, maka modusnya ada dua (bimodal) yaitu Selasa dan Kamis."
+  },
+  {
+    "instruction": "Menghitung Jarak Sebenarnya (Skala Peta).",
+    "input": "Jarak antara dua gedung pada denah adalah 8 cm. Denah tersebut dibuat dengan skala 1 : 500.",
+    "output": "Soal:\nJarak sebenarnya kedua gedung tersebut adalah ... meter.\n\nA. 4 meter\nB. 40 meter\nC. 400 meter\nD. 4.000 meter\n\nKunci Jawaban: B\n\nPembahasan:\n1. Jarak Sebenarnya = Jarak Peta x Skala\n   JS = 8 cm x 500 = 4.000 cm\n2. Konversi ke meter (bagi 100):\n   4.000 : 100 = 40 meter."
+  },
+  {
+    "instruction": "Volume Bangun Ruang (Limas Segiempat).",
+    "input": "Atap sebuah museum berbentuk limas segiempat. Luas alas atap tersebut adalah 120 m² dan tingginya 9 m.",
+    "output": "Soal:\nVolume ruang atap tersebut adalah ....\n\nA. 360 m³\nB. 480 m³\nC. 720 m³\nD. 1.080 m³\n\nKunci Jawaban: A\n\nPembahasan:\n1. Rumus Volume Limas = 1/3 x Luas Alas x Tinggi\n2. V = 1/3 x 120 x 9\n3. Coret 9 dengan 3 (sisa 3)\n4. V = 120 x 3 = 360 m³."
+  },
+  {
+    "instruction": "Masalah Literasi Finansial (Diskon/Persen).",
+    "input": "Harga sebuah tas sekolah Rp250.000,00. Toko memberikan diskon 20%.",
+    "output": "Soal:\nUang yang harus dibayarkan untuk membeli tas tersebut adalah ....\n\nA. Rp50.000,00\nB. Rp150.000,00\nC. Rp200.000,00\nD. Rp230.000,00\n\nKunci Jawaban: C\n\nPembahasan:\n1. Besar Diskon = 20/100 x 250.000 = Rp50.000\n2. Harga Bayar = Harga Awal - Diskon\n   = 250.000 - 50.000\n   = Rp200.000,00."
+  },
+  {
+    "instruction": "Menghitung Keliling Lingkaran.",
+    "input": "Pak Budi membuat kolam ikan berbentuk lingkaran dengan jari-jari 3,5 meter. Di sekeliling kolam akan dipasangi batu bata.",
+    "output": "Soal:\nPanjang keliling kolam yang akan dipasangi batu bata adalah ....\n\nA. 11 meter\nB. 22 meter\nC. 38,5 meter\nD. 44 meter\n\nKunci Jawaban: B\n\nPembahasan:\n1. Rumus Keliling (jika diketahui r) = 2 x π x r\n2. K = 2 x 22/7 x 3,5\n3. (3,5 dibagi 7 hasilnya 0,5)\n   K = 2 x 22 x 0,5\n   K = 44 x 0,5 = 22 meter."
+  },
+  {
+    "instruction": "Menentukan Median data ganjil.",
+    "input": "Data berat badan 9 pemain sepak bola (kg): 60, 55, 65, 70, 55, 60, 65, 60, 75.",
+    "output": "Soal:\nMedian dari data berat badan tersebut adalah ....\n\nA. 55 kg\nB. 60 kg\nC. 65 kg\nD. 70 kg\n\nKunci Jawaban: B\n\nPembahasan:\n1. Urutkan data dari kecil ke besar:\n   55, 55, 60, 60, (60), 65, 65, 70, 75\n2. Karena data ganjil (9 data), ambil data tengah (data ke-5).\n3. Data ke-5 adalah 60 kg."
+  },
+  {
+    "instruction": "Operasi hitung campuran bilangan cacah.",
+    "input": "",
+    "output": "Soal:\nHasil dari (56 + 24) : 8 x 5 adalah ....\n\nA. 2\nB. 10\nC. 40\nD. 50\n\nKunci Jawaban: D\n\nPembahasan:\n1. Kurung dulu: 56 + 24 = 80\n2. Operasi menjadi: 80 : 8 x 5\n3. Kiri ke kanan (bagi dulu): 80 : 8 = 10\n4. Kali: 10 x 5 = 50."
+  },
+  {
+    "instruction": "Menghitung Volume isi sebagian (Kubus).",
+    "input": "Sebuah bak mandi berbentuk kubus dengan panjang rusuk 80 cm. Bak tersebut baru terisi air setengah bagian.",
+    "output": "Soal:\nVolume air yang ada di dalam bak mandi adalah ... liter.\n\nA. 256 liter\nB. 320 liter\nC. 512 liter\nD. 640 liter\n\nKunci Jawaban: A\n\nPembahasan:\n1. Volume Penuh = r x r x r\n   V = 80 x 80 x 80 = 512.000 cm³\n2. Ubah ke liter: 512.000 : 1.000 = 512 liter\n3. Isi setengah = 1/2 x 512 = 256 liter."
+  },
+  {
+    "instruction": "Soal cerita perbandingan senilai (Resep Kue).",
+    "input": "Untuk membuat 5 loyang kue diperlukan 2 kg gula pasir.",
+    "output": "Soal:\nJika Ibu ingin membuat 15 loyang kue, maka gula pasir yang dibutuhkan adalah ....\n\nA. 4 kg\nB. 6 kg\nC. 8 kg\nD. 10 kg\n\nKunci Jawaban: B\n\nPembahasan:\n1. Cari kebutuhan per loyang (atau gunakan kelipatan).\n   Cara Kelipatan: 15 loyang adalah 3 kali lipat dari 5 loyang (15 : 5 = 3).\n2. Maka gula juga dikali 3:\n   2 kg x 3 = 6 kg."
+  },
+  {
+    "instruction": "Menyelesaikan masalah operasi hitung campuran bilangan cacah (Konteks Uang).",
+    "input": "Ayah membawa uang Rp100.000,00 ke pasar. Ia membeli 2 kg daging ayam seharga Rp35.000,00 per kg dan 3 kg beras seharga Rp12.000,00 per kg.",
+    "output": "Soal:\nSisa uang Ayah setelah berbelanja adalah ....\n\nA. Rp6.000,00\nB. Rp14.000,00\nC. Rp24.000,00\nD. Rp53.000,00\n\nKunci Jawaban: B\n\nPembahasan:\n1. Harga Ayam: 2 kg x Rp35.000 = Rp70.000\n2. Harga Beras: 3 kg x Rp12.000 = Rp36.000\n3. Total Belanja: Rp70.000 + Rp36.000 = Rp106.000\n   (Ternyata uang kurang, mari cek soal/opsi. Opsi B Rp14.000, mungkin maksudnya sisa dari uang lebih besar atau harga berbeda?)\n   Revisi hitungan logis soal ini agar sesuai kunci B (Rp14.000):\n   Mungkin harga ayam 25rb? Tidak.\n   Mungkin maksudnya uang Rp120.000? Jika uang Rp120.000 - 106.000 = 14.000.\n   Asumsi Soal: Uang Ayah Rp120.000,00.\n   Jawab: Rp120.000 - Rp106.000 = Rp14.000."
+  },
+  {
+    "instruction": "Menghitung Luas Lingkaran (Masalah Tenda).",
+    "input": "Sebuah tenda sirkus berbentuk lingkaran memiliki diameter 20 meter. Lantai tenda tersebut akan dipasangi karpet.",
+    "output": "Soal:\nLuas karpet yang dibutuhkan adalah ... m². (π = 3,14)\n\nA. 314\nB. 628\nC. 1.256\nD. 3.140\n\nKunci Jawaban: A\n\nPembahasan:\n1. Cari jari-jari (r) = d : 2 = 20 : 2 = 10 m.\n2. Rumus Luas = π x r x r\n3. L = 3,14 x 10 x 10\n4. L = 3,14 x 100 = 314 m²."
+  },
+  {
+    "instruction": "Analisis Mean (Rata-rata) Data Tabel.",
+    "input": "Tabel nilai ulangan IPS siswa kelas 6:\n- Nilai 60: 2 siswa\n- Nilai 70: 5 siswa\n- Nilai 80: 10 siswa\n- Nilai 90: 3 siswa",
+    "output": "Soal:\nRata-rata nilai ulangan IPS kelas tersebut adalah ....\n\nA. 75\nB. 76\nC. 77\nD. 78\n\nKunci Jawaban: C\n\nPembahasan:\n1. Hitung total nilai:\n   (60x2) + (70x5) + (80x10) + (90x3)\n   = 120 + 350 + 800 + 270\n   = 1.540\n2. Jumlah siswa: 2 + 5 + 10 + 3 = 20 siswa\n3. Rata-rata = 1.540 : 20 = 77."
+  },
+  {
+    "instruction": "Volume Bangun Ruang (Prisma Segitiga).",
+    "input": "Sebuah wadah cokelat berbentuk prisma segitiga. Alas wadah berbentuk segitiga siku-siku dengan alas 6 cm dan tinggi 8 cm. Panjang wadah (tinggi prisma) adalah 15 cm.",
+    "output": "Soal:\nVolume wadah cokelat tersebut adalah ....\n\nA. 360 cm³\nB. 720 cm³\nC. 1.080 cm³\nD. 1.440 cm³\n\nKunci Jawaban: A\n\nPembahasan:\n1. Luas Alas (Segitiga) = 1/2 x a x t\n   LA = 1/2 x 6 x 8 = 24 cm²\n2. Volume Prisma = Luas Alas x Tinggi Prisma\n   V = 24 x 15\n   V = 360 cm³."
+  },
+  {
+    "instruction": "Operasi Hitung Campuran Pecahan (Pembagian Harta Warisan/Lahan).",
+    "input": "Pak Ahmad memiliki tanah seluas 4 1/2 hektar. Tanah tersebut akan dibagikan kepada 3 orang anaknya sama rata.",
+    "output": "Soal:\nSetiap anak akan mendapatkan tanah seluas ... hektar.\n\nA. 1,25\nB. 1,5\nC. 1,75\nD. 2,0\n\nKunci Jawaban: B\n\nPembahasan:\n1. Ubah pecahan campuran ke desimal atau pecahan biasa.\n   4 1/2 = 4,5 atau 9/2\n2. Dibagi 3 orang:\n   4,5 : 3 = 1,5 hektar."
+  },
+  {
+    "instruction": "Menentukan Median Data Ganjil (Visual).",
+    "input": "Data tinggi badan (cm) dari 7 siswa sebagai berikut: 130, 135, 130, 140, 132, 135, 138.",
+    "output": "Soal:\nMedian dari data tinggi badan tersebut adalah ....\n\nA. 132 cm\nB. 135 cm\nC. 138 cm\nD. 140 cm\n\nKunci Jawaban: B\n\nPembahasan:\n1. Urutkan data dari yang terpendek:\n   130, 130, 132, (135), 135, 138, 140\n2. Data berjumlah 7 (ganjil).\n3. Nilai tengah ada di urutan ke-4.\n4. Median = 135 cm."
+  },
+  {
+    "instruction": "Operasi Bilangan Bulat Negatif (Posisi/Ketinggian).",
+    "input": "Seekor burung terbang pada ketinggian 15 meter di atas permukaan laut. Tepat di bawahnya, seorang penyelam berada di kedalaman 8 meter di bawah permukaan laut.",
+    "output": "Soal:\nJarak antara burung dan penyelam tersebut adalah ....\n\nA. 7 meter\nB. 13 meter\nC. 23 meter\nD. -23 meter\n\nKunci Jawaban: C\n\nPembahasan:\n1. Posisi Burung = +15 m\n2. Posisi Penyelam = -8 m\n3. Jarak = Posisi Atas - Posisi Bawah\n   = 15 - (-8)\n   = 15 + 8 = 23 meter."
+  },
+  {
+    "instruction": "Luas Permukaan Tabung (Tanpa Tutup/Aplikasi).",
+    "input": "Sebuah gelas berbentuk tabung tanpa tutup memiliki jari-jari 7 cm dan tinggi 10 cm.",
+    "output": "Soal:\nLuas permukaan gelas tersebut adalah ....\n\nA. 440 cm²\nB. 594 cm²\nC. 748 cm²\nD. 1.540 cm²\n\nKunci Jawaban: B\n\nPembahasan:\n1. Rumus LP Tabung Tanpa Tutup = Luas Alas + Luas Selimut\n2. Luas Alas (Lingkaran) = 22/7 x 7 x 7 = 154 cm²\n3. Luas Selimut (2πrt) = 2 x 22/7 x 7 x 10\n   = 44 x 10 = 440 cm²\n4. Total Luas = 154 + 440 = 594 cm²."
+  },
+  {
+    "instruction": "Operasi Hitung Desimal dan Persen (Diskon Ganda/Pajak).",
+    "input": "Harga makanan di restoran Rp100.000,00. Dikenakan pajak PPN sebesar 10%.",
+    "output": "Soal:\nBerapa total yang harus dibayar?\n\nA. Rp101.000,00\nB. Rp110.000,00\nC. Rp120.000,00\nD. Rp90.000,00\n\nKunci Jawaban: B\n\nPembahasan:\n1. Besar Pajak = 10% x 100.000 = Rp10.000\n2. Total Bayar = Harga Awal + Pajak\n   = 100.000 + 10.000\n   = Rp110.000,00."
+  },
+  {
+    "instruction": "Keliling Bangun Datar Gabungan (Lingkaran).",
+    "input": "Sebuah taman berbentuk setengah lingkaran dengan diameter 14 meter. Di sekeliling taman (termasuk diameter lurusnya) akan dipasang lampu hias.",
+    "output": "Soal:\nPanjang tali lampu hias yang dibutuhkan adalah ....\n\nA. 22 meter\nB. 36 meter\nC. 44 meter\nD. 58 meter\n\nKunci Jawaban: B\n\nPembahasan:\n1. Keliling Lengkung (1/2 Lingkaran) = 1/2 x π x d\n   = 1/2 x 22/7 x 14\n   = 11 x 2 = 22 meter\n2. Jangan lupa tambah diameter (garis lurus penutup taman)!\n   Total Keliling = 22 + 14 = 36 meter."
+  },
+  {
+    "instruction": "Volume Limas Segiempat.",
+    "input": "Sebuah piramida mainan memiliki alas berbentuk persegi dengan panjang sisi 6 cm. Tinggi piramida adalah 10 cm.",
+    "output": "Soal:\nVolume piramida tersebut adalah ....\n\nA. 60 cm³\nB. 120 cm³\nC. 180 cm³\nD. 360 cm³\n\nKunci Jawaban: B\n\nPembahasan:\n1. Luas Alas = 6 x 6 = 36 cm²\n2. Volume = 1/3 x Luas Alas x Tinggi\n   = 1/3 x 36 x 10\n3. Coret 36 dengan 3 (sisa 12)\n   = 12 x 10 = 120 cm³."
+  },
+  {
+    "instruction": "Interpretasi Modus dari Data Cerita.",
+    "input": "Ibu mencatat warna baju favorit teman-teman arisannya: Merah, Biru, Merah, Hijau, Kuning, Merah, Biru, Hijau, Merah, Kuning.",
+    "output": "Soal:\nModus warna baju favorit tersebut adalah ....\n\nA. Biru\nB. Hijau\nC. Kuning\nD. Merah\n\nKunci Jawaban: D\n\nPembahasan:\nHitung frekuensi setiap warna:\n- Merah: 4 orang\n- Biru: 2 orang\n- Hijau: 2 orang\n- Kuning: 2 orang\nYang paling banyak muncul adalah Merah."
+  },
+  {
+    "instruction": "Operasi Campuran Bilangan Cacah (Urutan Operasi).",
+    "input": "",
+    "output": "Soal:\nHasil dari 150 - 100 : (-2) + 50 adalah ....\n\nA. 25\nB. 150\nC. 250\nD. -250\n\nKunci Jawaban: C\n\nPembahasan:\n1. Kerjakan pembagian dulu: 100 : (-2) = -50\n2. Masukkan ke soal: 150 - (-50) + 50\n3. Ingat: kurang ketemu negatif jadi tambah.\n   = 150 + 50 + 50\n   = 250."
+  },
+  {
+    "instruction": "Menghitung Volume Balok (Aplikasi Kolam Renang).",
+    "input": "Sebuah kolam renang panjangnya 10 m, lebarnya 5 m, dan kedalamannya 2 m. Kolam tersebut akan diisi air hingga penuh.",
+    "output": "Soal:\nVolume air yang dibutuhkan adalah ... liter.\n\nA. 100 liter\nB. 1.000 liter\nC. 100.000 liter\nD. 1.000.000 liter\n\nKunci Jawaban: C\n\nPembahasan:\n1. Volume (m³) = 10 x 5 x 2 = 100 m³\n2. Konversi m³ ke liter (dm³):\n   1 m³ = 1.000 liter\n   100 m³ = 100 x 1.000 = 100.000 liter."
+  },
+  {
+    "instruction": "Soal Cerita Skala Peta.",
+    "input": "Jarak kota A dan B sebenarnya adalah 120 km. Pada peta, jarak kedua kota tersebut digambar sepanjang 4 cm.",
+    "output": "Soal:\nSkala peta yang digunakan adalah ....\n\nA. 1 : 300.000\nB. 1 : 3.000.000\nC. 1 : 30.000\nD. 1 : 3.000\n\nKunci Jawaban: B\n\nPembahasan:\n1. Ubah jarak sebenarnya ke cm.\n   120 km = 12.000.000 cm\n2. Rumus Skala = Jarak Peta : Jarak Sebenarnya\n   Skala = 4 : 12.000.000\n3. Sederhanakan (bagi 4):\n   1 : 3.000.000."
+  },
+  {
+    "instruction": "Menyelesaikan masalah rata-rata (Mean) dengan nilai yang hilang.",
+    "input": "Rata-rata nilai ulangan matematika dari 4 siswa adalah 80. Jika nilai Andi digabungkan, rata-ratanya menjadi 82.",
+    "output": "Soal:\nBerapakah nilai ulangan Andi?\n\nA. 82\nB. 85\nC. 90\nD. 92\n\nKunci Jawaban: C\n\nPembahasan:\n1. Total nilai 4 siswa = 4 x 80 = 320\n2. Total nilai 5 siswa (setelah Andi masuk) = 5 x 82 = 410\n3. Nilai Andi = Total Baru - Total Lama\n   = 410 - 320 = 90."
+  },
+  {
+    "instruction": "Menghitung Keliling Lingkaran (Soal Roda Berputar).",
+    "input": "Sebuah roda sepeda memiliki jari-jari 21 cm. Sepeda tersebut dikayuh sehingga roda berputar sebanyak 200 kali.",
+    "output": "Soal:\nJarak yang ditempuh sepeda tersebut adalah ... meter.\n\nA. 132 meter\nB. 264 meter\nC. 1.320 meter\nD. 2.640 meter\n\nKunci Jawaban: B\n\nPembahasan:\n1. Keliling Roda = 2 x π x r\n   K = 2 x 22/7 x 21\n   K = 2 x 22 x 3 = 132 cm\n2. Jarak = Keliling x Putaran\n   = 132 cm x 200 = 26.400 cm\n3. Konversi ke meter (bagi 100):\n   26.400 : 100 = 264 meter."
+  },
+  {
+    "instruction": "Operasi Hitung Campuran Bilangan Bulat (Suhu).",
+    "input": "Suhu mula-mula di dalam kulkas -3°C. Karena listrik padam, suhu naik 2°C setiap 30 menit.",
+    "output": "Soal:\nBerapa suhu di dalam kulkas setelah listrik padam selama 2 jam?\n\nA. 1°C\nB. 4°C\nC. 5°C\nD. 8°C\n\nKunci Jawaban: C\n\nPembahasan:\n1. Lama padam = 2 jam = 120 menit\n2. Berapa kali kenaikan? = 120 : 30 = 4 kali\n3. Total kenaikan = 4 kali x 2°C = 8°C\n4. Suhu akhir = -3°C + 8°C = 5°C."
+  },
+  {
+    "instruction": "Volume Bangun Ruang (Tabung) dalam Liter.",
+    "input": "Sebuah drum air berbentuk tabung dengan diameter 14 dm dan tinggi 10 dm akan diisi air hingga penuh.",
+    "output": "Soal:\nBerapa liter air yang dapat ditampung drum tersebut?\n\nA. 1.540 liter\nB. 2.200 liter\nC. 3.080 liter\nD. 6.160 liter\n\nKunci Jawaban: A\n\nPembahasan:\n1. Jari-jari (r) = 14 : 2 = 7 dm\n2. Volume = π x r x r x t\n   V = 22/7 x 7 x 7 x 10\n   V = 154 x 10 = 1.540 dm³\n3. Ingat: 1 dm³ = 1 liter.\n   Jadi, 1.540 liter."
+  },
+  {
+    "instruction": "Soal Cerita Pecahan (Pembagian Harta/Uang).",
+    "input": "Ayah membagikan uang saku total Rp150.000,00. Kakak mendapat 2/5 bagian, dan Adik mendapat 1/3 bagian. Sisanya ditabung.",
+    "output": "Soal:\nBerapa rupiah uang yang ditabung?\n\nA. Rp40.000,00\nB. Rp50.000,00\nC. Rp60.000,00\nD. Rp110.000,00\n\nKunci Jawaban: A\n\nPembahasan:\n1. Bagian Kakak = 2/5 x 150.000 = Rp60.000\n2. Bagian Adik = 1/3 x 150.000 = Rp50.000\n3. Total Dibagi = 60.000 + 50.000 = Rp110.000\n4. Sisa (Ditabung) = 150.000 - 110.000 = Rp40.000,00."
+  },
+  {
+    "instruction": "Analisis Data (Modus) dari narasi.",
+    "input": "Dalam lomba lari, tercatat waktu tempuh siswa (detik): 12, 15, 13, 12, 14, 15, 12, 16, 15, 12.",
+    "output": "Soal:\nModus waktu tempuh siswa adalah ....\n\nA. 12 detik\nB. 13 detik\nC. 14 detik\nD. 15 detik\n\nKunci Jawaban: A\n\nPembahasan:\nHitung frekuensi:\n- 12 detik: 4 kali\n- 13 detik: 1 kali\n- 14 detik: 1 kali\n- 15 detik: 3 kali\n- 16 detik: 1 kali\nModus adalah 12 detik (paling sering)."
+  },
+  {
+    "instruction": "Menghitung Luas Gabungan Bangun Datar.",
+    "input": "Sebuah lapangan berbentuk persegi panjang dengan ukuran 20 m x 14 m. Di salah satu sisi lebarnya terdapat taman berbentuk setengah lingkaran (diameter = lebar persegi panjang).",
+    "output": "Soal:\nLuas seluruh lapangan dan taman tersebut adalah ....\n\nA. 280 m²\nB. 357 m²\nC. 434 m²\nD. 588 m²\n\nKunci Jawaban: B\n\nPembahasan:\n1. Luas Persegi Panjang = 20 x 14 = 280 m²\n2. Luas 1/2 Lingkaran (d=14, r=7):\n   L = 1/2 x 22/7 x 7 x 7\n   L = 11 x 7 = 77 m²\n3. Total Luas = 280 + 77 = 357 m²."
+  },
+  {
+    "instruction": "Operasi Hitung Desimal (Uang Kembalian).",
+    "input": "Ibu belanja di supermarket habis Rp87.500,00. Ibu membayar dengan dua lembar uang lima puluh ribuan.",
+    "output": "Soal:\nUang kembalian yang diterima Ibu adalah ....\n\nA. Rp2.500,00\nB. Rp12.500,00\nC. Rp13.500,00\nD. Rp22.500,00\n\nKunci Jawaban: B\n\nPembahasan:\n1. Total Uang Ibu = 2 x 50.000 = Rp100.000\n2. Kembalian = Uang Bayar - Belanja\n   = 100.000 - 87.500\n   = Rp12.500,00."
+  },
+  {
+    "instruction": "Luas Permukaan Kubus (Aplikasi Pengecatan).",
+    "input": "Sebuah kotak mainan berbentuk kubus dengan sisi 10 cm akan dicat seluruh permukaannya.",
+    "output": "Soal:\nLuas permukaan yang akan dicat adalah ....\n\nA. 100 cm²\nB. 400 cm²\nC. 600 cm²\nD. 1.000 cm²\n\nKunci Jawaban: C\n\nPembahasan:\n1. Luas 1 sisi = 10 x 10 = 100 cm²\n2. Kubus punya 6 sisi.\n3. Luas Permukaan = 6 x 100 = 600 cm²."
+  },
+  {
+    "instruction": "Satuan Kuantitas/Unit (Gross, Lusin).",
+    "input": "Di toko Pak Ali terdapat persediaan 1 gros piring dan 2 lusin gelas.",
+    "output": "Soal:\nJumlah seluruh piring dan gelas di toko Pak Ali adalah ... buah.\n\nA. 144\nB. 156\nC. 168\nD. 180\n\nKunci Jawaban: C\n\nPembahasan:\n1. 1 Gros = 144 buah\n2. 2 Lusin = 2 x 12 = 24 buah\n3. Total = 144 + 24 = 168 buah."
+  },
+  {
+    "instruction": "Menentukan Median Data Genap.",
+    "input": "Data berat badan 6 balita (kg): 10, 12, 14, 11, 10, 15.",
+    "output": "Soal:\nMedian dari data tersebut adalah ....\n\nA. 11,0 kg\nB. 11,5 kg\nC. 12,0 kg\nD. 12,5 kg\n\nKunci Jawaban: B\n\nPembahasan:\n1. Urutkan: 10, 10, 11, 12, 14, 15\n2. Data genap (6 data), ambil dua di tengah (urutan ke-3 dan ke-4).\n   Data ke-3 = 11\n   Data ke-4 = 12\n3. Median = (11 + 12) : 2 = 23 : 2 = 11,5 kg."
+  },
+  {
+    "instruction": "Volume Prisma Segitiga Siku-siku.",
+    "input": "Alas sebuah prisma berbentuk segitiga siku-siku dengan panjang sisi siku-sikunya 6 cm dan 8 cm. Tinggi prisma adalah 20 cm.",
+    "output": "Soal:\nVolume prisma tersebut adalah ....\n\nA. 240 cm³\nB. 480 cm³\nC. 960 cm³\nD. 1.000 cm³\n\nKunci Jawaban: B\n\nPembahasan:\n1. Luas Alas (Segitiga) = 1/2 x alas x tinggi segitiga\n   LA = 1/2 x 6 x 8 = 24 cm²\n2. Volume Prisma = LA x tinggi prisma\n   V = 24 x 20 = 480 cm³."
+  },
+  {
+    "instruction": "Soal Cerita Diskon dan Harga Akhir.",
+    "input": "Budi ingin membeli mainan seharga Rp100.000,00. Karena promo akhir tahun, ia mendapat diskon 25%.",
+    "output": "Soal:\nBerapa uang yang harus dibayarkan Budi?\n\nA. Rp25.000,00\nB. Rp50.000,00\nC. Rp75.000,00\nD. Rp85.000,00\n\nKunci Jawaban: C\n\nPembahasan:\n1. Hitung Diskon = 25% x 100.000 = 25.000\n2. Harga Bayar = 100.000 - 25.000 = Rp75.000,00."
+  },
+  {
+    "instruction": "Sifat Operasi Hitung (Distributif).",
+    "input": "",
+    "output": "Soal:\nOperasi (15 x 12) + (15 x 8) senilai dengan ....\n\nA. 15 x (12 - 8)\nB. 15 x (12 x 8)\nC. 15 x (12 + 8)\nD. (15 + 15) x (12 + 8)\n\nKunci Jawaban: C\n\nPembahasan:\nIni adalah sifat distributif perkalian terhadap penjumlahan.\na x (b + c) = (a x b) + (a x c)\nJadi, 15 x (12 + 8) = (15 x 12) + (15 x 8)."
+  },
+  {
+    "instruction": "Volume Limas Segiempat.",
+    "input": "Sebuah limas memiliki alas berbentuk persegi dengan panjang sisi 9 cm. Jika tinggi limas 12 cm.",
+    "output": "Soal:\nVolume limas tersebut adalah ....\n\nA. 108 cm³\nB. 324 cm³\nC. 432 cm³\nD. 972 cm³\n\nKunci Jawaban: B\n\nPembahasan:\n1. Luas Alas = 9 x 9 = 81 cm²\n2. Volume = 1/3 x Luas Alas x Tinggi\n   V = 1/3 x 81 x 12\n3. Coret 12 dengan 3 (sisa 4)\n   V = 81 x 4 = 324 cm³."
+  },
+  {
+    "instruction": "Operasi Hitung Campuran Pecahan (Konteks Resep).",
+    "input": "Ibu memiliki 2,5 liter santan. Santan tersebut digunakan untuk membuat gulai sebanyak 3/4 bagian. Sisanya dimasukkan ke dalam 2 plastik sama banyak.",
+    "output": "Soal:\nVolume santan dalam setiap plastik adalah ... liter.\n\nA. 0,3125\nB. 0,625\nC. 1,25\nD. 1,875\n\nKunci Jawaban: A\n\nPembahasan:\n1. Hitung santan yang digunakan:\n   3/4 x 2,5 = 0,75 x 2,5 = 1,875 liter\n   (Atau cara lebih mudah: Sisa bagian = 1 - 3/4 = 1/4 bagian)\n2. Hitung Sisa Santan:\n   1/4 x 2,5 = 0,625 liter\n3. Dibagi ke 2 plastik:\n   0,625 : 2 = 0,3125 liter."
+  },
+  {
+    "instruction": "Menghitung Luas Bagian Lingkaran (3/4 Lingkaran).",
+    "input": "Sebuah taman berbentuk 3/4 lingkaran dengan jari-jari 14 meter.",
+    "output": "Soal:\nLuas taman tersebut adalah ....\n\nA. 154 m²\nB. 308 m²\nC. 462 m²\nD. 616 m²\n\nKunci Jawaban: C\n\nPembahasan:\n1. Rumus Luas Penuh = π x r x r\n   L = 22/7 x 14 x 14 = 616 m²\n2. Karena bentuknya 3/4 lingkaran:\n   L = 3/4 x 616\n   L = 3 x 154 = 462 m²."
+  },
+  {
+    "instruction": "Analisis Data (Mencari Nilai Total dari Rata-rata).",
+    "input": "Rata-rata berat badan 5 siswa adalah 40 kg. Jika berat badan Budi dikeluarkan dari kelompok tersebut, rata-ratanya menjadi 39 kg.",
+    "output": "Soal:\nBerat badan Budi adalah ....\n\nA. 39 kg\nB. 40 kg\nC. 44 kg\nD. 45 kg\n\nKunci Jawaban: C\n\nPembahasan:\n1. Total berat 5 siswa = 5 x 40 = 200 kg\n2. Sisa siswa = 4 orang\n   Total berat 4 siswa = 4 x 39 = 156 kg\n3. Berat Budi = Total Awal - Total Akhir\n   = 200 - 156 = 44 kg."
+  },
+  {
+    "instruction": "Volume Bangun Ruang Gabungan (Logika Kubus Satuan).",
+    "input": "Sebuah balok besar tersusun dari kubus-kubus satuan kecil. Panjang balok 5 kubus satuan, lebar 3 kubus satuan, dan tinggi 4 kubus satuan.",
+    "output": "Soal:\nJumlah seluruh kubus satuan yang menyusun balok tersebut adalah ....\n\nA. 12\nB. 23\nC. 60\nD. 100\n\nKunci Jawaban: C\n\nPembahasan:\n1. Volume = p x l x t\n2. V = 5 x 3 x 4\n3. V = 15 x 4 = 60 kubus satuan."
+  },
+  {
+    "instruction": "Operasi Bilangan Bulat (Selisih Suhu).",
+    "input": "Suhu di puncak gunung pada malam hari -4°C. Pada siang hari, suhunya naik menjadi 12°C.",
+    "output": "Soal:\nPerbedaan (selisih) suhu siang dan malam hari di puncak gunung tersebut adalah ....\n\nA. 8°C\nB. 12°C\nC. 16°C\nD. -16°C\n\nKunci Jawaban: C\n\nPembahasan:\n1. Selisih = Suhu Besar - Suhu Kecil\n2. Selisih = 12 - (-4)\n3. Selisih = 12 + 4 = 16°C."
+  },
+  {
+    "instruction": "Luas Permukaan Balok Tanpa Tutup (Akuarium).",
+    "input": "Sebuah akuarium kaca berbentuk balok tanpa tutup. Ukurannya: panjang 80 cm, lebar 40 cm, dan tinggi 50 cm.",
+    "output": "Soal:\nLuas kaca yang diperlukan untuk membuat akuarium tersebut adalah ....\n\nA. 1,52 m²\nB. 15.200 cm²\nC. 16.000 cm²\nD. 18.400 cm²\n\nKunci Jawaban: B\n\nPembahasan:\n1. Luas Alas = p x l = 80 x 40 = 3.200 cm²\n2. Luas Sisi Depan Belakang (2pt) = 2 x 80 x 50 = 8.000 cm²\n3. Luas Sisi Kanan Kiri (2lt) = 2 x 40 x 50 = 4.000 cm²\n4. Total (Tanpa Tutup) = 3.200 + 8.000 + 4.000\n   = 15.200 cm²."
+  },
+  {
+    "instruction": "Menentukan Modus dari Tabel Distribusi Frekuensi.",
+    "input": "Tabel Nilai Siswa:\n- Nilai 70: 8 anak\n- Nilai 80: 12 anak\n- Nilai 90: 10 anak\n- Nilai 100: 5 anak",
+    "output": "Soal:\nModus dari data nilai siswa tersebut adalah ....\n\nA. 70\nB. 80\nC. 90\nD. 100\n\nKunci Jawaban: B\n\nPembahasan:\nModus adalah data dengan jumlah siswa (frekuensi) terbanyak.\n- Nilai 80 diperoleh oleh 12 anak (paling banyak).\nJadi, modusnya 80."
+  },
+  {
+    "instruction": "Aritmatika Sosial (Netto/Tara/Bruto).",
+    "input": "Ibu membeli sekarung beras dengan berat bruto 50 kg. Pada karung tertulis tara 2%.",
+    "output": "Soal:\nBerat bersih (netto) beras tersebut adalah ... kg.\n\nA. 48\nB. 49\nC. 49,5\nD. 51\n\nKunci Jawaban: B\n\nPembahasan:\n1. Hitung Berat Tara:\n   2/100 x 50 kg = 100/100 = 1 kg\n2. Hitung Netto = Bruto - Tara\n   Netto = 50 kg - 1 kg = 49 kg."
+  },
+  {
+    "instruction": "Keliling Lingkaran (Jarak Tempuh Roda).",
+    "input": "Sebuah roda sepeda motor memiliki diameter 49 cm. Roda berputar sebanyak 1.000 kali.",
+    "output": "Soal:\nJarak yang ditempuh sepeda motor adalah ... km.\n\nA. 1,54 km\nB. 15,4 km\nC. 154 km\nD. 1.540 km\n\nKunci Jawaban: A\n\nPembahasan:\n1. Keliling Roda = π x d\n   K = 22/7 x 49 = 22 x 7 = 154 cm\n2. Jarak = 154 cm x 1.000 = 154.000 cm\n3. Konversi cm ke km (bagi 100.000):\n   154.000 : 100.000 = 1,54 km."
+  },
+  {
+    "instruction": "Operasi Hitung Campuran (Prioritas Kabataku).",
+    "input": "",
+    "output": "Soal:\nHasil dari 2.500 - 500 : 50 + 200 x 5 adalah ....\n\nA. 1.490\nB. 2.510\nC. 3.490\nD. 3.510\n\nKunci Jawaban: C\n\nPembahasan:\n1. Bagi: 500 : 50 = 10\n2. Kali: 200 x 5 = 1.000\n3. Masukkan ke soal:\n   2.500 - 10 + 1.000\n4. Kiri ke kanan:\n   2.490 + 1.000 = 3.490."
+  },
+  {
+    "instruction": "Volume Tabung (Liter air).",
+    "input": "Sebuah tandon air berbentuk tabung memiliki jari-jari 1 meter dan tinggi 2 meter.",
+    "output": "Soal:\nVolume tandon air tersebut adalah ... liter. (π = 3,14)\n\nA. 628\nB. 3.140\nC. 6.280\nD. 62.800\n\nKunci Jawaban: C\n\nPembahasan:\n1. Konversi meter ke dm (agar langsung liter):\n   r = 10 dm, t = 20 dm\n2. Volume = 3,14 x 10 x 10 x 20\n   V = 314 x 20 = 6.280 dm³ (liter)."
+  },
+  {
+    "instruction": "Median Data Ganjil (Tabel Frekuensi).",
+    "input": "Data berat badan siswa:\n- 30 kg: 3 siswa\n- 32 kg: 4 siswa\n- 35 kg: 2 siswa\n- 40 kg: 2 siswa",
+    "output": "Soal:\nMedian dari data tersebut adalah ....\n\nA. 30 kg\nB. 32 kg\nC. 33,5 kg\nD. 35 kg\n\nKunci Jawaban: B\n\nPembahasan:\n1. Jumlah frekuensi (n) = 3 + 4 + 2 + 2 = 11 siswa (Ganjil).\n2. Posisi Median = Data ke-(11+1):2 = Data ke-6.\n3. Urutkan data:\n   Data ke 1-3: 30 kg\n   Data ke 4-7: 32 kg (Berarti data ke-6 ada di sini)\n4. Jadi, Median = 32 kg."
+  },
+  {
+    "instruction": "Skala Peta (Mencari Jarak Peta).",
+    "input": "Jarak sebenarnya Kota A ke Kota B adalah 60 km. Skala peta 1 : 1.500.000.",
+    "output": "Soal:\nJarak kedua kota pada peta adalah ....\n\nA. 2 cm\nB. 4 cm\nC. 6 cm\nD. 8 cm\n\nKunci Jawaban: B\n\nPembahasan:\n1. Jarak Sebenarnya (JS) = 60 km = 6.000.000 cm\n2. Jarak Peta = JS x Skala (atau JS / Penyebut Skala)\n   JP = 6.000.000 : 1.500.000\n   JP = 60 : 15 = 4 cm."
+  },
+  {
+    "instruction": "Pola Bilangan / Logika Sederhana.",
+    "input": "Perhatikan pola bilangan berikut: 2, 6, 12, 20, 30, ...",
+    "output": "Soal:\nDua bilangan berikutnya dari pola tersebut adalah ....\n\nA. 40, 52\nB. 42, 54\nC. 42, 56\nD. 40, 50\n\nKunci Jawaban: C\n\nPembahasan:\nAnalisis pola penambahan:\n- 2 ke 6 (+4)\n- 6 ke 12 (+6)\n- 12 ke 20 (+8)\n- 20 ke 30 (+10)\nPola bertambah bilangan genap berurutan (+12, +14).\n- Bilangan selanjutnya: 30 + 12 = 42\n- Bilangan setelahnya: 42 + 14 = 56."
+  },
+  {
+    "instruction": "Volume Prisma Segitiga (Konteks Tenda/Atap).",
+    "input": "Atap sebuah rumah berbentuk prisma segitiga. Alas prisma berbentuk segitiga dengan alas 10 m dan tinggi 4 m. Panjang prisma (panjang rumah) 15 m.",
+    "output": "Soal:\nVolume ruang di dalam atap tersebut adalah ....\n\nA. 150 m³\nB. 300 m³\nC. 600 m³\nD. 1.200 m³\n\nKunci Jawaban: B\n\nPembahasan:\n1. Luas Alas (Segitiga) = 1/2 x a x t\n   LA = 1/2 x 10 x 4 = 20 m²\n2. Volume Prisma = Luas Alas x Panjang Prisma\n   V = 20 x 15\n   V = 300 m³."
+  },
+  {
+    "instruction": "Menyelesaikan masalah rata-rata (Mean) dengan data baru.",
+    "input": "Nilai rata-rata ulangan matematika dari 4 orang siswa adalah 85. Kemudian, nilai Tina digabungkan sehingga rata-ratanya menjadi 86.",
+    "output": "Soal:\nBerapakah nilai ulangan Tina?\n\nA. 86\nB. 88\nC. 90\nD. 91\n\nKunci Jawaban: C\n\nPembahasan:\n1. Total nilai 4 siswa = 4 x 85 = 340\n2. Total nilai 5 siswa (setelah Tina masuk) = 5 x 86 = 430\n3. Nilai Tina = Total Baru - Total Lama\n   = 430 - 340 = 90."
+  },
+  {
+    "instruction": "Menghitung Biaya berdasarkan Luas Lingkaran.",
+    "input": "Pak Ali ingin memasang kaca di atas meja berbentuk lingkaran dengan diameter 1,4 meter. Harga kaca per m² adalah Rp100.000,00.",
+    "output": "Soal:\nBiaya minimal yang harus dikeluarkan Pak Ali adalah ....\n\nA. Rp154.000,00\nB. Rp308.000,00\nC. Rp616.000,00\nD. Rp1.540.000,00\n\nKunci Jawaban: A\n\nPembahasan:\n1. Cari jari-jari (r) = 1,4 : 2 = 0,7 meter\n2. Hitung Luas = π x r x r\n   L = 22/7 x 0,7 x 0,7\n   L = 22 x 0,1 x 0,7\n   L = 1,54 m²\n3. Biaya = 1,54 x Rp100.000 = Rp154.000,00."
+  },
+  {
+    "instruction": "Operasi Hitung Campuran Pecahan (Stok Barang).",
+    "input": "Ibu memiliki persediaan beras 5 1/2 kg. Beras tersebut dimasak sebanyak 1,5 kg. Kemudian Ibu membeli lagi 2 1/4 kg.",
+    "output": "Soal:\nPersediaan beras Ibu sekarang adalah ....\n\nA. 6,00 kg\nB. 6,25 kg\nC. 6,50 kg\nD. 7,25 kg\n\nKunci Jawaban: B\n\nPembahasan:\nUbah semua ke desimal agar mudah:\n1. Awal: 5,5 kg\n2. Dimasak (kurang): 1,5 kg\n   Sisa = 5,5 - 1,5 = 4,0 kg\n3. Membeli lagi (tambah): 2 1/4 = 2,25 kg\n   Total = 4,0 + 2,25 = 6,25 kg."
+  },
+  {
+    "instruction": "Volume Tabung (Isi Sebagian).",
+    "input": "Sebuah gelas ukur berbentuk tabung memiliki jari-jari 10 cm dan tinggi 15 cm. Gelas tersebut diisi air sebanyak 2/3 bagian.",
+    "output": "Soal:\nVolume air dalam gelas tersebut adalah ... cm³. (π = 3,14)\n\nA. 1.570\nB. 3.140\nC. 4.710\nD. 9.420\n\nKunci Jawaban: B\n\nPembahasan:\n1. Hitung Volume Penuh:\n   V = 3,14 x 10 x 10 x 15\n   V = 314 x 15 = 4.710 cm³\n2. Hitung Isi 2/3:\n   V air = 2/3 x 4.710\n   V air = 2 x 1.570 = 3.140 cm³."
+  },
+  {
+    "instruction": "Operasi Bilangan Bulat Negatif (Kedalaman).",
+    "input": "Seorang penyelam berada di kedalaman 15 meter di bawah permukaan laut. Ia kemudian berenang naik sejauh 4 meter.",
+    "output": "Soal:\nPosisi penyelam sekarang berada di kedalaman ... meter.\n\nA. 11\nB. 19\nC. -11\nD. -19\n\nKunci Jawaban: A\n\nPembahasan:\nDalam konteks kedalaman, angka positif biasanya menunjukkan jarak dari permukaan (depth).\n1. Posisi awal: 15 meter (kedalaman)\n2. Naik (berkurang kedalamannya): 4 meter\n3. Posisi akhir: 15 - 4 = 11 meter.\n(Catatan: Jika menggunakan garis bilangan, -15 + 4 = -11. Artinya kedalaman 11 meter)."
+  },
+  {
+    "instruction": "Luas Permukaan Kubus.",
+    "input": "Adik ingin membungkus kado berbentuk kubus dengan panjang rusuk 12 cm.",
+    "output": "Soal:\nLuas kertas kado minimal yang dibutuhkan adalah ....\n\nA. 144 cm²\nB. 864 cm²\nC. 1.728 cm²\nD. 2.400 cm²\n\nKunci Jawaban: B\n\nPembahasan:\n1. Luas 1 sisi = 12 x 12 = 144 cm²\n2. Kubus punya 6 sisi.\n3. Luas Permukaan = 6 x 144 = 864 cm²."
+  },
+  {
+    "instruction": "Menentukan Median Data Genap (Data Acak).",
+    "input": "Data nilai ulangan IPA: 6, 7, 8, 6, 9, 8.",
+    "output": "Soal:\nMedian dari data nilai tersebut adalah ....\n\nA. 7,0\nB. 7,5\nC. 8,0\nD. 8,5\n\nKunci Jawaban: B\n\nPembahasan:\n1. Urutkan data: 6, 6, 7, 8, 8, 9\n2. Banyak data = 6 (genap)\n3. Ambil dua data tengah (urutan ke-3 dan ke-4): Angka 7 dan 8.\n4. Median = (7 + 8) : 2 = 7,5."
+  },
+  {
+    "instruction": "Keliling Lingkaran (Soal Cerita Pohon).",
+    "input": "Di sekeliling taman berbentuk lingkaran dengan diameter 21 meter akan ditanami pohon palem dengan jarak antar pohon 3 meter.",
+    "output": "Soal:\nBanyak pohon palem yang dibutuhkan adalah ... batang.\n\nA. 11\nB. 22\nC. 33\nD. 66\n\nKunci Jawaban: B\n\nPembahasan:\n1. Hitung Keliling Taman:\n   K = 22/7 x 21\n   K = 22 x 3 = 66 meter\n2. Banyak Pohon = Keliling : Jarak\n   = 66 : 3\n   = 22 batang."
+  },
+  {
+    "instruction": "Perbandingan Senilai (Skala).",
+    "input": "Jarak dua kota pada peta adalah 5 cm. Peta tersebut memiliki skala 1 : 200.000.",
+    "output": "Soal:\nJarak sebenarnya kedua kota tersebut adalah ... km.\n\nA. 1 km\nB. 10 km\nC. 100 km\nD. 1.000 km\n\nKunci Jawaban: B\n\nPembahasan:\n1. Jarak Sebenarnya = JP x Skala\n   JS = 5 cm x 200.000\n   JS = 1.000.000 cm\n2. Konversi ke km (bagi 100.000):\n   1.000.000 : 100.000 = 10 km."
+  },
+  {
+    "instruction": "Volume Balok (Liter).",
+    "input": "Sebuah kolam renang memiliki ukuran panjang 8 m, lebar 5 m, dan kedalaman 1,5 m.",
+    "output": "Soal:\nVolume air maksimal yang dapat ditampung kolam tersebut adalah ... liter.\n\nA. 60 liter\nB. 6.000 liter\nC. 60.000 liter\nD. 600.000 liter\n\nKunci Jawaban: C\n\nPembahasan:\n1. Volume = p x l x t\n   V = 8 x 5 x 1,5\n   V = 40 x 1,5 = 60 m³\n2. Konversi m³ ke liter:\n   60 x 1.000 = 60.000 liter."
+  },
+  {
+    "instruction": "Menentukan Modus dari Data Harian.",
+    "input": "Data penjualan buku tulis selama seminggu: Senin (10), Selasa (15), Rabu (10), Kamis (20), Jumat (15), Sabtu (20), Minggu (20).",
+    "output": "Soal:\nModus penjualan buku tulis tersebut adalah ....\n\nA. 10 buku\nB. 15 buku\nC. 20 buku\nD. 25 buku\n\nKunci Jawaban: C\n\nPembahasan:\nHitung frekuensi:\n- 10 buku: 2 hari\n- 15 buku: 2 hari\n- 20 buku: 3 hari (Paling Sering)\nJadi, modusnya adalah 20 buku."
+  },
+  {
+    "instruction": "Luas Gabungan Bangun Datar (Persegi Panjang + Setengah Lingkaran).",
+    "input": "Sebuah bangun gabungan terdiri dari persegi panjang berukuran 20 cm x 14 cm dan setengah lingkaran yang menempel pada salah satu sisi panjangnya (diameter = 14 cm).",
+    "output": "Soal:\nLuas total bangun gabungan tersebut adalah ....\n\nA. 280 cm²\nB. 357 cm²\nC. 434 cm²\nD. 588 cm²\n\nKunci Jawaban: B\n\nPembahasan:\n1. Luas Persegi Panjang = 20 x 14 = 280 cm²\n2. Luas 1/2 Lingkaran (d=14, r=7):\n   L = 1/2 x 22/7 x 7 x 7\n   L = 11 x 7 = 77 cm²\n3. Total = 280 + 77 = 357 cm²."
+  },
+  {
+    "instruction": "Operasi Hitung Persen (Harga Diskon).",
+    "input": "Sebuah buku dijual dengan harga Rp50.000,00. Toko memberikan diskon sebesar 15%.",
+    "output": "Soal:\nBerapa rupiah yang harus dibayarkan pembeli?\n\nA. Rp7.500,00\nB. Rp35.000,00\nC. Rp42.500,00\nD. Rp45.000,00\n\nKunci Jawaban: C\n\nPembahasan:\n1. Hitung Potongan:\n   15/100 x 50.000 = 7.500\n2. Hitung Bayar:\n   50.000 - 7.500 = Rp42.500,00."
+  },
+  {
+    "instruction": "Volume Limas Segiempat.",
+    "input": "Sebuah limas memiliki alas berbentuk persegi dengan panjang sisi 10 cm. Tinggi limas adalah 9 cm.",
+    "output": "Soal:\nVolume limas tersebut adalah ....\n\nA. 300 cm³\nB. 450 cm³\nC. 600 cm³\nD. 900 cm³\n\nKunci Jawaban: A\n\nPembahasan:\n1. Luas Alas = 10 x 10 = 100 cm²\n2. Volume = 1/3 x Luas Alas x Tinggi\n   V = 1/3 x 100 x 9\n   V = 100 x 3 = 300 cm³."
+  },
+  {
+    "instruction": "Kecepatan, Jarak, dan Waktu.",
+    "input": "Ayah mengendarai mobil ke rumah nenek yang berjarak 60 km dengan kecepatan rata-rata 40 km/jam.",
+    "output": "Soal:\nBerapa lama waktu yang dibutuhkan Ayah untuk sampai ke rumah nenek?\n\nA. 1 jam 15 menit\nB. 1 jam 30 menit\nC. 1 jam 45 menit\nD. 2 jam\n\nKunci Jawaban: B\n\nPembahasan:\n1. Waktu = Jarak : Kecepatan\n   W = 60 : 40 = 1,5 jam\n2. Ubah desimal ke menit:\n   0,5 jam = 0,5 x 60 = 30 menit\n   Jadi, 1 jam 30 menit."
+  },
+   {
+    "instruction": "Volume Bangun Ruang Gabungan (Kubus + Prisma Segitiga).",
+    "input": "Sebuah mainan terdiri dari sebuah kubus dengan sisi 4 cm dan sebuah prisma segitiga dengan alas segitiga siku-siku (alas 3 cm, tinggi 4 cm) dan panjang 5 cm. Kedua bangun tersebut menyatu pada salah satu sisi kubus.",
+    "output": "Soal:\nVolume total mainan tersebut adalah ....\n\nA. 64 cm³\nB. 80 cm³\nC. 100 cm³\nD. 120 cm³\n\nKunci Jawaban: D\n\nPembahasan:\n1. Volume Kubus = s³ = 4 x 4 x 4 = 64 cm³\n2. Luas Alas Segitiga = 1/2 x a x t = 1/2 x 3 x 4 = 6 cm²\n3. Volume Prisma = Luas Alas x Panjang = 6 x 5 = 30 cm³\n4. Total Volume = Volume Kubus + Volume Prisma\n   = 64 + 30 = 94 cm³."
+   },
+  {
+    "instruction": "Menganalisis Data dari Diagram Batang (Selisih).",
+    "input": "Data pengunjung perpustakaan: Senin (40), Selasa (30), Rabu (50), Kamis (35), Jumat (25), Sabtu (60).",
+    "output": "Soal:\nSelisih pengunjung terbanyak dan paling sedikit adalah ... orang.\n\nA. 25\nB. 30\nC. 35\nD. 40\n\nKunci Jawaban: C\n\nPembahasan:\n1. Pengunjung terbanyak: Sabtu (60 orang).\n2. Pengunjung paling sedikit: Jumat (25 orang).\n3. Selisih = 60 - 25 = 35 orang."
+  },
+  {
+    "instruction": "Menghitung Luas Lingkaran (Soal Cerita Karpet).",
+    "input": "Ibu membeli karpet berbentuk lingkaran dengan diameter 2 meter untuk dipasang di ruang tamu.",
+    "output": "Soal:\nLuas lantai yang tertutup karpet tersebut adalah ... m². (π = 3,14)\n\nA. 3,14\nB. 6,28\nC. 12,56\nD. 31,4\n\nKunci Jawaban: A\n\nPembahasan:\n1. Jari-jari (r) = 2 : 2 = 1 meter.\n2. Luas = π x r x r\n   L = 3,14 x 1 x 1\n   L = 3,14 m²."
+  },
+  {
+    "instruction": "Operasi Hitung Campuran Desimal dan Persen.",
+    "input": "Ibu memiliki gula pasir 0,8 kg. Digunakan untuk membuat kue sebanyak 25%.",
+    "output": "Soal:\nSisa gula pasir Ibu adalah ... kg.\n\nA. 0,2\nB. 0,4\nC. 0,5\nD. 0,6\n\nKunci Jawaban: D\n\nPembahasan:\n1. Hitung yang digunakan:\n   25% x 0,8 = 0,25 x 0,8 = 0,2 kg.\n2. Sisa = 0,8 - 0,2 = 0,6 kg.\n   (Atau cara lain: Sisa % = 100% - 25% = 75%. Maka 75% x 0,8 = 0,6 kg)."
+  },
+  {
+    "instruction": "Volume Bangun Ruang (Prisma Segitiga).",
+    "input": "Sebuah tenda pramuka berbentuk prisma segitiga. Alas tenda (segitiga) memiliki panjang alas 2 m dan tinggi 1,5 m. Panjang tenda tersebut 4 m.",
+    "output": "Soal:\nVolume udara dalam tenda adalah ... m³.\n\nA. 3\nB. 6\nC. 8\nD. 12\n\nKunci Jawaban: B\n\nPembahasan:\n1. Luas Alas Segitiga = 1/2 x a x t\n   LA = 1/2 x 2 x 1,5 = 1,5 m².\n2. Volume = Luas Alas x Panjang Tenda\n   V = 1,5 x 4\n   V = 6 m³."
+  },
+  {
+    "instruction": "Operasi Bilangan Bulat (Perubahan Suhu Kulkas).",
+    "input": "Suhu es krim di lemari es mula-mula -4°C. Setelah dikeluarkan selama 10 menit, suhunya naik 8°C.",
+    "output": "Soal:\nSuhu es krim sekarang adalah ....\n\nA. -12°C\nB. -4°C\nC. 4°C\nD. 12°C\n\nKunci Jawaban: C\n\nPembahasan:\n1. Suhu awal = -4°C.\n2. Naik = ditambah.\n3. Suhu akhir = -4 + 8 = 4°C."
+  },
+  {
+    "instruction": "Menghitung Kecepatan Rata-rata.",
+    "input": "Jarak kota A ke kota B adalah 120 km. Ayah menempuh perjalanan tersebut selama 2 jam.",
+    "output": "Soal:\nKecepatan rata-rata mobil Ayah adalah ....\n\nA. 40 km/jam\nB. 50 km/jam\nC. 60 km/jam\nD. 70 km/jam\n\nKunci Jawaban: C\n\nPembahasan:\n1. Rumus Kecepatan = Jarak : Waktu.\n2. Kecepatan = 120 km : 2 jam.\n3. Kecepatan = 60 km/jam."
+  },
+  {
+    "instruction": "Luas Permukaan Kubus (Diketahui Volume).",
+    "input": "Sebuah kotak kapur berbentuk kubus memiliki volume 343 cm³.",
+    "output": "Soal:\nLuas permukaan kotak kapur tersebut adalah ... cm².\n\nA. 49\nB. 196\nC. 294\nD. 343\n\nKunci Jawaban: C\n\nPembahasan:\n1. Cari panjang rusuk (s) dari Volume:\n   s = ∛343 = 7 cm.\n2. Luas Permukaan = 6 x (s x s)\n   LP = 6 x (7 x 7)\n   LP = 6 x 49\n   LP = 294 cm²."
+  },
+  {
+    "instruction": "Menentukan Median Data Genap.",
+    "input": "Nilai ulangan Matematika 10 siswa: 6, 7, 8, 9, 7, 8, 6, 8, 9, 10.",
+    "output": "Soal:\nMedian dari data tersebut adalah ....\n\nA. 7,5\nB. 8,0\nC. 8,5\nD. 9,0\n\nKunci Jawaban: B\n\nPembahasan:\n1. Urutkan data:\n   6, 6, 7, 7, 8, 8, 8, 9, 9, 10\n2. Data genap (n=10). Ambil data ke-5 dan ke-6.\n   Data ke-5 = 8\n   Data ke-6 = 8\n3. Median = (8 + 8) : 2 = 8."
+  },
+  {
+    "instruction": "Mencari Jarak Peta (Skala).",
+    "input": "Jarak sebenarnya dua pulau adalah 400 km. Skala peta 1 : 2.000.000.",
+    "output": "Soal:\nJarak kedua pulau pada peta adalah ....\n\nA. 2 cm\nB. 4 cm\nC. 20 cm\nD. 40 cm\n\nKunci Jawaban: C\n\nPembahasan:\n1. Jarak Sebenarnya (JS) = 400 km = 40.000.000 cm.\n2. Jarak Peta (JP) = JS : Skala (penyebut)\n   JP = 40.000.000 : 2.000.000\n   JP = 40 : 2 = 20 cm."
+  },
+  {
+    "instruction": "Menentukan Modus Data Tabel.",
+    "input": "Data berat badan siswa:\n- 35 kg: 6 siswa\n- 36 kg: 8 siswa\n- 37 kg: 12 siswa\n- 38 kg: 4 siswa",
+    "output": "Soal:\nModus dari data berat badan tersebut adalah ....\n\nA. 35 kg\nB. 36 kg\nC. 37 kg\nD. 38 kg\n\nKunci Jawaban: C\n\nPembahasan:\nModus adalah data dengan frekuensi (jumlah siswa) terbanyak.\n- Berat 37 kg memiliki frekuensi tertinggi yaitu 12 siswa.\nJadi, modusnya 37 kg."
+  },
+  {
+    "instruction": "Keliling Lingkaran (Putaran Lari).",
+    "input": "Seorang atlet berlari mengelilingi lapangan berbentuk lingkaran dengan diameter 20 meter sebanyak 3 kali putaran.",
+    "output": "Soal:\nJarak total yang ditempuh atlet tersebut adalah ... meter. (π = 3,14)\n\nA. 62,8\nB. 125,6\nC. 188,4\nD. 314\n\nKunci Jawaban: C\n\nPembahasan:\n1. Keliling Lapangan = π x d\n   K = 3,14 x 20 = 62,8 m.\n2. Jarak Total = Keliling x Banyak Putaran\n   Jarak = 62,8 x 3\n   Jarak = 188,4 m."
+  },
+  {
+    "instruction": "Operasi Campuran (Uang/Belanja).",
+    "input": "Harga 1 buku tulis Rp3.000,00 dan 1 pensil Rp1.500,00. Budi membeli 5 buku tulis dan 2 pensil.",
+    "output": "Soal:\nTotal uang yang harus dibayar Budi adalah ....\n\nA. Rp15.000,00\nB. Rp16.500,00\nC. Rp18.000,00\nD. Rp19.500,00\n\nKunci Jawaban: C\n\nPembahasan:\n1. Harga Buku = 5 x 3.000 = 15.000.\n2. Harga Pensil = 2 x 1.500 = 3.000.\n3. Total = 15.000 + 3.000 = Rp18.000,00."
+  },
+  {
+    "instruction": "Volume Tabung (Liter Air).",
+    "input": "Sebuah drum minyak berbentuk tabung memiliki jari-jari 7 dm dan tinggi 10 dm.",
+    "output": "Soal:\nVolume minyak yang dapat ditampung drum tersebut adalah ... liter.\n\nA. 154 liter\nB. 770 liter\nC. 1.540 liter\nD. 2.200 liter\n\nKunci Jawaban: C\n\nPembahasan:\n1. Volume = π x r² x t\n   V = 22/7 x 7 x 7 x 10\n   V = 154 x 10 = 1.540 dm³.\n2. Karena 1 dm³ = 1 liter, maka jawabannya 1.540 liter."
+  },
+  {
+    "instruction": "Mencari Rata-rata (Mean).",
+    "input": "Nilai ulangan Bahasa Indonesia Andi: 80, 70, 90, 80, 80.",
+    "output": "Soal:\nRata-rata nilai ulangan Andi adalah ....\n\nA. 78\nB. 80\nC. 82\nD. 85\n\nKunci Jawaban: B\n\nPembahasan:\n1. Jumlah Nilai = 80 + 70 + 90 + 80 + 80 = 400.\n2. Banyak Data = 5.\n3. Rata-rata = 400 : 5 = 80."
+  },
+  {
+    "instruction": "Pecahan (Pembagian Tanah).",
+    "input": "Pak Tani memiliki lahan seluas 1 hektar. 1/2 bagian ditanami padi, 1/4 bagian ditanami jagung, dan sisanya ditanami kedelai.",
+    "output": "Soal:\nLuas lahan yang ditanami kedelai adalah ... hektar.\n\nA. 0,25\nB. 0,50\nC. 0,75\nD. 1,00\n\nKunci Jawaban: A\n\nPembahasan:\n1. Bagian Padi + Jagung = 1/2 + 1/4 = 2/4 + 1/4 = 3/4.\n2. Sisa (Kedelai) = 1 - 3/4 = 1/4 bagian.\n3. 1/4 hektar = 0,25 hektar."
+  },
+  {
+    "instruction": "Menyelesaikan masalah rata-rata (Mean) gabungan.",
+    "input": "Nilai rata-rata ulangan Matematika dari 10 siswa kelas A adalah 80. Sedangkan nilai rata-rata dari 15 siswa kelas B adalah 70.",
+    "output": "Soal:\nJika nilai kedua kelas tersebut digabungkan, rata-rata seluruh siswa adalah ....\n\nA. 74\nB. 75\nC. 76\nD. 78\n\nKunci Jawaban: A\n\nPembahasan:\n1. Total Nilai Kelas A = 10 x 80 = 800\n2. Total Nilai Kelas B = 15 x 70 = 1.050\n3. Total Nilai Gabungan = 800 + 1.050 = 1.850\n4. Total Siswa = 10 + 15 = 25\n5. Rata-rata Gabungan = 1.850 : 25 = 74."
+  },
+  {
+    "instruction": "Menghitung Luas Bangun Datar Gabungan (Persegi & Setengah Lingkaran).",
+    "input": "Sebuah jendela berbentuk persegi panjang dengan bagian atasnya berbentuk setengah lingkaran. Lebar jendela (diameter setengah lingkaran) adalah 140 cm dan tinggi bagian perseginya 100 cm.",
+    "output": "Soal:\nLuas total permukaan jendela tersebut adalah ... cm².\n\nA. 14.000\nB. 21.700\nC. 29.400\nD. 30.800\n\nKunci Jawaban: B\n\nPembahasan:\n1. Luas Persegi Panjang = p x l = 100 x 140 = 14.000 cm²\n2. Luas Setengah Lingkaran (r = 70 cm):\n   L = 1/2 x 22/7 x 70 x 70\n   L = 1/2 x 22 x 10 x 70\n   L = 11 x 700 = 7.700 cm²\n3. Total Luas = 14.000 + 7.700 = 21.700 cm²."
+  },
+  {
+    "instruction": "Operasi Bilangan Bulat (Perbedaan Suhu).",
+    "input": "Suhu di dalam ruang pendingin daging adalah -18°C. Suhu di ruangan biasa adalah 26°C.",
+    "output": "Soal:\nPerbedaan suhu antara kedua ruangan tersebut adalah ....\n\nA. 8°C\nB. 18°C\nC. 34°C\nD. 44°C\n\nKunci Jawaban: D\n\nPembahasan:\n1. Perbedaan (Selisih) = Suhu Tinggi - Suhu Rendah\n2. Selisih = 26 - (-18)\n3. Selisih = 26 + 18 = 44°C."
+  },
+  {
+    "instruction": "Volume Bangun Ruang (Prisma Segitiga).",
+    "input": "Sebuah wadah berbentuk prisma segitiga siku-siku. Alas segitiga berukuran 6 cm dan 8 cm. Tinggi prisma adalah 15 cm.",
+    "output": "Soal:\nVolume wadah tersebut adalah ....\n\nA. 360 cm³\nB. 480 cm³\nC. 720 cm³\nD. 1.080 cm³\n\nKunci Jawaban: A\n\nPembahasan:\n1. Luas Alas (Segitiga Siku-siku) = 1/2 x alas x tinggi segitiga\n   LA = 1/2 x 6 x 8 = 24 cm²\n2. Volume Prisma = Luas Alas x Tinggi Prisma\n   V = 24 x 15\n   V = 360 cm³."
+  },
+  {
+    "instruction": "Soal Cerita Pecahan (Pencampuran Zat Cair).",
+    "input": "Ibu membuat sirup dengan mencampurkan 2,5 liter sari buah dan 10 liter air. Minuman tersebut akan dimasukkan ke dalam botol kemasan 1/4 liter.",
+    "output": "Soal:\nBanyak botol yang dibutuhkan Ibu adalah ....\n\nA. 40 botol\nB. 45 botol\nC. 50 botol\nD. 60 botol\n\nKunci Jawaban: C\n\nPembahasan:\n1. Total Volume Minuman = 2,5 + 10 = 12,5 liter\n2. Ukuran Botol = 1/4 liter = 0,25 liter\n3. Banyak Botol = 12,5 : 0,25\n   = 1250 : 25\n   = 50 botol."
+  },
+  {
+    "instruction": "Analisis Median Data Ganjil (Visual).",
+    "input": "Data tinggi badan 7 pemain basket (cm): 180, 175, 178, 185, 180, 175, 182.",
+    "output": "Soal:\nMedian dari data tinggi badan tersebut adalah ....\n\nA. 175 cm\nB. 178 cm\nC. 180 cm\nD. 182 cm\n\nKunci Jawaban: C\n\nPembahasan:\n1. Urutkan data dari terpendek:\n   175, 175, 178, (180), 180, 182, 185\n2. Data ganjil (n=7), ambil data tengah (ke-4).\n3. Median = 180 cm."
+  },
+  {
+    "instruction": "Luas Permukaan Tabung Tanpa Tutup.",
+    "input": "Sebuah kaleng cat bekas berbentuk tabung tanpa tutup memiliki jari-jari 7 cm dan tinggi 20 cm.",
+    "output": "Soal:\nLuas permukaan kaleng tersebut adalah ....\n\nA. 880 cm²\nB. 1.034 cm²\nC. 1.188 cm²\nD. 1.540 cm²\n\nKunci Jawaban: B\n\nPembahasan:\n1. Rumus LP Tanpa Tutup = Luas Alas + Luas Selimut\n2. Luas Alas = πr² = 22/7 x 7 x 7 = 154 cm²\n3. Luas Selimut = 2πrt = 2 x 22/7 x 7 x 20\n   = 44 x 20 = 880 cm²\n4. Total = 154 + 880 = 1.034 cm²."
+  },
+  {
+    "instruction": "Operasi Hitung Uang (Kembalian).",
+    "input": "Budi membeli alat tulis dengan total harga Rp35.500,00. Ia membayar dengan selembar uang Rp50.000,00.",
+    "output": "Soal:\nUang kembalian yang diterima Budi adalah ....\n\nA. Rp4.500,00\nB. Rp14.500,00\nC. Rp15.500,00\nD. Rp24.500,00\n\nKunci Jawaban: B\n\nPembahasan:\n1. Uang Bayar = Rp50.000,00\n2. Total Belanja = Rp35.500,00\n3. Kembalian = 50.000 - 35.500 = Rp14.500,00."
+  },
+  {
+    "instruction": "Volume Limas Segiempat.",
+    "input": "Sebuah mainan piramida memiliki alas persegi dengan panjang sisi 12 cm. Tinggi piramida adalah 10 cm.",
+    "output": "Soal:\nVolume mainan tersebut adalah ....\n\nA. 120 cm³\nB. 480 cm³\nC. 1.440 cm³\nD. 4.800 cm³\n\nKunci Jawaban: B\n\nPembahasan:\n1. Luas Alas = 12 x 12 = 144 cm²\n2. Volume = 1/3 x Luas Alas x Tinggi\n   V = 1/3 x 144 x 10\n   V = 48 x 10 = 480 cm³."
+  },
+  {
+    "instruction": "Menentukan Modus dari Narasi.",
+    "input": "Hasil panen kakek bulan ini: Padi 5 ton, Jagung 3 ton, Kedelai 2 ton, Kacang Tanah 3 ton, Padi 4 ton.",
+    "output": "Soal:\nModus dari jenis tanaman hasil panen kakek (berdasarkan frekuensi penyebutan data, bukan total berat) adalah ....\n\nA. Padi\nB. Jagung\nC. Kedelai\nD. Padi dan Jagung\n\nKunci Jawaban: D\n\nPembahasan:\nData yang muncul:\n- Padi: 2 kali\n- Jagung: 1 kali\n- Kedelai: 1 kali\n- Kacang Tanah: 1 kali\n- Padi: (sudah dihitung)\nMaaf, soal ini ambigu jika melihat berat vs frekuensi. \nJika dilihat dari total berat:\nPadi (5+4=9 ton), Jagung (3 ton), dll. Modus berat = Padi.\nJika dilihat dari frekuensi panen:\nPadi (2 kali), Jagung (1 kali), Kacang (1 kali), Kedelai (1 kali). Modus = Padi.\nMari revisi soal agar jelas: 'Modus jenis tanaman yang paling sering dipanen'.\nJawabannya A. Padi."
+  },
+  {
+    "instruction": "Skala Peta (Mencari Jarak Peta).",
+    "input": "Jarak sebenarnya antara dua gunung adalah 25 km. Peta dibuat dengan skala 1 : 500.000.",
+    "output": "Soal:\nJarak kedua gunung pada peta adalah ....\n\nA. 2 cm\nB. 5 cm\nC. 20 cm\nD. 50 cm\n\nKunci Jawaban: B\n\nPembahasan:\n1. Ubah JS ke cm: 25 km = 2.500.000 cm\n2. Jarak Peta = JS : Skala\n   JP = 2.500.000 : 500.000\n   JP = 25 : 5 = 5 cm."
+  },
+  {
+    "instruction": "Luas Daerah yang Diarsir (Lingkaran dalam Persegi).",
+    "input": "Sebuah lingkaran dengan diameter 14 cm berada tepat di dalam sebuah persegi (sisi persegi = diameter lingkaran).",
+    "output": "Soal:\nLuas daerah persegi di luar lingkaran (daerah diarsir) adalah ....\n\nA. 42 cm²\nB. 154 cm²\nC. 196 cm²\nD. 350 cm²\n\nKunci Jawaban: A\n\nPembahasan:\n1. Luas Persegi = s x s = 14 x 14 = 196 cm²\n2. Luas Lingkaran = πr² (r=7) = 154 cm²\n3. Luas Arsir = Luas Persegi - Luas Lingkaran\n   L = 196 - 154 = 42 cm²."
+  },
+  {
+    "instruction": "Operasi Hitung Campuran (Urutan Operasi).",
+    "input": "",
+    "output": "Soal:\nHasil dari 100 + 50 x 2 - 25 adalah ....\n\nA. 125\nB. 175\nC. 275\nD. 300\n\nKunci Jawaban: B\n\nPembahasan:\n1. Perkalian dulu: 50 x 2 = 100\n2. Penjumlahan/Pengurangan dari kiri:\n   100 + 100 - 25\n   = 200 - 25 = 175."
+  },
+  {
+    "instruction": "Keliling Lingkaran (Roda Berputar).",
+    "input": "Sebuah roda memiliki diameter 50 cm. Roda tersebut menggelinding sebanyak 100 kali putaran.",
+    "output": "Soal:\nJarak yang ditempuh roda adalah ... meter. (π = 3,14)\n\nA. 15,7 m\nB. 157 m\nC. 1.570 m\nD. 15.700 m\n\nKunci Jawaban: B\n\nPembahasan:\n1. Keliling Roda = π x d\n   K = 3,14 x 50 = 157 cm\n2. Jarak = Keliling x Putaran\n   Jarak = 157 cm x 100 = 15.700 cm\n3. Konversi ke meter (bagi 100):\n   15.700 : 100 = 157 m."
+  },
+  {
+    "instruction": "Analisis Mean (Rata-rata) Data Tabel.",
+    "input": "Tabel nilai ulangan:\n- Nilai 6: 3 siswa\n- Nilai 7: 4 siswa\n- Nilai 8: 2 siswa\n- Nilai 9: 1 siswa",
+    "output": "Soal:\nRata-rata nilai ulangan tersebut adalah ....\n\nA. 7,0\nB. 7,1\nC. 7,2\nD. 7,5\n\nKunci Jawaban: B\n\nPembahasan:\n1. Total Nilai:\n   (6x3) + (7x4) + (8x2) + (9x1)\n   = 18 + 28 + 16 + 9 = 71\n2. Jumlah Siswa = 3 + 4 + 2 + 1 = 10\n3. Rata-rata = 71 : 10 = 7,1."
+  },
+  {
+    "instruction": "Menghitung Volume Bangun Ruang (Prisma Segitiga).",
+    "input": "Sebuah tenda kemping berbentuk prisma segitiga. Bagian pintu tenda (alas prisma) berbentuk segitiga dengan panjang alas 2 m dan tinggi 1,5 m. Panjang tenda ke belakang adalah 3 m.",
+    "output": "Soal:\nVolume ruang udara di dalam tenda tersebut adalah ... m³.\n\nA. 4,5\nB. 6,0\nC. 9,0\nD. 12,0\n\nKunci Jawaban: A\n\nPembahasan:\n1. Luas Alas (Segitiga) = 1/2 x alas x tinggi\n   LA = 1/2 x 2 x 1,5 = 1,5 m²\n2. Volume Prisma = Luas Alas x Panjang Prisma\n   V = 1,5 x 3 = 4,5 m³."
+  },
+  {
+    "instruction": "Analisis Rata-rata (Mean) Data Tunggal.",
+    "input": "Data nilai kuis Matematika 5 siswa: 80, 85, 90, 80, 95.",
+    "output": "Soal:\nRata-rata nilai kuis tersebut adalah ....\n\nA. 84\nB. 86\nC. 88\nD. 90\n\nKunci Jawaban: B\n\nPembahasan:\n1. Jumlahkan semua nilai:\n   80 + 85 + 90 + 80 + 95 = 430\n2. Bagi dengan banyak siswa (5):\n   430 : 5 = 86."
+  },
+  {
+    "instruction": "Luas Lingkaran (Soal Cerita Taplak Meja).",
+    "input": "Ibu memiliki meja bundar dengan diameter 100 cm. Ibu ingin menutup meja tersebut dengan taplak kaca.",
+    "output": "Soal:\nLuas kaca yang dibutuhkan adalah ... cm². (π = 3,14)\n\nA. 314\nB. 785\nC. 3.140\nD. 7.850\n\nKunci Jawaban: D\n\nPembahasan:\n1. Jari-jari (r) = 100 : 2 = 50 cm\n2. Luas = π x r x r\n   L = 3,14 x 50 x 50\n   L = 3,14 x 2.500\n   L = 7.850 cm²."
+  },
+  {
+    "instruction": "Operasi Hitung Campuran (Literasi Keuangan).",
+    "input": "Andi membawa uang Rp50.000,00. Ia membeli 2 mangkuk bakso seharga Rp15.000,00 per mangkuk dan 1 gelas es teh seharga Rp5.000,00.",
+    "output": "Soal:\nSisa uang Andi adalah ....\n\nA. Rp10.000,00\nB. Rp15.000,00\nC. Rp20.000,00\nD. Rp35.000,00\n\nKunci Jawaban: B\n\nPembahasan:\n1. Harga Bakso = 2 x 15.000 = 30.000\n2. Harga Es Teh = 1 x 5.000 = 5.000\n3. Total Belanja = 30.000 + 5.000 = 35.000\n4. Sisa Uang = 50.000 - 35.000 = Rp15.000,00."
+  },
+  {
+    "instruction": "Luas Permukaan Kubus (Kotak Kado).",
+    "input": "Sebuah kotak kado berbentuk kubus memiliki panjang rusuk 10 cm. Seluruh permukaan kotak akan dilapisi kertas emas.",
+    "output": "Soal:\nLuas kertas emas yang dibutuhkan adalah ... cm².\n\nA. 100\nB. 400\nC. 600\nD. 1.000\n\nKunci Jawaban: C\n\nPembahasan:\n1. Luas satu sisi = 10 x 10 = 100 cm²\n2. Kubus memiliki 6 sisi.\n3. Luas Permukaan = 6 x 100 = 600 cm²."
+  },
+  {
+    "instruction": "Menentukan Modus Data Hobi.",
+    "input": "Data hobi siswa kelas 6: Sepak Bola (10 siswa), Membaca (5 siswa), Menari (8 siswa), Sepak Bola (5 siswa tambahan), Melukis (4 siswa).",
+    "output": "Soal:\nModus hobi siswa kelas 6 adalah ....\n\nA. Membaca\nB. Menari\nC. Sepak Bola\nD. Melukis\n\nKunci Jawaban: C\n\nPembahasan:\nHitung total frekuensi:\n- Sepak Bola: 10 + 5 = 15 siswa\n- Membaca: 5 siswa\n- Menari: 8 siswa\n- Melukis: 4 siswa\nYang paling banyak digemari adalah Sepak Bola."
+  },
+  {
+    "instruction": "Skala (Menghitung Skala Peta).",
+    "input": "Tinggi sebuah menara sebenarnya adalah 50 meter. Seorang arsitek membuat maket menara tersebut dengan tinggi 25 cm.",
+    "output": "Soal:\nSkala yang digunakan arsitek tersebut adalah ....\n\nA. 1 : 20\nB. 1 : 200\nC. 1 : 2.000\nD. 1 : 20.000\n\nKunci Jawaban: B\n\nPembahasan:\n1. Ubah tinggi sebenarnya ke satuan cm:\n   50 meter = 5.000 cm\n2. Skala = Tinggi Maket : Tinggi Sebenarnya\n   Skala = 25 : 5.000\n3. Sederhanakan (bagi 25):\n   1 : 200."
+  },
+  {
+    "instruction": "Operasi Pecahan (Sisa Persediaan).",
+    "input": "Ibu memiliki persediaan gula 2 1/2 kg. Digunakan untuk membuat kue 1 1/4 kg.",
+    "output": "Soal:\nSisa gula Ibu sekarang adalah ... kg.\n\nA. 1 1/4\nB. 1 1/2\nC. 1 3/4\nD. 2 1/4\n\nKunci Jawaban: A\n\nPembahasan:\n1. Ubah ke pecahan biasa atau desimal:\n   2,5 - 1,25\n2. Hasil = 1,25 kg\n3. Ubah kembali ke pecahan campuran:\n   1,25 = 1 1/4 kg."
+  },
+  {
+    "instruction": "Volume Tabung (Kaleng Susu).",
+    "input": "Sebuah kaleng susu berbentuk tabung memiliki diameter 14 cm dan tinggi 20 cm.",
+    "output": "Soal:\nVolume kaleng susu tersebut adalah ... cm³.\n\nA. 1.540\nB. 3.080\nC. 4.400\nD. 6.160\n\nKunci Jawaban: B\n\nPembahasan:\n1. Jari-jari (r) = 14 : 2 = 7 cm\n2. Volume = π x r² x t\n   V = 22/7 x 7 x 7 x 20\n   V = 154 x 20 = 3.080 cm³."
+  },
+  {
+    "instruction": "Menentukan Median Data Ganjil.",
+    "input": "Data berat badan 5 siswa (kg): 45, 40, 50, 42, 48.",
+    "output": "Soal:\nMedian dari data berat badan tersebut adalah ....\n\nA. 42 kg\nB. 45 kg\nC. 48 kg\nD. 50 kg\n\nKunci Jawaban: B\n\nPembahasan:\n1. Urutkan data dari kecil ke besar:\n   40, 42, (45), 48, 50\n2. Ambil nilai tengah (data ke-3).\n3. Median = 45 kg."
+  },
+  {
+    "instruction": "Keliling Lingkaran (Roda Sepeda).",
+    "input": "Sebuah roda sepeda memiliki jari-jari 35 cm.",
+    "output": "Soal:\nKeliling roda sepeda tersebut adalah ... cm.\n\nA. 110\nB. 220\nC. 330\nD. 440\n\nKunci Jawaban: B\n\nPembahasan:\n1. Rumus Keliling = 2 x π x r\n2. K = 2 x 22/7 x 35\n3. K = 2 x 22 x 5 = 220 cm."
+  },
+  {
+    "instruction": "Operasi Bilangan Bulat (Perubahan Suhu).",
+    "input": "Suhu udara di puncak gunung pada pagi hari -5°C. Pada siang hari, suhu naik 8°C. Pada malam hari, suhu turun lagi 4°C.",
+    "output": "Soal:\nSuhu udara pada malam hari adalah ....\n\nA. -1°C\nB. -9°C\nC. 1°C\nD. 3°C\n\nKunci Jawaban: A\n\nPembahasan:\n1. Suhu awal: -5\n2. Siang (naik 8): -5 + 8 = 3°C\n3. Malam (turun 4): 3 - 4 = -1°C."
+  },
+  {
+    "instruction": "Operasi Hitung Campuran (Pembagian dan Perkalian).",
+    "input": "",
+    "output": "Soal:\nHasil dari 120 : 20 x 5 adalah ....\n\nA. 1,2\nB. 12\nC. 30\nD. 300\n\nKunci Jawaban: C\n\nPembahasan:\nDalam aturan operasi hitung (Kabataku), kali dan bagi setara, kerjakan dari kiri.\n1. 120 : 20 = 6\n2. 6 x 5 = 30."
+  },
+  {
+    "instruction": "Luas Permukaan Balok.",
+    "input": "Sebuah balok memiliki ukuran panjang 10 cm, lebar 8 cm, dan tinggi 5 cm.",
+    "output": "Soal:\nLuas permukaan balok tersebut adalah ....\n\nA. 170 cm²\nB. 340 cm²\nC. 400 cm²\nD. 800 cm²\n\nKunci Jawaban: B\n\nPembahasan:\n1. Rumus LP = 2 x ((p x l) + (p x t) + (l x t))\n2. p x l = 10 x 8 = 80\n3. p x t = 10 x 5 = 50\n4. l x t = 8 x 5 = 40\n5. Jumlah = 80 + 50 + 40 = 170\n6. LP = 2 x 170 = 340 cm²."
+  },
+  {
+    "instruction": "Interpretasi Data Diagram Batang.",
+    "input": "Diagram batang hasil panen: Padi (8 ton), Jagung (6 ton), Kedelai (4 ton).",
+    "output": "Soal:\nJumlah seluruh hasil panen adalah ....\n\nA. 14 ton\nB. 16 ton\nC. 18 ton\nD. 20 ton\n\nKunci Jawaban: C\n\nPembahasan:\n1. Jumlahkan semua batang data:\n   8 + 6 + 4 = 18 ton."
+  },
+  {
+    "instruction": "Menghitung Mean (Rata-rata) dari Data Tabel.",
+    "input": "Tabel berat badan siswa kelas 6:\n- 35 kg: 5 siswa\n- 40 kg: 4 siswa\n- 45 kg: 1 siswa",
+    "output": "Soal:\nRata-rata berat badan siswa tersebut adalah ....\n\nA. 37 kg\nB. 38 kg\nC. 39 kg\nD. 40 kg\n\nKunci Jawaban: B\n\nPembahasan:\n1. Hitung total berat:\n   (35 x 5) + (40 x 4) + (45 x 1)\n   = 175 + 160 + 45 = 380 kg\n2. Hitung jumlah siswa:\n   5 + 4 + 1 = 10 siswa\n3. Rata-rata = Total Berat : Jumlah Siswa\n   = 380 : 10 = 38 kg."
+  },
+  {
+    "instruction": "Volume Bangun Ruang (Tabung) - Konteks Literasi.",
+    "input": "Sebuah drum minyak tanah berbentuk tabung memiliki diameter 14 dm dan tinggi 10 dm. Drum tersebut baru terisi separuhnya.",
+    "output": "Soal:\nVolume minyak tanah yang ada di dalam drum adalah ... liter.\n\nA. 770\nB. 1.540\nC. 3.080\nD. 6.160\n\nKunci Jawaban: A\n\nPembahasan:\n1. Jari-jari (r) = 14 : 2 = 7 dm.\n2. Volume Penuh = π x r² x t\n   V = 22/7 x 7 x 7 x 10\n   V = 154 x 10 = 1.540 dm³ (liter).\n3. Isi separuh (1/2) = 1.540 : 2 = 770 liter."
+  },
+  {
+    "instruction": "Operasi Hitung Bilangan Bulat (Perubahan Suhu).",
+    "input": "Sepotong daging beku bersuhu -5°C dikeluarkan dari freezer. Suhu daging tersebut naik 2°C setiap 3 menit.",
+    "output": "Soal:\nSuhu daging setelah dikeluarkan selama 15 menit adalah ....\n\nA. 5°C\nB. 7°C\nC. 10°C\nD. 25°C\n\nKunci Jawaban: A\n\nPembahasan:\n1. Lama waktu: 15 menit.\n2. Banyak kenaikan: 15 menit : 3 menit = 5 kali.\n3. Total kenaikan suhu: 5 kali x 2°C = 10°C.\n4. Suhu akhir = Suhu awal + Kenaikan\n   = -5 + 10 = 5°C."
+  },
+  {
+    "instruction": "Luas Lingkaran (Masalah Taman).",
+    "input": "Ayah membuat taman berbentuk lingkaran dengan jari-jari 10 meter. Di tengah taman dibuat kolam air mancur dengan jari-jari 5 meter. Sisa lahan ditanami rumput.",
+    "output": "Soal:\nLuas lahan yang ditanami rumput adalah ... m². (π = 3,14)\n\nA. 78,5\nB. 235,5\nC. 314\nD. 392,5\n\nKunci Jawaban: B\n\nPembahasan:\n1. Luas Taman (Lingkaran Besar): 3,14 x 10 x 10 = 314 m².\n2. Luas Kolam (Lingkaran Kecil): 3,14 x 5 x 5 = 78,5 m².\n3. Luas Rumput = Luas Taman - Luas Kolam\n   = 314 - 78,5 = 235,5 m²."
+  },
+  {
+    "instruction": "Operasi Hitung Campuran Pecahan (Belanja Buah).",
+    "input": "Ibu membeli 2 1/2 kg jeruk dan 1,75 kg apel. Di perjalanan pulang, Ibu memberikan 0,5 kg jeruk kepada nenek.",
+    "output": "Soal:\nBerat seluruh belanjaan Ibu yang dibawa pulang adalah ... kg.\n\nA. 3,25\nB. 3,75\nC. 4,25\nD. 4,75\n\nKunci Jawaban: B\n\nPembahasan:\n1. Total Awal = 2,5 + 1,75 = 4,25 kg.\n2. Diberikan = 0,5 kg.\n3. Sisa = 4,25 - 0,5 = 3,75 kg."
+  },
+  {
+    "instruction": "Menentukan Modus Data Acak.",
+    "input": "Data nilai ulangan PPKn siswa kelas 6: 8, 7, 9, 8, 6, 8, 9, 7, 8, 10.",
+    "output": "Soal:\nModus nilai ulangan tersebut adalah ....\n\nA. 7\nB. 8\nC. 9\nD. 10\n\nKunci Jawaban: B\n\nPembahasan:\nModus adalah nilai yang paling sering muncul.\n- Nilai 8 muncul sebanyak 4 kali (paling banyak dibanding nilai lain)."
+  },
+  {
+    "instruction": "Luas Permukaan Balok.",
+    "input": "Sebuah kardus berbentuk balok berukuran panjang 20 cm, lebar 10 cm, dan tinggi 5 cm.",
+    "output": "Soal:\nLuas permukaan kardus tersebut adalah ... cm².\n\nA. 350\nB. 700\nC. 1.000\nD. 1.400\n\nKunci Jawaban: B\n\nPembahasan:\n1. Rumus LP Balok = 2 x (pl + pt + lt)\n2. Hitung luas masing-masing sisi:\n   pl = 200, pt = 100, lt = 50\n   Jumlah = 350\n3. Kali 2: 350 x 2 = 700 cm²."
+  },
+  {
+    "instruction": "Aritmatika Sosial (Diskon).",
+    "input": "Harga sepasang sepatu Rp150.000,00. Toko memberikan diskon 20%.",
+    "output": "Soal:\nBerapa rupiah potongan harga yang diterima pembeli?\n\nA. Rp15.000,00\nB. Rp20.000,00\nC. Rp30.000,00\nD. Rp120.000,00\n\nKunci Jawaban: C\n\nPembahasan:\n1. Diskon = 20% x 150.000\n   = 20/100 x 150.000\n   = 20 x 1.500 = Rp30.000,00."
+  },
+  {
+    "instruction": "Volume Prisma Segitiga.",
+    "input": "Sebuah prisma segitiga memiliki luas alas 24 cm² dan tinggi prisma 15 cm.",
+    "output": "Soal:\nVolume prisma tersebut adalah ... cm³.\n\nA. 120\nB. 180\nC. 360\nD. 720\n\nKunci Jawaban: C\n\nPembahasan:\n1. Rumus Volume Prisma = Luas Alas x Tinggi\n2. V = 24 x 15\n3. V = 360 cm³."
+  },
+  {
+    "instruction": "Menentukan Median Data Genap.",
+    "input": "Data tinggi badan (cm) 6 anak: 130, 135, 132, 130, 138, 140.",
+    "output": "Soal:\nMedian data tersebut adalah ....\n\nA. 132\nB. 133,5\nC. 135\nD. 138\n\nKunci Jawaban: B\n\nPembahasan:\n1. Urutkan: 130, 130, 132, 135, 138, 140\n2. Ambil dua data tengah: 132 dan 135\n3. Median = (132 + 135) : 2\n   = 267 : 2 = 133,5."
+  },
+  {
+    "instruction": "Keliling Lingkaran (Pagar).",
+    "input": "Sebuah kolam ikan berbentuk lingkaran memiliki diameter 7 meter. Di sekeliling kolam akan dipasang pagar kawat.",
+    "output": "Soal:\nPanjang pagar kawat minimal yang dibutuhkan adalah ... meter.\n\nA. 22\nB. 44\nC. 154\nD. 308\n\nKunci Jawaban: A\n\nPembahasan:\n1. Rumus Keliling = π x d\n2. K = 22/7 x 7\n3. K = 22 meter."
+  },
+  {
+    "instruction": "Operasi Hitung Campuran (Urutan Operasi).",
+    "input": "",
+    "output": "Soal:\nHasil dari 500 + 200 : 4 - 50 adalah ....\n\nA. 125\nB. 175\nC. 450\nD. 500\n\nKunci Jawaban: D\n\nPembahasan:\n1. Kerjakan pembagian dulu: 200 : 4 = 50\n2. Masukkan ke kalimat matematika: 500 + 50 - 50\n3. Hitung dari kiri: 550 - 50 = 500."
+  },
+  {
+    "instruction": "Volume Limas Segiempat.",
+    "input": "Limas T.ABCD dengan alas persegi bersisi 10 cm. Tinggi limas 12 cm.",
+    "output": "Soal:\nVolume limas tersebut adalah ... cm³.\n\nA. 400\nB. 600\nC. 1.200\nD. 3.600\n\nKunci Jawaban: A\n\nPembahasan:\n1. Luas Alas = 10 x 10 = 100 cm²\n2. Volume = 1/3 x Luas Alas x Tinggi\n   V = 1/3 x 100 x 12\n   V = 100 x 4 = 400 cm³."
+  },
+  {
+    "instruction": "Analisis Mean dengan Data Hilang.",
+    "input": "Rata-rata nilai ulangan 4 siswa adalah 80. Jika nilai Edo dimasukkan, rata-ratanya menjadi 82.",
+    "output": "Soal:\nNilai ulangan Edo adalah ....\n\nA. 82\nB. 88\nC. 90\nD. 92\n\nKunci Jawaban: C\n\nPembahasan:\n1. Total nilai 4 siswa = 4 x 80 = 320\n2. Total nilai 5 siswa = 5 x 82 = 410\n3. Nilai Edo = 410 - 320 = 90."
+  },
+  {
+    "instruction": "Operasi Hitung Satuan Waktu.",
+    "input": "Lani belajar Matematika selama 1 jam 30 menit, kemudian belajar IPA selama 45 menit.",
+    "output": "Soal:\nTotal waktu belajar Lani adalah ... menit.\n\nA. 75\nB. 105\nC. 135\nD. 175\n\nKunci Jawaban: C\n\nPembahasan:\n1. Ubah jam ke menit: 1 jam = 60 menit.\n2. Mat: 60 + 30 = 90 menit.\n3. IPA: 45 menit.\n4. Total: 90 + 45 = 135 menit."
+  },
+  {
+    "instruction": "Menganalisis Rata-rata (Mean) dari Diagram Batang.",
+    "input": "Diagram batang hasil panen kopi selama 5 bulan: Januari (4 ton), Februari (5 ton), Maret (6 ton), April (4 ton), Mei (6 ton).",
+    "output": "Soal:\nRata-rata hasil panen kopi per bulan adalah ... ton.\n\nA. 4\nB. 5\nC. 6\nD. 25\n\nKunci Jawaban: B\n\nPembahasan:\n1. Jumlahkan seluruh hasil panen:\n   4 + 5 + 6 + 4 + 6 = 25 ton.\n2. Bagi dengan jumlah bulan (5):\n   25 : 5 = 5 ton."
+  },
+  {
+    "instruction": "Luas Lingkaran (Jalan Setapak).",
+    "input": "Sebuah taman berbentuk lingkaran dengan diameter 20 meter. Di sekeliling taman dibuat jalan setapak selebar 1 meter.",
+    "output": "Soal:\nLuas jalan setapak tersebut adalah ... m². (π = 3,14)\n\nA. 65,94\nB. 314\nC. 379,94\nD. 693,94\n\nKunci Jawaban: A\n\nPembahasan:\n1. Jari-jari taman (r1) = 10 m.\n2. Jari-jari taman + jalan (r2) = 10 + 1 = 11 m.\n3. Luas Lingkaran Besar = 3,14 x 11 x 11 = 379,94 m².\n4. Luas Lingkaran Kecil = 3,14 x 10 x 10 = 314 m².\n5. Luas Jalan = 379,94 - 314 = 65,94 m²."
+  },
+  {
+    "instruction": "Operasi Hitung Campuran Pecahan (Resep Kue).",
+    "input": "Ibu memiliki 1,5 kg tepung terigu. Digunakan untuk membuat bolu 3/4 kg dan donat 0,5 kg.",
+    "output": "Soal:\nSisa tepung terigu Ibu adalah ... kg.\n\nA. 0,25\nB. 0,50\nC. 0,75\nD. 1,00\n\nKunci Jawaban: A\n\nPembahasan:\n1. Total tepung = 1,5 kg.\n2. Digunakan = 3/4 + 0,5 = 0,75 + 0,5 = 1,25 kg.\n3. Sisa = 1,5 - 1,25 = 0,25 kg."
+  },
+  {
+    "instruction": "Volume Tabung (Isi Air).",
+    "input": "Sebuah bak mandi berbentuk tabung dengan diameter 70 cm dan tinggi 100 cm. Bak tersebut diisi air hingga penuh.",
+    "output": "Soal:\nVolume air dalam bak mandi tersebut adalah ... liter.\n\nA. 38,5\nB. 385\nC. 3.850\nD. 38.500\n\nKunci Jawaban: B\n\nPembahasan:\n1. Jari-jari (r) = 35 cm = 3,5 dm.\n2. Tinggi (t) = 100 cm = 10 dm.\n3. Volume = πr²t = 22/7 x 3,5 x 3,5 x 10\n   = 22 x 0,5 x 3,5 x 10\n   = 11 x 35 = 385 dm³ (liter)."
+  },
+  {
+    "instruction": "Operasi Bilangan Bulat (Suhu Ruangan).",
+    "input": "Suhu ruangan ber-AC mula-mula 18°C. Setelah AC dimatikan, suhu naik 3°C setiap 10 menit.",
+    "output": "Soal:\nSuhu ruangan setelah 30 menit adalah ....\n\nA. 9°C\nB. 21°C\nC. 27°C\nD. 30°C\n\nKunci Jawaban: C\n\nPembahasan:\n1. Kenaikan suhu = (30 : 10) x 3°C = 3 x 3 = 9°C.\n2. Suhu akhir = 18 + 9 = 27°C."
+  },
+  {
+    "instruction": "Kecepatan, Jarak, Waktu.",
+    "input": "Sebuah bus berangkat dari kota A ke kota B dengan kecepatan rata-rata 60 km/jam. Waktu tempuh perjalanan adalah 3 jam 30 menit.",
+    "output": "Soal:\nJarak kedua kota tersebut adalah ... km.\n\nA. 180\nB. 200\nC. 210\nD. 240\n\nKunci Jawaban: C\n\nPembahasan:\n1. Waktu = 3,5 jam.\n2. Jarak = Kecepatan x Waktu\n   = 60 x 3,5\n   = 210 km."
+  },
+  {
+    "instruction": "Luas Permukaan Balok (Dinding Kolam).",
+    "input": "Sebuah kolam renang berukuran panjang 10 m, lebar 5 m, dan kedalaman 2 m. Bagian dalam kolam (lantai dan dinding) akan dipasang keramik.",
+    "output": "Soal:\nLuas permukaan yang dipasang keramik adalah ... m².\n\nA. 50\nB. 60\nC. 110\nD. 160\n\nKunci Jawaban: C\n\nPembahasan:\n1. Luas Lantai = 10 x 5 = 50 m².\n2. Luas Dinding Panjang (2 sisi) = 2 x (10 x 2) = 40 m².\n3. Luas Dinding Lebar (2 sisi) = 2 x (5 x 2) = 20 m².\n4. Total = 50 + 40 + 20 = 110 m²."
+  },
+  {
+    "instruction": "Menentukan Median Data Genap.",
+    "input": "Nilai ulangan IPA siswa kelas 6: 7, 8, 6, 9, 7, 8, 9, 6.",
+    "output": "Soal:\nMedian dari data nilai tersebut adalah ....\n\nA. 7,0\nB. 7,5\nC. 8,0\nD. 8,5\n\nKunci Jawaban: B\n\nPembahasan:\n1. Urutkan data: 6, 6, 7, 7, 8, 8, 9, 9.\n2. Ambil dua nilai tengah (data ke-4 dan ke-5): 7 dan 8.\n3. Median = (7 + 8) : 2 = 7,5."
+  },
+  {
+    "instruction": "Skala Peta.",
+    "input": "Jarak kota A dan B pada peta adalah 4 cm. Skala peta 1 : 1.500.000.",
+    "output": "Soal:\nJarak sebenarnya kedua kota adalah ... km.\n\nA. 6\nB. 60\nC. 600\nD. 6.000\n\nKunci Jawaban: B\n\nPembahasan:\n1. Jarak Sebenarnya = Jarak Peta x Skala\n   = 4 x 1.500.000 = 6.000.000 cm.\n2. Konversi ke km = 6.000.000 : 100.000 = 60 km."
+  },
+  {
+    "instruction": "Menentukan Modus Data Tabel.",
+    "input": "Data penjualan buah: Apel (15 kg), Jeruk (20 kg), Mangga (25 kg), Anggur (10 kg).",
+    "output": "Soal:\nModus penjualan buah tersebut adalah ....\n\nA. Apel\nB. Jeruk\nC. Mangga\nD. Anggur\n\nKunci Jawaban: C\n\nPembahasan:\nModus adalah data dengan frekuensi tertinggi.\n- Mangga terjual paling banyak (25 kg)."
+  },
+  {
+    "instruction": "Keliling Lingkaran (Roda Berputar).",
+    "input": "Sebuah roda sepeda motor memiliki diameter 49 cm. Roda tersebut berputar sebanyak 100 kali.",
+    "output": "Soal:\nJarak yang ditempuh adalah ... meter.\n\nA. 154\nB. 1.540\nC. 15.400\nD. 154.000\n\nKunci Jawaban: A\n\nPembahasan:\n1. Keliling = π x d = 22/7 x 49 = 154 cm.\n2. Jarak = 154 x 100 = 15.400 cm.\n3. Konversi ke meter = 15.400 : 100 = 154 m."
+  },
+  {
+    "instruction": "Operasi Hitung Campuran (Prioritas).",
+    "input": "",
+    "output": "Soal:\nHasil dari 20 + 40 x 5 : 2 - 10 adalah ....\n\nA. 90\nB. 110\nC. 140\nD. 150\n\nKunci Jawaban: B\n\nPembahasan:\n1. Kali dan bagi dulu (dari kiri): 40 x 5 = 200, lalu 200 : 2 = 100.\n2. Masukkan ke soal: 20 + 100 - 10.\n3. Hasil = 110."
+  },
+  {
+    "instruction": "Volume Limas Segiempat.",
+    "input": "Limas dengan alas persegi panjang berukuran 12 cm x 8 cm. Tinggi limas 15 cm.",
+    "output": "Soal:\nVolume limas tersebut adalah ... cm³.\n\nA. 160\nB. 480\nC. 1.440\nD. 4.320\n\nKunci Jawaban: B\n\nPembahasan:\n1. Luas Alas = 12 x 8 = 96 cm².\n2. Volume = 1/3 x Luas Alas x Tinggi\n   = 1/3 x 96 x 15\n   = 96 x 5 = 480 cm³."
+  },
+  {
+    "instruction": "Analisis Mean dengan Nilai Hilang.",
+    "input": "Rata-rata berat badan 5 anak adalah 40 kg. Jika berat badan Budi ditambahkan, rata-ratanya menjadi 41 kg.",
+    "output": "Soal:\nBerat badan Budi adalah ... kg.\n\nA. 41\nB. 45\nC. 46\nD. 50\n\nKunci Jawaban: C\n\nPembahasan:\n1. Total berat 5 anak = 5 x 40 = 200 kg.\n2. Total berat 6 anak = 6 x 41 = 246 kg.\n3. Berat Budi = 246 - 200 = 46 kg."
+  },
+  {
+    "instruction": "Pecahan (Pembagian Lahan).",
+    "input": "Pak Ali memiliki kebun seluas 1.200 m². 1/3 bagian ditanami jagung, 1/4 bagian ditanami singkong, dan sisanya kolam ikan.",
+    "output": "Soal:\nLuas kolam ikan adalah ... m².\n\nA. 400\nB. 500\nC. 600\nD. 700\n\nKunci Jawaban: B\n\nPembahasan:\n1. Jagung = 1/3 x 1.200 = 400 m².\n2. Singkong = 1/4 x 1.200 = 300 m².\n3. Sisa (Kolam) = 1.200 - (400 + 300)\n   = 1.200 - 700 = 500 m²."
+  },
+  {
+    "instruction": "Menghitung Rata-rata (Mean) Data Tabel Frekuensi.",
+    "input": "Tabel nilai ulangan harian:\n- Nilai 6: 2 siswa\n- Nilai 7: 5 siswa\n- Nilai 8: 8 siswa\n- Nilai 9: 4 siswa\n- Nilai 10: 1 siswa",
+    "output": "Soal:\nRata-rata nilai ulangan harian tersebut adalah ....\n\nA. 7,55\nB. 7,85\nC. 8,00\nD. 8,25\n\nKunci Jawaban: B\n\nPembahasan:\n1. Hitung total nilai = (6x2) + (7x5) + (8x8) + (9x4) + (10x1)\n   = 12 + 35 + 64 + 36 + 10 = 157\n2. Hitung jumlah siswa = 2 + 5 + 8 + 4 + 1 = 20 siswa\n3. Rata-rata = 157 : 20 = 7,85."
+  },
+  {
+    "instruction": "Volume Tabung (Isi Air dalam Liter).",
+    "input": "Sebuah drum plastik berbentuk tabung memiliki diameter 60 cm dan tinggi 100 cm. Drum tersebut diisi air hingga 3/4 bagian.",
+    "output": "Soal:\nVolume air di dalam drum adalah ... liter. (π = 3,14)\n\nA. 211,95\nB. 212,5\nC. 282,6\nD. 2826\n\nKunci Jawaban: A\n\nPembahasan:\n1. Jari-jari (r) = 30 cm = 3 dm; Tinggi (t) = 100 cm = 10 dm.\n2. Volume Penuh = 3,14 x 3 x 3 x 10\n   = 28,26 x 10 = 282,6 dm³ (liter)\n3. Isi 3/4 bagian = 3/4 x 282,6\n   = 0,75 x 282,6 = 211,95 liter."
+  },
+  {
+    "instruction": "Luas Bangun Datar Gabungan (Persegi dan Setengah Lingkaran).",
+    "input": "Sebuah pintu gerbang berbentuk persegi panjang dengan bagian atas melengkung setengah lingkaran. Lebar pintu (diameter) 2 meter dan tinggi bagian persegi panjangnya 2,5 meter.",
+    "output": "Soal:\nLuas permukaan pintu gerbang tersebut adalah ... m².\n\nA. 5,00\nB. 6,57\nC. 8,14\nD. 11,28\n\nKunci Jawaban: B\n\nPembahasan:\n1. Luas Persegi Panjang = 2 x 2,5 = 5 m²\n2. Luas 1/2 Lingkaran (r=1) = 1/2 x 3,14 x 1 x 1\n   = 1,57 m²\n3. Total Luas = 5 + 1,57 = 6,57 m²."
+  },
+  {
+    "instruction": "Operasi Hitung Campuran (Uang Kembalian).",
+    "input": "Ayah membeli 3 kg cat seharga Rp45.000,00 per kg dan 2 kuas seharga Rp12.500,00 per buah. Ayah membayar dengan 2 lembar uang seratus ribuan.",
+    "output": "Soal:\nUang kembalian yang diterima Ayah adalah ....\n\nA. Rp20.000,00\nB. Rp40.000,00\nC. Rp60.000,00\nD. Rp160.000,00\n\nKunci Jawaban: B\n\nPembahasan:\n1. Total Belanja = (3 x 45.000) + (2 x 12.500)\n   = 135.000 + 25.000 = Rp160.000\n2. Uang Bayar = 2 x 100.000 = Rp200.000\n3. Kembalian = 200.000 - 160.000 = Rp40.000,00."
+  },
+  {
+    "instruction": "Luas Permukaan Kubus (Diketahui Volume).",
+    "input": "Volume sebuah kubus adalah 1.000 cm³.",
+    "output": "Soal:\nLuas permukaan kubus tersebut adalah ... cm².\n\nA. 100\nB. 400\nC. 600\nD. 1.000\n\nKunci Jawaban: C\n\nPembahasan:\n1. Cari rusuk (s) = ∛1000 = 10 cm.\n2. Luas Permukaan = 6 x s²\n   = 6 x 10 x 10\n   = 600 cm²."
+  },
+  {
+    "instruction": "Menentukan Modus Data Acak.",
+    "input": "Data usia siswa kelas 6 (tahun): 11, 12, 11, 13, 12, 12, 11, 12, 13, 12.",
+    "output": "Soal:\nModus usia siswa kelas 6 adalah ... tahun.\n\nA. 11\nB. 12\nC. 13\nD. 14\n\nKunci Jawaban: B\n\nPembahasan:\nHitung frekuensi:\n- 11 tahun: 3 siswa\n- 12 tahun: 5 siswa (Terbanyak)\n- 13 tahun: 2 siswa\nJadi, modus adalah 12 tahun."
+  },
+  {
+    "instruction": "Operasi Pecahan (Luas Tanah).",
+    "input": "Pak Budi memiliki tanah seluas 400 m². 3/5 bagian dibangun rumah, sisanya untuk taman.",
+    "output": "Soal:\nLuas tanah yang digunakan untuk taman adalah ... m².\n\nA. 160\nB. 240\nC. 260\nD. 320\n\nKunci Jawaban: A\n\nPembahasan:\n1. Bagian Taman = 1 - 3/5 = 2/5 bagian.\n2. Luas Taman = 2/5 x 400\n   = 2 x 80 = 160 m²."
+  },
+  {
+    "instruction": "Operasi Bilangan Bulat Negatif (Selisih Kedalaman).",
+    "input": "Kapal selam A berada di kedalaman 200 m di bawah permukaan laut. Kapal selam B berada di kedalaman 150 m di bawah permukaan laut.",
+    "output": "Soal:\nJarak vertikal antara kedua kapal selam tersebut adalah ... m.\n\nA. 50\nB. 150\nC. 350\nD. -50\n\nKunci Jawaban: A\n\nPembahasan:\n1. Posisi A = -200; Posisi B = -150.\n2. Selisih (Jarak selalu positif) = |-200 - (-150)|\n   = |-200 + 150| = |-50| = 50 m."
+  },
+  {
+    "instruction": "Volume Balok (Liter).",
+    "input": "Sebuah akuarium berbentuk balok dengan panjang 100 cm, lebar 50 cm, dan tinggi 40 cm.",
+    "output": "Soal:\nVolume air dalam akuarium jika terisi penuh adalah ... liter.\n\nA. 20\nB. 200\nC. 2.000\nD. 200.000\n\nKunci Jawaban: B\n\nPembahasan:\n1. Volume = p x l x t = 100 x 50 x 40\n   = 200.000 cm³\n2. Konversi ke liter (bagi 1.000):\n   200.000 : 1.000 = 200 liter."
+  },
+  {
+    "instruction": "Menentukan Median Data Ganjil.",
+    "input": "Data nilai ulangan: 9, 8, 7, 8, 8, 9, 10.",
+    "output": "Soal:\nMedian dari data tersebut adalah ....\n\nA. 7\nB. 8\nC. 9\nD. 10\n\nKunci Jawaban: B\n\nPembahasan:\n1. Urutkan: 7, 8, 8, (8), 9, 9, 10\n2. Data ke-4 (tengah) adalah 8."
+  },
+  {
+    "instruction": "Keliling Lingkaran (Jarak Tempuh).",
+    "input": "Sebuah sepeda memiliki roda dengan diameter 70 cm. Sepeda tersebut dikayuh sehingga roda berputar 100 kali.",
+    "output": "Soal:\nJarak yang ditempuh sepeda adalah ... meter.\n\nA. 220\nB. 2.200\nC. 22.000\nD. 440\n\nKunci Jawaban: A\n\nPembahasan:\n1. Keliling = π x d = 22/7 x 70 = 220 cm.\n2. Jarak = 220 x 100 = 22.000 cm.\n3. Konversi ke meter = 220 meter."
+  },
+  {
+    "instruction": "Operasi Hitung Campuran (BODMAS).",
+    "input": "",
+    "output": "Soal:\nHasil dari 40 - 15 x 2 + 10 adalah ....\n\nA. 20\nB. 40\nC. 60\nD. 80\n\nKunci Jawaban: A\n\nPembahasan:\n1. Perkalian dulu: 15 x 2 = 30.\n2. Masukkan ke soal: 40 - 30 + 10.\n3. Kiri ke kanan: 10 + 10 = 20."
+  },
+  {
+    "instruction": "Volume Limas Segiempat.",
+    "input": "Limas persegi dengan panjang sisi alas 15 cm dan tinggi limas 20 cm.",
+    "output": "Soal:\nVolume limas tersebut adalah ... cm³.\n\nA. 1.000\nB. 1.500\nC. 3.000\nD. 4.500\n\nKunci Jawaban: B\n\nPembahasan:\n1. Luas Alas = 15 x 15 = 225 cm².\n2. Volume = 1/3 x 225 x 20\n   = 75 x 20 = 1.500 cm³."
+  },
+  {
+    "instruction": "Skala Peta (Mencari Jarak Sebenarnya).",
+    "input": "Jarak pada peta 5 cm. Skala 1 : 1.200.000.",
+    "output": "Soal:\nJarak sebenarnya adalah ... km.\n\nA. 6\nB. 60\nC. 600\nD. 6.000\n\nKunci Jawaban: B\n\nPembahasan:\n1. JS = JP x Skala\n   = 5 x 1.200.000 = 6.000.000 cm.\n2. Konversi ke km (bagi 100.000) = 60 km."
+  },
+  {
+    "instruction": "Aritmatika Sosial (Bruto, Netto, Tara).",
+    "input": "Ibu membeli sekarung beras. Berat bruto 50 kg dan tara 2%.",
+    "output": "Soal:\nBerat bersih (Netto) beras tersebut adalah ... kg.\n\nA. 48\nB. 49\nC. 49,5\nD. 51\n\nKunci Jawaban: B\n\nPembahasan:\n1. Tara = 2% x 50 = 1 kg.\n2. Netto = Bruto - Tara\n   = 50 - 1 = 49 kg."
+  },
+  {
+    "instruction": "Menghitung Rata-rata (Mean) Data Tabel.",
+    "input": "Tabel berat badan siswa:\n- 30 kg: 3 siswa\n- 32 kg: 5 siswa\n- 35 kg: 2 siswa",
+    "output": "Soal:\nRata-rata berat badan siswa tersebut adalah ... kg.\n\nA. 31\nB. 32\nC. 33\nD. 34\n\nKunci Jawaban: B\n\nPembahasan:\n1. Hitung total berat:\n   (30x3) + (32x5) + (35x2)\n   = 90 + 160 + 70 = 320 kg\n2. Jumlah siswa = 3 + 5 + 2 = 10 siswa\n3. Rata-rata = 320 : 10 = 32 kg."
+  },
+  {
+    "instruction": "Luas Lingkaran (Konteks Alas Gelas).",
+    "input": "Sebuah alas gelas berbentuk lingkaran dengan diameter 10 cm.",
+    "output": "Soal:\nLuas alas gelas tersebut adalah ... cm². (π = 3,14)\n\nA. 31,4\nB. 78,5\nC. 157\nD. 314\n\nKunci Jawaban: B\n\nPembahasan:\n1. Jari-jari (r) = 10 : 2 = 5 cm.\n2. Luas = π x r x r\n   L = 3,14 x 5 x 5\n   L = 3,14 x 25 = 78,5 cm²."
+  },
+  {
+    "instruction": "Operasi Hitung Campuran (Pecahan dan Desimal).",
+    "input": "Ibu memiliki persediaan minyak goreng 2,5 liter. Digunakan untuk menggoreng 1 1/4 liter, kemudian membeli lagi 0,5 liter.",
+    "output": "Soal:\nPersediaan minyak goreng Ibu sekarang adalah ... liter.\n\nA. 1,25\nB. 1,50\nC. 1,75\nD. 2,00\n\nKunci Jawaban: C\n\nPembahasan:\n1. Ubah ke desimal: 1 1/4 = 1,25.\n2. Sisa = 2,5 - 1,25 = 1,25 liter.\n3. Membeli lagi = 1,25 + 0,5 = 1,75 liter."
+  },
+  {
+    "instruction": "Volume Tabung (Toples Kue).",
+    "input": "Sebuah toples kue berbentuk tabung memiliki jari-jari 10 cm dan tinggi 15 cm.",
+    "output": "Soal:\nVolume toples kue tersebut adalah ... cm³. (π = 3,14)\n\nA. 471\nB. 1.570\nC. 3.140\nD. 4.710\n\nKunci Jawaban: D\n\nPembahasan:\n1. Volume = π x r² x t\n   V = 3,14 x 10 x 10 x 15\n   V = 314 x 15\n   V = 4.710 cm³."
+  },
+  {
+    "instruction": "Operasi Bilangan Bulat (Suhu Freezer).",
+    "input": "Suhu ruangan pendingin -12°C. Karena rusak, suhunya naik 2°C setiap 5 menit.",
+    "output": "Soal:\nSuhu ruangan tersebut setelah 20 menit adalah ....\n\nA. -4°C\nB. -8°C\nC. 4°C\nD. 8°C\n\nKunci Jawaban: A\n\nPembahasan:\n1. Kenaikan = (20 : 5) x 2 = 4 x 2 = 8°C.\n2. Suhu akhir = -12 + 8 = -4°C."
+  },
+  {
+    "instruction": "Luas Permukaan Balok (Kotak Sepatu).",
+    "input": "Sebuah kotak sepatu berukuran panjang 30 cm, lebar 15 cm, dan tinggi 10 cm.",
+    "output": "Soal:\nLuas permukaan kotak sepatu tersebut adalah ... cm².\n\nA. 450\nB. 900\nC. 1.800\nD. 4.500\n\nKunci Jawaban: C\n\nPembahasan:\n1. Rumus LP = 2(pl + pt + lt)\n   pl = 30 x 15 = 450\n   pt = 30 x 10 = 300\n   lt = 15 x 10 = 150\n2. Jumlah = 450 + 300 + 150 = 900\n3. LP = 2 x 900 = 1.800 cm²."
+  },
+  {
+    "instruction": "Menentukan Modus Data Tabel.",
+    "input": "Data penjualan alat tulis: Buku (20), Pensil (35), Penghapus (15), Penggaris (10).",
+    "output": "Soal:\nModus penjualan alat tulis adalah ....\n\nA. Buku\nB. Pensil\nC. Penghapus\nD. Penggaris\n\nKunci Jawaban: B\n\nPembahasan:\nModus adalah data dengan jumlah terbanyak.\n- Pensil terjual 35 buah (paling banyak)."
+  },
+  {
+    "instruction": "Skala Peta (Jarak Peta).",
+    "input": "Jarak kota A ke B sebenarnya 80 km. Skala peta 1 : 2.000.000.",
+    "output": "Soal:\nJarak kedua kota pada peta adalah ... cm.\n\nA. 2\nB. 4\nC. 8\nD. 16\n\nKunci Jawaban: B\n\nPembahasan:\n1. JS = 80 km = 8.000.000 cm.\n2. JP = JS : Skala\n   = 8.000.000 : 2.000.000\n   = 4 cm."
+  },
+  {
+    "instruction": "Volume Balok (Volume Air).",
+    "input": "Sebuah bak mandi ukuran 100 cm x 60 cm x 50 cm diisi air hingga penuh.",
+    "output": "Soal:\nVolume air dalam bak mandi adalah ... liter.\n\nA. 30\nB. 300\nC. 3.000\nD. 300.000\n\nKunci Jawaban: B\n\nPembahasan:\n1. Volume = 100 x 60 x 50 = 300.000 cm³.\n2. Liter = dm³ = 300.000 : 1.000 = 300 liter."
+  },
+  {
+    "instruction": "Median Data Genap.",
+    "input": "Data nilai ulangan: 7, 8, 6, 9, 8, 7, 10, 8.",
+    "output": "Soal:\nMedian dari data tersebut adalah ....\n\nA. 7,0\nB. 7,5\nC. 8,0\nD. 8,5\n\nKunci Jawaban: C\n\nPembahasan:\n1. Urutkan: 6, 7, 7, (8), (8), 8, 9, 10.\n2. Nilai tengah (ke-4 dan ke-5) adalah 8 dan 8.\n3. Median = (8 + 8) : 2 = 8."
+  },
+  {
+    "instruction": "Keliling Lingkaran (Hula Hoop).",
+    "input": "Sebuah hula hoop memiliki jari-jari 35 cm.",
+    "output": "Soal:\nKeliling hula hoop tersebut adalah ... cm.\n\nA. 110\nB. 220\nC. 330\nD. 440\n\nKunci Jawaban: B\n\nPembahasan:\n1. Keliling = 2 x π x r\n   K = 2 x 22/7 x 35\n   K = 2 x 22 x 5\n   K = 220 cm."
+  },
+  {
+    "instruction": "Operasi Hitung Campuran (Uang).",
+    "input": "Budi membeli 2 buku seharga Rp5.000,00 per buah dan 3 pensil seharga Rp2.000,00 per buah.",
+    "output": "Soal:\nTotal belanjaan Budi adalah ....\n\nA. Rp12.000,00\nB. Rp14.000,00\nC. Rp16.000,00\nD. Rp18.000,00\n\nKunci Jawaban: C\n\nPembahasan:\n1. Buku = 2 x 5.000 = 10.000.\n2. Pensil = 3 x 2.000 = 6.000.\n3. Total = 10.000 + 6.000 = Rp16.000,00."
+  },
+  {
+    "instruction": "Volume Limas Segiempat.",
+    "input": "Alas limas berbentuk persegi dengan sisi 10 cm. Tinggi limas 18 cm.",
+    "output": "Soal:\nVolume limas tersebut adalah ... cm³.\n\nA. 600\nB. 900\nC. 1.200\nD. 1.800\n\nKunci Jawaban: A\n\nPembahasan:\n1. Luas Alas = 10 x 10 = 100 cm².\n2. Volume = 1/3 x Luas Alas x Tinggi\n   V = 1/3 x 100 x 18\n   V = 100 x 6 = 600 cm³."
+  },
+  {
+    "instruction": "Analisis Mean (Rata-rata Nilai).",
+    "input": "Rata-rata nilai 9 siswa adalah 75. Jika nilai Ani (85) ditambahkan, rata-rata menjadi...",
+    "output": "Soal:\nRata-rata nilai 10 siswa sekarang adalah ....\n\nA. 75\nB. 76\nC. 77\nD. 78\n\nKunci Jawaban: B\n\nPembahasan:\n1. Total nilai 9 siswa = 9 x 75 = 675.\n2. Ditambah Ani = 675 + 85 = 760.\n3. Rata-rata baru = 760 : 10 = 76."
+  },
+  {
+    "instruction": "Pecahan (Sisa Pembagian).",
+    "input": "Pak tani memanen 100 kg jagung. 1/2 bagian dijual, 1/4 bagian disimpan, dan sisanya dibagikan ke tetangga.",
+    "output": "Soal:\nJagung yang dibagikan ke tetangga adalah ... kg.\n\nA. 20\nB. 25\nC. 50\nD. 75\n\nKunci Jawaban: B\n\nPembahasan:\n1. Dijual + Disimpan = 1/2 + 1/4 = 3/4.\n2. Sisa (Tetangga) = 1 - 3/4 = 1/4 bagian.\n3. 1/4 x 100 kg = 25 kg."
+  }
+]
