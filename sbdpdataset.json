@@ -1,0 +1,1087 @@
+[
+    {
+        "instruction": "Reklame (Pengertian).",
+        "input": "Karya seni rupa yang bertujuan untuk menginformasikan, mengajak, menganjurkan, atau menawarkan produk/jasa kepada konsumen disebut....",
+        "output": "Soal:\nA. Ilustrasi\nB. Lukisan\nC. Reklame\nD. Patung\n\nKunci Jawaban: C\n\nPembahasan:\nDefinisi Reklame."
+    },
+    {
+        "instruction": "Reklame (Tujuan Komersial).",
+        "input": "Reklame yang digunakan untuk menawarkan barang dagangan termasuk jenis reklame....",
+        "output": "Soal:\nA. Non-komersial\nB. Komersial\nC. Sosial\nD. Pribadi\n\nKunci Jawaban: B\n\nPembahasan:\nKomersial = Mencari keuntungan."
+    },
+    {
+        "instruction": "Reklame (Poster).",
+        "input": "Jenis reklame berupa selembar kertas yang berisi gambar dan tulisan menarik, biasanya ditempel di tempat umum, disebut....",
+        "output": "Soal:\nA. Spanduk\nB. Baliho\nC. Poster\nD. Embalase\n\nKunci Jawaban: C\n\nPembahasan:\nPoster ditempel di dinding/tempat umum."
+    },
+    {
+        "instruction": "Reklame (Brosur).",
+        "input": "Reklame yang berbentuk lembaran kertas yang dilipat dan dibagikan secara langsung kepada masyarakat disebut....",
+        "output": "Soal:\nA. Poster\nB. Brosur/Buklet\nC. Spanduk\nD. Logo\n\nKunci Jawaban: B\n\nPembahasan:\nBrosur dibagikan tangan ke tangan."
+    },
+    {
+        "instruction": "Reklame (Spanduk).",
+        "input": "Reklame berukuran besar yang dibuat dari kain dan dibentangkan di antara dua tiang atau pohon di tepi jalan adalah....",
+        "output": "Soal:\nA. Embalase\nB. Spanduk\nC. Leaflet\nD. Poster\n\nKunci Jawaban: B\n\nPembahasan:\nCiri fisik spanduk (kain memanjang)."
+    },
+    {
+        "instruction": "Reklame (Embalase).",
+        "input": "Jenis reklame yang ditempatkan langsung pada kemasan produk sebagai daya tarik dan informasi produk disebut....",
+        "output": "Soal:\nA. Baliho\nB. Embalase\nC. Billboard\nD. Spanduk\n\nKunci Jawaban: B\n\nPembahasan:\nKemasan produk = Embalase."
+    },
+    {
+        "instruction": "Reklame (Baliho).",
+        "input": "Reklame berukuran sangat besar yang dipasang di tempat strategis dengan tiang penyangga semi-permanen disebut....",
+        "output": "Soal:\nA. Brosur\nB. Baliho\nC. Embalase\nD. Kartu Nama\n\nKunci Jawaban: B\n\nPembahasan:\nBaliho = Besar, semi-permanen."
+    },
+    {
+        "instruction": "Reklame (Syarat Baik).",
+        "input": "Salah satu syarat reklame yang baik adalah....",
+        "output": "Soal:\nA. Tulisan susah dibaca\nB. Gambar tidak menarik\nC. Jujur, menarik, dan mudah dipahami\nD. Menipu konsumen\n\nKunci Jawaban: C\n\nPembahasan:\nPrinsip dasar reklame."
+    },
+    {
+        "instruction": "Reklame (Logo).",
+        "input": "Tanda, lambang, atau simbol yang mengandung makna dan digunakan sebagai identitas sebuah organisasi atau perusahaan disebut....",
+        "output": "Soal:\nA. Logo\nB. Slogan\nC. Poster\nD. Iklan\n\nKunci Jawaban: A\n\nPembahasan:\nIdentitas visual = Logo."
+    },
+    {
+        "instruction": "Reklame (Non-Komersial).",
+        "input": "Contoh reklame non-komersial adalah....",
+        "output": "Soal:\nA. Iklan sabun mandi\nB. Poster ajakan hemat energi\nC. Spanduk diskon baju\nD. Brosur motor baru\n\nKunci Jawaban: B\n\nPembahasan:\nLayanan masyarakat/sosial."
+    },
+    {
+        "instruction": "Reklame (Bahasa).",
+        "input": "Bahasa yang digunakan dalam reklame sebaiknya....",
+        "output": "Soal:\nA. Panjang dan bertele-tele\nB. Singkat, padat, dan persuasif (mengajak)\nC. Menggunakan bahasa asing yang sulit\nD. Kasar\n\nKunci Jawaban: B\n\nPembahasan:\nEfektif dan mengajak."
+    },
+    {
+        "instruction": "Reklame (Billboard).",
+        "input": "Reklame yang berukuran besar dan dipasang secara permanen di jalan raya (biasanya dengan konstruksi besi) disebut....",
+        "output": "Soal:\nA. Billboard\nB. Poster\nC. Selebaran\nD. Plakat\n\nKunci Jawaban: A\n\nPembahasan:\nPermanen konstruksi besi = Billboard."
+    },
+    {
+        "instruction": "Reklame (Leaflet).",
+        "input": "Lembaran kecil yang berisi informasi dan biasanya dibagikan di tempat umum, ukurannya lebih kecil dari brosur, disebut....",
+        "output": "Soal:\nA. Billboard\nB. Leaflet/Selebaran\nC. Spanduk\nD. Embalase\n\nKunci Jawaban: B\n\nPembahasan:\nSelebaran kecil."
+    },
+    {
+        "instruction": "Reklame (Warna).",
+        "input": "Penggunaan warna dalam reklame bertujuan untuk....",
+        "output": "Soal:\nA. Mengaburkan tulisan\nB. Menarik perhatian mata (eye-catching)\nC. Membuat pusing\nD. Menutupi pesan\n\nKunci Jawaban: B\n\nPembahasan:\nKontras dan menarik."
+    },
+    {
+        "instruction": "Reklame (Videotron).",
+        "input": "Reklame modern yang menggunakan layar elektronik besar untuk menampilkan gambar bergerak disebut....",
+        "output": "Soal:\nA. Videotron\nB. Megatron\nC. Spanduk\nD. Poster\n\nKunci Jawaban: A\n\nPembahasan:\nReklame digital/video."
+    },
+    {
+        "instruction": "Reklame (Audio).",
+        "input": "Reklame yang disampaikan melalui media suara (radio) disebut reklame....",
+        "output": "Soal:\nA. Audio\nB. Visual\nC. Audio-Visual\nD. Cetak\n\nKunci Jawaban: A\n\nPembahasan:\nMedia suara = Audio."
+    },
+    {
+        "instruction": "Reklame (Audio-Visual).",
+        "input": "Iklan di televisi yang menampilkan gambar bergerak dan suara termasuk jenis reklame....",
+        "output": "Soal:\nA. Audio\nB. Visual\nC. Audio-Visual\nD. Tradisional\n\nKunci Jawaban: C\n\nPembahasan:\nGambar + Suara = Audio-Visual."
+    },
+    {
+        "instruction": "Reklame (Visual).",
+        "input": "Poster, brosur, dan baliho adalah contoh reklame....",
+        "output": "Soal:\nA. Audio\nB. Visual\nC. Audio-Visual\nD. Suara\n\nKunci Jawaban: B\n\nPembahasan:\nHanya bisa dilihat (Visual)."
+    },
+    {
+        "instruction": "Reklame (Mobile).",
+        "input": "Reklame yang dipasang pada kendaraan berjalan seperti bus atau mobil disebut....",
+        "output": "Soal:\nA. Mobile Branding/Reklame Berjalan\nB. Spanduk\nC. Poster\nD. Embalase\n\nKunci Jawaban: A\n\nPembahasan:\nReklame pada kendaraan."
+    },
+    {
+        "instruction": "Reklame (Megatron).",
+        "input": "Papan reklame elektronik berukuran besar dengan gambar diam (tidak bergerak) disebut....",
+        "output": "Soal:\nA. Videotron\nB. Megatron\nC. Baliho\nD. Spanduk\n\nKunci Jawaban: B\n\nPembahasan:\nMegatron (Elektronik diam), Videotron (Gerak)."
+    },
+    {
+        "instruction": "Reklame (Fungsi Sosial).",
+        "input": "Reklame layanan masyarakat seperti 'Ayo Membayar Pajak' bertujuan untuk....",
+        "output": "Soal:\nA. Menjual produk\nB. Mengingatkan kewajiban warga negara\nC. Mencari keuntungan pribadi\nD. Menghias jalan\n\nKunci Jawaban: B\n\nPembahasan:\nFungsi sosial/edukasi."
+    },
+    {
+        "instruction": "Reklame (Plakat).",
+        "input": "Reklame sejenis poster tetapi bahannya lebih awet (kayu/logam) dan ditempel di tembok disebut....",
+        "output": "Soal:\nA. Plakat\nB. Brosur\nC. Leaflet\nD. Spanduk\n\nKunci Jawaban: A\n\nPembahasan:\nPlakat bahannya keras/awet."
+    },
+    {
+        "instruction": "Reklame (Etika).",
+        "input": "Pemasangan reklame di jalan raya tidak boleh....",
+        "output": "Soal:\nA. Menghalangi pandangan pengendara dan merusak pohon\nB. Terlihat jelas\nC. Menggunakan lampu terang\nD. Berwarna cerah\n\nKunci Jawaban: A\n\nPembahasan:\nEtika dan keselamatan publik."
+    },
+    {
+        "instruction": "Reklame (Slogan).",
+        "input": "Kalimat pendek yang menarik dan mudah diingat dalam reklame disebut....",
+        "output": "Soal:\nA. Berita\nB. Slogan\nC. Puisi\nD. Cerpen\n\nKunci Jawaban: B\n\nPembahasan:\nKalimat inti = Slogan."
+    },
+    {
+        "instruction": "Reklame (Kalender).",
+        "input": "Kalender yang dibagikan toko dengan gambar produk termasuk reklame jenis....",
+        "output": "Soal:\nA. Audio\nB. Cenderamata/Hadiah (Visual)\nC. Audio-Visual\nD. Suara\n\nKunci Jawaban: B\n\nPembahasan:\nMedia promosi fungsional."
+    },
+    {
+        "instruction": "Reklame (Banner).",
+        "input": "Reklame yang dipasang vertikal dengan penyangga berbentuk X atau Y (X-Banner/Y-Banner) biasanya diletakkan di....",
+        "output": "Soal:\nA. Tengah jalan raya\nB. Depan toko atau dalam ruangan pameran\nC. Atas pohon\nD. Atap gedung\n\nKunci Jawaban: B\n\nPembahasan:\nBanner indoor/semi-outdoor."
+    },
+    {
+        "instruction": "Reklame (Neon Box).",
+        "input": "Reklame yang menggunakan lampu neon di dalamnya sehingga menyala pada malam hari disebut....",
+        "output": "Soal:\nA. Neon Box\nB. Spanduk\nC. Poster\nD. Embalase\n\nKunci Jawaban: A\n\nPembahasan:\nKotak lampu = Neon Box."
+    },
+    {
+        "instruction": "Reklame (Layout).",
+        "input": "Tata letak gambar dan tulisan dalam reklame harus....",
+        "output": "Soal:\nA. Berantakan\nB. Seimbang dan proporsional\nC. Tumpuk-menumpuk\nD. Kecil semua\n\nKunci Jawaban: B\n\nPembahasan:\nKomposisi visual."
+    },
+    {
+        "instruction": "Reklame (Tipografi).",
+        "input": "Seni memilih dan menata huruf dalam pembuatan reklame disebut....",
+        "output": "Soal:\nA. Topografi\nB. Tipografi\nC. Kartografi\nD. Fotografi\n\nKunci Jawaban: B\n\nPembahasan:\nSeni huruf = Tipografi."
+    },
+    {
+        "instruction": "Reklame (Ilustrasi).",
+        "input": "Gambar dalam reklame berfungsi untuk....",
+        "output": "Soal:\nA. Memenuhi tempat\nB. Memperjelas pesan dan menarik perhatian\nC. Membuat bingung\nD. Meniru orang lain\n\nKunci Jawaban: B\n\nPembahasan:\nFungsi ilustrasi."
+    },
+    {
+        "instruction": "Reklame (Pesan).",
+        "input": "Pesan yang disampaikan dalam reklame harus bersifat....",
+        "output": "Soal:\nA. Memaksa\nB. Mengancam\nC. Membujuk (Persuasif)\nD. Mengejek\n\nKunci Jawaban: C\n\nPembahasan:\nPersuasif."
+    },
+    {
+        "instruction": "Reklame (Target).",
+        "input": "Sebelum membuat reklame, kita harus menentukan siapa yang akan melihat/membacanya, yang disebut....",
+        "output": "Soal:\nA. Produsen\nB. Target audiens/Sasaran\nC. Distributor\nD. Pesaing\n\nKunci Jawaban: B\n\nPembahasan:\nSasaran konsumen."
+    },
+    {
+        "instruction": "Reklame (Label).",
+        "input": "Tulisan kecil pada kemasan yang berisi informasi rinci (komposisi, kedaluwarsa) disebut....",
+        "output": "Soal:\nA. Logo\nB. Label\nC. Slogan\nD. Judul\n\nKunci Jawaban: B\n\nPembahasan:\nInfo detail produk."
+    },
+    {
+        "instruction": "Reklame (Pohon).",
+        "input": "Dilarang memaku reklame (spanduk/poster) di pohon karena....",
+        "output": "Soal:\nA. Pohon akan tumbuh cepat\nB. Merusak kelestarian lingkungan/pohon\nC. Pohon menjadi indah\nD. Agar kuat\n\nKunci Jawaban: B\n\nPembahasan:\nEtika lingkungan."
+    },
+    {
+        "instruction": "Reklame (Izin).",
+        "input": "Pemasangan reklame besar di tempat umum harus memiliki ... dari pemerintah daerah.",
+        "output": "Soal:\nA. Izin\nB. Hadiah\nC. Hukuman\nD. Pujian\n\nKunci Jawaban: A\n\nPembahasan:\nPajak & Izin Reklame."
+    },
+    {
+        "instruction": "Reklame (Kontras).",
+        "input": "Agar tulisan reklame mudah terbaca dari jauh, sebaiknya menggunakan warna yang....",
+        "output": "Soal:\nA. Sama dengan latar belakang\nB. Kontras dengan latar belakang\nC. Pucat\nD. Transparan\n\nKunci Jawaban: B\n\nPembahasan:\nPrinsip keterbacaan (readability)."
+    },
+    {
+        "instruction": "Reklame (Headline).",
+        "input": "Judul utama pada reklame yang ukurannya paling besar disebut....",
+        "output": "Soal:\nA. Body copy\nB. Headline\nC. Footer\nD. Margin\n\nKunci Jawaban: B\n\nPembahasan:\nKepala berita/judul."
+    },
+    {
+        "instruction": "Reklame (Kreativitas).",
+        "input": "Membuat reklame membutuhkan ... agar pesannya unik dan berbeda.",
+        "output": "Soal:\nA. Biaya mahal\nB. Kreativitas\nC. Bahan impor\nD. Waktu lama\n\nKunci Jawaban: B\n\nPembahasan:\nKunci desain menarik."
+    },
+    {
+        "instruction": "Reklame (Baliho vs Billboard).",
+        "input": "Perbedaan utama antara baliho dan billboard terletak pada....",
+        "output": "Soal:\nA. Warnanya\nB. Sifat pemasangannya (Baliho semi-permanen, Billboard permanen)\nC. Harganya\nD. Hurufnya\n\nKunci Jawaban: B\n\nPembahasan:\nDurasi & konstruksi pasang."
+    },
+    {
+        "instruction": "Reklame (Cetak).",
+        "input": "Koran dan Majalah sering memuat reklame visual yang disebut....",
+        "output": "Soal:\nA. Iklan baris/kolom\nB. Spanduk\nC. Baliho\nD. Neon box\n\nKunci Jawaban: A\n\nPembahasan:\nIklan media cetak."
+    },
+    {
+        "instruction": "Reklame (Brosur Lipat).",
+        "input": "Brosur yang dilipat menjadi tiga bagian disebut....",
+        "output": "Soal:\nA. Flyer\nB. Brosur 3 lipatan (Trifold)\nC. Buku\nD. Koran\n\nKunci Jawaban: B\n\nPembahasan:\nTrifold brochure."
+    },
+    {
+        "instruction": "Reklame (Subjudul).",
+        "input": "Kalimat penjelas di bawah headline disebut....",
+        "output": "Soal:\nA. Subheadline/Subjudul\nB. Logo\nC. Gambar\nD. Garis\n\nKunci Jawaban: A\n\nPembahasan:\nPenjelas judul."
+    },
+    {
+        "instruction": "Reklame (Identitas).",
+        "input": "Fungsi logo dan nama perusahaan pada reklame adalah sebagai....",
+        "output": "Soal:\nA. Hiasan semata\nB. Identitas pembuat produk\nC. Penambah warna\nD. Agar penuh\n\nKunci Jawaban: B\n\nPembahasan:\nBranding identity."
+    },
+    {
+        "instruction": "Reklame (Estetika).",
+        "input": "Nilai keindahan dalam pembuatan reklame disebut nilai....",
+        "output": "Soal:\nA. Ekonomis\nB. Estetika\nC. Praktis\nD. Hitoris\n\nKunci Jawaban: B\n\nPembahasan:\nEstetika = Keindahan."
+    },
+    {
+        "instruction": "Reklame (Material).",
+        "input": "Bahan spanduk biasanya terbuat dari....",
+        "output": "Soal:\nA. Kertas tisu\nB. Kain atau Flexi (plastik banner)\nC. Besi tebal\nD. Kaca\n\nKunci Jawaban: B\n\nPembahasan:\nBahan fleksibel & kuat cuaca."
+    },
+    {
+        "instruction": "Reklame (Pesan Moral).",
+        "input": "Poster 'Buanglah Sampah Pada Tempatnya' mengandung pesan moral untuk peduli....",
+        "output": "Soal:\nA. Kebersihan lingkungan\nB. Keamanan\nC. Lalu lintas\nD. Pendidikan\n\nKunci Jawaban: A\n\nPembahasan:\nTema lingkungan."
+    },
+    {
+        "instruction": "Reklame (Efek).",
+        "input": "Reklame yang berhasil adalah reklame yang mampu membuat konsumen....",
+        "output": "Soal:\nA. Marah\nB. Tertarik membeli atau mengikuti pesan\nC. Takut\nD. Sedih\n\nKunci Jawaban: B\n\nPembahasan:\nTujuan akhir = Action."
+    },
+    {
+        "instruction": "Reklame (Font).",
+        "input": "Pemilihan jenis huruf (font) pada poster anak-anak sebaiknya....",
+        "output": "Soal:\nA. Kaku dan formal\nB. Lucu, ceria, dan mudah dibaca\nC. Sangat kecil\nD. Huruf sambung yang rumit\n\nKunci Jawaban: B\n\nPembahasan:\nSesuai target audiens."
+    },
+    {
+        "instruction": "Reklame (Medsos).",
+        "input": "Di era digital, reklame visual sering disebarkan melalui....",
+        "output": "Soal:\nA. Angin\nB. Media Sosial (Instagram, Facebook, TikTok)\nC. Burung merpati\nD. Asap\n\nKunci Jawaban: B\n\nPembahasan:\nDigital marketing."
+    },
+    {
+        "instruction": "Reklame (Baliho Politik).",
+        "input": "Baliho bergambar calon pemimpin daerah menjelang pemilu termasuk reklame....",
+        "output": "Soal:\nA. Komersial\nB. Politik\nC. Pendidikan\nD. Kesehatan\n\nKunci Jawaban: B\n\nPembahasan:\nKategori politik."
+    },
+    {
+        "instruction": "Reklame (Media Luar Ruang).",
+        "input": "Spanduk, Baliho, dan Billboard termasuk kategori media....",
+        "output": "Soal:\nA. Lini bawah\nB. Luar ruang (Outdoor)\nC. Dalam ruang\nD. Cetak kecil\n\nKunci Jawaban: B\n\nPembahasan:\nOutdoor media."
+    },
+    {
+        "instruction": "Reklame (Merchandise).",
+        "input": "Kaos, topi, atau payung yang bertuliskan nama produk disebut....",
+        "output": "Soal:\nA. Merchandise\nB. Sampah\nC. Limbah\nD. Bahan baku\n\nKunci Jawaban: A\n\nPembahasan:\nPromosi lewat barang."
+    },
+    {
+        "instruction": "Reklame (Layout).",
+        "input": "Prinsip keseimbangan dalam tata letak reklame agar enak dipandang disebut....",
+        "output": "Soal:\nA. Balance\nB. Kontras\nC. Harmoni\nD. Irama\n\nKunci Jawaban: A\n\nPembahasan:\nBalance = Keseimbangan."
+    },
+    {
+        "instruction": "Interval Nada (Pengertian).",
+        "input": "Jarak antara satu nada ke nada yang lain disebut....",
+        "output": "Soal:\nA. Melodi\nB. Interval Nada\nC. Harmoni\nD. Irama\n\nKunci Jawaban: B\n\nPembahasan:\nDefinisi Interval."
+    },
+    {
+        "instruction": "Interval Nada (Prim).",
+        "input": "Interval nada dari nada do ke do (nada yang sama) disebut....",
+        "output": "Soal:\nA. Prim\nB. Sekon\nC. Terts\nD. Oktaf\n\nKunci Jawaban: A\n\nPembahasan:\nJarak 0 (unison) = Prim."
+    },
+    {
+        "instruction": "Interval Nada (Sekon).",
+        "input": "Interval nada dari nada do ke re (langkah ke-2) disebut....",
+        "output": "Soal:\nA. Prim\nB. Sekon\nC. Kuant\nD. Kuint\n\nKunci Jawaban: B\n\nPembahasan:\nLangkah 2 = Sekon."
+    },
+    {
+        "instruction": "Interval Nada (Terts).",
+        "input": "Interval nada dari nada do ke mi (langkah ke-3) disebut....",
+        "output": "Soal:\nA. Terts\nB. Quart\nC. Septim\nD. Oktaf\n\nKunci Jawaban: A\n\nPembahasan:\nLangkah 3 = Terts."
+    },
+    {
+        "instruction": "Interval Nada (Quart).",
+        "input": "Interval nada dari nada do ke fa (langkah ke-4) disebut....",
+        "output": "Soal:\nA. Oktaf\nB. Quart\nC. Sekon\nD. Prim\n\nKunci Jawaban: B\n\nPembahasan:\nLangkah 4 = Quart."
+    },
+    {
+        "instruction": "Interval Nada (Quin).",
+        "input": "Interval nada dari nada do ke sol (langkah ke-5) disebut....",
+        "output": "Soal:\nA. Quin/Kuint\nB. Sekon\nC. Septim\nD. Non\n\nKunci Jawaban: A\n\nPembahasan:\nLangkah 5 = Quin."
+    },
+    {
+        "instruction": "Interval Nada (Sekt).",
+        "input": "Interval nada dari nada do ke la (langkah ke-6) disebut....",
+        "output": "Soal:\nA. Sekt\nB. Oktaf\nC. Prim\nD. Terts\n\nKunci Jawaban: A\n\nPembahasan:\nLangkah 6 = Sekt."
+    },
+    {
+        "instruction": "Interval Nada (Septim).",
+        "input": "Interval nada dari nada do ke si (langkah ke-7) disebut....",
+        "output": "Soal:\nA. Septim\nB. Oktaf\nC. Quart\nD. Sekon\n\nKunci Jawaban: A\n\nPembahasan:\nLangkah 7 = Septim."
+    },
+    {
+        "instruction": "Interval Nada (Oktaf).",
+        "input": "Interval nada dari nada do (rendah) ke do (tinggi) disebut....",
+        "output": "Soal:\nA. Oktaf\nB. Prim\nC. Kuint\nD. Terts\n\nKunci Jawaban: A\n\nPembahasan:\nJarak 8 nada = Oktaf."
+    },
+    {
+        "instruction": "Interval Nada (Mayor).",
+        "input": "Interval nada pada tangga nada mayor memiliki pola jarak....",
+        "output": "Soal:\nA. 1 - 1 - 1/2 - 1 - 1 - 1 - 1/2\nB. 1 - 1/2 - 1 - 1 - 1/2 - 1 - 1\nC. 1 - 1 - 1 - 1 - 1 - 1 - 1\nD. 1/2 - 1/2 - 1/2 - 1/2\n\nKunci Jawaban: A\n\nPembahasan:\nPola Mayor: 1-1-1/2-1-1-1-1/2."
+    },
+    {
+        "instruction": "Interval Nada (Minor).",
+        "input": "Tangga nada minor biasanya diawali dan diakhiri dengan nada....",
+        "output": "Soal:\nA. Do (C)\nB. La (A)\nC. Mi (E)\nD. Sol (G)\n\nKunci Jawaban: B\n\nPembahasan:\nMinor = La (A minor)."
+    },
+    {
+        "instruction": "Interval Nada (C Mayor).",
+        "input": "Tangga nada natural yang tidak memiliki tanda kres (#) atau mol (b) adalah....",
+        "output": "Soal:\nA. G Mayor\nB. C Mayor\nC. F Mayor\nD. D Mayor\n\nKunci Jawaban: B\n\nPembahasan:\nC = Do (Natural)."
+    },
+    {
+        "instruction": "Interval Nada (Nada Pangkal).",
+        "input": "Nada pertama dalam sebuah tangga nada disebut....",
+        "output": "Soal:\nA. Nada dasar/Tonika\nB. Dominan\nC. Subdominan\nD. Leading tone\n\nKunci Jawaban: A\n\nPembahasan:\nTonika = Nada ke-1."
+    },
+    {
+        "instruction": "Interval Nada (Alat Musik).",
+        "input": "Alat musik yang tidak memiliki nada disebut alat musik....",
+        "output": "Soal:\nA. Melodis\nB. Ritmis\nC. Harmonis\nD. Pianika\n\nKunci Jawaban: B\n\nPembahasan:\nRitmis = Ketukan (Gendang, Tambarin)."
+    },
+    {
+        "instruction": "Interval Nada (Melodis).",
+        "input": "Pianika dan Seruling termasuk alat musik....",
+        "output": "Soal:\nA. Ritmis\nB. Melodis\nC. Pukul\nD. Gesek\n\nKunci Jawaban: B\n\nPembahasan:\nMelodis = Memainkan nada."
+    },
+    {
+        "instruction": "Interval Nada (Lagu Mariam Tomong).",
+        "input": "Lagu 'Mariam Tomong' berasal dari daerah Tapanuli, memiliki tangga nada....",
+        "output": "Soal:\nA. Mayor (Semangat)\nB. Minor (Sedih)\nC. Pelog\nD. Slendro\n\nKunci Jawaban: A\n\nPembahasan:\nLagu anak riang = Mayor."
+    },
+    {
+        "instruction": "Interval Nada (Akur).",
+        "input": "Paduan beberapa nada yang dimainkan bersamaan dan terdengar harmonis disebut....",
+        "output": "Soal:\nA. Akor\nB. Melodi\nC. Ritme\nD. Birama\n\nKunci Jawaban: A\n\nPembahasan:\nHarmoni akor."
+    },
+    {
+        "instruction": "Interval Nada (Jarak 1).",
+        "input": "Jarak antara nada Do ke Re adalah....",
+        "output": "Soal:\nA. 1\nB. 1/2\nC. 2\nD. 1 1/2\n\nKunci Jawaban: A\n\nPembahasan:\nDo-Re = 1."
+    },
+    {
+        "instruction": "Interval Nada (Jarak 1/2).",
+        "input": "Jarak antara nada Mi ke Fa adalah....",
+        "output": "Soal:\nA. 1\nB. 1/2\nC. 2\nD. 1 1/2\n\nKunci Jawaban: B\n\nPembahasan:\nMi-Fa = 1/2."
+    },
+    {
+        "instruction": "Interval Nada (Pentatonis).",
+        "input": "Tangga nada yang hanya memiliki 5 nada pokok disebut....",
+        "output": "Soal:\nA. Diatonis\nB. Pentatonis\nC. Kromatis\nD. Mayor\n\nKunci Jawaban: B\n\nPembahasan:\nPenta = Lima."
+    },
+    {
+        "instruction": "Interval Nada (Pelog).",
+        "input": "Tangga nada pentatonis yang berkesan tenang dan hormat adalah....",
+        "output": "Soal:\nA. Slendro\nB. Pelog\nC. Mayor\nD. Minor\n\nKunci Jawaban: B\n\nPembahasan:\nPelog = Tenang."
+    },
+    {
+        "instruction": "Interval Nada (Slendro).",
+        "input": "Tangga nada pentatonis yang berkesan gembira dan lincah adalah....",
+        "output": "Soal:\nA. Slendro\nB. Pelog\nC. Minor\nD. Kromatis\n\nKunci Jawaban: A\n\nPembahasan:\nSlendro = Lincah (Gamelan)."
+    },
+    {
+        "instruction": "Interval Nada (Sifat Mayor).",
+        "input": "Lagu bertangga nada mayor biasanya bersifat....",
+        "output": "Soal:\nA. Sedih dan syahdu\nB. Riang gembira dan bersemangat\nC. Menakutkan\nD. Membosankan\n\nKunci Jawaban: B\n\nPembahasan:\nKarakter Mayor."
+    },
+    {
+        "instruction": "Interval Nada (Sifat Minor).",
+        "input": "Lagu 'Syukur' dan 'Gugur Bunga' memiliki tangga nada....",
+        "output": "Soal:\nA. Mayor\nB. Minor\nC. Pentatonis\nD. Kromatis\n\nKunci Jawaban: B\n\nPembahasan:\nLagu sedih/hikmat = Minor."
+    },
+    {
+        "instruction": "Interval Nada (Tanda Kres).",
+        "input": "Tanda # dalam notasi musik berfungsi untuk....",
+        "output": "Soal:\nA. Menurunkan nada 1/2 laras\nB. Menaikkan nada 1/2 laras\nC. Mengembalikan ke nada asli\nD. Mematikan nada\n\nKunci Jawaban: B\n\nPembahasan:\nKres (#) = Naik setengah."
+    },
+    {
+        "instruction": "Interval Nada (Tanda Mol).",
+        "input": "Tanda b (mol) berfungsi untuk....",
+        "output": "Soal:\nA. Menaikkan nada 1/2 laras\nB. Menurunkan nada 1/2 laras\nC. Menghapus nada\nD. Memanjangkan nada\n\nKunci Jawaban: B\n\nPembahasan:\nMol (b) = Turun setengah."
+    },
+    {
+        "instruction": "Interval Nada (Partitur).",
+        "input": "Lembaran kertas yang berisi notasi musik disebut....",
+        "output": "Soal:\nA. Naskah\nB. Partitur\nC. Skrip\nD. Dokumen\n\nKunci Jawaban: B\n\nPembahasan:\nTeks musik = Partitur."
+    },
+    {
+        "instruction": "Interval Nada (Birama).",
+        "input": "Tanda untuk menunjukkan jumlah ketukan dalam satu ruas disebut....",
+        "output": "Soal:\nA. Nada\nB. Birama\nC. Tempo\nD. Dinamika\n\nKunci Jawaban: B\n\nPembahasan:\nContoh: 4/4, 3/4."
+    },
+    {
+        "instruction": "Interval Nada (Solmisasi).",
+        "input": "Urutan nada do-re-mi-fa-sol-la-si-do disebut....",
+        "output": "Soal:\nA. Solmisasi\nB. Puisi\nC. Pantun\nD. Cerita\n\nKunci Jawaban: A\n\nPembahasan:\nSistem solmisasi."
+    },
+    {
+        "instruction": "Interval Nada (Resonansi).",
+        "input": "Gema atau pantulan bunyi yang memperindah suara penyanyi disebut....",
+        "output": "Soal:\nA. Vibrasi\nB. Resonansi\nC. Artikulasi\nD. Intonasi\n\nKunci Jawaban: B\n\nPembahasan:\nPenguatan bunyi."
+    },
+    {
+        "instruction": "Interval Nada (Ambitus).",
+        "input": "Jangkauan wilayah nada yang dapat dicapai seseorang disebut....",
+        "output": "Soal:\nA. Ambitus\nB. Volume\nC. Pitch\nD. Timbre\n\nKunci Jawaban: A\n\nPembahasan:\nRange vokal."
+    },
+    {
+        "instruction": "Interval Nada (Paduan Suara).",
+        "input": "Penyajian musik vokal yang dilakukan oleh banyak orang (15 orang lebih) dengan pembagian suara disebut....",
+        "output": "Soal:\nA. Solo\nB. Duet\nC. Paduan Suara/Koor\nD. Trio\n\nKunci Jawaban: C\n\nPembahasan:\nKelompok vokal besar."
+    },
+    {
+        "instruction": "Interval Nada (Dirigen).",
+        "input": "Orang yang memimpin paduan suara atau orkestra disebut....",
+        "output": "Soal:\nA. Penyanyi\nB. Dirigen/Konduktor\nC. Pianis\nD. Gitaris\n\nKunci Jawaban: B\n\nPembahasan:\nPemimpin musik."
+    },
+    {
+        "instruction": "Interval Nada (Gamelan).",
+        "input": "Alat musik tradisional Jawa yang menggunakan tangga nada pentatonis adalah....",
+        "output": "Soal:\nA. Gitar\nB. Gamelan\nC. Drum\nD. Biola\n\nKunci Jawaban: B\n\nPembahasan:\nEnsembel pentatonis."
+    },
+    {
+        "instruction": "Interval Nada (Angklung).",
+        "input": "Alat musik bambu dari Jawa Barat yang dimainkan dengan cara digoyangkan adalah....",
+        "output": "Soal:\nA. Suling\nB. Angklung\nC. Sasando\nD. Kolintang\n\nKunci Jawaban: B\n\nPembahasan:\nAngklung."
+    },
+    {
+        "instruction": "Interval Nada (Kolintang).",
+        "input": "Alat musik pukul bernada dari kayu, berasal dari Minahasa (Sulut) adalah....",
+        "output": "Soal:\nA. Kolintang\nB. Gendang\nC. Tifa\nD. Talempong\n\nKunci Jawaban: A\n\nPembahasan:\nMusik kayu Minahasa."
+    },
+    {
+        "instruction": "Interval Nada (Sasando).",
+        "input": "Alat musik petik dari daun lontar yang berasal dari Rote, NTT adalah....",
+        "output": "Soal:\nA. Kecapi\nB. Sasando\nC. Sitar\nD. Harpa\n\nKunci Jawaban: B\n\nPembahasan:\nIkon musik NTT."
+    },
+    {
+        "instruction": "Interval Nada (Tifa).",
+        "input": "Alat musik ritmis sejenis gendang dari Papua dan Maluku disebut....",
+        "output": "Soal:\nA. Bedug\nB. Tifa\nC. Rebana\nD. Ketipung\n\nKunci Jawaban: B\n\nPembahasan:\nGendang Papua."
+    },
+    {
+        "instruction": "Interval Nada (Dinamika).",
+        "input": "Keras lembutnya bunyi dalam sebuah lagu disebut....",
+        "output": "Soal:\nA. Tempo\nB. Dinamika\nC. Nada\nD. Harmoni\n\nKunci Jawaban: B\n\nPembahasan:\nVolume musik."
+    },
+    {
+        "instruction": "Interval Nada (Tempo).",
+        "input": "Cepat lambatnya lagu dinyanyikan disebut....",
+        "output": "Soal:\nA. Dinamika\nB. Tempo\nC. Gaya\nD. Ekspresi\n\nKunci Jawaban: B\n\nPembahasan:\nKecepatan musik."
+    },
+    {
+        "instruction": "Interval Nada (Tanda Diam).",
+        "input": "Simbol dalam notasi musik yang menunjukkan waktu istirahat (tidak ada bunyi) disebut....",
+        "output": "Soal:\nA. Tanda ulang\nB. Tanda diam\nC. Tanda kunci\nD. Tanda birama\n\nKunci Jawaban: B\n\nPembahasan:\nIstirahat = Diam."
+    },
+    {
+        "instruction": "Interval Nada (Not Balok).",
+        "input": "Notasi musik yang menggunakan simbol-simbol bentuk (kepala, tangkai, bendera) disebut....",
+        "output": "Soal:\nA. Not Angka\nB. Not Balok\nC. Not Huruf\nD. Not Simbol\n\nKunci Jawaban: B\n\nPembahasan:\nSimbol visual = Not Balok."
+    },
+    {
+        "instruction": "Interval Nada (Garis Paranada).",
+        "input": "Lima garis sejajar tempat menuliskan not balok disebut....",
+        "output": "Soal:\nA. Paranormal\nB. Garis Paranada/Sankarnada\nC. Garis Birama\nD. Garis Tepi\n\nKunci Jawaban: B\n\nPembahasan:\nTempat not balok."
+    },
+    {
+        "instruction": "Interval Nada (Kunci G).",
+        "input": "Tanda kunci yang biasa digunakan untuk menuliskan nada-nada tinggi (sopran/alto) adalah....",
+        "output": "Soal:\nA. Kunci F\nB. Kunci G (Treble Clef)\nC. Kunci C\nD. Kunci D\n\nKunci Jawaban: B\n\nPembahasan:\nKunci G = Treble."
+    },
+    {
+        "instruction": "Interval Nada (Kunci F).",
+        "input": "Tanda kunci yang digunakan untuk nada-nada rendah (bass) disebut....",
+        "output": "Soal:\nA. Kunci G\nB. Kunci F (Bass Clef)\nC. Kunci A\nD. Kunci B\n\nKunci Jawaban: B\n\nPembahasan:\nKunci F = Bass."
+    },
+    {
+        "instruction": "Interval Nada (Metronom).",
+        "input": "Alat untuk mengukur kecepatan tempo lagu disebut....",
+        "output": "Soal:\nA. Termometer\nB. Metronom\nC. Speedometer\nD. Barometer\n\nKunci Jawaban: B\n\nPembahasan:\nPengukur tempo."
+    },
+    {
+        "instruction": "Interval Nada (Largo).",
+        "input": "Tempo Largo artinya lagu dinyanyikan dengan....",
+        "output": "Soal:\nA. Sangat Cepat\nB. Lambat sekali dan agung\nC. Sedang\nD. Cepat\n\nKunci Jawaban: B\n\nPembahasan:\nLargo = Lambat lebar."
+    },
+    {
+        "instruction": "Interval Nada (Allegro).",
+        "input": "Tempo Allegro artinya lagu dinyanyikan dengan....",
+        "output": "Soal:\nA. Lambat\nB. Cepat, hidup, dan riang\nC. Sedih\nD. Putus-putus\n\nKunci Jawaban: B\n\nPembahasan:\nAllegro = Cepat."
+    },
+    {
+        "instruction": "Interval Nada (Moderato).",
+        "input": "Tempo Moderato artinya lagu dinyanyikan dengan kecepatan....",
+        "output": "Soal:\nA. Cepat sekali\nB. Sedang\nC. Lambat\nD. Berhenti\n\nKunci Jawaban: B\n\nPembahasan:\nModerato = Sedang."
+    },
+    {
+        "instruction": "Interval Nada (Desibel).",
+        "input": "Satuan untuk mengukur kerasnya bunyi adalah....",
+        "output": "Soal:\nA. Meter\nB. Desibel (dB)\nC. Liter\nD. Gram\n\nKunci Jawaban: B\n\nPembahasan:\nSatuan bunyi."
+    },
+    {
+        "instruction": "Interval Nada (Vokal Grup).",
+        "input": "Kelompok penyanyi yang terdiri dari 3-10 orang disebut....",
+        "output": "Soal:\nA. Paduan Suara\nB. Vokal Grup\nC. Solo\nD. Orkestra\n\nKunci Jawaban: B\n\nPembahasan:\nKelompok vokal kecil."
+    },
+    {
+        "instruction": "Interval Nada (Acapella).",
+        "input": "Musik vokal yang dilakukan tanpa iringan alat musik disebut....",
+        "output": "Soal:\nA. Acapella\nB. Keroncong\nC. Dangdut\nD. Rock\n\nKunci Jawaban: A\n\nPembahasan:\nTanpa instrumen."
+    },
+    {
+        "instruction": "Interval Nada (Kanon).",
+        "input": "Menyanyikan lagu dengan cara susul-menyusul disebut....",
+        "output": "Soal:\nA. Unisono\nB. Kanon\nC. Koor\nD. Solo\n\nKunci Jawaban: B\n\nPembahasan:\nSusul-menyusul."
+    },
+    {
+        "instruction": "Tari Daerah (Pengertian).",
+        "input": "Tari yang tumbuh dan berkembang di suatu daerah tertentu dan diwariskan turun-temurun disebut....",
+        "output": "Soal:\nA. Tari Modern\nB. Tari Tradisional/Daerah\nC. Tari Balet\nD. Tari Kontemporer\n\nKunci Jawaban: B\n\nPembahasan:\nDefinisi Tari Tradisional."
+    },
+    {
+        "instruction": "Tari Daerah (Tari Kreasi).",
+        "input": "Tari daerah yang gerakannya sudah dikembangkan atau dimodifikasi sesuai zaman namun tetap berpijak pada nilai tradisi disebut....",
+        "output": "Soal:\nA. Tari Primitif\nB. Tari Kreasi Daerah\nC. Tari Asing\nD. Tari Masal\n\nKunci Jawaban: B\n\nPembahasan:\nTradisi + Inovasi = Kreasi Daerah."
+    },
+    {
+        "instruction": "Tari Daerah (Tari Tunggal).",
+        "input": "Tari yang dibawakan oleh satu orang penari disebut....",
+        "output": "Soal:\nA. Tari Berpasangan\nB. Tari Tunggal\nC. Tari Kelompok\nD. Tari Massal\n\nKunci Jawaban: B\n\nPembahasan:\nSatu penari = Tunggal."
+    },
+    {
+        "instruction": "Tari Daerah (Tari Berpasangan).",
+        "input": "Tari yang dibawakan oleh dua orang penari yang saling melengkapi disebut....",
+        "output": "Soal:\nA. Tari Tunggal\nB. Tari Berpasangan\nC. Tari Trio\nD. Tari Ramai\n\nKunci Jawaban: B\n\nPembahasan:\nDua penari = Berpasangan."
+    },
+    {
+        "instruction": "Tari Daerah (Tari Kelompok).",
+        "input": "Tari yang dibawakan oleh lebih dari dua orang penari disebut....",
+        "output": "Soal:\nA. Tari Solo\nB. Tari Kelompok\nC. Tari Duet\nD. Tari Monolog\n\nKunci Jawaban: B\n\nPembahasan:\nBanyak penari = Kelompok."
+    },
+    {
+        "instruction": "Tari Daerah (Pola Lantai).",
+        "input": "Garis imajiner yang dilalui penari saat melakukan gerak tari disebut....",
+        "output": "Soal:\nA. Pola Lantai\nB. Pola Baju\nC. Pola Irama\nD. Pola Pikir\n\nKunci Jawaban: A\n\nPembahasan:\nFormasi penari."
+    },
+    {
+        "instruction": "Tari Daerah (Pola Lurus).",
+        "input": "Pola lantai garis lurus memberikan kesan....",
+        "output": "Soal:\nA. Lemah lembut\nB. Sederhana, kuat, dan tegas\nC. Rumit\nD. Kacau\n\nKunci Jawaban: B\n\nPembahasan:\nKesan garis lurus."
+    },
+    {
+        "instruction": "Tari Daerah (Pola Lengkung).",
+        "input": "Pola lantai garis lengkung (lingkaran) memberikan kesan....",
+        "output": "Soal:\nA. Kaku\nB. Lembut dan manis\nC. Kasar\nD. Marah\n\nKunci Jawaban: B\n\nPembahasan:\nKesan garis lengkung."
+    },
+    {
+        "instruction": "Tari Daerah (Properti).",
+        "input": "Alat yang digunakan penari untuk mendukung gerak tari disebut....",
+        "output": "Soal:\nA. Aksesoris\nB. Properti Tari\nC. Senjata\nD. Mainan\n\nKunci Jawaban: B\n\nPembahasan:\nAlat pendukung tari."
+    },
+    {
+        "instruction": "Tari Daerah (Tari Piring).",
+        "input": "Tari Piring berasal dari provinsi....",
+        "output": "Soal:\nA. Jawa Barat\nB. Sumatera Barat\nC. Bali\nD. Papua\n\nKunci Jawaban: B\n\nPembahasan:\nMinangkabau (Sumbar)."
+    },
+    {
+        "instruction": "Tari Daerah (Properti Piring).",
+        "input": "Properti utama yang digunakan dalam Tari Piring adalah....",
+        "output": "Soal:\nA. Payung\nB. Piring\nC. Kipas\nD. Topeng\n\nKunci Jawaban: B\n\nPembahasan:\nSesuai namanya."
+    },
+    {
+        "instruction": "Tari Daerah (Tari Jaipong).",
+        "input": "Tari Jaipong adalah tari kreasi yang berasal dari....",
+        "output": "Soal:\nA. Jawa Tengah\nB. Jawa Barat\nC. Jawa Timur\nD. Jakarta\n\nKunci Jawaban: B\n\nPembahasan:\nSunda (Jabar)."
+    },
+    {
+        "instruction": "Tari Daerah (Tari Kecak).",
+        "input": "Tari Kecak dari Bali dicirikan dengan....",
+        "output": "Soal:\nA. Gerakan lemah gemulai\nB. Suara 'Cak cak cak' dari para penarinya\nC. Musik gamelan yang keras\nD. Penari wanita semua\n\nKunci Jawaban: B\n\nPembahasan:\nCiri khas Kecak."
+    },
+    {
+        "instruction": "Tari Daerah (Tari Saman).",
+        "input": "Tari Saman dari Aceh dilakukan dengan posisi....",
+        "output": "Soal:\nA. Berdiri tegak\nB. Duduk berbanjar/bersimpuh\nC. Tidur telentang\nD. Melompat-lompat\n\nKunci Jawaban: B\n\nPembahasan:\nPosisi duduk."
+    },
+    {
+        "instruction": "Tari Daerah (Kecepatan Saman).",
+        "input": "Tari Saman terkenal dengan gerakan tangan yang....",
+        "output": "Soal:\nA. Lambat\nB. Sangat cepat, kompak, dan dinamis\nC. Sembarangan\nD. Kaku\n\nKunci Jawaban: B\n\nPembahasan:\nKecepatan dan kekompakan."
+    },
+    {
+        "instruction": "Tari Daerah (Tari Pendet).",
+        "input": "Tari Pendet dari Bali awalnya merupakan tari....",
+        "output": "Soal:\nA. Perang\nB. Pemujaan/Upacara keagamaan (sekarang penyambutan)\nC. Pergaulan\nD. Panen\n\nKunci Jawaban: B\n\nPembahasan:\nAwalnya sakral."
+    },
+    {
+        "instruction": "Tari Daerah (Properti Pendet).",
+        "input": "Penari Pendet membawa properti berupa....",
+        "output": "Soal:\nA. Bokor berisi bunga\nB. Keris\nC. Panah\nD. Piring\n\nKunci Jawaban: A\n\nPembahasan:\nMenabur bunga."
+    },
+    {
+        "instruction": "Tari Daerah (Tari Merak).",
+        "input": "Tari Merak dari Jawa Barat terinspirasi dari gerakan hewan....",
+        "output": "Soal:\nA. Harimau\nB. Burung Merak\nC. Kupu-kupu\nD. Kuda\n\nKunci Jawaban: B\n\nPembahasan:\nFilosofi Merak."
+    },
+    {
+        "instruction": "Tari Daerah (Busana Merak).",
+        "input": "Kostum Tari Merak memiliki ciri khas pada bagian....",
+        "output": "Soal:\nA. Topi baja\nB. Sayap yang indah seperti ekor merak saat mekar\nC. Sepatu boot\nD. Jaket kulit\n\nKunci Jawaban: B\n\nPembahasan:\nKostum sayap."
+    },
+    {
+        "instruction": "Tari Daerah (Tari Kuda Lumping).",
+        "input": "Tari Kuda Lumping/Jaranan menggunakan properti berupa....",
+        "output": "Soal:\nA. Mobil-mobilan\nB. Kuda tiruan dari anyaman bambu\nC. Kuda asli\nD. Boneka beruang\n\nKunci Jawaban: B\n\nPembahasan:\nAnyaman bambu."
+    },
+    {
+        "instruction": "Tari Daerah (Tari Topeng).",
+        "input": "Tari yang penarinya menggunakan penutup wajah disebut....",
+        "output": "Soal:\nA. Tari Piring\nB. Tari Topeng\nC. Tari Payung\nD. Tari Lilin\n\nKunci Jawaban: B\n\nPembahasan:\nTopeng Cirebon/Betawi."
+    },
+    {
+        "instruction": "Tari Daerah (Tari Lilin).",
+        "input": "Tari Lilin berasal dari daerah....",
+        "output": "Soal:\nA. Sumatera Barat\nB. Jawa Tengah\nC. Kalimantan Selatan\nD. Sulawesi Utara\n\nKunci Jawaban: A\n\nPembahasan:\nMinang (Sumbar)."
+    },
+    {
+        "instruction": "Tari Daerah (Tari Pakarena).",
+        "input": "Tari Pakarena yang menggunakan properti kipas berasal dari....",
+        "output": "Soal:\nA. Sulawesi Selatan (Makassar)\nB. Sumatera Utara\nC. Papua\nD. Bali\n\nKunci Jawaban: A\n\nPembahasan:\nKipas Pakarena."
+    },
+    {
+        "instruction": "Tari Daerah (Tari Reog).",
+        "input": "Kesenian Reog yang menampilkan topeng singa barong besar berasal dari....",
+        "output": "Soal:\nA. Ponorogo (Jawa Timur)\nB. Bandung\nC. Yogyakarta\nD. Medan\n\nKunci Jawaban: A\n\nPembahasan:\nReog Ponorogo."
+    },
+    {
+        "instruction": "Tari Daerah (Wiraga).",
+        "input": "Unsur utama dalam tari adalah....",
+        "output": "Soal:\nA. Suara\nB. Gerak (Wiraga)\nC. Lukisan\nD. Patung\n\nKunci Jawaban: B\n\nPembahasan:\nWiraga = Raga/Gerak."
+    },
+    {
+        "instruction": "Tari Daerah (Wirama).",
+        "input": "Gerak tari harus sesuai dengan irama musik pengiringnya, ini disebut unsur....",
+        "output": "Soal:\nA. Wiraga\nB. Wirama\nC. Wirasa\nD. Wibawa\n\nKunci Jawaban: B\n\nPembahasan:\nWirama = Irama."
+    },
+    {
+        "instruction": "Tari Daerah (Wirasa).",
+        "input": "Penghayatan dan ekspresi wajah penari dalam membawakan tarian disebut unsur....",
+        "output": "Soal:\nA. Wiraga\nB. Wirasa\nC. Wirama\nD. Wirausaha\n\nKunci Jawaban: B\n\nPembahasan:\nWirasa = Rasa/Ekspresi."
+    },
+    {
+        "instruction": "Tari Daerah (Tata Rias).",
+        "input": "Fungsi tata rias dalam tari adalah untuk....",
+        "output": "Soal:\nA. Menutupi wajah asli\nB. Mempertegas karakter tokoh dan mempercantik penampilan\nC. Membuat penari tidak dikenali\nD. Menakuti penonton\n\nKunci Jawaban: B\n\nPembahasan:\nFungsi make-up."
+    },
+    {
+        "instruction": "Tari Daerah (Tari Bambangan Cakil).",
+        "input": "Tari Bambangan Cakil mengisahkan peperangan antara ksatria dan raksasa, termasuk jenis tari....",
+        "output": "Soal:\nA. Gembira\nB. Perang/Heroik\nC. Sedih\nD. Panen\n\nKunci Jawaban: B\n\nPembahasan:\nTema kepahlawanan."
+    },
+    {
+        "instruction": "Tari Daerah (Tari Legong).",
+        "input": "Tari Legong adalah tarian klasik yang terkenal dari....",
+        "output": "Soal:\nA. Bali\nB. Jawa\nC. Sumatera\nD. Kalimantan\n\nKunci Jawaban: A\n\nPembahasan:\nLegong Keraton."
+    },
+    {
+        "instruction": "Tari Daerah (Tari Selamat Datang).",
+        "input": "Tari yang berfungsi untuk menyambut tamu kehormatan disebut tari....",
+        "output": "Soal:\nA. Perang\nB. Penyambutan/Selamat Datang\nC. Pergaulan\nD. Upacara\n\nKunci Jawaban: B\n\nPembahasan:\nFungsi penyambutan."
+    },
+    {
+        "instruction": "Tari Daerah (Tari Yospan).",
+        "input": "Tari Yospan (Yosim Pancar) adalah tari pergaulan dari....",
+        "output": "Soal:\nA. Papua\nB. Aceh\nC. Betawi\nD. Melayu\n\nKunci Jawaban: A\n\nPembahasan:\nTari persahabatan Papua."
+    },
+    {
+        "instruction": "Tari Daerah (Tari Serimpi).",
+        "input": "Tari klasik dari keraton Jawa Tengah yang ditarikan dengan halus dan anggun adalah....",
+        "output": "Soal:\nA. Tari Serimpi\nB. Tari Kecak\nC. Tari Saman\nD. Tari Perang\n\nKunci Jawaban: A\n\nPembahasan:\nKlasik keraton."
+    },
+    {
+        "instruction": "Tari Daerah (Level Gerak).",
+        "input": "Gerakan tari yang dilakukan sambil duduk atau berbaring termasuk level....",
+        "output": "Soal:\nA. Tinggi\nB. Rendah\nC. Sedang\nD. Melayang\n\nKunci Jawaban: B\n\nPembahasan:\nLevel rendah (lantai)."
+    },
+    {
+        "instruction": "Tari Daerah (Level Sedang).",
+        "input": "Gerakan tari yang dilakukan sambil berdiri tegak termasuk level....",
+        "output": "Soal:\nA. Rendah\nB. Sedang\nC. Tinggi\nD. Sangat tinggi\n\nKunci Jawaban: B\n\nPembahasan:\nLevel sedang (berdiri)."
+    },
+    {
+        "instruction": "Tari Daerah (Level Tinggi).",
+        "input": "Gerakan tari seperti melompat atau jinjit termasuk level....",
+        "output": "Soal:\nA. Rendah\nB. Tinggi\nC. Sedang\nD. Bawah\n\nKunci Jawaban: B\n\nPembahasan:\nLevel tinggi (lepas lantai/jinjit)."
+    },
+    {
+        "instruction": "Tari Daerah (Iringan).",
+        "input": "Musik pengiring tari daerah biasanya menggunakan....",
+        "output": "Soal:\nA. Musik DJ\nB. Alat musik tradisional daerah setempat\nC. Piano klasik\nD. Gitar listrik\n\nKunci Jawaban: B\n\nPembahasan:\nMusik tradisi."
+    },
+    {
+        "instruction": "Tari Daerah (Tari Payung).",
+        "input": "Tari Payung melambangkan kasih sayang, properti payung biasanya dipegang oleh penari....",
+        "output": "Soal:\nA. Wanita\nB. Pria\nC. Anak-anak\nD. Orang tua\n\nKunci Jawaban: B\n\nPembahasan:\nPria melindungi wanita."
+    },
+    {
+        "instruction": "Tari Daerah (Tari Seudati).",
+        "input": "Tari Seudati dari Aceh ditarikan oleh sekelompok penari....",
+        "output": "Soal:\nA. Wanita\nB. Pria\nC. Campuran\nD. Anak-anak\n\nKunci Jawaban: B\n\nPembahasan:\nPenari pria (Syech)."
+    },
+    {
+        "instruction": "Tari Daerah (Tari Gambyong).",
+        "input": "Tari Gambyong dari Jawa Tengah biasanya ditarikan untuk menyambut tamu atau memeriahkan resepsi....",
+        "output": "Soal:\nA. Pernikahan\nB. Kematian\nC. Kelahiran\nD. Perpisahan\n\nKunci Jawaban: A\n\nPembahasan:\nResepsi pernikahan/tamu."
+    },
+    {
+        "instruction": "Tari Daerah (Tari Lenso).",
+        "input": "Tari Lenso dari Maluku menggunakan properti berupa....",
+        "output": "Soal:\nA. Sapu tangan\nB. Piring\nC. Kipas\nD. Topeng\n\nKunci Jawaban: A\n\nPembahasan:\nLenso = Sapu tangan."
+    },
+    {
+        "instruction": "Tari Daerah (Tari Maengket).",
+        "input": "Tari Maengket adalah tarian tradisional dari daerah....",
+        "output": "Soal:\nA. Sulawesi Utara (Minahasa)\nB. Kalimantan Timur\nC. Sumatera Selatan\nD. Nusa Tenggara Barat\n\nKunci Jawaban: A\n\nPembahasan:\nAsal Tari Maengket."
+    },
+    {
+        "instruction": "Tari Daerah (Tari Gantar).",
+        "input": "Tari Gantar dari Kalimantan Timur menggunakan properti tongkat panjang yang melambangkan....",
+        "output": "Soal:\nA. Senjata\nB. Alat penumbuk padi\nC. Dayung\nD. Tombak\n\nKunci Jawaban: B\n\nPembahasan:\nSimbol pertanian."
+    },
+    {
+        "instruction": "Tari Daerah (Tari Andun).",
+        "input": "Tari Andun dari Bengkulu biasanya ditarikan pada saat....",
+        "output": "Soal:\nA. Pesta perkawinan\nB. Upacara kematian\nC. Berburu\nD. Perang\n\nKunci Jawaban: A\n\nPembahasan:\nPesta adat."
+    },
+    {
+        "instruction": "Tari Daerah (Tari Bidadari Teminang Anak).",
+        "input": "Tari Bidadari Teminang Anak berasal dari daerah....",
+        "output": "Soal:\nA. Bengkulu\nB. Lampung\nC. Jambi\nD. Riau\n\nKunci Jawaban: A\n\nPembahasan:\nAsal Bengkulu."
+    },
+    {
+        "instruction": "Tari Daerah (Tari Sekapur Sirih).",
+        "input": "Tari Sekapur Sirih dari Jambi berfungsi sebagai tari....",
+        "output": "Soal:\nA. Perang\nB. Penyambutan tamu/Selamat datang\nC. Pergaulan\nD. Hiburan rakyat\n\nKunci Jawaban: B\n\nPembahasan:\nSimbol keramahan."
+    },
+    {
+        "instruction": "Tari Daerah (Tari Tanggai).",
+        "input": "Tari Tanggai dari Sumatera Selatan dicirikan dengan penggunaan properti....",
+        "output": "Soal:\nA. Kuku palsu panjang (tanggai)\nB. Topeng\nC. Piring\nD. Lilin\n\nKunci Jawaban: A\n\nPembahasan:\nTanggai = Kuku palsu."
+    },
+    {
+        "instruction": "Tari Daerah (Tari Campak).",
+        "input": "Tari Campak dari Bangka Belitung menggambarkan....",
+        "output": "Soal:\nA. Kesedihan\nB. Keceriaan bujang dan gadis (pergaulan)\nC. Peperangan\nD. Keagamaan\n\nKunci Jawaban: B\n\nPembahasan:\nTari muda-mudi."
+    },
+    {
+        "instruction": "Tari Daerah (Tari Zapin).",
+        "input": "Tari Zapin adalah tarian rumpun Melayu yang mendapat pengaruh budaya....",
+        "output": "Soal:\nA. India\nB. Arab/Islam\nC. China\nD. Eropa\n\nKunci Jawaban: B\n\nPembahasan:\nAkulturasi Melayu-Arab."
+    },
+    {
+        "instruction": "Tari Daerah (Tari Cakalele).",
+        "input": "Tari Cakalele dari Maluku adalah tari perang yang penarinya membawa....",
+        "output": "Soal:\nA. Parang dan Tameng (Salawaku)\nB. Kipas dan Selendang\nC. Payung dan Lilin\nD. Piring dan Mangkok\n\nKunci Jawaban: A\n\nPembahasan:\nProperti perang."
+    },
+    {
+        "instruction": "Tari Daerah (Tari Lego-Lego).",
+        "input": "Tari Lego-Lego dari NTT ditarikan dengan cara....",
+        "output": "Soal:\nA. Berpasangan\nB. Melingkar sambil bergandengan tangan\nC. Sendirian\nD. Baris berbaris\n\nKunci Jawaban: B\n\nPembahasan:\nPersatuan (melingkar)."
+    },
+    {
+        "instruction": "Tari Daerah (Tari Hudoq).",
+        "input": "Tari Hudoq dari Kalimantan Timur menggunakan topeng kayu yang menyeramkan untuk tujuan....",
+        "output": "Soal:\nA. Menakuti anak-anak\nB. Upacara adat pengusiran hama/roh jahat\nC. Hiburan ulang tahun\nD. Lomba menari\n\nKunci Jawaban: B\n\nPembahasan:\nRitual pertanian Dayak."
+    },
+    {
+        "instruction": "Tari Daerah (Busana Tari).",
+        "input": "Busana tari harus disesuaikan dengan....",
+        "output": "Soal:\nA. Selera penari\nB. Tema dan karakter tarian\nC. Harga yang mahal\nD. Warna kesukaan penonton\n\nKunci Jawaban: B\n\nPembahasan:\nKesesuaian tema."
+    },
+    {
+        "instruction": "Tari Daerah (Gerak Murni).",
+        "input": "Gerak tari yang hanya mengutamakan keindahan tanpa memiliki makna tertentu disebut....",
+        "output": "Soal:\nA. Gerak Maknawi\nB. Gerak Murni\nC. Gerak Pantomim\nD. Gerak Teatrikal\n\nKunci Jawaban: B\n\nPembahasan:\nEstetika murni."
+    },
+    {
+        "instruction": "Tari Daerah (Gerak Maknawi).",
+        "input": "Gerak tari yang mengandung arti atau maksud tertentu disebut....",
+        "output": "Soal:\nA. Gerak Murni\nB. Gerak Maknawi\nC. Gerak Sportif\nD. Gerak Refleks\n\nKunci Jawaban: B\n\nPembahasan:\nSimbolik/Bermakna."
+    },
+    {
+        "instruction": "Tari Daerah (Tari Gandrung).",
+        "input": "Tari Gandrung yang menjadi maskot kota Banyuwangi adalah wujud rasa syukur atas....",
+        "output": "Soal:\nA. Panen raya\nB. Kemenangan perang\nC. Kelahiran bayi\nD. Kesembuhan penyakit\n\nKunci Jawaban: A\n\nPembahasan:\nDewi Sri (Padi)."
+    },
+    {
+        "instruction": "Tari Daerah (Tari Remo).",
+        "input": "Tari Remo dari Jawa Timur awalnya merupakan tarian pembuka untuk pertunjukan....",
+        "output": "Soal:\nA. Wayang Kulit\nB. Ludruk\nC. Ketoprak\nD. Reog\n\nKunci Jawaban: B\n\nPembahasan:\nPembuka Ludruk."
+    },
+    {
+        "instruction": "Tari Daerah (Tari Wor).",
+        "input": "Tari Wor adalah tarian adat dari daerah....",
+        "output": "Soal:\nA. Biak, Papua\nB. Ambon, Maluku\nC. Kupang, NTT\nD. Manado, Sulut\n\nKunci Jawaban: A\n\nPembahasan:\nTradisi Wor Biak."
+    },
+    {
+        "instruction": "Seni Patung (Pengertian).",
+        "input": "Karya seni rupa 3 dimensi yang memiliki volume (panjang, lebar, tinggi) disebut....",
+        "output": "Soal:\nA. Lukisan\nB. Patung\nC. Relief\nD. Mozaik\n\nKunci Jawaban: B\n\nPembahasan:\nDefinisi 3D."
+    },
+    {
+        "instruction": "Seni Patung (Bahan Lunak).",
+        "input": "Bahan pembuatan patung yang empuk dan mudah dibentuk seperti tanah liat dan lilin mainan disebut bahan....",
+        "output": "Soal:\nA. Keras\nB. Lunak\nC. Sedang\nD. Cair\n\nKunci Jawaban: B\n\nPembahasan:\nTanah liat, plastisin, sabun = Lunak."
+    },
+    {
+        "instruction": "Seni Patung (Bahan Keras).",
+        "input": "Kayu jati, batu andesit, dan marmer termasuk bahan patung jenis....",
+        "output": "Soal:\nA. Lunak\nB. Keras\nC. Sedang\nD. Cair\n\nKunci Jawaban: B\n\nPembahasan:\nButuh pahat = Keras."
+    },
+    {
+        "instruction": "Seni Patung (Teknik Pahat).",
+        "input": "Teknik mengurangi bahan sedikit demi sedikit dengan menggunakan alat pahat dan palu disebut teknik....",
+        "output": "Soal:\nA. Butsir\nB. Pahat\nC. Cetak\nD. Konstruksi\n\nKunci Jawaban: B\n\nPembahasan:\nMengurangi bahan keras."
+    },
+    {
+        "instruction": "Seni Patung (Teknik Butsir).",
+        "input": "Teknik membuat patung dengan cara memijit, menambah, atau mengurangi bahan lunak disebut teknik....",
+        "output": "Soal:\nA. Pahat\nB. Butsir\nC. Cor\nD. Las\n\nKunci Jawaban: B\n\nPembahasan:\nUntuk bahan lunak."
+    },
+    {
+        "instruction": "Seni Patung (Teknik Cor).",
+        "input": "Teknik membuat patung dengan cara mencairkan bahan (logam/semen) lalu dituangkan ke dalam cetakan disebut teknik....",
+        "output": "Soal:\nA. Pahat\nB. Cor/Cetak\nC. Butsir\nD. Rakit\n\nKunci Jawaban: B\n\nPembahasan:\nCairan ke cetakan."
+    },
+    {
+        "instruction": "Seni Patung (Teknik Konstruksi).",
+        "input": "Teknik membuat patung dengan cara menyusun atau merakit bahan (besi, kawat, kayu) disebut teknik....",
+        "output": "Soal:\nA. Butsir\nB. Konstruksi/Merakit\nC. Pahat\nD. Cor\n\nKunci Jawaban: B\n\nPembahasan:\nMenyusun bagian."
+    },
+    {
+        "instruction": "Seni Patung (Patung Religi).",
+        "input": "Patung yang dibuat dengan tujuan untuk sarana beribadah disebut patung....",
+        "output": "Soal:\nA. Monumen\nB. Religi\nC. Dekorasi\nD. Arsitektur\n\nKunci Jawaban: B\n\nPembahasan:\nFungsi sakral."
+    },
+    {
+        "instruction": "Seni Patung (Patung Monumen).",
+        "input": "Patung yang dibuat untuk mengenang jasa pahlawan atau peristiwa bersejarah disebut patung....",
+        "output": "Soal:\nA. Religi\nB. Monumen\nC. Seni\nD. Kerajinan\n\nKunci Jawaban: B\n\nPembahasan:\nFungsi peringatan sejarah."
+    },
+    {
+        "instruction": "Seni Patung (Patung Dekorasi).",
+        "input": "Patung yang berfungsi untuk menghias bangunan atau taman disebut patung....",
+        "output": "Soal:\nA. Arsitektur\nB. Dekorasi\nC. Religi\nD. Monumen\n\nKunci Jawaban: B\n\nPembahasan:\nFungsi hiasan."
+    },
+    {
+        "instruction": "Seni Patung (Patung Arsitektur).",
+        "input": "Patung yang menjadi bagian dari konstruksi bangunan (misalnya pilar gedung) disebut patung....",
+        "output": "Soal:\nA. Seni\nB. Arsitektur\nC. Kerajinan\nD. Monumen\n\nKunci Jawaban: B\n\nPembahasan:\nPenunjang bangunan."
+    },
+    {
+        "instruction": "Seni Patung (Patung Seni).",
+        "input": "Patung yang dibuat murni untuk dinikmati keindahannya (ekspresi seniman) disebut patung....",
+        "output": "Soal:\nA. Seni/Fine Art\nB. Kerajinan\nC. Arsitektur\nD. Religi\n\nKunci Jawaban: A\n\nPembahasan:\nNilai estetika murni."
+    },
+    {
+        "instruction": "Seni Patung (Patung Kerajinan).",
+        "input": "Patung yang dibuat dalam jumlah banyak untuk diperjualbelikan sebagai souvenir disebut patung....",
+        "output": "Soal:\nA. Monumen\nB. Kerajinan\nC. Arsitektur\nD. Religi\n\nKunci Jawaban: B\n\nPembahasan:\nProduk massal/souvenir."
+    },
+    {
+        "instruction": "Seni Patung (Alat Butsir).",
+        "input": "Alat bantu yang terbuat dari kayu dan kawat untuk membentuk tanah liat disebut....",
+        "output": "Soal:\nA. Pahat\nB. Butsir\nC. Palu\nD. Gergaji\n\nKunci Jawaban: B\n\nPembahasan:\nAlat teknik butsir."
+    },
+    {
+        "instruction": "Seni Patung (Meja Putar).",
+        "input": "Alat berupa meja bulat yang bisa berputar untuk memudahkan pembuatan patung tanah liat disebut....",
+        "output": "Soal:\nA. Meja makan\nB. Meja putar\nC. Kursi putar\nD. Roda\n\nKunci Jawaban: B\n\nPembahasan:\nMemudahkan melihat segala sisi."
+    },
+    {
+        "instruction": "Seni Patung (Gips).",
+        "input": "Gips adalah bahan membuat patung yang bersifat....",
+        "output": "Soal:\nA. Cair lalu mengeras\nB. Keras dan susah dibentuk\nC. Lunak selamanya\nD. Beracun\n\nKunci Jawaban: A\n\nPembahasan:\nBubuk dicampur air -> keras."
+    },
+    {
+        "instruction": "Seni Patung (Patung Figuratif).",
+        "input": "Patung yang bentuknya meniru wujud alam seperti manusia, hewan, atau tumbuhan disebut patung....",
+        "output": "Soal:\nA. Abstrak\nB. Figuratif/Realis\nC. Non-figuratif\nD. Imajiner\n\nKunci Jawaban: B\n\nPembahasan:\nMeniru wujud nyata."
+    },
+    {
+        "instruction": "Seni Patung (Patung Non-Figuratif).",
+        "input": "Patung yang bentuknya tidak meniru alam, hanya berupa garis, bidang, atau lekukan disebut patung....",
+        "output": "Soal:\nA. Realis\nB. Non-figuratif/Abstrak\nC. Dekoratif\nD. Tradisional\n\nKunci Jawaban: B\n\nPembahasan:\nAbstrak."
+    },
+    {
+        "instruction": "Seni Patung (Relief).",
+        "input": "Karya seni rupa yang menonjol dari bidang datar (seperti pada dinding candi) disebut....",
+        "output": "Soal:\nA. Patung bulat\nB. Relief\nC. Lukisan\nD. Foto\n\nKunci Jawaban: B\n\nPembahasan:\nPahatan dinding."
+    },
+    {
+        "instruction": "Seni Patung (Free Standing).",
+        "input": "Patung yang berdiri sendiri dan tidak menempel pada latar belakang apapun disebut....",
+        "output": "Soal:\nA. Relief\nB. Free Standing (Patung lepas)\nC. Boss\nD. Zonde\n\nKunci Jawaban: B\n\nPembahasan:\nBebas berdiri."
+    },
+    {
+        "instruction": "Seni Patung (Teknik Modeling).",
+        "input": "Membuat model terlebih dahulu sebelum dicetak atau ditiru bahan lain adalah langkah awal teknik....",
+        "output": "Soal:\nA. Pahat\nB. Modeling\nC. Ukir\nD. Las\n\nKunci Jawaban: B\n\nPembahasan:\nMembuat model."
+    },
+    {
+        "instruction": "Seni Patung (Plastisin).",
+        "input": "Plastisin adalah bahan buatan yang sifatnya mirip dengan....",
+        "output": "Soal:\nA. Batu\nB. Tanah liat\nC. Kayu\nD. Logam\n\nKunci Jawaban: B\n\nPembahasan:\nLunak dan mudah dibentuk."
+    },
+    {
+        "instruction": "Seni Patung (Patung Jenderal Sudirman).",
+        "input": "Patung Jenderal Sudirman di Jakarta termasuk jenis patung....",
+        "output": "Soal:\nA. Dekorasi\nB. Monumen\nC. Mainan\nD. Religi\n\nKunci Jawaban: B\n\nPembahasan:\nMengenang pahlawan."
+    },
+    {
+        "instruction": "Seni Patung (Patung Budha).",
+        "input": "Patung Budha di Candi Borobudur termasuk jenis patung....",
+        "output": "Soal:\nA. Religi\nB. Mainan\nC. Kerajinan\nD. Dekorasi\n\nKunci Jawaban: A\n\nPembahasan:\nSarana ibadah/simbol agama."
+    },
+    {
+        "instruction": "Seni Patung (Bahan Sedang).",
+        "input": "Kayu waru, kayu sengon, dan kayu mahoni termasuk bahan....",
+        "output": "Soal:\nA. Lunak\nB. Sedang\nC. Keras\nD. Sangat keras\n\nKunci Jawaban: B\n\nPembahasan:\nTidak terlalu keras/lunak."
+    },
+    {
+        "instruction": "Seni Patung (Emas).",
+        "input": "Logam mulia seperti emas dan perak bisa dibuat patung dengan teknik....",
+        "output": "Soal:\nA. Pahat\nB. Cor/Tempa\nC. Butsir\nD. Anyam\n\nKunci Jawaban: B\n\nPembahasan:\nLogam dicor/ditempa."
+    },
+    {
+        "instruction": "Seni Patung (Kertas).",
+        "input": "Patung juga bisa dibuat dari bubur kertas, teknik ini memanfaatkan bahan....",
+        "output": "Soal:\nA. Mahal\nB. Bekas/Limbah\nC. Impor\nD. Langka\n\nKunci Jawaban: B\n\nPembahasan:\nDaur ulang kertas."
+    },
+    {
+        "instruction": "Seni Patung (Warna).",
+        "input": "Langkah akhir dalam pembuatan patung untuk memperindah tampilan adalah....",
+        "output": "Soal:\nA. Pengecatan/Pewarnaan\nB. Pembakaran\nC. Pengeringan\nD. Pemotongan\n\nKunci Jawaban: A\n\nPembahasan:\nFinishing touch."
+    },
+    {
+        "instruction": "Seni Patung (Torso).",
+        "input": "Patung yang hanya menampilkan bagian badan (dada, pinggang, panggul) tanpa kepala, tangan, dan kaki disebut....",
+        "output": "Soal:\nA. Bust (Dada)\nB. Torso\nC. Kepala\nD. Utuh\n\nKunci Jawaban: B\n\nPembahasan:\nBadan saja = Torso."
+    },
+    {
+        "instruction": "Seni Patung (Patung Dada).",
+        "input": "Patung yang hanya menampilkan bagian kepala sampai dada disebut patung....",
+        "output": "Soal:\nA. Torso\nB. Dada (Bust)\nC. Wajah\nD. Lengkap\n\nKunci Jawaban: B\n\nPembahasan:\nKepala-Dada."
+    },
+    {
+        "instruction": "Seni Patung (Sabun).",
+        "input": "Sabun batang dapat diukir menjadi patung hewan atau bunga, ini termasuk karya seni berbahan....",
+        "output": "Soal:\nA. Keras\nB. Lunak\nC. Sedang\nD. Cair\n\nKunci Jawaban: B\n\nPembahasan:\nSabun mudah diukir."
+    },
+    {
+        "instruction": "Seni Patung (Teknik Las).",
+        "input": "Teknik menyambung bahan logam dengan cara dipanaskan untuk membuat patung disebut teknik....",
+        "output": "Soal:\nA. Las/Rakit\nB. Pahat\nC. Butsir\nD. Cetak\n\nKunci Jawaban: A\n\nPembahasan:\nMetal welding."
+    },
+    {
+        "instruction": "Seni Patung (Patung Taman).",
+        "input": "Patung bangau atau peri yang diletakkan di tengah kolam taman berfungsi sebagai....",
+        "output": "Soal:\nA. Eksterior/Taman\nB. Interior\nC. Religi\nD. Monumen\n\nKunci Jawaban: A\n\nPembahasan:\nDekorasi luar ruang."
+    },
+    {
+        "instruction": "Seni Patung (Patung Interior).",
+        "input": "Patung kecil yang diletakkan di atas meja ruang tamu berfungsi sebagai....",
+        "output": "Soal:\nA. Eksterior\nB. Interior\nC. Monumen\nD. Arsitektur\n\nKunci Jawaban: B\n\nPembahasan:\nDekorasi dalam ruang."
+    },
+    {
+        "instruction": "Seni Patung (Tanah Liat).",
+        "input": "Agar tanah liat tidak mudah retak saat kering, dalam pembuatannya harus....",
+        "output": "Soal:\nA. Dicampur banyak air\nB. Dipijit-pijit hingga padat dan tidak ada gelembung udara\nC. Dijemur langsung di matahari terik\nD. Diberi pewarna\n\nKunci Jawaban: B\n\nPembahasan:\nMenghilangkan udara."
+    },
+    {
+        "instruction": "Seni Patung (Batu).",
+        "input": "Alat utama untuk membuat patung dari batu adalah....",
+        "output": "Soal:\nA. Gergaji\nB. Pahat dan Palu\nC. Kuas\nD. Gunting\n\nKunci Jawaban: B\n\nPembahasan:\nAlat pahat batu."
+    },
+    {
+        "instruction": "Seni Patung (Kayu).",
+        "input": "Jenis kayu yang bagus untuk dibuat patung karena seratnya halus dan kuat adalah kayu....",
+        "output": "Soal:\nA. Jati\nB. Pisang\nC. Pepaya\nD. Singkong\n\nKunci Jawaban: A\n\nPembahasan:\nKayu berkualitas."
+    },
+    {
+        "instruction": "Seni Patung (Patung Kinetik).",
+        "input": "Patung yang bisa bergerak karena bantuan mesin atau tenaga angin disebut patung....",
+        "output": "Soal:\nA. Statis\nB. Kinetik\nC. Primitif\nD. Klasik\n\nKunci Jawaban: B\n\nPembahasan:\nKinetik = Bergerak."
+    },
+    {
+        "instruction": "Seni Patung (Patung Primitif).",
+        "input": "Patung Asmat dari Papua yang memiliki ciri khas ukiran rumit termasuk gaya patung....",
+        "output": "Soal:\nA. Modern\nB. Tradisional/Primitif\nC. Abstrak\nD. Kontemporer\n\nKunci Jawaban: B\n\nPembahasan:\nGaya suku adat."
+    },
+    {
+        "instruction": "Seni Patung (Patung Kontemporer).",
+        "input": "Patung masa kini yang bentuk dan bahannya sangat bebas dan kreatif disebut patung....",
+        "output": "Soal:\nA. Klasik\nB. Tradisional\nC. Kontemporer/Modern\nD. Kuno\n\nKunci Jawaban: C\n\nPembahasan:\nSeni masa kini."
+    },
+    {
+        "instruction": "Seni Patung (Patung Zonde).",
+        "input": "Patung yang posisi badannya berdiri atau duduk tetapi tidak berdiri sendiri (ada tumpuan) disebut....",
+        "output": "Soal:\nA. Zonde (Boss)\nB. Free Standing\nC. Relief\nD. Torso\n\nKunci Jawaban: A\n\nPembahasan:\nPosisi Zonde."
+    },
+    {
+        "instruction": "Seni Patung (Teknik Pijat).",
+        "input": "Teknik membentuk tanah liat dengan jari-jari tangan secara langsung disebut teknik....",
+        "output": "Soal:\nA. Cetak\nB. Pijat/Pinching\nC. Pahat\nD. Ukir\n\nKunci Jawaban: B\n\nPembahasan:\nHand building."
+    },
+    {
+        "instruction": "Seni Patung (Patung Garuda Wisnu Kencana).",
+        "input": "Patung Garuda Wisnu Kencana (GWK) yang sangat megah berada di pulau....",
+        "output": "Soal:\nA. Jawa\nB. Bali\nC. Sumatera\nD. Kalimantan\n\nKunci Jawaban: B\n\nPembahasan:\nIkon Bali."
+    },
+    {
+        "instruction": "Seni Patung (Nyoman Nuarta).",
+        "input": "Seniman pembuat patung GWK adalah....",
+        "output": "Soal:\nA. Affandi\nB. Nyoman Nuarta\nC. Basuki Abdullah\nD. Raden Saleh\n\nKunci Jawaban: B\n\nPembahasan:\nMaestro patung."
+    },
+    {
+        "instruction": "Seni Patung (Patung Pahlawan Revolusi).",
+        "input": "Monumen Pancasila Sakti di Lubang Buaya dibuat untuk mengenang....",
+        "output": "Soal:\nA. Pahlawan Kemerdekaan\nB. Pahlawan Revolusi\nC. Pahlawan Tanpa Tanda Jasa\nD. Pahlawan Emansipasi\n\nKunci Jawaban: B\n\nPembahasan:\nPeristiwa G30S."
+    },
+    {
+        "instruction": "Seni Patung (Patung Sura dan Baya).",
+        "input": "Patung Ikan Hiu dan Buaya adalah lambang kota....",
+        "output": "Soal:\nA. Jakarta\nB. Surabaya\nC. Semarang\nD. Bandung\n\nKunci Jawaban: B\n\nPembahasan:\nSura & Baya."
+    },
+    {
+        "instruction": "Seni Patung (Patung Liberty).",
+        "input": "Patung Liberty yang memegang obor adalah simbol kebebasan yang terdapat di negara....",
+        "output": "Soal:\nA. Inggris\nB. Amerika Serikat\nC. Prancis\nD. Belanda\n\nKunci Jawaban: B\n\nPembahasan:\nNew York, USA."
+    },
+    {
+        "instruction": "Seni Patung (Patung Merlion).",
+        "input": "Patung singa berbadan ikan (Merlion) adalah simbol negara....",
+        "output": "Soal:\nA. Malaysia\nB. Singapura\nC. Thailand\nD. Vietnam\n\nKunci Jawaban: B\n\nPembahasan:\nIkon Singapura."
+    },
+    {
+        "instruction": "Seni Patung (Tugu Monas).",
+        "input": "Tugu Monas di Jakarta puncaknya berbentuk lidah api yang dilapisi....",
+        "output": "Soal:\nA. Perak\nB. Emas\nC. Tembaga\nD. Besi\n\nKunci Jawaban: B\n\nPembahasan:\nEmas murni."
+    },
+    {
+        "instruction": "Seni Patung (Patung Sphinx).",
+        "input": "Patung berbadan singa berkepala manusia di Mesir disebut....",
+        "output": "Soal:\nA. Mumi\nB. Sphinx\nC. Piramida\nD. Obelisk\n\nKunci Jawaban: B\n\nPembahasan:\nPenjaga Piramida."
+    },
+    {
+        "instruction": "Seni Patung (Patung lilin).",
+        "input": "Museum Madame Tussauds terkenal dengan koleksi patung tokoh dunia yang terbuat dari....",
+        "output": "Soal:\nA. Batu\nB. Lilin\nC. Kayu\nD. Besi\n\nKunci Jawaban: B\n\nPembahasan:\nPatung lilin realistis."
+    },
+    {
+        "instruction": "Seni Patung (Definisi).",
+        "input": "Karya seni patung berbeda dengan lukisan karena patung dapat dilihat dari....",
+        "output": "Soal:\nA. Satu arah saja\nB. Segala arah (360 derajat)\nC. Belakang saja\nD. Depan saja\n\nKunci Jawaban: B\n\nPembahasan:\nSifat 3 Demensi."
+    },
+    {
+        "instruction": "Seni Patung (Volume).",
+        "input": "Unsur yang membedakan karya 2 dimensi dan 3 dimensi adalah adanya unsur....",
+        "output": "Soal:\nA. Panjang\nB. Lebar\nC. Volume/Ruang\nD. Warna\n\nKunci Jawaban: C\n\nPembahasan:\nRuang/Ketebalan."
+    }
+]
