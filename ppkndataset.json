@@ -1053,10 +1053,5 @@
         "instruction": "Keberagaman (Suku).",
         "input": "Suku Baduy Dalam dan Baduy Luar tinggal di provinsi....",
         "output": "Soal:\nA. Jawa Barat (Banten)\nB. Jawa Barat (Bandung)\nC. DKI Jakarta\nD. Jawa Tengah\n\nKunci Jawaban: A\n\nPembahasan:\nBaduy = Banten (dulu masuk Jabar, sekarang provinsi Banten, tapi secara budaya Sunda/Banten)."
-    },
-    {
-        "instruction": "Final Check.",
-        "input": "Bhineka Tunggal Ika",
-        "output": "Soal:\nSemboyan negara kita adalah....\n\nA. Garuda Pancasila\nB. Bhinneka Tunggal Ika\nC. UUD 1945\nD. Pancasila\n\nKunci Jawaban: B\n\nPembahasan:\nSemboyan = Bhinneka Tunggal Ika."
     }
 ]
