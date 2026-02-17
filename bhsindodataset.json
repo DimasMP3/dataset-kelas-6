@@ -1,0 +1,1067 @@
+[
+    {
+        "instruction": "Tentukan ide pokok paragraf.",
+        "input": "Eceng gondok sering dianggap sebagai tanaman pengganggu karena pertumbuhannya yang sangat cepat. Namun, di tangan orang-orang kreatif, eceng gondok dapat diubah menjadi kerajinan tangan yang bernilai ekonomi tinggi. Tanaman ini bisa dikeringkan dan dianyam menjadi tas, sandal, dan berbagai perabotan rumah tangga.",
+        "output": "Soal:\nIde pokok dari paragraf di atas adalah....\n\nA. Pertumbuhan eceng gondok yang sangat cepat\nB. Eceng gondok sebagai tanaman pengganggu\nC. Pemanfaatan eceng gondok menjadi kerajinan tangan\nD. Cara mengeringkan eceng gondok\n\nKunci Jawaban: C\n\nPembahasan:\nParagraf tersebut membahas tentang bagaimana eceng gondok yang dianggap pengganggu dapat dimanfaatkan menjadi kerajinan tangan."
+    },
+    {
+        "instruction": "Tentukan simpulan paragraf.",
+        "input": "Banjir sering terjadi di kota-kota besar saat musim hujan tiba. Penyebab utamanya adalah sistem drainase yang buruk dan kebiasaan masyarakat membuang sampah sembarangan. Selain itu, kurangnya daerah resapan air juga memperparah kondisi tersebut.",
+        "output": "Soal:\nSimpulan dari paragraf tersebut adalah....\n\nA. Banjir hanya terjadi di kota besar\nB. Hujan deras adalah satu-satunya penyebab banjir\nC. Banjir di kota besar disebabkan oleh faktor alam dan perilaku manusia\nD. Pemerintah harus membangun drainase\n\nKunci Jawaban: C\n\nPembahasan:\nSimpulan merangkum penyebab banjir yang disebutkan (drainase buruk, sampah, kurang resapan) yang merupakan kombinasi faktor infrastruktur dan perilaku."
+    },
+    {
+        "instruction": "Tentukan ide pokok paragraf.",
+        "input": "Kesehatan mata sangat penting untuk dijaga karena mata adalah jendela dunia. Salah satu cara menjaganya adalah dengan tidak membaca di tempat yang redup. Mengonsumsi makanan yang mengandung vitamin A seperti wortel juga sangat baik untuk kesehatan mata.",
+        "output": "Soal:\nIde pokok paragraf tersebut adalah....\n\nA. Wortel mengandung vitamin A\nB. Cara menjaga kesehatan mata\nC. Bahaya membaca di tempat redup\nD. Mata adalah jendela dunia\n\nKunci Jawaban: B\n\nPembahasan:\nKeseluruhan paragraf membahas tentang pentingnya dan cara-cara menjaga kesehatan mata."
+    },
+    {
+        "instruction": "Tentukan simpulan paragraf.",
+        "input": "Bermain gim daring secara berlebihan dapat berdampak buruk bagi anak-anak. Mereka bisa menjadi malas belajar dan lupa waktu. Selain itu, kesehatan mata juga bisa terganggu karena terlalu lama menatap layar gawai.",
+        "output": "Soal:\nSimpulan dari paragraf di atas adalah....\n\nA. Gim daring sangat menyenangkan bagi anak-anak\nB. Anak-anak harus dilarang bermain gim daring\nC. Bermain gim daring berlebihan memiliki dampak negatif bagi anak\nD. Kesehatan mata anak terganggu karena gim\n\nKunci Jawaban: C\n\nPembahasan:\nParagraf menjelaskan berbagai dampak negatif (malas belajar, lupa waktu, gangguan mata) akibat bermain gim berlebihan."
+    },
+    {
+        "instruction": "Tentukan ide pokok paragraf.",
+        "input": "Sampah plastik menjadi masalah serius bagi lingkungan kita. Plastik membutuhkan waktu ratusan tahun untuk terurai di dalam tanah. Jika dibuang ke laut, sampah plastik dapat membahayakan hewan-hewan laut yang mengira itu adalah makanan.",
+        "output": "Soal:\nIde pokok bacaan di atas adalah....\n\nA. Hewan laut memakan plastik\nB. Bahaya sampah plastik bagi lingkungan\nC. Plastik sulit terurai\nD. Jenis-jenis sampah plastik\n\nKunci Jawaban: B\n\nPembahasan:\nParagraf membahas dampak buruk atau bahaya yang ditimbulkan oleh sampah plastik bagi tanah dan laut."
+    },
+    {
+        "instruction": "Tentukan simpulan paragraf.",
+        "input": "Sarapan pagi memberikan energi untuk memulai aktivitas sehari-hari. Dengan sarapan, konsentrasi belajar di sekolah akan lebih terjaga. Oleh karena itu, kita sebaiknya tidak melewatkan sarapan sebelum berangkat sekolah.",
+        "output": "Soal:\nSimpulan yang tepat untuk paragraf tersebut adalah....\n\nA. Sarapan pagi sangat penting untuk energi dan konsentrasi belajar\nB. Kita harus makan banyak saat sarapan\nC. Sarapan membuat kita tidak mengantuk\nD. Makanan sarapan harus bergizi\n\nKunci Jawaban: A\n\nPembahasan:\nSimpulan adalah intisari bahwa sarapan penting karena memberikan energi dan menjaga konsentrasi."
+    },
+    {
+        "instruction": "Tentukan ide pokok paragraf.",
+        "input": "Indonesia dikenal sebagai negara kepulauan yang memiliki keragaman budaya yang luar biasa. Setiap daerah memiliki tarian, lagu, dan adat istiadat yang berbeda-beda. Keragaman ini menjadi kekayaan bangsa yang harus kita lestarikan.",
+        "output": "Soal:\nIde pokok paragraf tersebut adalah....\n\nA. Indonesia adalah negara kepulauan\nB. Keragaman budaya di Indonesia\nC. Cara melestarikan budaya\nD. Jenis tarian daerah\n\nKunci Jawaban: B\n\nPembahasan:\nParagraf berfokus pada keragaman budaya (tari, lagu, adat) yang dimiliki Indonesia."
+    },
+    {
+        "instruction": "Tentukan simpulan paragraf.",
+        "input": "Tanaman teh tumbuh subur di daerah pegunungan yang berhawa sejuk. Ketinggian dan curah hujan sangat mempengaruhi kualitas daun teh yang dihasilkan. Itulah sebabnya perkebunan teh banyak ditemukan di dataran tinggi seperti Puncak, Jawa Barat.",
+        "output": "Soal:\nSimpulan isi paragraf tersebut adalah....\n\nA. Teh adalah tanaman asli Indonesia\nB. Puncak Jawa Barat penghasil teh terbesar\nC. Tanaman teh cocok tumbuh di dataran tinggi yang sejuk\nD. Teh membutuhkan banyak air\n\nKunci Jawaban: C\n\nPembahasan:\nParagraf menyimpulkan bahwa habitat yang cocok untuk tanaman teh adalah daerah pegunungan/dataran tinggi."
+    },
+    {
+        "instruction": "Tentukan ide pokok paragraf.",
+        "input": "Tidur yang cukup sangat penting bagi masa pertumbuhan anak-anak. Saat tidur, tubuh memproduksi hormon pertumbuhan yang membantu perkembangan fisik. Kurang tidur dapat menyebabkan anak menjadi rewel dan sulit berkonsentrasi.",
+        "output": "Soal:\nIde pokok dari paragraf di atas adalah....\n\nA. Hormon pertumbuhan diproduksi saat tidur\nB. Akibat kurang tidur pada anak\nC. Pentingnya tidur cukup bagi pertumbuhan anak\nD. Anak-anak suka tidur\n\nKunci Jawaban: C\n\nPembahasan:\nGagasan utama paragraf adalah manfaat dan pentingnya tidur bagi proses pertumbuhan anak."
+    },
+    {
+        "instruction": "Tentukan simpulan paragraf.",
+        "input": "Hutan memiliki peran sebagai paru-paru dunia karena menghasilkan oksigen. Selain itu, hutan juga berfungsi menyerap air hujan untuk mencegah banjir. Oleh sebab itu, kelestarian hutan wajib kita jaga bersama.",
+        "output": "Soal:\nSimpulan dari paragraf tersebut adalah....\n\nA. Hutan menghasilkan oksigen\nB. Kita harus menjaga kelestarian hutan karena fungsinya yang vital\nC. Hutan mencegah banjir\nD. Hutan adalah tempat hidup hewan\n\nKunci Jawaban: B\n\nPembahasan:\nSimpulan menggabungkan fungsi hutan dan ajakan untuk menjaganya."
+    },
+    {
+        "instruction": "Tentukan ide pokok paragraf.",
+        "input": "Kupu-kupu mengalami proses metamorfosis yang sempurna. Siklus hidupnya dimulai dari telur yang menetas menjadi ulat. Ulat kemudian berubah menjadi kepompong sebelum akhirnya menjadi kupu-kupu yang indah.",
+        "output": "Soal:\nIde pokok paragraf tersebut adalah....\n\nA. Makanan ulat adalah daun\nB. Tahapan metamorfosis kupu-kupu\nC. Kupu-kupu hewan yang indah\nD. Telur kupu-kupu menetas\n\nKunci Jawaban: B\n\nPembahasan:\nParagraf menjelaskan urutan siklus hidup atau metamorfosis kupu-kupu."
+    },
+    {
+        "instruction": "Tentukan simpulan paragraf.",
+        "input": "Siswa kelas 6 SD Harapan Bangsa sangat rajin membersihkan kelas. Setiap pagi mereka menyapu dan mengepel lantai. Meja dan kursi juga disusun rapi sehingga suasana belajar menjadi nyaman.",
+        "output": "Soal:\nSimpulan paragraf tersebut adalah....\n\nA. Kelas 6 SD Harapan Bangsa menjadi nyaman karena siswa rajin membersihkannya\nB. Siswa kelas 6 selalu datang pagi\nC. Guru senang mengajar di kelas 6\nD. Alat kebersihan di kelas 6 lengkap\n\nKunci Jawaban: A\n\nPembahasan:\nMenyimpulkan hubungan sebab-akibat: rajin bersih-bersih menyebabkan suasana nyaman."
+    },
+    {
+        "instruction": "Tentukan ide pokok paragraf.",
+        "input": "Pencemaran udara di kota besar semakin memprihatinkan akibat asap kendaraan bermotor dan pabrik. Udara yang kotor dapat menimbulkan berbagai penyakit pernapasan seperti asma dan ISPA. Pemerintah perlu menggalakkan penanaman pohon untuk mengurangi polusi.",
+        "output": "Soal:\nIde pokok paragraf di atas adalah....\n\nA. Penanaman pohon di kota\nB. Dampak pencemaran udara di kota besar\nC. Penyebab penyakit asma\nD. Jumlah kendaraan bermotor\n\nKunci Jawaban: B\n\nPembahasan:\nParagraf membahas kondisi pencemaran udara dan dampaknya bagi kesehatan."
+    },
+    {
+        "instruction": "Tentukan simpulan paragraf.",
+        "input": "Membaca buku adalah kegiatan yang sangat bermanfaat. Dengan membaca, wawasan dan pengetahuan kita akan bertambah luas. Orang yang rajin membaca tidak akan mudah tertipu oleh informasi palsu atau hoaks.",
+        "output": "Soal:\nSimpulan dari teks tersebut adalah....\n\nA. Membaca buku harus dilakukan di perpustakaan\nB. Membaca buku menambah wawasan dan membuat kita kritis\nC. Buku adalah sumber pengetahuan\nD. Hoaks banyak beredar di masyarakat\n\nKunci Jawaban: B\n\nPembahasan:\nInti paragraf adalah manfaat membaca yaitu menambah wawasan dan menghindari ketidaktahuan."
+    },
+    {
+        "instruction": "Tentukan ide pokok paragraf.",
+        "input": "Komodo adalah hewan reptil purba yang hanya (endemik) hidup di Indonesia. Habitat aslinya terdapat (berada) di Pulau Komodo dan beberapa pulau kecil di sekitarnya. Hewan ini dilindungi oleh negara karena keberadaannya yang semakin langka.",
+        "output": "Soal:\nIde pokok bacaan tersebut adalah....\n\nA. Komodo hewan yang berbahaya\nB. Pulau Komodo tempat wisata\nC. Komodo hewan endemik Indonesia yang dilindungi\nD. Makanan komodo adalah daging\n\nKunci Jawaban: C\n\nPembahasan:\nParagraf menjelaskan status komodo sebagai hewan khas Indonesia yang dilindungi."
+    },
+    {
+        "instruction": "Tentukan simpulan paragraf.",
+        "input": "Air bersih merupakan kebutuhan pokok setiap manusia untuk minum, mandi, dan mencuci. Namun, ketersediaan air bersih kini semakin berkurang karena pencemaran sungai. Kita harus mulai menghemat air dan menjaga kebersihan sungai agar pasokan air bersih tetap terjaga.",
+        "output": "Soal:\nSimpulan paragraf di atas adalah....\n\nA. Kita perlu menghemat air dan menjaga sungai demi ketersediaan air bersih\nB. Air bersih digunakan untuk mencuci\nC. Sungai banyak yang tercemar\nD. Manusia butuh minum\n\nKunci Jawaban: A\n\nPembahasan:\nKesimpulan berisi ajakan bertindak (hemat & jaga sungai) untuk mengatasi masalah kekurangan air bersih."
+    },
+    {
+        "instruction": "Tentukan ide pokok paragraf.",
+        "input": "Batik merupakan warisan budaya Indonesia yang telah diakui oleh dunia (UNESCO). Setiap motif batik memiliki makna filosofis yang mendalam. Proses pembuatannya yang rumit membuat batik tulis memiliki nilai seni yang tinggi.",
+        "output": "Soal:\nIde pokok dari paragraf tersebut adalah....\n\nA. Harga batik tulis mahal\nB. Batik sebagai warisan budaya Indonesia yang bernilai tinggi\nC. UNESCO mengakui batik\nD. Cara membuat batik\n\nKunci Jawaban: B\n\nPembahasan:\nParagraf membahas batik sebagai warisan budaya dengan nilai filosofis dan seni."
+    },
+    {
+        "instruction": "Tentukan simpulan paragraf.",
+        "input": "Kemarau panjang menyebabkan banyak sawah mengalami kekeringan dan gagal panen. Petani mengalami kerugian besar karena padi mereka mati kekurangan air. Harga beras di pasar pun mulai merangkak naik akibat pasokan yang menipis.",
+        "output": "Soal:\nSimpulan dari paragraf tersebut adalah....\n\nA. Kemarau panjang berdampak buruk bagi petani dan harga beras\nB. Petani harus mencari pekerjaan lain\nC. Harga beras selalu naik setiap tahun\nD. Pemerintah harus memberi bantuan air\n\nKunci Jawaban: A\n\nPembahasan:\nSimpulan merangkum dampak kemarau: gagal panen (kerugian petani) dan kenaikan harga beras."
+    },
+    {
+        "instruction": "Tentukan ide pokok paragraf.",
+        "input": "Buah naga memiliki banyak khasiat bagi kesehatan tubuh. Buah ini kaya akan antioksidan yang dapat mencegah penuaan dini. Selain itu, kandungan seratnya yang tinggi juga baik untuk melancarkan pencernaan.",
+        "output": "Soal:\nIde pokok paragraf di atas adalah....\n\nA. Kandungan serat buah naga\nB. Manfaat buah naga bagi kesehatan\nC. Buah naga mencegah penuaan\nD. Rasa buah naga manis\n\nKunci Jawaban: B\n\nPembahasan:\nGagasan utamanya adalah khasiat/manfaat buah naga secara umum yang dirinci di kalimat penjelas."
+    },
+    {
+        "instruction": "Tentukan simpulan paragraf.",
+        "input": "Penggunaan gawai (gadget) di kalangan pelajar bagaikan pisau bermata dua. Di satu sisi, gawai memudahkan siswa mencari informasi pelajaran. Namun di sisi lain, penggunaan yang tidak terkontrol membuat siswa kecanduan gim dan media sosial.",
+        "output": "Soal:\nSimpulan paragraf tersebut adalah....\n\nA. Gawai harus dilarang di sekolah\nB. Gawai memiliki dampak positif dan negatif bagi pelajar\nC. Siswa lebih suka main gim daripada belajar\nD. Gawai adalah alat komunikasi canggih\n\nKunci Jawaban: B\n\nPembahasan:\nSimpulan mencakup kedua sisi pandangan (positif dan negatif) yang dibahas."
+    },
+    {
+        "instruction": "Tentukan ide pokok paragraf.",
+        "input": "Candi Borobudur adalah candi Buddha terbesar di dunia yang terletak di Magelang, Jawa Tengah. Bangunan ini memiliki arsitektur yang megah dengan relief yang menceritakan kehidupan Buddha. Banyak wisatawan mancanegara datang untuk mengagumi keindahan Candi Borobudur.",
+        "output": "Soal:\nIde pokok bacaan tersebut adalah....\n\nA. Lokasi Candi Borobudur\nB. Keindahan dan kemegahan Candi Borobudur\nC. Turis asing di Borobudur\nD. Relief candi Buddha\n\nKunci Jawaban: B\n\nPembahasan:\nParagraf mendeskripsikan tentang Candi Borobudur (besar, megah, indah)."
+    },
+    {
+        "instruction": "Tentukan simpulan paragraf.",
+        "input": "Pemanasan global menyebabkan suhu bumi meningkat dan es di kutub mencair. Hal ini mengakibatkan naiknya permukaan air laut yang mengancam pulau-pulau kecil. Jika tidak segera dicegah, banyak daratan akan tenggelam di masa depan.",
+        "output": "Soal:\nSimpulan dari teks di atas adalah....\n\nA. Es di kutub sangat dingin\nB. Pemanasan global mengancam keberadaan pulau-pulau kecil\nC. Air laut rasanya asin\nD. Kita harus pindah ke gunung\n\nKunci Jawaban: B\n\nPembahasan:\nSimpulan menghubungkan sebab (pemanasan global) dangan akibat utamanya (ancaman bagi pulau/daratan)."
+    },
+    {
+        "instruction": "Tentukan ide pokok paragraf.",
+        "input": "Disiplin adalah kunci kesuksesan dalam meraih cita-cita. Dengan disiplin, kita dapat mengatur waktu belajar dan bermain dengan baik. Orang yang disiplin biasanya akan lebih dihargai karena selalu menepati janji dan tanggung jawab.",
+        "output": "Soal:\nIde pokok paragraf tersebut adalah....\n\nA. Manfaat sikap disiplin\nB. Cara mengatur waktu\nC. Cita-cita masa depan\nD. Menepati janji\n\nKunci Jawaban: A\n\nPembahasan:\nIstilah 'Disiplin adalah kunci...' dan penjelasan manfaatnya menunjukkan ide pokok tentang pentingnya/manfaat disiplin."
+    },
+    {
+        "instruction": "Tentukan simpulan paragraf.",
+        "input": "Koperasi sekolah menyediakan berbagai kebutuhan siswa dengan harga terjangkau. Keuntungan koperasi akan dikembalikan lagi kepada anggota dalam bentuk Sisa Hasil Usaha (SHU). Dengan menjadi anggota koperasi, siswa juga belajar berorganisasi dan berwirausaha.",
+        "output": "Soal:\nSimpulan dari paragraf di atas adalah....\n\nA. Koperasi sekolah mencari keuntungan besar\nB. Koperasi sekolah bermanfaat bagi siswa dalam ekonomi dan pendidikan\nC. Siswa wajib belanja di koperasi\nD. SHU dibagikan setiap bulan\n\nKunci Jawaban: B\n\nPembahasan:\nParagraf menjelaskan manfaat materi (barang murah, SHU) dan edukasi (belajar organisasi) koperasi."
+    },
+    {
+        "instruction": "Tentukan ide pokok paragraf.",
+        "input": "Wortel dikenal sebagai sayuran yang kaya vitamin A yang baik untuk mata. Namun, wortel juga mengandung serat yang dapat memperbaiki kondisi pencernaan. Selain itu, antioksidan dalam wortel membantu menjaga kekebalan tubuh.",
+        "output": "Soal:\nIde pokok dari paragraf tersebut adalah....\n\nA. Wortel bisa dimasak sop\nB. Kandungan dan manfaat wortel bagi tubuh\nC. Vitamin A untuk mata\nD. Serat untuk pencernaan\n\nKunci Jawaban: B\n\nPembahasan:\nParagraf membahas berbagai kandungan (vitamin A, serat, antioksidan) dan manfaatnya."
+    },
+    {
+        "instruction": "Tentukan simpulan paragraf.",
+        "input": "Sampah yang dibuang ke sungai dapat menyumbat aliran air. Ketika hujan deras turun, air sungai akan meluap karena alirannya terhalang sampah. Akibatnya, pemukiman di sekitar sungai akan terendam banjir.",
+        "output": "Soal:\nSimpulan yang sesuai dengan paragraf di atas adalah....\n\nA. Hujan deras selalu menyebabkan banjir\nB. Membuang sampah di sungai dapat menyebabkan banjir\nC. Sungai adalah tempat pembuangan sampah\nD. Banjir merugikan warga\n\nKunci Jawaban: B\n\nPembahasan:\nUrutan sebab-akibat: Buang sampah di sungai -> aliran tersumbat -> banjir."
+    },
+    {
+        "instruction": "Tentukan ide pokok paragraf.",
+        "input": "Jenderal Sudirman adalah panglima besar pertama Tentara Nasional Indonesia. Meskipun dalam keadaan sakit parah, beliau tetap memimpin perang gerilya melawan Belanda. Semangat pantang menyerahnya menjadi teladan bagi seluruh prajurit.",
+        "output": "Soal:\nIde pokok paragraf tersebut adalah....\n\nA. Perang gerilya melawan Belanda\nB. Keteladanan dan perjuangan Jenderal Sudirman\nC. Jenderal Sudirman sakit parah\nD. Sejarah TNI\n\nKunci Jawaban: B\n\nPembahasan:\nTeks berfokus pada sosok Jenderal Sudirman, perjuangannya (gerilya), dan sifat teladannya."
+    },
+    {
+        "instruction": "Tentukan simpulan paragraf.",
+        "input": "Lidah buaya sering digunakan sebagai bahan kosmetik alami untuk perawatan rambut. Daging daunnya yang berlendir dapat menyuburkan dan menghitamkan rambut. Selain itu, lidah buaya juga bisa mengobati luka bakar ringan karena efek dinginnya.",
+        "output": "Soal:\nSimpulan dari bacaan di atas adalah....\n\nA. Lidah buaya memiliki berbagai manfaat untuk perawatan tubuh dan pengobatan\nB. Lidah buaya rasanya pahit\nC. Semua kosmetik terbuat dari lidah buaya\nD. Luka bakar harus diobati dengan lidah buaya\n\nKunci Jawaban: A\n\nPembahasan:\nKesimpulan merangkum manfaat lidah buaya (rambut & luka bakar) yang disebutkan."
+    },
+    {
+        "instruction": "Tentukan ide pokok paragraf.",
+        "input": "Energi listrik merupakan kebutuhan vital di era modern ini. Hampir semua peralatan rumah tangga membutuhkan listrik agar dapat menyala. Namun, kita harus bijak menggunakannya agar sumber energi tidak cepat habis dan biaya tidak membengkak.",
+        "output": "Soal:\nIde pokok paragraf tersebut adalah....\n\nA. Cara menghemat listrik\nB. Peralatan rumah tangga modern\nC. Pentingnya energi listrik dan perlunya penghematan\nD. Biaya listrik mahal\n\nKunci Jawaban: C\n\nPembahasan:\nParagraf menjelaskan betapa pentingnya listrik (vital) tetapi juga perlu dihemat."
+    },
+    {
+        "instruction": "Tentukan simpulan paragraf.",
+        "input": "Penebangan liar di hutan menyebabkan tanah menjadi gundul (tanpa pohon). Saat hujan turun, tidak ada akar pohon yang menahan air tanah. Akibatnya, tanah longsor sering terjadi dan menimpa perumahan warga di lereng bukit.",
+        "output": "Soal:\nSimpulan paragraf di atas adalah....\n\nA. Hujan menyebabkan tanah basah\nB. Penebangan liar dapat memicu bencana tanah longsor\nC. Warga dilarang tinggal di lereng bukit\nD. Pohon memiliki akar yang kuat\n\nKunci Jawaban: B\n\nPembahasan:\nSebab (penebangan liar) mengakibatkan (tanah longsor)."
+    },
+    {
+        "instruction": "Tentukan ide pokok paragraf.",
+        "input": "Bunglon memiliki kemampuan unik untuk mengubah warna kulitnya sesuai lingkungan, yang disebut mimikri. Kemampuan ini membantunya bersembunyi (kamuflase) dari pemangsa atau saat mengintai mangsa. Selain itu, bunglon juga memiliki lidah yang panjang dan lengket untuk menangkap serangga.",
+        "output": "Soal:\nIde pokok dari paragraf tersebut adalah....\n\nA. Makanan bunglon adalah serangga\nB. Kemampuan adaptasi dan ciri khusus bunglon\nC. Warna kulit bunglon bisa berubah\nD. Lidah bunglon panjang\n\nKunci Jawaban: B\n\nPembahasan:\nParagraf membahas ciri khusus (mimikri, lidah panjang) yang merupakan bentuk adaptasi bunglon."
+    },
+    {
+        "instruction": "Tentukan simpulan paragraf.",
+        "input": "Sopan santun adalah perilaku terpuji yang harus dibiasakan sejak kecil. Mengucapkan salam, berkata lembut, dan menghormati orang tua adalah contoh sopan santun. Anak yang sopan akan disukai teman-teman dan disayang orang tua.",
+        "output": "Soal:\nSimpulan dari teks tersebut adalah....\n\nA. Sopan santun harus dilakukan di sekolah saja\nB. Pentingnya membiasakan perilaku sopan santun agar disukai orang lain\nC. Mengucapkan salam itu wajib\nD. Orang tua menyayangi anak yang pintar\n\nKunci Jawaban: B\n\nPembahasan:\nSimpulan tentang pentingnya pembiasaan sopan santun dan dampak positifnya."
+    },
+    {
+        "instruction": "Tentukan ide pokok paragraf.",
+        "input": "Pencemaran suara akibat bising kendaraan dan mesin pabrik dapat mengganggu kesehatan telinga. Jika dibiarkan terus-menerus, kebisingan ini bisa menyebabkan stres dan gangguan pendengaran permanen. Oleh karena itu, pekerja pabrik diwajibkan memakai pelindung telinga.",
+        "output": "Soal:\nIde pokok bacaan di atas adalah....\n\nA. Kewajiban memakai pelindung telinga\nB. Dampak buruk pencemaran suara bagi kesehatan\nC. Suara mesin pabrik sangat keras\nD. Kendaraan bermotor menyebabkan macet\n\nKunci Jawaban: B\n\nPembahasan:\nParagraf fokus pada dampak negatif kebisingan/pencemaran suara."
+    },
+    {
+        "instruction": "Tentukan simpulan paragraf.",
+        "input": "Gotong royong merupakan budaya bangsa Indonesia yang sudah turun-temurun. Kegiatan membersihkan selokan kampung menjadi lebih ringan jika dikerjakan bersama-sama. Gotong royong juga mempererat tali persaudaraan antarwarga.",
+        "output": "Soal:\nSimpulan paragraf tersebut adalah....\n\nA. Gotong royong membuat pekerjaan berat jadi ringan dan mempererat persatuan\nB. Selokan kampung harus bersih\nC. Budaya Indonesia sangat banyak\nD. Warga harus rajin bekerja\n\nKunci Jawaban: A\n\nPembahasan:\nMerangkum manfaat gotong royong: pekerjaan ringan & erat persaudaraan."
+    },
+    {
+        "instruction": "Tentukan ide pokok paragraf.",
+        "input": "Rafflesia Arnoldii adalah bunga raksasa yang mengeluarkan bau busuk seperti bangkai. Bau ini berfungsi untuk menarik lalat (serangga) agar membantu proses penyerbukan. Bunga ini tidak memiliki daun sehingga tidak dapat melakukan fotosintesis sendiri.",
+        "output": "Soal:\nIde pokok dari paragraf tersebut adalah....\n\nA. Kapan Rafflesia Arnoldii mekar\nB. Ciri-ciri dan cara hidup bunga Rafflesia Arnoldii\nC. Bau busuk bunga bangkai\nD. Proses penyerbukan bunga\n\nKunci Jawaban: B\n\nPembahasan:\nParagraf mendeskripsikan ciri fisik (raksasa, bau, tidak berdaun) Rafflesia."
+    },
+    {
+        "instruction": "Tentukan simpulan paragraf.",
+        "input": "Jajanan di pinggir jalan yang warnanya mencolok seringkali mengandung pewarna tekstil berbahaya. Selain itu, debu jalanan juga mudah menempel pada makanan yang tidak ditutup. Mengonsumsi jajanan sembarangan bisa menyebabkan sakit perut dan diare.",
+        "output": "Soal:\nSimpulan dari paragraf di atas adalah....\n\nA. Jajanan pinggir jalan pasti enak\nB. Bahaya mengonsumsi jajanan sembarangan yang tidak higienis\nC. Pewarna tekstil rasanya manis\nD. Anak sekolah suka jajan\n\nKunci Jawaban: B\n\nPembahasan:\nIsi paragraf memperingatkan bahaya kesehatan dari jajanan tak higienis."
+    },
+    {
+        "instruction": "Tentukan ide pokok paragraf.",
+        "input": "Sistem tanam paksa (Cultuurstelsel) yang diterapkan Belanda sangat menyengsarakan rakyat Indonesia. Rakyat dipaksa menanam tanaman ekspor seperti kopi dan tebu di tanah mereka sendiri. Hasil panen diambil oleh Belanda, sementara rakyat menderita kelaparan.",
+        "output": "Soal:\nIde pokok paragraf tersebut adalah....\n\nA. Keuntungan Belanda dari kopi\nB. Penderitaan rakyat akibat sistem tanam paksa\nC. Cara menanam tebu\nD. Ekspor hasil bumi Indonesia\n\nKunci Jawaban: B\n\nPembahasan:\nFokus paragraf adalah dampak negatif (penderitaan) dari tanam paksa."
+    },
+    {
+        "instruction": "Tentukan simpulan paragraf.",
+        "input": "Perpustakaan adalah gudang ilmu. Di sana terdapat berbagai macam buku yang dapat kita pinjam dan baca. Suasana yang tenang membuat pengunjung nyaman belajar. Semakin sering ke perpustakaan, semakin banyak ilmu yang kita dapat.",
+        "output": "Soal:\nSimpulan paragraf tersebut adalah....\n\nA. Perpustakaan tempat yang nyaman untuk mencari ilmu\nB. Petugas perpustakaan harus ramah\nC. Kita dilarang berisik di perpustakaan\nD. Buku di perpustakaan sangat mahal\n\nKunci Jawaban: A\n\nPembahasan:\nMerangkum fungsi perpustakaan sebagai tempat mencari ilmu yang nyaman."
+    },
+    {
+        "instruction": "Tentukan ide pokok paragraf.",
+        "input": "Padi merupakan tanaman pangan utama bagi sebagian besar penduduk Indonesia. Tanaman ini membutuhkan banyak air dan sinar matahari untuk tumbuh. Setelah dipanen, padi diolah menjadi beras sebelum dimasak menjadi nasi.",
+        "output": "Soal:\nIde pokok dari paragraf di atas adalah....\n\nA. Proses memasak nasi\nB. Padi sebagai tanaman pangan utama Indonesia\nC. Padi butuh banyak air\nD. Harga beras di pasar\n\nKunci Jawaban: B\n\nPembahasan:\nKalimat utama adalah padi sebagai makanan pokok/utama."
+    },
+    {
+        "instruction": "Tentukan simpulan paragraf.",
+        "input": "Hutan yang gundul tidak dapat menyerap air hujan dengan baik. Air akan langsung mengalir deras ke sungai dan membawa tanah (erosi). Hal inilah yang menyebabkan banjir bandang dan pendangkalan sungai.",
+        "output": "Soal:\nSimpulan dari teks tersebut adalah....\n\nA. Hutan gundul menyebabkan erosi dan banjir\nB. Sungai menjadi dangkal karena sampah\nC. Hujan deras membawa tanah\nD. Kita harus menanam pohon\n\nKunci Jawaban: A\n\nPembahasan:\nHubungan sebab akibat: Gundul -> Erosi & Banjir."
+    },
+    {
+        "instruction": "Tentukan ide pokok paragraf.",
+        "input": "Tari Kecak dari Bali sangat unik karena tidak menggunakan alat musik gamelan. Iringan musiknya berasal dari suara mulut 'cak-cak-cak' yang diteriakkan oleh puluhan penari laki-laki. Tarian ini menceritakan kisah kera putih Hanoman dalam cerita Ramayana.",
+        "output": "Soal:\nIde pokok paragraf tersebut adalah....\n\nA. Cerita Ramayana\nB. Keunikan Tari Kecak Bali\nC. Penari laki-laki di Bali\nD. Alat musik gamelan\n\nKunci Jawaban: B\n\nPembahasan:\nParagraf menonjolkan keunikan Tari Kecak (suara mulut, tanpa gamelan)."
+    },
+    {
+        "instruction": "Tentukan simpulan paragraf.",
+        "input": "Menggosok gigi minimal dua kali sehari dapat mencegah gigi berlubang. Sisa makanan yang menempel di gigi adalah makanan bagi kuman perusak gigi. Jika kita malas menggosok gigi, kuman akan berkembang biak dan merusak lapisan gigi.",
+        "output": "Soal:\nSimpulan paragraf di atas adalah....\n\nA. Gigi berlubang rasanya sakit\nB. Pentingnya menggosok gigi rutin untuk kesehatan gigi\nC. Kuman suka makanan manis\nD. Pasta gigi harus mengandung fluoride\n\nKunci Jawaban: B\n\nPembahasan:\nMenyimpulkan bahwa gosok gigi rutin mencegah kerusakan gigi."
+    },
+    {
+        "instruction": "Tentukan ide pokok paragraf.",
+        "input": "Globalisasi membuat batas antarnegara seolah menghilang. Informasi dari belahan dunia lain dapat kita terima dalam hitungan detik melalui internet. Produk-produk luar negeri pun dapat dengan mudah kita temukan di pasar lokal.",
+        "output": "Soal:\nIde pokok paragraf tersebut adalah....\n\nA. Kecepatan internet\nB. Dampak globalisasi dalam kemudahan informasi dan perdagangan\nC. Produk luar negeri lebih bagus\nD. Batas negara di peta\n\nKunci Jawaban: B\n\nPembahasan:\nParagraf membahas efek globalisasi (informasi cepat, produk asing masuk)."
+    },
+    {
+        "instruction": "Tentukan simpulan paragraf.",
+        "input": "Terumbu karang adalah rumah bagi ribuan jenis ikan laut. Sayangnya, penggunaan bom ikan dan racun merusak keindahan terumbu karang. Rusaknya terumbu karang berarti hilangnya tempat tinggal ikan, sehingga jumlah ikan akan menurun drastis.",
+        "output": "Soal:\nSimpulan dari teks tersebut adalah....\n\nA. Ikan laut suka bersembunyi\nB. Perusakan terumbu karang mengancam populasi ikan\nC. Nelayan menggunakan bom ikan\nD. Terumbu karang sangat indah\n\nKunci Jawaban: B\n\nPembahasan:\nKerusakan karang menyebabkan penurunan populasi ikan."
+    },
+    {
+        "instruction": "Tentukan ide pokok paragraf.",
+        "input": "Burung Cendrawasih disebut sebagai 'Burung Surga' karena keindahan bulunya. Bulu pejantan biasanya berwarna cerah dan memiliki hiasan yang menarik untuk memikat betina. Burung ini adalah hewan khas Papua yang dilindungi.",
+        "output": "Soal:\nIde pokok paragraf di atas adalah....\n\nA. Keindahan burung Cendrawasih\nB. Burung Cendrawasih bisa terbang\nC. Makanan burung Cendrawasih\nD. Hutan Papua\n\nKunci Jawaban: A\n\nPembahasan:\nParagraf mendeskripsikan keindahan bulu Cendrawasih."
+    },
+    {
+        "instruction": "Tentukan simpulan paragraf.",
+        "input": "Demam berdarah (DBD) disebabkan oleh gigitan nyamuk Aedes aegypti. Nyamuk ini berkembang biak di genangan air bersih. Untuk mencegahnya, kita harus rutin melakukan 3M Plus (Menguras, Menutup, Mengubur).",
+        "output": "Soal:\nSimpulan paragraf tersebut adalah....\n\nA. Nyamuk Aedes aegypti belang-belang\nB. Pencegahan demam berdarah (DBD) dengan 3M Plus\nC. Obat nyamuk bakar ampuh\nD. Air bersih harus dimasak\n\nKunci Jawaban: B\n\nPembahasan:\nInti teks adalah cara pencegahan DBD."
+    },
+    {
+        "instruction": "Tentukan ide pokok paragraf.",
+        "input": "Proklamasi Kemerdekaan 17 Agustus 1945 adalah puncak perjuangan bangsa Indonesia. Peristiwa ini menandai berakhirnya masa penjajahan dan lahirnya negara baru yang berdaulat. Seluruh rakyat menyambutnya dengan rasa syukur dan sukacita.",
+        "output": "Soal:\nIde pokok paragraf tersebut adalah....\n\nA. Lomba 17 Agustus\nB. Makna Proklamasi Kemerdekaan bagi Indonesia\nC. Penjajah pergi dari Indonesia\nD. Teks proklamasi dibacakan\n\nKunci Jawaban: B\n\nPembahasan:\nParagraf menjelaskan arti penting/makna proklamasi (puncak perjuangan, lahir negara baru)."
+    },
+    {
+        "instruction": "Tentukan simpulan paragraf.",
+        "input": "Minum air putih minimal 8 gelas sehari sangat baik untuk kesehatan ginjal. Air membantu membuang racun dari tubuh melalui urine dan keringat. Jika kurang minum, kita bisa mengalami dehidrasi dan gangguan ginjal.",
+        "output": "Soal:\nSimpulan dari bacaan di atas adalah....\n\nA. Air putih rasanya tawar\nB. Pentingnya minum air putih cukup untuk kesehatan tubuh dan ginjal\nC. Keringat rasanya asin\nD. Harga air mineral mahal\n\nKunci Jawaban: B\n\nPembahasan:\nManfaat minum air cukup untuk kesehatan."
+    },
+    {
+        "instruction": "Tentukan ide pokok paragraf.",
+        "input": "Kupu-kupu membantu penyerbukan bunga saat ia menghisap nektar. Serbuk sari yang menempel pada kaki kupu-kupu akan terbawa ke bunga lain. Hal ini membantu tumbuhan untuk menghasilkan biji dan buah.",
+        "output": "Soal:\nIde pokok paragraf di atas adalah....\n\nA. Kupu-kupu suka nektar\nB. Peran kupu-kupu dalam penyerbukan tanaman\nC. Bunga menghasilkan buah\nD. Warna sayap kupu-kupu\n\nKunci Jawaban: B\n\nPembahasan:\nParagraf menjelaskan fungsi/peran kupu-kupu membantu penyerbukan."
+    },
+    {
+        "instruction": "Tentukan simpulan paragraf.",
+        "input": "Penebangan pohon secara liar di hutan harus dihentikan. Pemerintah perlu menindak tegas para pelaku illegal logging. Selain itu, program reboisasi atau penanaman kembali hutan gundul harus segera dilaksanakan.",
+        "output": "Soal:\nSimpulan paragraf tersebut adalah....\n\nA. Hutan tempat hidup harimau\nB. Upaya penyelamatan hutan dari kerusakan\nC. Harga kayu sedang naik\nD. Polisi hutan bertugas menjaga pohon\n\nKunci Jawaban: B\n\nPembahasan:\nBerisi solusi/upaya (stop tebang, hukum pelaku, reboisasi) menyelamatkan hutan."
+    },
+    {
+        "instruction": "Tentukan ide pokok paragraf.",
+        "input": "Roti tawar biasanya terbuat dari tepung terigu. Namun, kini banyak variasi roti yang terbuat dari gandum utuh. Roti gandum dianggap lebih sehat karena kandungan seratnya lebih tinggi dan membuat kenyang lebih lama.",
+        "output": "Soal:\nIde pokok teks tersebut adalah....\n\nA. Cara membuat roti\nB. Kelebihan roti gandum\nC. Harga tepung terigu\nD. Rasa roti tawar\n\nKunci Jawaban: B\n\nPembahasan:\nMembandingkan dan menonjolkan kelebihan roti gandum dibanding roti biasa."
+    },
+    {
+        "instruction": "Tentukan simpulan paragraf.",
+        "input": "Lampu lalu lintas berfungsi mengatur ketertiban kendaraan di jalan raya. Lampu merah berarti berhenti, kuning berarti hati-hati, dan hijau berarti jalan. Mematuhi lampu lalu lintas dapat mencegah terjadinya kecelakaan.",
+        "output": "Soal:\nSimpulan paragraf di atas adalah....\n\nA. Lampu merah menyala paling lama\nB. Kepatuhan pada lampu lalu lintas menjaga keselamatan dan ketertiban\nC. Polisi mengatur lalu lintas\nD. Jalan raya sangat padat\n\nKunci Jawaban: B\n\nPembahasan:\nFungsi lampu lalin dan manfaat mematuhinya (keselamatan)."
+    },
+    {
+        "instruction": "Tentukan ide pokok paragraf.",
+        "input": "Banjir lahar dingin adalah salah satu bahaya sekunder dari letusan gunung berapi. Material vulkanik yang menumpuk di puncak gunung terbawa air hujan deras ke sungai-sungai di bawahnya. Aliran lumpur batu ini dapat menghancurkan jembatan dan rumah penduduk.",
+        "output": "Soal:\nIde pokok paragraf tersebut adalah....\n\nA. Bahaya banjir lahar dingin\nB. Gunung meletus mengeluarkan api\nC. Hujan deras di gunung\nD. Jembatan rusak karena banjir\n\nKunci Jawaban: A\n\nPembahasan:\nParagraf menjelaskan apa itu lahar dingin dan bahayanya."
+    },
+    {
+        "instruction": "Tentukan simpulan paragraf.",
+        "input": "Anak yang gemar berbohong lama-kelamaan tidak akan dipercaya lagi oleh teman-temannya. Sekali ia ketahuan berbohong, ucapan jujurnya pun akan diragukan. Oleh karena itu, kejujuran adalah mata uang yang berlaku di mana saja.",
+        "output": "Soal:\nSimpulan dari teks di atas adalah....\n\nA. Berbohong itu dosa\nB. Akibat buruk kebiasaan berbohong adalah hilangnya kepercayaan\nC. Teman yang baik selalu jujur\nD. Kita harus memaafkan pembohong\n\nKunci Jawaban: B\n\nPembahasan:\nSebab-akibat: Suka bohong -> tidak dipercaya."
+    },
+    {
+        "instruction": "Tentukan ide pokok paragraf.",
+        "input": "Tempe adalah makanan asli Indonesia yang terbuat dari fermentasi kacang kedelai. Makanan ini mengandung protein nabati yang tinggi dan harganya murah. Kini, tempe mulai digemari masyarakat dunia sebagai pengganti daging bagi vegetarian.",
+        "output": "Soal:\nIde pokok paragraf tersebut adalah....\n\nA. Cara membuat tempe\nB. Tempe makanan bergizi dan mendunia\nC. Harga kedelai naik\nD. Vegetarian tidak makan daging\n\nKunci Jawaban: B\n\nPembahasan:\nParagraf membahas tempe (asal, gizi, popularitas)."
+    },
+    {
+        "instruction": "Identifikasi struktur teks eksplanasi.",
+        "input": "Pelangi terjadi karena pembiasan cahaya matahari oleh butiran-butiran air hujan. Cahaya matahari yang berwarna putih dibiaskan menjadi tujuh warna spektrum. Warna-warna tersebut adalah merah, jingga, kuning, hijau, biru, nila, dan ungu.",
+        "output": "Soal:\nPenggalan teks eksplanasi di atas termasuk ke dalam bagian....\n\nA. Pernyataan umum\nB. Deretan penjelas (Sebab-akibat)\nC. Interpretasi (Simpulan)\nD. Pembukaan\n\nKunci Jawaban: B\n\nPembahasan:\nParagraf menjelaskan proses terjadinya pelangi secara rinci (sebab-akibat), maka termasuk deretan penjelas."
+    },
+    {
+        "instruction": "Tentukan informasi penting teks pidato.",
+        "input": "Hadirin yang berbahagia, marilah kita senantiasa menjaga kebersihan lingkungan sekolah. Lingkungan yang bersih akan menciptakan suasana belajar yang nyaman dan sehat. Jangan membuang sampah sembarangan dan rajinlah menyiram tanaman.",
+        "output": "Soal:\nIsi kutipan pidato di atas mengajak pendengar untuk....\n\nA. Membawa bekal dari rumah\nB. Menjaga kebersihan lingkungan sekolah\nC. Belajar dengan giat\nD. Pulang tepat waktu\n\nKunci Jawaban: B\n\nPembahasan:\nKalimat ajakan 'marilah kita senantiasa menjaga kebersihan lingkungan sekolah' adalah inti pidato."
+    },
+    {
+        "instruction": "Analisis ciri teks eksplanasi.",
+        "input": "Gerhana bulan terjadi ketika posisi matahari, bumi, dan bulan berada pada satu garis lurus. Akibatnya, bayangan bumi menutupi sebagian atau seluruh permukaan bulan. Fenomena ini hanya dapat terjadi pada saat fase bulan purnama.",
+        "output": "Soal:\nCiri-ciri teks eksplanasi yang tampak pada bacaan di atas adalah....\n\nA. Berisi opini penulis\nB. Memuat informasi berdasarkan fakta (faktual) dan ilmiah\nC. Menggunakan bahasa kiasan\nD. Bertujuan menghibur pembaca\n\nKunci Jawaban: B\n\nPembahasan:\nTeks eksplanasi ilmiah selalu menyajikan fakta dan proses terjadinya fenomena alam/sosial."
+    },
+    {
+        "instruction": "Identifikasi bagian penutup pidato.",
+        "input": "Demikian pidato yang dapat saya sampaikan. Semoga apa yang saya katakan bermanfaat bagi kita semua. Mohon maaf apabila ada tutur kata yang kurang berkenan. Terima kasih atas perhatiannya.",
+        "output": "Soal:\nKutipan di atas merupakan bagian dari struktur pidato, yaitu....\n\nA. Salam pembuka\nB. Pendahuluan\nC. Isi pidato\nD. Penutup pidato\n\nKunci Jawaban: D\n\nPembahasan:\nKalimat 'Demikian pidato...' dan permohonan maaf adalah ciri khas penutup pidato."
+    },
+    {
+        "instruction": "Identifikasi kata kunci teks eksplanasi.",
+        "input": "Proses kondensasi terjadi ketika uap air di udara berubah menjadi titik-titik air karena suhu yang dingin. Titik-titik air ini kemudian berkumpul membentuk awan. Jika awan sudah jenuh, air akan turun sebagai hujan.",
+        "output": "Soal:\nKata kunci yang tepat untuk teks eksplanasi di atas adalah....\n\nA. Hutan dan Banjir\nB. Kondensasi dan Hujan\nC. Tanah dan Kering\nD. Panas dan Matahari\n\nKunci Jawaban: B\n\nPembahasan:\nKata-kata yang sering muncul dan menjadi inti pembahasan adalah kondensasi, awan, dan hujan."
+    },
+    {
+        "instruction": "Tentukan tema pidato.",
+        "input": "Teman-teman, besok adalah Hari Kemerdekaan negara kita. Mari kita isi kemerdekaan ini dengan prestasi. Sebagai pelajar, tugas kita adalah belajar dengan sungguh-sungguh untuk mengharumkan nama bangsa.",
+        "output": "Soal:\nTema pidato tersebut adalah....\n\nA. Kesehatan\nB. Lingkungan hidup\nC. Kemerdekaan dan peran pelajar\nD. Perpisahan sekolah\n\nKunci Jawaban: C\n\nPembahasan:\nPidato membahas Hari Kemerdekaan dan tugas pelajar mengisi kemerdekaan."
+    },
+    {
+        "instruction": "Identifikasi struktur teks eksplanasi (Interpretasi).",
+        "input": "Oleh karena itu, kita harus bijak dalam menggunakan air tanah. Pengambilan air tanah yang berlebihan dapat menyebabkan penurunan muka tanah (land subsidence). Mari kita jaga keseimbangan alam demi masa depan.",
+        "output": "Soal:\nParagraf di atas merupakan bagian akhir dari teks eksplanasi yang disebut....\n\nA. Pernyataan umum\nB. Deretan penjelas\nC. Interpretasi (Simpulan/Pesan)\nD. Tesis\n\nKunci Jawaban: C\n\nPembahasan:\nInterpretasi berisi simpulan atau pendapat penulis terkait fenomena yang dijelaskan sebelumnya."
+    },
+    {
+        "instruction": "Analisis tujuan pidato.",
+        "input": "Bapak dan Ibu Guru, terima kasih atas bimbingan tanpa lelah selama enam tahun ini. Kami tidak akan melupakan jasa-jasa kalian. Doakan kami agar sukses di jenjang pendidikan selanjutnya.",
+        "output": "Soal:\nTujuan dari kutipan pidato di atas adalah....\n\nA. Menyampaikan rasa terima kasih dan permohonan doa restu dalam perpisahan\nB. Meminta nilai yang bagus\nC. Mengajak guru berlibur\nD. Memprotes tugas sekolah\n\nKunci Jawaban: A\n\nPembahasan:\nPidato berisi ucapan terima kasih perpisahan kepada guru."
+    },
+    {
+        "instruction": "Identifikasi fenomena dalam teks eksplanasi.",
+        "input": "Tsunami adalah gelombang laut besar yang disebabkan oleh gangguan di dasar laut, seperti gempa bumi atau letusan gunung berapi bawah laut. Gelombang ini bisa bergerak dengan kecepatan sangat tinggi menuju daratan.",
+        "output": "Soal:\nFenomena alam yang dijelaskan dalam teks tersebut adalah....\n\nA. Banjir\nB. Tsunami\nC. Angin puting beliung\nD. Tanah longsor\n\nKunci Jawaban: B\n\nPembahasan:\nTeks secara eksplisit mendefinisikan tsunami."
+    },
+    {
+        "instruction": "Lengkapi kalimat pidato.",
+        "input": "Hadirin sekalian, narkoba adalah musuh nyata bagi generasi muda karena dapat merusak masa depan. Oleh karena itu, mari kita ....",
+        "output": "Soal:\nKalimat ajakan yang tepat untuk melengkapi pidato tersebut adalah....\n\nA. mencoba narkoba sedikit saja\nB. menjauhi dan memerangi narkoba\nC. menjual narkoba\nD. berteman dengan pengedar\n\nKunci Jawaban: B\n\nPembahasan:\nKalimat persuasif yang logis melawan narkoba adalah 'menjauhi dan memerangi'."
+    },
+    {
+        "instruction": "Identifikasi pernyataan umum eksplanasi.",
+        "input": "Fotosintesis adalah proses pembuatan makanan pada tumbuhan hijau dengan bantuan cahaya matahari. Proses ini terjadi di daun yang mengandung klorofil atau zat hijau daun.",
+        "output": "Soal:\nKutipan teks tersebut termasuk bagian pernyataan umum karena....\n\nA. Menjelaskan rincian proses\nB. Memberikan definisi dan gambaran umum tentang fotosintesis\nC. Berisi kesimpulan penulis\nD. Berisi ajakan\n\nKunci Jawaban: B\n\nPembahasan:\nPernyataan umum berisi definisi atau pengenalan fenomena."
+    },
+    {
+        "instruction": "Tentukan pendengar pidato (audiens).",
+        "input": "Adik-adik kelas 1 sampai kelas 5 yang kakak cintai, rajinlah belajar dan patuhilah nasihat Bapak Ibu Guru. Kakak harap kalian bisa meneruskan prestasi sekolah kita ini.",
+        "output": "Soal:\nPidato tersebut ditujukan kepada....\n\nA. Kepala Sekolah\nB. Guru-guru\nC. Adik kelas (siswa kelas 1-5)\nD. Orang tua murid\n\nKunci Jawaban: C\n\nPembahasan:\nSapaan 'Adik-adik kelas 1 sampai kelas 5' menunjukkan audiensnya."
+    },
+    {
+        "instruction": "Analisis sebab-akibat eksplanasi.",
+        "input": "Sampah yang menumpuk di sungai akan menghambat aliran air. Ketika hujan deras turun, air sungai tidak dapat mengalir lancar ke laut sehingga meluap ke daratan dan menyebabkan banjir.",
+        "output": "Soal:\nBerdasarkan teks eksplanasi di atas, penyebab terjadinya banjir adalah....\n\nA. Air laut pasang\nB. Hujan deras dan aliran sungai terhambat sampah\nC. Tidak ada pohon\nD. Sungai terlalu dalam\n\nKunci Jawaban: B\n\nPembahasan:\nTeks menjelaskan hubungan sebab (sampah + hujan) dengan akibat (banjir)."
+    },
+    {
+        "instruction": "Identifikasi salam pembuka pidato.",
+        "input": "Assalamualaikum Warahmatullahi Wabarakatuh. Selamat pagi dan salam sejahtera bagi kita semua.",
+        "output": "Soal:\nKalimat tersebut merupakan bagian struktur pidato yaitu....\n\nA. Salam pembuka\nB. Isi pidato\nC. Penutup pidato\nD. Salam penutup\n\nKunci Jawaban: A\n\nPembahasan:\nMerupakan salam standar untuk mengawali pidato."
+    },
+    {
+        "instruction": "Identifikasi topik teks eksplanasi sosial.",
+        "input": "Pengangguran terjadi karena jumlah pencari kerja lebih banyak daripada jumlah lapangan pekerjaan yang tersedia. Selain itu, kurangnya keterampilan (skill) yang dimiliki pencari kerja juga menjadi faktor penyebab sulitnya mendapatkan pekerjaan.",
+        "output": "Soal:\nTopik permasalahan sosial yang dibahas dalam teks tersebut adalah....\n\nA. Kemiskinan\nB. Pengangguran\nC. Kriminalitas\nD. Kepadatan penduduk\n\nKunci Jawaban: B\n\nPembahasan:\nTeks membahas penyebab pengangguran."
+    },
+    {
+        "instruction": "Tentukan orator pidato.",
+        "input": "Sebagai ketua kelas, saya mengajak teman-teman semua untuk lebih tertib saat upacara bendera. Mari kita tunjukkan bahwa kelas 6A adalah kelas yang disiplin.",
+        "output": "Soal:\nPembicara (orator) dalam kutipan pidato tersebut adalah....\n\nA. Kepala Sekolah\nB. Guru Wali Kelas\nC. Ketua Kelas\nD. Penjaga Sekolah\n\nKunci Jawaban: C\n\nPembahasan:\nPembicara menyebut dirinya 'Sebagai ketua kelas, saya...'."
+    },
+    {
+        "instruction": "Analisis proses teknis (eksplanasi).",
+        "input": "Listrik yang dihasilkan dari pembangkit listrik akan disalurkan melalui SUTET (Saluran Udara Tegangan Ekstra Tinggi). Kemudian, tegangan listrik diturunkan oleh gardu induk sebelum disalurkan ke rumah-rumah warga.",
+        "output": "Soal:\nTeks eksplanasi tersebut menjelaskan proses....\n\nA. Pembuatan lampu\nB. Penyaluran (distribusi) energi listrik\nC. Hemat listrik\nD. Bahaya listrik\n\nKunci Jawaban: B\n\nPembahasan:\nMenjelaskan alur distribusi listrik dari pembangkit ke rumah."
+    },
+    {
+        "instruction": "Lengkapi penutup pidato.",
+        "input": "Sekian pidato dari saya. Mohon maaf jika ada kesalahan. ....",
+        "output": "Soal:\nKalimat salam penutup yang tepat adalah....\n\nA. Sampai jumpa lagi\nB. Wassalamualaikum Warahmatullahi Wabarakatuh\nC. Halo semuanya\nD. Apa kabar\n\nKunci Jawaban: B\n\nPembahasan:\nSalam penutup formal yang lazim digunakan."
+    },
+    {
+        "instruction": "Identifikasi teks eksplanasi budaya.",
+        "input": "Wayang kulit adalah seni pertunjukan tradisional yang berkembang di Jawa. Pertunjukan ini dimainkan oleh seorang dalang yang menggerakkan tokoh wayang di balik layar putih atau kelir, diiringi musik gamelan.",
+        "output": "Soal:\nTeks di atas termasuk jenis teks eksplanasi yang menjelaskan fenomena....\n\nA. Alam\nB. Sosial\nC. Budaya\nD. Ekonomi\n\nKunci Jawaban: C\n\nPembahasan:\nWayang kulit adalah fenomena budaya/kesenian."
+    },
+    {
+        "instruction": "Analisis isi pidato persuasif.",
+        "input": "Buku adalah jendela dunia. Dengan membaca, kita bisa menjelajah ke tempat yang jauh tanpa harus pergi ke sana. Mulai sekarang, ayo kita luangkan waktu minimal 30 menit sehari untuk membaca buku!",
+        "output": "Soal:\nKalimat persuasif (ajakan) dalam pidato tersebut adalah....\n\nA. Buku adalah jendela dunia\nB. Ayo kita luangkan waktu minimal 30 menit sehari untuk membaca buku!\nC. Kita bisa menjelajah ke tempat jauh\nD. Membaca itu membosankan\n\nKunci Jawaban: B\n\nPembahasan:\nKata 'Ayo' menandai kalimat ajakan/persuasi."
+    },
+    {
+        "instruction": "Analisis urutan sebab-akibat.",
+        "input": "Tanah longsor sering terjadi di daerah lereng gundul. (1) Air hujan meresap ke dalam tanah. (2) Karena tidak ada akar pohon yang menahan, tanah menjadi jenuh air dan berat. (3) Akibat gaya gravitasi, tanah tersebut meluncur ke bawah. (4)",
+        "output": "Soal:\nUrutan proses terjadinya tanah longsor yang benar digambarkan pada kalimat nomor....\n\nA. (1) saja\nB. (1), (2), (3), dan (4)\nC. (4) lalu (1)\nD. (3) saja\n\nKunci Jawaban: B\n\nPembahasan:\nKalimat 1-4 menjelaskan kronologi logis terjadinya longsor."
+    },
+    {
+        "instruction": "Tentukan metode pidato.",
+        "input": "Siswa kelas 6 ditugaskan berpidato secara spontan tanpa membawa naskah sama sekali. Mereka harus berbicara berdasarkan apa yang mereka ingat dan pikirkan saat itu juga.",
+        "output": "Soal:\nMetode pidato yang dilakukan secara serta-merta tanpa persiapan naskah disebut....\n\nA. Naskah\nB. Memoriter (Hafalan)\nC. Ekstemporan (Catatan kecil)\nD. Impromtu (Serta-merta)\n\nKunci Jawaban: D\n\nPembahasan:\nImpromtu adalah metode pidato dadakan tanpa persiapan naskah."
+    },
+    {
+        "instruction": "Identifikasi tujuan eksplanasi.",
+        "input": "Teks ini disusun untuk memberikan informasi yang jelas kepada pembaca mengenai proses terjadinya hujan asam, mulai dari penguapan zat kimia pabrik hingga turunnya hujan yang bersifat korosif.",
+        "output": "Soal:\nTujuan penulisan teks eksplanasi di atas adalah....\n\nA. Menghibur pembaca dengan cerita hujan\nB. Menjelaskan proses murni secara ilmiah\nC. Mempengaruhi pembaca untuk hujan-hujanan\nD. Melaporkan berita terkini\n\nKunci Jawaban: B\n\nPembahasan:\nTujuan utama teks eksplanasi adalah menjelaskan proses (how/why) terjadinya sesuatu."
+    },
+    {
+        "instruction": "Lengkapi kalimat sapaan pidato.",
+        "input": "Yang terhormat Bapak Kepala Sekolah, .... Bapak dan Ibu Guru, serta teman-teman yang saya cintai.",
+        "output": "Soal:\nKalimat sapaan penghormatan yang tepat untuk melengkapi bagian rumpang adalah....\n\nA. Yang saya hormati\nB. Yang saya muliakan\nC. Yang saya sayangi\nD. Hai\n\nKunci Jawaban: A\n\nPembahasan:\nUrutan sapaan biasanya dari yang paling dihormati (Kepsek) lalu guru ('Yang saya hormati'), lalu teman."
+    },
+    {
+        "instruction": "Analisis kata teknis.",
+        "input": "Global warming atau pemanasan global disebabkan oleh efek rumah kaca. Gas-gas seperti karbon dioksida terperangkap di atmosfer bumi, sehingga suhu bumi meningkat.",
+        "output": "Soal:\nIstilah ilmiah/teknis yang terdapat dalam teks eksplanasi tersebut adalah....\n\nA. Bumi dan Suhu\nB. Efek rumah kaca dan Atmosfer\nC. Rumah dan Kaca\nD. Gas dan Panas\n\nKunci Jawaban: B\n\nPembahasan:\nEfek rumah kaca (greenhouse effect) dan atmosfer adalah istilah teknis geografi/sains."
+    },
+    {
+        "instruction": "Tentukan tempat pidato.",
+        "input": "Bapak-bapak warga RT 05 yang saya hormati, malam ini kita berkumpul di balai warga untuk membahas jadwal ronda malam demi keamanan lingkungan kita.",
+        "output": "Soal:\nKemungkinan besar pidato tersebut disampaikan di....\n\nA. Sekolah\nB. Kantor Polisi\nC. Lingkungan masyarakat (Balai Warga)\nD. Pasar\n\nKunci Jawaban: C\n\nPembahasan:\nKonteks 'warga RT 05', 'balai warga', 'ronda' menunjukkan lingkungan masyarakat."
+    },
+    {
+        "instruction": "Identifikasi struktur eksplanasi.",
+        "input": "Angin puting beliung adalah angin yang berputar kencang dengan kecepatan lebih dari 63 km/jam. Angin ini biasanya terjadi saat pancaroba dan berdurasi singkat.",
+        "output": "Soal:\nParagraf yang berisi pengertian atau definisi awal fenomena ini disebut....\n\nA. Deretan penjelas\nB. Pernyataan umum\nC. Kesimpulan\nD. Penutup\n\nKunci Jawaban: B\n\nPembahasan:\nDefinisi 'adalah...' selalu berada di pernyataan umum."
+    },
+    {
+        "instruction": "Analisis pesan moral pidato.",
+        "input": "Janganlah kita mudah terprovokasi oleh berita bohong di media sosial. Saringlah informasi sebelum menyebarkannya (sharing). Jadilah pengguna internet yang cerdas dan santun.",
+        "output": "Soal:\nPesan moral yang terkandung dalam pidato tersebut adalah....\n\nA. Kita harus punya media sosial\nB. Menjadi pengguna internet yang bijak dan tidak menyebar hoaks\nC. Internet itu berbahaya\nD. Jangan membaca berita\n\nKunci Jawaban: B\n\nPembahasan:\nAjakan untuk bijak bermedia sosial (saring before sharing)."
+    },
+    {
+        "instruction": "Identifikasi kalimat pasif eksplanasi.",
+        "input": "Sampah plastik yang dibuang ke sungai akan terbawa arus hingga ke laut. Di laut, sampah tersebut dimakan oleh penyu yang mengiranya ubur-ubur.",
+        "output": "Soal:\nContoh kalimat pasif dalam teks di atas ditandai dengan kata kerja....\n\nA. Dibuang, terbawa, dimakan\nB. Membuang, membawa, memakan\nC. Sungai, arus, laut\nD. Penyu, ubur-ubur, sampah\n\nKunci Jawaban: A\n\nPembahasan:\nKata kerja berawalan di- atau ter- (dibuang, terbawa, dimakan) adalah ciri kalimat pasif."
+    },
+    {
+        "instruction": "Lengkapi pembuka pidato.",
+        "input": "Pertama-tama, marilah kita panjatkan puji syukur ke hadirat Tuhan Yang Maha Esa, karena atas rahmat-Nya kita dapat .... di tempat ini dalam keadaan sehat walafiat.",
+        "output": "Soal:\nKata yang tepat untuk melengkapi kalimat pembuka pidato tersebut adalah....\n\nA. berpisah\nB. berkumpul\nC. bermain\nD. berlari\n\nKunci Jawaban: B\n\nPembahasan:\nFrasa baku: 'berkumpul di tempat ini'."
+    },
+    {
+        "instruction": "Analisis kaidah kebahasaan.",
+        "input": "Gunung meletus menyebabkan (akibat) kerusakan lingkungan. Namun demikian (konjungsi), tanah di sekitarnya menjadi subur setelah beberapa tahun.",
+        "output": "Soal:\nKata 'Namun demikian' pada kalimat kedua berfungsi sebagai....\n\nA. Konjungsi pertentangan\nB. Konjungsi sebab-akibat\nC. Kata benda\nD. Kata kerja\n\nKunci Jawaban: A\n\nPembahasan:\n'Namun demikian' menghubungkan dua hal yang kontradiktif/bertentangan (rusak vs subur)."
+    },
+    {
+        "instruction": "Tentukan acara pidato.",
+        "input": "Selamat ulang tahun yang ke-12, Sekolahku tercinta! Semoga semakin jaya dan melahirkan generasi penerus bangsa yang berprestasi.",
+        "output": "Soal:\nPidato tersebut disampaikan dalam acara....\n\nA. Perpisahan sekolah\nB. Hari Guru\nC. Ulang tahun sekolah (Dies Natalis)\nD. Rapat wali murid\n\nKunci Jawaban: C\n\nPembahasan:\nUcapan 'Selamat ulang tahun... Sekolahku' jelas untuk Dies Natalis."
+    },
+    {
+        "instruction": "Identifikasi deretan penjelas.",
+        "input": "Air laut menguap karena panas matahari. Uap air naik ke atmosfer dan mengalami pendinginan membentuk awan. Awan yang berat akan menurunkan air kembali ke bumi sebagai hujan.",
+        "output": "Soal:\nParagraf tersebut menjelaskan urutan peristiwa (kronologis) terjadinya hujan, sehingga disebut bagian....\n\nA. Pernyataan umum\nB. Deretan penjelas\nC. Interpretasi\nD. Koda\n\nKunci Jawaban: B\n\nPembahasan:\nMenjelaskan proses (urutan kejadian) adalah fungsi deretan penjelas."
+    },
+    {
+        "instruction": "Analisis pidato resmi.",
+        "input": "Hadirin yang saya hormati, pada kesempatan peringatan Hari Sumpah Pemuda ini, marilah kita renungkan kembali semangat persatuan para pemuda tahun 1928.",
+        "output": "Soal:\nGaya bahasa yang digunakan dalam kutipan pidato resmi tersebut adalah....\n\nA. Bahasa gaul\nB. Bahasa daerah\nC. Bahasa baku dan formal\nD. Bahasa sehari-hari\n\nKunci Jawaban: C\n\nPembahasan:\nPidato peringatan hari besar nasional menggunakan bahasa baku/formal."
+    },
+    {
+        "instruction": "Identifikasi fakta eksplanasi.",
+        "input": "Gempa bumi tektonik terjadi akibat pergeseran lempeng bumi. Indonesia terletak di pertemuan tiga lempeng besar dunia, yaitu Lempeng Eurasia, Indo-Australia, dan Pasifik.",
+        "output": "Soal:\nKalimat fakta dalam teks tersebut adalah....\n\nA. Semua kalimat berisi fakta ilmiah\nB. Hanya kalimat pertama yang fakta\nC. Tidak ada fakta\nD. Menurut saya gempa itu menakutkan\n\nKunci Jawaban: A\n\nPembahasan:\nTeks eksplanasi disusun berdasarkan fakta (ilmiah/geografis)."
+    },
+    {
+        "instruction": "Lengkapi kalimat harapan pidato.",
+        "input": "Saya berharap, lomba kebersihan kelas ini tidak hanya seremonial saja, tetapi dapat menjadi .... bagi kita semua untuk selalu hidup bersih.",
+        "output": "Soal:\nKata yang tepat untuk melengkapi kalimat tersebut adalah....\n\nA. kebiasaan (budaya)\nB. beban\nC. paksaan\nD. hukuman\n\nKunci Jawaban: A\n\nPembahasan:\nHarapan positif: lomba kebersihan menjadi 'kebiasaan' atau 'budaya' sehari-hari."
+    },
+    {
+        "instruction": "Analisis fenomena sosial.",
+        "input": "Urbanisasi adalah perpindahan penduduk dari desa ke kota. Faktor pendorongnya antara lain terbatasnya lapangan kerja di desa dan anggapan bahwa hidup di kota lebih menjanjikan kesuksesan.",
+        "output": "Soal:\nFaktor penyebab fenomena urbanisasi menurut teks adalah....\n\nA. Desa lebih nyaman\nB. Kurangnya lapangan kerja di desa\nC. Kota sangat padat\nD. Udara desa sejuk\n\nKunci Jawaban: B\n\nPembahasan:\nTeks menyebutkan 'terbatasnya lapangan kerja di desa' sebagai faktor pendorong."
+    },
+    {
+        "instruction": "Tentukan metode pidato (Naskah).",
+        "input": "Presiden sedang membacakan pidato kenegaraan di sidang MPR. Beliau membaca teks pidato yang sudah dipersiapkan secara lengkap dan utuh dari awal sampai akhir.",
+        "output": "Soal:\nMetode pidato yang digunakan Presiden adalah metode....\n\nA. Ekstemporan\nB. Menghafal\nC. Naskah (Membaca)\nD. Impromtu\n\nKunci Jawaban: C\n\nPembahasan:\nMembaca teks utuh disebut metode Naskah/Manuskrip."
+    },
+    {
+        "instruction": "Identifikasi konjungsi waktu.",
+        "input": "Pertama, telur nyamuk menetas menjadi jentik-jentik. Selanjutnya, jentik berubah menjadi pupa. Akhirnya, pupa berubah menjadi nyamuk dewasa.",
+        "output": "Soal:\nKata yang menunjukkan konjungsi kronologis (urutan waktu) adalah....\n\nA. Telur, jentik, pupa\nB. Pertama, Selanjutnya, Akhirnya\nC. Menetas, berubah, menjadi\nD. Nyamuk, dewasa\n\nKunci Jawaban: B\n\nPembahasan:\nKata penghubung penanda urutan waktu."
+    },
+    {
+        "instruction": "Lengkapi sapaan pidato perpisahan.",
+        "input": "Kepada Bapak Kepala Sekolah yang saya hormati, Bapak/Ibu Guru yang saya muliakan, serta .... yang saya sayangi.",
+        "output": "Soal:\nKelanjutan sapaan yang tepat untuk pidato perpisahan siswa kelas 6 adalah....\n\nA. tamu undangan dan teman-teman seperjuangan\nB. pedagang kantin\nC. orang lewat\nD. tetangga sebelah\n\nKunci Jawaban: A\n\nPembahasan:\nAudiens acara perpisahan biasanya tamu (orang tua) dan teman-teman siswa."
+    },
+    {
+        "instruction": "Analisis daur air.",
+        "input": "Air di bumi tidak pernah habis karena mengalami siklus air. Evaporasi adalah proses penguapan air laut. Presipitasi adalah jatuhnya titik air ke bumi (hujan). Infiltrasi adalah penyerapan air ke dalam tanah.",
+        "output": "Soal:\nBerdasarkan teks, proses jatuhnya air dari atmosfer ke permukaan bumi disebut....\n\nA. Evaporasi\nB. Kondensasi\nC. Presipitasi\nD. Infiltrasi\n\nKunci Jawaban: C\n\nPembahasan:\nDefinisi presipitasi (hujan) sesuai teks."
+    },
+    {
+        "instruction": "Tentukan inti pidato.",
+        "input": "Jangan biarkan air tergenang di kaleng bekas. Kubur barang-barang bekas yang bisa menampung air. Hal ini penting untuk memutus mata rantai penyebaran nyamuk demam berdarah.",
+        "output": "Soal:\nInti sari dari kutipan pidato tersebut adalah ajakan untuk....\n\nA. Mengumpulkan barang bekas\nB. Menjual kaleng bekas\nC. Membersihkan lingkungan agar nyamuk tidak bersarang\nD. Memelihara nyamuk\n\nKunci Jawaban: C\n\nPembahasan:\nAjakan 3M (mengubur dll) untuk mencegah nyamuk bersarang."
+    },
+    {
+        "instruction": "Identifikasi kalimat tanya retoris.",
+        "input": "Apakah kita mau melihat bumi kita hancur karena sampah plastik? Tentu tidak! Oleh karena itu, mulailah kurangi penggunaan plastik sekali pakai.",
+        "output": "Soal:\nKalimat 'Apakah kita mau melihat bumi kita hancur karena sampah plastik?' termasuk jenis kalimat tanya....\n\nA. Biasa\nB. Retoris (Tidak butuh jawaban)\nC. Perintah\nD. Berita\n\nKunci Jawaban: B\n\nPembahasan:\nPertanyaan yang jawabannya sudah jelas dan dimaksudkan untuk penegasan disebut retoris."
+    },
+    {
+        "instruction": "Analisis struktur teks pelangi.",
+        "input": "Pelangi adalah fenomena optik dan meteorologi yang menghasilkan spektrum cahaya di langit. Pelangi biasanya berbentuk busur melingkar yang berwarna-warni.",
+        "output": "Soal:\nParagraf yang mendefinisikan apa itu pelangi termasuk struktur....\n\nA. Pernyataan umum\nB. Urutan sebab-akibat\nC. Interpretasi\nD. Koda\n\nKunci Jawaban: A\n\nPembahasan:\nDefinisi umum terletak di awal (pernyataan umum)."
+    },
+    {
+        "instruction": "Lengkapi kalimat pidato motivasi.",
+        "input": "Kegagalan adalah keberhasilan yang tertunda. Jangan mudah menyerah jika mendapat nilai jelek. Teruslah .... agar nilai kalian membaik.",
+        "output": "Soal:\nKata yang tepat untuk melengkapi pidato motivasi belajar adalah....\n\nA. bermain\nB. tidur\nC. berusaha dan belajar\nD. menangis\n\nKunci Jawaban: C\n\nPembahasan:\nMotivasi untuk memperbaiki nilai adalah dengan berusaha/belajar."
+    },
+    {
+        "instruction": "Identifikasi kata kerja mental.",
+        "input": "Kita harus menyadari bahwa kebersihan adalah sebagian dari iman. Kita juga perlu memahami dampak buruk sampah bagi kesehatan.",
+        "output": "Soal:\nKata kerja mental (berkaitan dengan pikiran/perasaan) dalam kalimat tersebut adalah....\n\nA. Kebersihan, sampah\nB. Menyadari, memahami\nC. Adalah, dari\nD. Buruk, kesehatan\n\nKunci Jawaban: B\n\nPembahasan:\nKata kerja aktivitas mental: menyadari, memahami, memikirkan, merasakan."
+    },
+    {
+        "instruction": "Analisis teks eksplanasi (gerhana).",
+        "input": "Gerhana matahari total terjadi ketika piringan bulan menutupi sepenuhnya piringan matahari. Saat itu, langit akan menjadi gelap seperti malam hari selama beberapa menit.",
+        "output": "Soal:\nDampak yang dirasakan di bumi saat terjadi gerhana matahari total sesuai teks adalah....\n\nA. Suhu menjadi sangat panas\nB. Langit menjadi gelap sesaat\nC. Terjadi badai\nD. Gempa bumi\n\nKunci Jawaban: B\n\nPembahasan:\nTeks menyebutkan 'langit akan menjadi gelap seperti malam hari'."
+    },
+    {
+        "instruction": "Tentukan struktur pidato (isi).",
+        "input": "Hadirin sekalian, manfaat menabung sangat banyak. Kita bisa memiliki dana cadangan untuk keperluan mendadak. Kita juga belajar hidup hemat dan tidak boros.",
+        "output": "Soal:\nKutipan tersebut merupakan bagian .... pidato.\n\nA. Pembukaan\nB. Isi (Inti)\nC. Penutup\nD. Salam\n\nKunci Jawaban: B\n\nPembahasan:\nMenjelaskan detail topik (manfaat menabung) adalah bagian Isi."
+    },
+    {
+        "instruction": "Identifikasi kata baku eksplanasi.",
+        "input": "Sistem pernapasan manusia (komplek/kompleks). Oksigen masuk melalui hidung dan diproses di paru-paru.",
+        "output": "Soal:\nKata baku yang tepat untuk melengkapi kalimat tersebut adalah....\n\nA. Komplek\nB. Kompleks\nC. Komplet\nD. Komples\n\nKunci Jawaban: B\n\nPembahasan:\nKata baku serapan asing: Complex -> Kompleks."
+    },
+    {
+        "instruction": "Analisis pendahuluan pidato.",
+        "input": "Puji syukur kita panjatkan ke hadirat Tuhan Yang Maha Esa, yang telah melimpahkan rahmat-Nya sehingga kita bisa berkumpul di acara perkemahan Sabtu-Minggu ini.",
+        "output": "Soal:\nInti dari kalimat pendahuluan pidato tersebut adalah....\n\nA. Ucapan terima kasih kepada panitia\nB. Ungkapan syukur kepada Tuhan\nC. Laporan ketua panitia\nD. Salam perpisahan\n\nKunci Jawaban: B\n\nPembahasan:\nUngkapan 'Puji syukur kita panjatkan...' adalah ungkapan syukur."
+    },
+    {
+        "instruction": "Identifikasi kalimat efektif.",
+        "input": "Banjir disebabkan oleh sampah yang (sangat banyak sekali) menumpuk di sungai.",
+        "output": "Soal:\nAgar menjadi kalimat efektif, frasa dalam kurung seharusnya diubah menjadi....\n\nA. Banyak sekali\nB. Sangat banyak atau banyak sekali (pilih salah satu)\nC. Amat banyak banget\nD. Paling banyak sekali\n\nKunci Jawaban: B\n\nPembahasan:\nPemborosan kata (pleonasme). 'Sangat' dan 'sekali' maknanya sama, gunakan salah satu."
+    },
+    {
+        "instruction": "Tentukan persiapan pidato.",
+        "input": "Sebelum berpidato, Budi mencari informasi tentang topik 'Pemanasan Global', menyusun kerangka pidato, dan mengembangkannya menjadi naskah.",
+        "output": "Soal:\nLangkah pertama yang dilakukan Budi dalam menyusun pidato adalah....\n\nA. Mengembangkan kerangka\nB. Menentukan topik dan mencari bahan\nC. Latihan berpidato\nD. Membaca naskah\n\nKunci Jawaban: B\n\nPembahasan:\nTahap awal adalah menentukan tema/topik dan mengumpulkan materi."
+    },
+    {
+        "instruction": "Analisis teks eksplanasi (siklus air).",
+        "input": "Siklus air menjaga ketersediaan air di bumi. Air dari laut menguap, menjadi awan, turun sebagai hujan, mengalir ke sungai, dan kembali ke laut. Proses ini berlangsung terus-menerus.",
+        "output": "Soal:\nKata 'siklus' dalam teks tersebut bermakna....\n\nA. Putaran atau rangkaian kejadian yang berulang-ulang\nB. Garis lurus\nC. Perjalanan jauh\nD. Genangan air\n\nKunci Jawaban: A\n\nPembahasan:\nArti kata siklus adalah putaran/daur ulang."
+    },
+    {
+        "instruction": "Lengkapi kalimat rumpang (Kata Sifat).",
+        "input": "Pemandangan di Raja Ampat sangat .... Air lautnya jernih dan terumbu karangnya berwarna-warni.",
+        "output": "Soal:\nKata yang tepat untuk melengkapi kalimat tersebut adalah....\n\nA. buruk\nB. mempesona\nC. menakutkan\nD. membosankan\n\nKunci Jawaban: B\n\nPembahasan:\nKata sifat 'mempesona' sesuai dengan deskripsi keindahan Raja Ampat."
+    },
+    {
+        "instruction": "Identifikasi kata baku (Apotek).",
+        "input": "Ibu membeli obat di (apotik/apotek) terdekat untuk meredakan demam adik.",
+        "output": "Soal:\nKata baku yang tepat untuk melengkapi kalimat tersebut adalah....\n\nA. apotik\nB. apotek\nC. aphotik\nD. apotiek\n\nKunci Jawaban: B\n\nPembahasan:\nKata baku adalah 'Apotek' (KBBI), karena orang yang bekerja di sana disebut Apoteker, bukan Apotiker."
+    },
+    {
+        "instruction": "Lengkapi kalimat rumpang (Konjungsi).",
+        "input": "Rina rajin belajar setiap hari .... ia ingin menjadi juara kelas.",
+        "output": "Soal:\nKata penghubung (konjungsi) yang tepat untuk melengkapi kalimat tersebut adalah....\n\nA. tetapi\nB. walaupun\nC. karena\nD. atau\n\nKunci Jawaban: C\n\nPembahasan:\nKonjungsi 'karena' menghubungkan sebab (ingin juara) dan akibat (rajin belajar)."
+    },
+    {
+        "instruction": "Identifikasi kata baku (Jenderal).",
+        "input": "Panglima (Jendral/Jenderal) Sudirman memimpin perang gerilya dengan penuh semangat.",
+        "output": "Soal:\nPenulisan kata baku yang benar adalah....\n\nA. Jendral\nB. Jenderal\nC. Jenderaal\nD. Gendral\n\nKunci Jawaban: B\n\nPembahasan:\nKata baku menurut KBBI adalah 'Jenderal'."
+    },
+    {
+        "instruction": "Lengkapi peribahasa rumpang.",
+        "input": "Besar pasak daripada tiang. Peribahasa ini menggambarkan orang yang pengeluarannya .... daripada pendapatannya.",
+        "output": "Soal:\nKata yang tepat untuk melengkapi arti peribahasa tersebut adalah....\n\nA. lebih kecil\nB. lebih besar\nC. sama\nD. sedikit\n\nKunci Jawaban: B\n\nPembahasan:\n'Besar pasak daripada tiang' artinya belanja/pengeluaran lebih besar dari pendapatan."
+    },
+    {
+        "instruction": "Identifikasi kata baku (Nasihat).",
+        "input": "Ayah memberikan (nasehat/nasihat) agar kami selalu jujur dan disiplin.",
+        "output": "Soal:\nKata baku yang tepat adalah....\n\nA. nasehat\nB. nasihat\nC. nosihat\nD. nasyihat\n\nKunci Jawaban: B\n\nPembahasan:\nBentuk baku adalah 'Nasihat' (kata dasar: sihat/sehat secara moral)."
+    },
+    {
+        "instruction": "Lengkapi kalimat rumpang (Ungkapan).",
+        "input": "Pak Bidu dikenal sebagai orang yang .... karena suka membantu tetangga yang kesusahan.",
+        "output": "Soal:\nUngkapan yang tepat untuk menggambarkan sifat Pak Bidu adalah....\n\nA. ringan tangan\nB. panjang tangan\nC. berat hati\nD. kepala batu\n\nKunci Jawaban: A\n\nPembahasan:\n'Ringan tangan' bermakna suka membantu (bisa juga suka memukul, tapi konteks kalimat ini positif)."
+    },
+    {
+        "instruction": "Identifikasi kata baku (Kualitas).",
+        "input": "Barang-barang impor belum tentu memiliki (kualitas/kwalitas) yang lebih baik daripada produk lokal.",
+        "output": "Soal:\nPenulisan kata baku yang benar adalah....\n\nA. kwalitas\nB. kualitet\nC. kualitas\nD. kualittas\n\nKunci Jawaban: C\n\nPembahasan:\nKata baku serapan: Quality -> Kualitas (bukan pakai w)."
+    },
+    {
+        "instruction": "Lengkapi kalimat rumpang (Kata Kerja).",
+        "input": "Para petani sedang .... padi di sawah yang sudah menguning.",
+        "output": "Soal:\nKata kerja yang tepat untuk melengkapi kalimat tersebut adalah....\n\nA. menanam\nB. memanen\nC. membajak\nD. memupuk\n\nKunci Jawaban: B\n\nPembahasan:\nPadi yang sudah menguning artinya siap dipanen."
+    },
+    {
+        "instruction": "Identifikasi kata baku (Izin).",
+        "input": "Budi tidak masuk sekolah karena sakit. Ayahnya mengirimkan surat (ijin/izin) kepada wali kelas.",
+        "output": "Soal:\nKata baku yang tepat dari kata dalam kurung adalah....\n\nA. ijin\nB. idzin\nC. izin\nD. isin\n\nKunci Jawaban: C\n\nPembahasan:\nBentuk baku menurut KBBI adalah 'Izin' (pakai z)."
+    },
+    {
+        "instruction": "Lengkapi kalimat rumpang (Kata Depan).",
+        "input": "Ayah pergi .... kantor menggunakan sepeda motor setiap pagi.",
+        "output": "Soal:\nKata depan yang tepat untuk melengkapi kalimat tersebut adalah....\n\nA. di\nB. ke\nC. dari\nD. pada\n\nKunci Jawaban: B\n\nPembahasan:\nKata depan 'ke' menunjukkan tujuan tempat."
+    },
+    {
+        "instruction": "Identifikasi kata baku (Aktivitas).",
+        "input": "Olahraga pagi adalah (aktifitas/aktivitas) yang menyehatkan tubuh.",
+        "output": "Soal:\nKata baku yang benar adalah....\n\nA. aktifitas\nB. aktivitas\nC. aktifistas\nD. aktipitas\n\nKunci Jawaban: B\n\nPembahasan:\nSerapan dari Activity -> Aktivitas (pakai v). Tapi kata dasarnya 'Aktif' (pakai f)."
+    },
+    {
+        "instruction": "Lengkapi kalimat rumpang (Hubungan Logis).",
+        "input": "Jalanan macet parah akibat banjir. Oleh karena itu, Ayah .... pulang terlambat.",
+        "output": "Soal:\nKata yang tepat untuk melengkapi kalimat tersebut adalah....\n\nA. akan\nB. sudah\nC. tidak\nD. belum\n\nKunci Jawaban: A\n\nPembahasan:\nKonteks 'Oleh karena itu' menunjukkan prediksi/akibat yang akan terjadi."
+    },
+    {
+        "instruction": "Identifikasi kata baku (Praktik).",
+        "input": "Dokter gigi itu membuka tempat (praktek/praktik) setiap hari Senin sampai Jumat.",
+        "output": "Soal:\nKata baku yang tepat adalah....\n\nA. praktek\nB. praktik\nC. peraktek\nD. praktikum\n\nKunci Jawaban: B\n\nPembahasan:\nBentuk baku adalah 'Praktik' (seperti Praktikum, bukan Praktekum)."
+    },
+    {
+        "instruction": "Lengkapi paragraf rumpang.",
+        "input": "Hutan lindung berfungsi untuk mencegah banjir. Akar pohon dapat .... air hujan ke dalam tanah sehingga tidak langsung mengalir ke sungai.",
+        "output": "Soal:\nKata yang tepat untuk melengkapi kalimat tersebut adalah....\n\nA. membuang\nB. menyerap\nC. mengalirkan\nD. menolak\n\nKunci Jawaban: B\n\nPembahasan:\nFungsi akar pohon adalah menyerap (absorpsi) air."
+    },
+    {
+        "instruction": "Identifikasi kata baku (Risiko).",
+        "input": "Setiap usaha pasti memiliki (resiko/risiko) kegagalan yang harus dihadapi.",
+        "output": "Soal:\nPenulisan kata baku yang benar adalah....\n\nA. resiko\nB. risiko\nC. risiku\nD. raiseko\n\nKunci Jawaban: B\n\nPembahasan:\nKata baku adalah 'Risiko' (Risk -> Risiko)."
+    },
+    {
+        "instruction": "Lengkapi kalimat rumpang (Istilah Kesehatan).",
+        "input": "Untuk mencegah penyebaran virus, kita harus meningkatkan .... tubuh dengan makan makanan bergizi.",
+        "output": "Soal:\nIstilah yang tepat untuk melengkapi kalimat tersebut adalah....\n\nA. imunisasi\nB. imunitas (kekebalan)\nC. infeksi\nD. injeksi\n\nKunci Jawaban: B\n\nPembahasan:\nKonteksnya 'meningkatkan ... tubuh', yang pas adalah imunitas/kekebalan."
+    },
+    {
+        "instruction": "Identifikasi kata baku (Kreativitas).",
+        "input": "Guru seni budaya menilai hasil karya siswa berdasarkan (kreatifitas/kreativitas) masing-masing.",
+        "output": "Soal:\nKata baku yang tepat adalah....\n\nA. kreatifitas\nB. kreativitas\nC. kreatifitiet\nD. kreatipitas\n\nKunci Jawaban: B\n\nPembahasan:\nAkhiran -ity menjadi -itas. Creativity -> Kreativitas (pakai v)."
+    },
+    {
+        "instruction": "Lengkapi kalimat rumpang (Kata Ganti).",
+        "input": "Rani dan Sinta bersahabat sejak kecil. .... selalu pergi ke sekolah bersama-sama.",
+        "output": "Soal:\nKata ganti yang tepat untuk menggantikan 'Rani dan Sinta' adalah....\n\nA. Dia\nB. Kamu\nC. Mereka\nD. Kita\n\nKunci Jawaban: C\n\nPembahasan:\nKata ganti orang ketiga jamak adalah 'Mereka'."
+    },
+    {
+        "instruction": "Identifikasi kata baku (Jadwal).",
+        "input": "Siswa diharapkan melihat (jadual/jadwal) pelajaran terbaru di papan pengumuman.",
+        "output": "Soal:\nKata baku yang benar adalah....\n\nA. jadual\nB. jadwal\nC. jadawal\nD. scedul\n\nKunci Jawaban: B\n\nPembahasan:\nKata baku menurut KBBI adalah 'Jadwal' (bukan jadual)."
+    },
+    {
+        "instruction": "Lengkapi kalimat rumpang (Antonim).",
+        "input": "Sungai itu dulu sangat kotor dan bau, namun sekarang airnya menjadi .... dan tidak berbau.",
+        "output": "Soal:\nKata yang tepat untuk melengkapi kalimat tersebut adalah....\n\nA. keruh\nB. bersih\nC. hitam\nD. dangkal\n\nKunci Jawaban: B\n\nPembahasan:\nAntonim (lawan kata) dari kotor adalah bersih."
+    },
+    {
+        "instruction": "Identifikasi kata baku (Antre).",
+        "input": "Budayakan (antri/antre) saat membeli tiket di loket stasiun.",
+        "output": "Soal:\nKata baku yang tepat adalah....\n\nA. antri\nB. antre\nC. anteri\nD. antrei\n\nKunci Jawaban: B\n\nPembahasan:\nKata baku adalah 'Antre' (kata jadiannya: antrean)."
+    },
+    {
+        "instruction": "Lengkapi pantun rumpang.",
+        "input": "Berakit-rakit ke hulu, berenang-renang ke tepian. Bersakit-sakit dahulu, .... kemudian.",
+        "output": "Soal:\nKata yang tepat untuk melengkapi pantun tersebut adalah....\n\nA. bersenang-senang\nB. gembira ria\nC. tertawa-tawa\nD. mati\n\nKunci Jawaban: A\n\nPembahasan:\nPasangan rima pantun legendaris: tepian - kemudian, dahulu - bersenang-senang."
+    },
+    {
+        "instruction": "Identifikasi kata baku (Negeri).",
+        "input": "Cinta produk dalam (negr/negeri) dapat membantu perekonomian bangsa.",
+        "output": "Soal:\nKata baku yang benar adalah....\n\nA. negri\nB. negeri\nC. nagari\nD. negari\n\nKunci Jawaban: B\n\nPembahasan:\nBentuk baku adalah 'Negeri'."
+    },
+    {
+        "instruction": "Lengkapi kalimat rumpang (Kata Bilangan).",
+        "input": "Ibu membeli .... lusin piring untuk acara syukuran di rumah.",
+        "output": "Soal:\nKata bilangan tingkat/jumlah yang sesuai konteks (bukan pecahan) adalah....\n\nA. satu\nB. sepertiga\nC. seperempat\nD. sedikit\n\nKunci Jawaban: A\n\nPembahasan:\nDalam konteks beli piring untuk acara, 'satu lusin' adalah kuantitas yang wajar."
+    },
+    {
+        "instruction": "Identifikasi kata baku (Pikir).",
+        "input": "Jangan lupa (fikir/pikir) dahulu sebelum bertindak agar tidak menyesal.",
+        "output": "Soal:\nKata baku yang tepat adalah....\n\nA. fikir\nB. pikir\nC. fikiran\nD. pigir\n\nKunci Jawaban: B\n\nPembahasan:\nBentuk baku adalah 'Pikir' (Berpikir)."
+    },
+    {
+        "instruction": "Lengkapi kalimat rumpang (Kata Seru).",
+        "input": "...., indah sekali pemandangan matahari terbenam ini!",
+        "output": "Soal:\nKata seru yang tepat untuk mengungkapkan kekaguman adalah....\n\nA. Wah\nB. Ah\nC. Ih\nD. Hore\n\nKunci Jawaban: A\n\nPembahasan:\n'Wah' digunakan untuk kekaguman. 'Ih' untuk jijik/takut. 'Ah' untuk keluhan/kekecewaan."
+    },
+    {
+        "instruction": "Identifikasi kata baku (Saksama).",
+        "input": "Bacalah teks berikut dengan (seksama/saksama) agar memahami isinya.",
+        "output": "Soal:\nKata baku yang tepat adalah....\n\nA. seksama\nB. saksama\nC. sesama\nD. sama-sama\n\nKunci Jawaban: B\n\nPembahasan:\nKata baku menurut KBBI adalah 'Saksama' (artinya teliti/cermat)."
+    },
+    {
+        "instruction": "Lengkapi kalimat rumpang (Perbandingan).",
+        "input": "Lari kijang itu .... kilat menyambar.",
+        "output": "Soal:\nKata perbandingan yang tepat untuk melengkapi kalimat majas asosiasi tersebut adalah....\n\nA. kurang\nB. secepat\nC. lambat\nD. seperti\n\nKunci Jawaban: B\n\nPembahasan:\n'Secepat kilat' adalah frasa perbandingan yang umum (atau 'bagaikan/seperti' kilat)."
+    },
+    {
+        "instruction": "Identifikasi kata baku (Hektare).",
+        "input": "Paman memiliki sawah seluas dua (hektar/hektare) di kampung.",
+        "output": "Soal:\nPenulisan satuan luas yang baku adalah....\n\nA. hektar\nB. hektare\nC. hekter\nD. hektaar\n\nKunci Jawaban: B\n\nPembahasan:\nSatuan baku menurut KBBI dan SI adalah 'hektare' (ha)."
+    },
+    {
+        "instruction": "Lengkapi kalimat rumpang (Kata Penghubung).",
+        "input": "Adik menangis tersedu-sedu .... mainannya rusak.",
+        "output": "Soal:\nKonjungsi yang tepat adalah....\n\nA. sehingga\nB. agar\nC. sebab\nD. jika\n\nKunci Jawaban: C\n\nPembahasan:\nMenjelaskan alasan (sebab) adik menangis."
+    },
+    {
+        "instruction": "Identifikasi kata baku (Analisis).",
+        "input": "Kita perlu melakukan (analisa/analisis) mendalam terhadap masalah banjir ini.",
+        "output": "Soal:\nKata baku yang benar adalah....\n\nA. analisa\nB. analisis\nC. analis\nD. anilisis\n\nKunci Jawaban: B\n\nPembahasan:\nSerapan dari Analysis -> Analisis (bukan analisa)."
+    },
+    {
+        "instruction": "Lengkapi kalimat rumpang (Ungkapan).",
+        "input": "Meskipun anak orang kaya, Budi tetap .... dan mau berteman dengan siapa saja.",
+        "output": "Soal:\nUngkapan yang tepat untuk sifat tidak sombong adalah....\n\nA. besar kepala\nB. rendah hati\nC. tinggi hati\nD. lapang dada\n\nKunci Jawaban: B\n\nPembahasan:\n'Rendah hati' artinya tidak sombong. 'Tinggi hati/Besar kepala' artinya sombong."
+    },
+    {
+        "instruction": "Identifikasi kata baku (Cabai).",
+        "input": "Harga (cabe/cabai) di pasar melonjak naik menjelang hari raya.",
+        "output": "Soal:\nKata baku untuk bumbu dapur pedas ini adalah....\n\nA. cabe\nB. cabai\nC. caby\nD. cabay\n\nKunci Jawaban: B\n\nPembahasan:\nBentuk baku adalah 'Cabai'."
+    },
+    {
+        "instruction": "Lengkapi kalimat rumpang (Kata Tanya).",
+        "input": ".... cara membuat layang-layang dari bambu?",
+        "output": "Soal:\nKata tanya yang tepat untuk menanyakan cara atau proses adalah....\n\nA. Apa\nB. Kapan\nC. Bagaimana\nD. Di mana\n\nKunci Jawaban: C\n\nPembahasan:\n'Bagaimana' digunakan untuk menanyakan cara/keadaan."
+    },
+    {
+        "instruction": "Identifikasi kata baku (Napasi).",
+        "input": "Bernapaslah dengan teratur agar paru-paru sehat. Kata dasar 'bernapas' adalah (nafas/napas)?",
+        "output": "Soal:\nKata baku yang benar adalah....\n\nA. nafas\nB. napas\nC. navas\nD. napaz\n\nKunci Jawaban: B\n\nPembahasan:\nBentuk baku adalah 'Napas' (Maka: Bernapas, Pernapasan). Nafas adalah bentuk tidak baku."
+    },
+    {
+        "instruction": "Lengkapi kalimat rumpang (Keterangan Waktu).",
+        "input": "Ayah akan berangkat ke Surabaya .... pagi naik kereta api.",
+        "output": "Soal:\nKeterangan waktu yang tepat untuk menunjukkan masa depan (future) adalah....\n\nA. kemarin\nB. besok\nC. tadi\nD. dulu\n\nKunci Jawaban: B\n\nPembahasan:\nKata 'akan' menunjukkan kejadian di masa depan, jadi 'kemarin/tadi/dulu' salah."
+    },
+    {
+        "instruction": "Identifikasi kata baku (Hapal).",
+        "input": "Siswa diminta (menghapal/menghafal) nama-nama pahlawan nasional.",
+        "output": "Soal:\nKata baku yang tepat adalah....\n\nA. menghapal\nB. menghafal\nC. mengapal\nD. mengafal\n\nKunci Jawaban: B\n\nPembahasan:\nKata dasar 'Hafal' (dari bahasa Arab), bukan Hapal."
+    },
+    {
+        "instruction": "Lengkapi kalimat rumpang (Homonim).",
+        "input": "Bisa ular itu sangat mematikan. Namun, jika ditangani ahli, kita .... selamat.",
+        "output": "Soal:\nKata 'bisa' pada kalimat kedua memiliki arti....\n\nA. Racun\nB. Dapat/Mampu\nC. Hebat\nD. Zat kimia\n\nKunci Jawaban: B\n\nPembahasan:\nBisa (1) = racun. Bisa (2) = dapat/mampu."
+    },
+    {
+        "instruction": "Identifikasi kata baku (Bus).",
+        "input": "Kami pergi berwisata naik (bis/bus) pariwisata yang besar.",
+        "output": "Soal:\nKata baku yang benar adalah....\n\nA. bis\nB. bus\nC. bes\nD. biskota\n\nKunci Jawaban: B\n\nPembahasan:\nSerapan dari Omnibus -> Bus (bukan Bis)."
+    },
+    {
+        "instruction": "Lengkapi kalimat rumpang (Kata Majemuk).",
+        "input": "Ibu membelikan adik .... mata berupa kacamata hitam dari Bali.",
+        "output": "Soal:\nKata yang tepat untuk melengkapi kata majemuk 'buah ...' (oleh-oleh) adalah....\n\nA. buah bibir\nB. buah tangan\nC. buah hati\nD. buah karya\n\nKunci Jawaban: B\n\nPembahasan:\nKonteks 'berupa kacamata hitam dari Bali' menunjukkan oleh-oleh (buah tangan)."
+    },
+    {
+        "instruction": "Identifikasi kata baku (Sistem).",
+        "input": "Pemerintah menerapkan (sistem/Sistim) zonasi dalam penerimaan siswa baru.",
+        "output": "Soal:\nKata baku yang tepat adalah....\n\nA. sistim\nB. sistem\nC. systim\nD. sytem\n\nKunci Jawaban: B\n\nPembahasan:\nSystem -> Sistem (bukan sistim)."
+    },
+    {
+        "instruction": "Lengkapi kalimat rumpang (Sinonim).",
+        "input": "Rumah Pak Guru sangat besar dan megah. Sinonim kata 'besar' adalah ....",
+        "output": "Soal:\nSinonim (persamaan makna) yang tepat untuk konteks rumah adalah....\n\nA. kecil\nB. luas\nC. sempit\nD. panjang\n\nKunci Jawaban: B\n\nPembahasan:\nBesar untuk ukuran rumah identik dengan Luas/Agung/Megah."
+    },
+    {
+        "instruction": "Identifikasi kata baku (Miliar).",
+        "input": "Proyek pembangunan jembatan itu menghabiskan dana miliaran rupiah. Penulisan baku angka 1.000 juta adalah (milyar/miliar)?",
+        "output": "Soal:\nKata baku yang benar adalah....\n\nA. milyar\nB. miliar\nC. miliyar\nD. milliar\n\nKunci Jawaban: B\n\nPembahasan:\nBentuk baku adalah 'Miliar' (Miliarder)."
+    },
+    {
+        "instruction": "Lengkapi kalimat rumpang (Kata Sandang).",
+        "input": ".... Kancil yang cerdik berhasil menipu Buaya.",
+        "output": "Soal:\nKata sandang yang tepat untuk tokoh hewan dalam dongeng adalah....\n\nA. Si\nB. Sang\nC. Para\nD. Yang\n\nKunci Jawaban: B\n\nPembahasan:\n'Sang Kancil' adalah sebutan penghormatan (atau julukan) yang umum dalam fabel."
+    },
+    {
+        "instruction": "Identifikasi kata baku (Objek).",
+        "input": "Pantai Kuta adalah (obyek/objek) wisata terkenal di Bali.",
+        "output": "Soal:\nKata baku yang benar adalah....\n\nA. obyek\nB. objek\nC. object\nD. objec\n\nKunci Jawaban: B\n\nPembahasan:\nObject -> Objek (bukan obyek, huruf y diganti j)."
+    },
+    {
+        "instruction": "Lengkapi kalimat rumpang (Imbuhan).",
+        "input": "Sampah yang menumpuk dapat .... bau tidak sedap.",
+        "output": "Soal:\nKata berimbuhan yang tepat adalah....\n\nA. timbul\nB. menimbulkan\nC. ditimbulkan\nD. penimbul\n\nKunci Jawaban: B\n\nPembahasan:\nMemerlukan kata kerja aktif transitif: me-kan (menimbulkan)."
+    },
+    {
+        "instruction": "Identifikasi kata baku (Paham).",
+        "input": "Saya belum (faham/paham) tentang materi pecahan desimal.",
+        "output": "Soal:\nKata baku yang tepat adalah....\n\nA. faham\nB. paham\nC. fahim\nD. pahem\n\nKunci Jawaban: B\n\nPembahasan:\nBentuk baku adalah 'Paham' (Memahami)."
+    },
+    {
+        "instruction": "Lengkapi kalimat rumpang (Kata Bilangan Tentu).",
+        "input": "Seekor kucing mempunyai .... kaki.",
+        "output": "Soal:\nKata bilangan yang tepat adalah....\n\nA. dua\nB. tiga\nC. empat\nD. lima\n\nKunci Jawaban: C\n\nPembahasan:\nFakta umum: kucing berkaki empat."
+    },
+    {
+        "instruction": "Identifikasi kata baku (Hoaks).",
+        "input": "Jangan mudah percaya berita bohong atau (hoax/hoaks).",
+        "output": "Soal:\nEjaan bahasa Indonesia yang baku untuk 'hoax' adalah....\n\nA. hoax\nB. hoaks\nC. hoks\nD. hoak\n\nKunci Jawaban: B\n\nPembahasan:\nDalam KBBI, hoax diserap menjadi Hoaks."
+    },
+    {
+        "instruction": "Lengkapi kalimat rumpang (Preposisi).",
+        "input": "Buku tulis itu disimpan .... dalam tas.",
+        "output": "Soal:\nKata depan yang tepat adalah....\n\nA. ke\nB. di\nC. dari\nD. pada\n\nKunci Jawaban: B\n\nPembahasan:\nMenunjukkan posisi/tempat menggunakan 'di'."
+    },
+    {
+        "instruction": "Identifikasi kata baku (Survei).",
+        "input": "Petugas melakukan (survei/survey) ke lokasi bencana.",
+        "output": "Soal:\nKata baku yang benar adalah....\n\nA. survey\nB. survei\nC. survai\nD. surfei\n\nKunci Jawaban: B\n\nPembahasan:\nSurvey -> Survei (ey jadi ei)."
+    },
+    {
+        "instruction": "Lengkapi kalimat rumpang (Ungkapan Kiasan).",
+        "input": "Setelah seharian bekerja keras, ayah pulang dengan tulang yang ....",
+        "output": "Soal:\nKata yang tepat untuk menggambarkan kelelahan yang sangat (idiom) adalah....\n\nA. patah\nB. remuk redam\nC. kuat\nD. besi\n\nKunci Jawaban: B\n\nPembahasan:\n'Remuk redam' adalah kiasan untuk rasa lelah yang luar biasa."
+    },
+    {
+        "instruction": "Prediksi kejadian berdasarkan cerita.",
+        "input": "Langit mendung dan awan hitam menggantung tebal. Angin bertiup kencang membuat daun-daun berguguran. Ibu bergegas mengangkat jemuran di halaman belakang.",
+        "output": "Soal:\nKejadian yang mungkin terjadi selanjutnya adalah....\n\nA. Matahari akan bersinar terik\nB. Turun hujan deras\nC. Pelangi akan muncul\nD. Bintang akan terlihat\n\nKunci Jawaban: B\n\nPembahasan:\nTanda-tanda mendung, angin kencang, dan ibu mengangkat jemuran mengindikasikan akan segera turun hujan."
+    },
+    {
+        "instruction": "Prediksi kejadian (Sebab-Akibat).",
+        "input": "Rudi malas menggosok gigi sebelum tidur. Ia sering makan cokelat dan permen tanpa membersihkan mulutnya.",
+        "output": "Soal:\nJika kebiasaan ini terus dilakukan, kemungkinan besar yang akan terjadi pada Rudi adalah....\n\nA. Giginya menjadi putih bersih\nB. Mengalami sakit gigi dan gigi berlubang\nC. Nafasnya menjadi harum\nD. Rudi akan menjadi dokter gigi\n\nKunci Jawaban: B\n\nPembahasan:\nMalas gosok gigi + makan manis = risiko tinggi gigi berlubang."
+    },
+    {
+        "instruction": "Prediksi kejadian (Lingkungan).",
+        "input": "Warga desa suka membuang sampah ke sungai. Sampah menumpuk hingga menyumbat aliran air. Tiba-tiba hujan deras turun selama dua hari berturut-turut.",
+        "output": "Soal:\nPeristiwa yang diprediksi akan terjadi di desa tersebut adalah....\n\nA. Sungai menjadi jernih\nB. Ikan-ikan di sungai bertambah banyak\nC. Terjadi banjir\nD. Warga desa panen raya\n\nKunci Jawaban: C\n\nPembahasan:\nSungai tersumbat + hujan deras = banjir."
+    },
+    {
+        "instruction": "Prediksi kejadian (Lalu Lintas).",
+        "input": "Seorang pengendara motor melaju dengan kecepatan tinggi tanpa memakai helm. Di depan ada tikungan tajam yang licin karena sisa hujan.",
+        "output": "Soal:\nHal yang dikhawatirkan akan terjadi pada pengendara tersebut adalah....\n\nA. Sampai tujuan lebih cepat\nB. Tergelincir dan mengalami kecelakaan fatal\nC. Mendapat hadiah helm\nD. Motornya menjadi bersih\n\nKunci Jawaban: B\n\nPembahasan:\nNgebut + jalan licin + tanpa helm = risiko kecelakaan fatal."
+    },
+    {
+        "instruction": "Prediksi kejadian (Kesehatan).",
+        "input": "Budi jajan sembarangan di pinggir jalan yang banyak lalat. Ia tidak mencuci tangan sebelum makan gorengan itu.",
+        "output": "Soal:\nKemungkinan yang akan dialami Budi setelah memakan jajanan tersebut adalah....\n\nA. Sakit perut atau diare\nB. Badan menjadi segar\nC. Menjadi kenyang dan sehat\nD. Minta tambah lagi\n\nKunci Jawaban: A\n\nPembahasan:\nMakanan tidak higienis (lalat) + tangan kotor = diare/sakit perut."
+    },
+    {
+        "instruction": "Prediksi kejadian (Cerita Fabel).",
+        "input": "Semut bekerja keras mengumpulkan makanan untuk musim dingin. Belalang hanya bernyanyi dan mengejek Semut. Tibalah musim dingin dengan badai salju yang lebat.",
+        "output": "Soal:\nNasib Belalang pada saat musim dingin tiba adalah....\n\nA. Belalang akan berpesta pora\nB. Belalang akan kelaparan dan kedinginan\nC. Belalang tidur nyenyak\nD. Belalang dibantu oleh manusia\n\nKunci Jawaban: B\n\nPembahasan:\nKarena tidak menyiapkan makanan, Belalang akan kelaparan saat musim dingin (cerita Aesop)."
+    },
+    {
+        "instruction": "Prediksi kejadian (Sosial).",
+        "input": "Andi meminjam buku perpustakaan tetapi menghilangkannya. Ia jujur mengakui kesalahannya kepada Ibu Guru petugas perpustakaan.",
+        "output": "Soal:\nReaksi Ibu Guru atas kejujuran Andi kemungkinan besar adalah....\n\nA. Memarahi Andi habis-habisan\nB. Menghargai kejujuran Andi meski tetap memberi sanksi penggantian buku\nC. Mengeluarkan Andi dari sekolah\nD. Memberi Andi hadiah buku baru\n\nKunci Jawaban: B\n\nPembahasan:\nKejujuran biasanya dihargai, namun tanggung jawab (mengganti buku) tetap ditegakkan secara edukatif."
+    },
+    {
+        "instruction": "Prediksi kejadian (Alam).",
+        "input": "Hutan di lereng gunung telah gundul ditebangi. Tidak ada lagi akar pohon yang mengikat tanah.",
+        "output": "Soal:\nJika terjadi hujan lebat di daerah tersebut, bencana yang mungkin terjadi adalah....\n\nA. Gunung meletus\nB. Tsunami\nC. Tanah longsor\nD. Kebakaran hutan\n\nKunci Jawaban: C\n\nPembahasan:\nLereng gundul + hujan lebat = tanah longsor."
+    },
+    {
+        "instruction": "Prediksi kejadian (Teknologi).",
+        "input": "Baterai ponsel Rina tinggal 1%. Ia sedang berada di hutan yang tidak ada aliran listrik (stopkontak).",
+        "output": "Soal:\nKejadian selanjutnya pada ponsel Rina adalah....\n\nA. Ponsel akan mati (lowbat)\nB. Ponsel akan terisi penuh sendiri\nC. Sinyal menjadi kuat\nD. Ponsel bisa digunakan menelepon seharian\n\nKunci Jawaban: A\n\nPembahasan:\nBaterai habis tanpa charger = ponsel mati."
+    },
+    {
+        "instruction": "Prediksi kejadian (Pertanian).",
+        "input": "Musim kemarau tahun ini sangat panjang. Sawah-sawah kering kerontang dan saluran irigasi tidak berair.",
+        "output": "Soal:\nDampak yang akan dialami para petani adalah....\n\nA. Gagal panen (puso)\nB. Panen melimpah\nC. Harga pupuk turun\nD. Sawah menjadi subur\n\nKunci Jawaban: A\n\nPembahasan:\nTanpa air, tanaman padi mati -> gagal panen."
+    },
+    {
+        "instruction": "Prediksi kejadian (Sekolah).",
+        "input": "Dodi bangun kesiangan padahal hari ini ada upacara bendera. Jarak rumah ke sekolah cukup jauh.",
+        "output": "Soal:\nKemungkinan yang terjadi saat Dodi sampai di sekolah adalah....\n\nA. Dodi datang paling awal\nB. Dodi terlambat mengikuti upacara\nC. Upacara dibatalkan\nD. Gerbang sekolah dibuka lebar\n\nKunci Jawaban: B\n\nPembahasan:\nBangun kesiangan + jarak jauh = terlambat."
+    },
+    {
+        "instruction": "Prediksi kejadian (Ekonomi).",
+        "input": "Harga bahan bakar minyak (BBM) naik cukup tinggi. Biaya transportasi pengiriman barang pun ikut naik.",
+        "output": "Soal:\nPengaruh kenaikan BBM ini terhadap harga barang kebutuhan pokok di pasar adalah....\n\nA. Harga barang pokok kemungkinan akan ikut naik\nB. Harga barang pokok akan turun drastis\nC. Harga barang pokok tetap stabil\nD. Barang pokok digratiskan\n\nKunci Jawaban: A\n\nPembahasan:\nKenaikan biaya transportasi distribusi biasanya menyebabkan kenaikan harga barang (inflasi cost-push)."
+    },
+    {
+        "instruction": "Prediksi kejadian (Olahraga).",
+        "input": "Tim sepak bola Indonesia berlatih sangat keras dan disiplin. Mereka juga mempelajari strategi lawan dengan baik.",
+        "output": "Soal:\nPrediksi hasil pertandingan yang mungkin diraih tim Indonesia adalah....\n\nA. Kalah telak\nB. Bermain buruk dan tidak kompak\nC. Berpeluang besar untuk menang atau bermain imbang dengan baik\nD. Didiskualifikasi dari pertandingan\n\nKunci Jawaban: C\n\nPembahasan:\nPersiapan matang (latihan keras + strategi) meningkatkan peluang menang."
+    },
+    {
+        "instruction": "Prediksi kejadian (Kebersihan).",
+        "input": "Di kelas 6, tiket piket tidak berjalan dengan baik. Sampah kertas berserakan di lanti dan papan tulis penuh coretan.",
+        "output": "Soal:\nReaksi guru saat masuk ke kelas 6 kemungkinan besar adalah....\n\nA. Merasa senang dan nyaman\nB. Memuji kebersihan kelas\nC. Kecewa dan menegur siswa untuk membersihkan kelas\nD. Langsung pulang\n\nKunci Jawaban: C\n\nPembahasan:\nKelas kotor pasti membuat guru kecewa/menegur."
+    },
+    {
+        "instruction": "Prediksi kejadian (Hewan).",
+        "input": "Telur ayam itu sudah dierami induknya selama 21 hari dengan suhu yang hangat.",
+        "output": "Soal:\nKejadian yang diharapkan terjadi pada telur tersebut adalah....\n\nA. Telur menjadi busuk\nB. Telur menetas menjadi anak ayam\nC. Telur dimakan ular\nD. Induk ayam meninggalkan telur\n\nKunci Jawaban: B\n\nPembahasan:\nMasa inkubasi telur ayam normalnya 21 hari -> menetas."
+    },
+    {
+        "instruction": "Prediksi kejadian (Tanaman).",
+        "input": "Bunga matahari di pot itu tidak pernah disiram selama seminggu. Cuaca sedang sangat panas.",
+        "output": "Soal:\nKondisi tanaman bunga matahari tersebut selanjutnya adalah....\n\nA. Tumbuh subur dan berbunga lebat\nB. Layu dan mungkin mati kekeringan\nC. Berubah menjadi kaktus\nD. Daunnya menjadi biru\n\nKunci Jawaban: B\n\nPembahasan:\nTanaman butuh air, jika tidak disiram saat panas akan layu/mati."
+    },
+    {
+        "instruction": "Prediksi kejadian (Lalu Lintas).",
+        "input": "Lampu lalu lintas menyala merah. Namun, sebuah mobil tetap melaju kencang menerobos persimpangan.",
+        "output": "Soal:\nRisiko yang mungkin terjadi akibat tindakan pengemudi tersebut adalah....\n\nA. Polisi memberinya hadiah\nB. Terjadi tabrakan dengan kendaraan dari arah lain\nC. Jalanan menjadi sepi\nD. Mobil terbang\n\nKunci Jawaban: B\n\nPembahasan:\nMenerobos lampu merah berisiko tinggi tabrakan."
+    },
+    {
+        "instruction": "Prediksi kejadian (Sosial).",
+        "input": "Rani selalu menyisihkan uang jajannya untuk ditabung di celengan ayam.",
+        "output": "Soal:\nSetelah celengan itu penuh, hal yang bisa dilakukan Rani adalah....\n\nA. Membeli barang yang diinginkannya dengan uang sendiri\nB. Meminta uang lagi kepada orang tua\nC. Memecahkan celengan orang lain\nD. Membuang celengannya\n\nKunci Jawaban: A\n\nPembahasan:\nManfaat menabung: bisa membeli kebutuhan."
+    },
+    {
+        "instruction": "Prediksi kejadian (Cuaca).",
+        "input": "BMKG memperingatkan adanya gelombang tinggi di laut selatan Jawa. Nelayan diminta waspada.",
+        "output": "Soal:\nTindakan yang paling bijak dilakukan oleh nelayan tradisional adalah....\n\nA. Tetap melaut ke tengah samudra\nB. Menunda melaut sementara waktu demi keselamatan\nC. Berenang di pantai\nD. Menjual perahunya\n\nKunci Jawaban: B\n\nPembahasan:\nAda peringatan gelombang tinggi -> tunda melaut (safety first)."
+    },
+    {
+        "instruction": "Prediksi kejadian (Permainan).",
+        "input": "Layang-layang Adi putus benangnya dan tersangkut di kabel listrik tegangan tinggi.",
+        "output": "Soal:\nJika Adi mencoba mengambil layang-layang itu dengan galah besi, kemungkinan yang terjadi adalah....\n\nA. Adi berhasil mengambilnya dengan aman\nB. Adi tersengat aliran listrik (kestrum) yang berbahaya\nC. Kabel listrik putus\nD. Lampu padam se-kota\n\nKunci Jawaban: B\n\nPembahasan:\nBesi konduktor listrik + kabel tegangan tinggi = bahaya sengatan listrik."
+    },
+    {
+        "instruction": "Prediksi kejadian (Kesehatan).",
+        "input": "Sinta membaca buku sambil tiduran di tempat yang remang-remang setiap malam.",
+        "output": "Soal:\nDampak jangka panjang dari kebiasaan Sinta adalah....\n\nA. Mata Sinta menjadi sehat\nB. Penglihatan Sinta akan terganggu (mata minus)\nC. Sinta jadi juara membaca\nD. Buku Sinta rusak\n\nKunci Jawaban: B\n\nPembahasan:\nMembaca sambil tiduran + cahaya kurang = merusak mata."
+    },
+    {
+        "instruction": "Prediksi kejadian (Memasak).",
+        "input": "Ibu sedang merebus air di panci. Tiba-tiba telepon berdering dan Ibu asyik mengobrol lama sampai lupa mematikan kompor.",
+        "output": "Soal:\nKejadian yang mungkin terjadi di dapur adalah....\n\nA. Air di panci akan habis (kering) dan panci bisa gosong\nB. Air menjadi es batu\nC. Kompor mati sendiri\nD. Masakan menjadi enak\n\nKunci Jawaban: A\n\nPembahasan:\nAir mendidih terus menerus akan menguap habis -> panci gosong -> risiko kebakaran."
+    },
+    {
+        "instruction": "Prediksi kejadian (Pergaulan).",
+        "input": "Eko sering mengejek temannya yang bertubuh gemuk. Teman-teman lain tidak suka dengan sikap Eko.",
+        "output": "Soal:\nAkibat sikap buruk Eko tersebut adalah....\n\nA. Eko akan memiliki banyak penggemar\nB. Eko akan dijauhi teman-temannya\nC. Temannya menjadi kurus\nD. Guru memberi hadiah Eko\n\nKunci Jawaban: B\n\nPembahasan:\nSuka mengejek (bullying) menyebabkan dijauhi teman."
+    },
+    {
+        "instruction": "Prediksi kejadian (Lingkungan).",
+        "input": "Masyarakat di bantaran sungai mulai sadar untuk tidak membuang sampah ke sungai. Mereka juga rajin kerja bakti mengeruk lumpur.",
+        "output": "Soal:\nHasil positif dari perubahan perilaku masyarakat tersebut adalah....\n\nA. Sungai menjadi bersih dan risiko banjir berkurang\nB. Sungai menjadi tempat sampah raksasa\nC. Air sungai menjadi kering\nD. Ikan di sungai mati\n\nKunci Jawaban: A\n\nPembahasan:\nPerilaku positif (bersih-bersih) -> lingkungan membaik (banjir berkurang)."
+    },
+    {
+        "instruction": "Prediksi kejadian (Cerita).",
+        "input": "Malin Kundang yang sudah kaya raya tidak mau mengakui ibunya yang miskin. Sang Ibu merasa sangat sedih dan berdoa kepada Tuhan.",
+        "output": "Soal:\nDalam legenda Malin Kundang, kejadian selanjutnya adalah....\n\nA. Malin Kundang kembali miskin\nB. Ibu Malin Kundang menjadi kaya\nC. Kapal Malin Kundang hancur badai dan ia dikutuk menjadi batu\nD. Mereka berpelukan\n\nKunci Jawaban: C\n\nPembahasan:\nKutukan ibu Malin Kundang (menjadi batu) adalah ending cerita legenda ini."
+    },
+    {
+        "instruction": "Prediksi kejadian (Teknologi).",
+        "input": "File tugas komputer Andi terkena virus karena ia sering memasukkan flashdisk sembarangan tanpa scan antivirus.",
+        "output": "Soal:\nHal yang mungkin terjadi pada data tugas Andi adalah....\n\nA. Data menjadi lebih bagus\nB. Data rusak, hilang, atau tidak bisa dibuka (corrupt)\nC. Komputer menjadi lebih cepat\nD. Flashdisk berubah warna\n\nKunci Jawaban: B\n\nPembahasan:\nVirus komputer merusak/menghilangkan data."
+    },
+    {
+        "instruction": "Prediksi kejadian (Lomba).",
+        "input": "Dalam lomba lari estafet, pelari kedua menjatuhkan tongkat saat menerima operan dari pelari pertama.",
+        "output": "Soal:\nDampak kejadian ini bagi tim lari tersebut adalah....\n\nA. Tim akan berlari lebih cepat\nB. Tim kehilangan waktu berharga dan tertinggal dari lawan\nC. Penonton bersorak gembira\nD. Tim langsung dinyatakan menang\n\nKunci Jawaban: B\n\nPembahasan:\nMenjatuhkan tongkat membuang waktu -> tertinggal."
+    },
+    {
+        "instruction": "Prediksi kejadian (Belajar).",
+        "input": "Menjelang ujian akhir, Siti begadang setiap malam untuk belajar sistem kebut semalam. Ia pun kurang tidur.",
+        "output": "Soal:\nKondisi Siti saat mengerjakan ujian di pagi harinya kemungkinan adalah....\n\nA. Sangat segar dan bersemangat\nB. Mengantuk dan sulit berkonsentrasi\nC. Bisa mengerjakan semua soal dengan cepat\nD. Nilainya pasti 100\n\nKunci Jawaban: B\n\nPembahasan:\nKurang tidur (begadang) menyebabkan kantuk dan hilang fokus saat ujian."
+    },
+    {
+        "instruction": "Prediksi kejadian (Fisika).",
+        "input": "Gelas kaca berisi air panas diletakkan di atas meja. Tiba-tiba adik menyenggol meja itu dengan keras.",
+        "output": "Soal:\nKejadian yang paling mungkin terjadi adalah....\n\nA. Gelas jatuh dan pecah, air panas tumpah\nB. Gelas melayang di udara\nC. Air panas berubah menjadi dingin seketika\nD. Meja patah\n\nKunci Jawaban: A\n\nPembahasan:\nSenggolan keras pada benda labil (gelas) -> jatuh & pecah."
+    },
+    {
+        "instruction": "Prediksi kejadian (Sosial Media).",
+        "input": "Seseorang menyebarkan berita bohong (hoaks) yang memfitnah orang lain di media sosial. Korban merasa tidak terima dan melapor ke polisi.",
+        "output": "Soal:\nKonsekuensi hukum yang mungkin diterima penyebar hoaks tersebut adalah....\n\nA. Mendapat penghargaan jurnalistik\nB. Terjerat UU ITE dan mendapat hukuman penjara/denda\nC. Menjadi artis terkenal\nD. Dianggap pahlawan\n\nKunci Jawaban: B\n\nPembahasan:\nMenyebar fitnah/hoaks melanggar UU ITE."
+    },
+    {
+        "instruction": "Prediksi kejadian (Alergi).",
+        "input": "Toni alergi terhadap udang. Namun, ia nekat memakan sepiring udang goreng karena terlihat enak.",
+        "output": "Soal:\nReaksi tubuh yang mungkin dialami Toni adalah....\n\nA. Tubuh menjadi lebih kuat\nB. Mengalami gatal-gatal, bentol, atau sesak napas\nC. Tidak terjadi apa-apa\nD. Toni bisa berenang cepat\n\nKunci Jawaban: B\n\nPembahasan:\nReaksi alergi makanan biasanya gatal/bengkak/sesak."
+    },
+    {
+        "instruction": "Prediksi kejadian (Lalu Lintas).",
+        "input": "Ban sepeda motor paman bocor tertusuk paku di tengah jalan yang sepi.",
+        "output": "Soal:\nTindakan yang harus dilakukan paman selanjutnya adalah....\n\nA. Tetap menaiki motornya dengan kencang\nB. Menuntun motornya mencari tukang tambal ban terdekat\nC. Meninggalkan motornya begitu saja\nD. Menangis di pinggir jalan\n\nKunci Jawaban: B\n\nPembahasan:\nBan bocor tidak boleh dinaiki (rusak velg), harus dituntun ke bengkel."
+    },
+    {
+        "instruction": "Prediksi kejadian (Ekosistem).",
+        "input": "Di sebuah sawah, populasi ular diburu habis-habisan oleh manusia. Padahal ular adalah pemangsa tikus.",
+        "output": "Soal:\nDampak hilangnya ular bagi ekosistem sawah adalah....\n\nA. Panen padi melimpah ruah\nB. Populasi tikus akan meledak (meningkat pesat) dan merusak padi\nC. Tikus ikut mati\nD. Elang akan bertambah banyak\n\nKunci Jawaban: B\n\nPembahasan:\nPredator (ular) hilang -> Mangsa (tikus) tak terkendali -> Hama."
+    },
+    {
+        "instruction": "Prediksi kejadian (Kimia).",
+        "input": "Besi pagar rumah tidak pernah dicat dan sering terkena air hujan serta panas matahari.",
+        "output": "Soal:\nPerubahan yang akan terjadi pada besi pagar tersebut adalah....\n\nA. Besi akan semakin mengkilap\nB. Besi akan berkarat dan keropos\nC. Besi berubah menjadi emas\nD. Besi menjadi lunak seperti karet\n\nKunci Jawaban: B\n\nPembahasan:\nBesi + Air + Oksigen = Korosi (Karat)."
+    },
+    {
+        "instruction": "Prediksi kejadian (Disiplin).",
+        "input": "Para siswa ribut sendiri saat guru sedang menerangkan pelajaran di depan kelas.",
+        "output": "Soal:\nAkibat dari perilaku siswa tersebut adalah....\n\nA. Siswa tidak memahami materi pelajaran yang disampaikan\nB. Guru memberi nilai bonus\nC. Suasana kelas menjadi kondusif\nD. Siswa menjadi pintar\n\nKunci Jawaban: A\n\nPembahasan:\nTidak memperhatikan -> tidak paham materi."
+    },
+    {
+        "instruction": "Prediksi kejadian (Ekonomi).",
+        "input": "Permintaan buah durian sangat tinggi, tetapi pasokan dari petani sedikit karena belum musim panen raya.",
+        "output": "Soal:\nBerdasarkan hukum ekonomi, harga durian saat itu akan....\n\nA. Sangat murah\nB. Stabil biasa saja\nC. Menjadi mahal\nD. Gratis\n\nKunci Jawaban: C\n\nPembahasan:\nSupply rendah + Demand tinggi = Harga naik."
+    },
+    {
+        "instruction": "Prediksi kejadian (Cerita Rakyat).",
+        "input": "Sangkuriang gagal menyelesaikan perahu sebelum ayam berkokok (karena tipu muslihat Dayang Sumbi). Ia sangat marah.",
+        "output": "Soal:\nTindakan Sangkuriang selanjutnya yang membentuk asal-usul Gunung Tangkuban Parahu adalah....\n\nA. Sangkuriang menangis\nB. Sangkuriang menendang perahu itu hingga terbalik\nC. Sangkuriang melanjutkan memahat perahu\nD. Sangkuriang tidur di dalam perahu\n\nKunci Jawaban: B\n\nPembahasan:\nPerahu ditendang terbalik menjadi gunung (Tangkuban Parahu)."
+    },
+    {
+        "instruction": "Prediksi kejadian (Keluarga).",
+        "input": "Rini membantu ibu memasak dan mencuci piring tanpa disuruh.",
+        "output": "Soal:\nPerasaan ibu terhadap sikap Rini adalah....\n\nA. Ibu akan marah\nB. Ibu merasa terbantu dan bangga pada Rini\nC. Ibu tidak peduli\nD. Ibu akan menghukum Rini\n\nKunci Jawaban: B\n\nPembahasan:\nAnak rajin membuat orang tua senang/bangga."
+    },
+    {
+        "instruction": "Prediksi kejadian (Geografi).",
+        "input": "Gunung Merapi menunjukkan aktivitas vulkanik tinggi. Statusnya dinaikkan menjadi 'Awas'.",
+        "output": "Soal:\nLangkah antisipasi yang akan dilakukan pemerintah terhadap warga di lereng gunung adalah....\n\nA. Mengajak warga mendaki gunung\nB. Mengevakuasi (mengungsikan) warga ke tempat aman\nC. Membiarkan warga tetap di rumah\nD. Menutup jalur penerbangan saja\n\nKunci Jawaban: B\n\nPembahasan:\nStatus Awas -> Evakuasi penduduk zona bahaya."
+    },
+    {
+        "instruction": "Prediksi kejadian (Keamanan).",
+        "input": "Pintu gerbang rumah lupa dikunci saat seluruh keluarga pergi berlibur ke luar kota.",
+        "output": "Soal:\nRisiko keamanan yang mungkin terjadi adalah....\n\nA. Rumah akan semakin bersih\nB. Tetangga akan menjaga rumah\nC. Pencuri bisa masuk dengan mudah dan mengambil barang berharga\nD. Hewan liar akan menjaga rumah\n\nKunci Jawaban: C\n\nPembahasan:\nRumah kosong tak terkunci sasaran empuk maling."
+    },
+    {
+        "instruction": "Prediksi kejadian (Benda).",
+        "input": "Balon gas yang dipegang adik terlepas dari tangannya.",
+        "output": "Soal:\nKejadian selanjutnya pada balon gas tersebut adalah....\n\nA. Balon akan jatuh ke tanah\nB. Balon akan terbang tinggi ke angkasa hingga tak terlihat\nC. Balon akan diam di tempat\nD. Balon mengecil\n\nKunci Jawaban: B\n\nPembahasan:\nBalon gas (helium/hidrogen) lebih ringan dari udara -> terbang naik."
+    },
+    {
+        "instruction": "Prediksi kejadian (Astronomi).",
+        "input": "Bumi berputar pada porosnya (rotasi) selama 24 jam.",
+        "output": "Soal:\nAkibat dari peristiwa rotasi bumi ini bagi kehidupan kita adalah....\n\nA. Terjadinya pergantian musim\nB. Terjadinya siang dan malam\nC. Terjadinya gerhana\nD. Perubahan rasi bintang\n\nKunci Jawaban: B\n\nPembahasan:\nRotasi menyebabkan siang-malam. Revolusi menyebabkan musim."
+    },
+    {
+        "instruction": "Prediksi kejadian (Sosial).",
+        "input": "Warga di perumahan itu jarang bertegur sapa dan sibuk dengan urusan masing-masing (individualis).",
+        "output": "Soal:\nJika ada salah satu warga yang mengalami musibah, kemungkinan yang terjadi adalah....\n\nA. Semua warga langsung membantu dengan kompak\nB. Warga kurang peduli atau lambat memberikan bantuan\nC. Warga mengadakan pesta\nD. RT menjadi ramai\n\nKunci Jawaban: B\n\nPembahasan:\nLingkungan individualis cenderung kurang guyub/kurang peduli."
+    },
+    {
+        "instruction": "Prediksi kejadian (Kesehatan Gigi).",
+        "input": "Gigi susu adik sudah goyang dan hampir tanggal.",
+        "output": "Soal:\nProses alami yang akan terjadi selanjutnya adalah....\n\nA. Gigi adik akan ompong selamanya\nB. Gigi permanen akan tumbuh menggantikan gigi susu\nC. Gigi adik berubah warna\nD. Adik tidak bisa makan lagi\n\nKunci Jawaban: B\n\nPembahasan:\nGigi susu tanggal digantikan gigi permanen/tetap."
+    },
+    {
+        "instruction": "Prediksi kejadian (Botani).",
+        "input": "Biji kacang hijau diletakkan di atas kapas basah di tempat gelap.",
+        "output": "Soal:\nPrediksi pertumbuhan kecambah kacang hijau tersebut adalah....\n\nA. Tumbuh lambat dan pendek\nB. Tumbuh sangat cepat, tinggi, tetapi batangnya kurus dan pucat (etiolasi)\nC. Tidak tumbuh sama sekali\nD. Tumbuh menjadi pohon kelapa\n\nKunci Jawaban: B\n\nPembahasan:\nEtiolasi (tumbuh cepat di tempat gelap) menyebabkan tanaman tinggi tapi lemah/kuning."
+    },
+    {
+        "instruction": "Prediksi kejadian (Persahabatan).",
+        "input": "Dina meminjamkan pensil kepada Sari yang lupa membawa alat tulis saat ujian.",
+        "output": "Soal:\nDampak tindakan Dina terhadap hubungan mereka adalah....\n\nA. Sari akan marah pada Dina\nB. Persahabatan mereka semakin erat karena saling membantu\nC. Dina akan kehabisan pensil\nD. Guru akan memarahi mereka\n\nKunci Jawaban: B\n\nPembahasan:\nSaling membantu mempererat pertemanan."
+    },
+    {
+        "instruction": "Prediksi kejadian (Transportasi).",
+        "input": "Kereta api akan segera melintas. Palang pintu perlintasan sudah mulai menutup dan sirene berbunyi.",
+        "output": "Soal:\nTindakan yang benar dan aman bagi pengendara kendaraan adalah....\n\nA. Menerobos palang pintu agar cepat sampai\nB. Berhenti di belakang palang pintu dan menunggu kereta lewat\nC. Membunyikan klakson agar kereta berhenti\nD. Putar balik\n\nKunci Jawaban: B\n\nPembahasan:\nSOP keselamatan: berhenti saat palang turun."
+    },
+    {
+        "instruction": "Prediksi kejadian (Hujan Asam).",
+        "input": "Polusi udara dari pabrik mengandung gas belerang oksida yang bereaksi dengan air hujan.",
+        "output": "Soal:\nJenis hujan yang akan turun dan dampaknya adalah....\n\nA. Hujan es yang menyegarkan\nB. Hujan asam yang dapat merusak bangunan dan mematikan tanaman\nC. Hujan salju yang indah\nD. Hujan meteor\n\nKunci Jawaban: B\n\nPembahasan:\nSulfur/Belerang oksida + Air = Hujan Asam (Korosif)."
+    },
+    {
+        "instruction": "Prediksi kejadian (Lomba Masak).",
+        "input": "Dalam lomba memasak, Kelompok A lupa memasukkan garam ke dalam sup buatan mereka.",
+        "output": "Soal:\nKomentar juri saat mencicipi masakan Kelompok A kemungkinan adalah....\n\nA. \"Rasanya sangat asin!\"\nB. \"Rasanya hambar (tawar), kurang bumbu.\"\nC. \"Ini sup paling enak!\"\nD. \"Pedas sekali!\"\n\nKunci Jawaban: B\n\nPembahasan:\nTanpa garam = hambar."
+    },
+    {
+        "instruction": "Prediksi kejadian (Hemat Energi).",
+        "input": "Keluarga Pak Budi selalu mematikan lampu dan alat elektronik yang tidak digunakan.",
+        "output": "Soal:\nDampak kebiasaan ini terhadap tagihan listrik bulanan mereka adalah....\n\nA. Tagihan listrik menjadi sangat mahal\nB. Tagihan listrik menjadi lebih hemat/murah\nC. Listrik sering padam\nD. Alat elektronik cepat rusak\n\nKunci Jawaban: B\n\nPembahasan:\nHemat energi -> biaya turun."
+    },
+    {
+        "instruction": "Prediksi kejadian (Demokrasi).",
+        "input": "Dalam pemilihan ketua kelas, suara untuk Calon A dan Calon B sama kuat (seri).",
+        "output": "Soal:\nLangkah demokratis yang biasanya diambil untuk menentukan pemenang adalah....\n\nA. Ketua kelas dipilih oleh guru saja\nB. Dilakukan pemungutan suara ulang (putaran kedua) atau musyawarah\nC. Kedua calon berkelahi\nD. Kelas dibubarkan\n\nKunci Jawaban: B\n\nPembahasan:\nJika seri (draw), solusi demokrasi adalah voting ulang atau musyawarah mufakat."
+    },
+    {
+        "instruction": "Prediksi kejadian (Perpustakaan).",
+        "input": "Seorang siswa berbicara sangat keras dan berisik di dalam ruang perpustakaan yang hening.",
+        "output": "Soal:\nTindakan yang akan dilakukan petugas perpustakaan atau pengunjung lain adalah....\n\nA. Ikut berteriak-teriak\nB. Menegur siswa tersebut agar tenang (diam)\nC. Memberinya uang jajan\nD. Mengajaknya bernyanyi\n\nKunci Jawaban: B\n\nPembahasan:\nPerpustakaan adalah zona tenang, berisik pasti ditegur."
+    }
+]
