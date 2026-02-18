@@ -270,783 +270,2243 @@
         "output": "Soal:\nA. On the right side of the library\nB. On the left side of the bank\nC. Behind the library\nD. In front of the bank\n\nKunci Jawaban: A\n\nPembahasan:\nPosisi relatif."
     },
     {
-        "instruction": "Health (Identify Illness).",
-        "input": "Budi holds his head. He feels dizzy and hot. He has a ....",
-        "output": "Soal:\nA. Stomachache\nB. Headache\nC. Toothache\nD. Earache\n\nKunci Jawaban: B\n\nPembahasan:\nSakit kepala = Headache."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "We ... an apple always.",
+        "output": "Soal:\\nComplete the sentence:\\nWe ... an apple always.\\n\\nA. eated\\nB. eating\\nC. eat\\nD. eats\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSubjek 'We' (jamak) menggunakan V1 (eat)."
     },
     {
-        "instruction": "Health (Identify Illness).",
-        "input": "Siti ate too much spicy food (seblak). Now she holds her stomach. She has a ....",
-        "output": "Soal:\nA. Headache\nB. Stomachache\nC. Sore throat\nD. Cough\n\nKunci Jawaban: B\n\nPembahasan:\nSakit perut = Stomachache."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "The cat ... a letter every day.",
+        "output": "Soal:\\nComplete the sentence:\\nThe cat ... a letter every day.\\n\\nA. writeed\\nB. writes\\nC. writeing\\nD. write\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSubjek 'The cat' (tunggal) menggunakan V1+s/es (writes)."
     },
     {
-        "instruction": "Health (Identify Illness).",
-        "input": "Doni eats too many candies and doesn't brush his teeth. Now he has a ....",
-        "output": "Soal:\nA. Backache\nB. Toothache\nC. Fever\nD. Cold\n\nKunci Jawaban: B\n\nPembahasan:\nSakit gigi = Toothache."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "My friends ... the car every morning.",
+        "output": "Soal:\\nComplete the sentence:\\nMy friends ... the car every morning.\\n\\nA. washes\\nB. washed\\nC. washing\\nD. wash\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSubjek 'My friends' (jamak) menggunakan V1 (wash)."
     },
     {
-        "instruction": "Health (Identify Illness).",
-        "input": "Tono feels cold and coughs all day. He has a ....",
-        "output": "Soal:\nA. Broken leg\nB. Cold and Cough\nC. Stomachache\nD. Eye sore\n\nKunci Jawaban: B\n\nPembahasan:\nBatuk pilek = Cold and Cough."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "They ... the room always.",
+        "output": "Soal:\\nComplete the sentence:\\nThey ... the room always.\\n\\nA. cleaned\\nB. cleans\\nC. clean\\nD. cleaning\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSubjek 'They' (jamak) menggunakan V1 (clean)."
     },
     {
-        "instruction": "Health (Advice).",
-        "input": "Rina has a toothache. She should go to the ....",
-        "output": "Soal:\nA. Dentist\nB. Cardiologist\nC. Vet\nD. Teacher\n\nKunci Jawaban: A\n\nPembahasan:\nDokter gigi = Dentist."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "My sister ... fried rice every morning.",
+        "output": "Soal:\\nComplete the sentence:\\nMy sister ... fried rice every morning.\\n\\nA. cooked\\nB. cooking\\nC. cooks\\nD. cook\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSubjek 'My sister' (tunggal) menggunakan V1+s/es (cooks)."
     },
     {
-        "instruction": "Health (Advice).",
-        "input": "Bayu has a fever. He feels very hot. He should ....",
-        "output": "Soal:\nA. Play football\nB. Drink ice water\nC. Take a rest and medicine\nD. Eat ice cream\n\nKunci Jawaban: C\n\nPembahasan:\nSaran demam = Istirahat/Obat."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "My sister ... fried rice every day.",
+        "output": "Soal:\\nComplete the sentence:\\nMy sister ... fried rice every day.\\n\\nA. cooking\\nB. cooked\\nC. cook\\nD. cooks\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSubjek 'My sister' (tunggal) menggunakan V1+s/es (cooks)."
     },
     {
-        "instruction": "Health (Identify Illness).",
-        "input": "My throat hurts when I swallow food. I have a ....",
-        "output": "Soal:\nA. Sore throat\nB. Headache\nC. Backache\nD. Earache\n\nKunci Jawaban: A\n\nPembahasan:\nRadang tenggorokan."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "We ... the car every morning.",
+        "output": "Soal:\\nComplete the sentence:\\nWe ... the car every morning.\\n\\nA. washed\\nB. washing\\nC. washes\\nD. wash\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSubjek 'We' (jamak) menggunakan V1 (wash)."
     },
     {
-        "instruction": "Health (Identify Illness).",
-        "input": "Ani's body temperature is 39 degrees Celsius. She has a high ....",
-        "output": "Soal:\nA. Score\nB. Fever\nC. Height\nD. Weight\n\nKunci Jawaban: B\n\nPembahasan:\nDemam tinggi = Fever."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "The students ... the room every night.",
+        "output": "Soal:\\nComplete the sentence:\\nThe students ... the room every night.\\n\\nA. clean\\nB. cleans\\nC. cleaning\\nD. cleaned\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSubjek 'The students' (jamak) menggunakan V1 (clean)."
     },
     {
-        "instruction": "Health (Advice).",
-        "input": "If you have a cough, you shouldn't drink ....",
-        "output": "Soal:\nA. Warm water\nB. Ice water\nC. Tea\nD. Soup\n\nKunci Jawaban: B\n\nPembahasan:\nLarangan batuk = Es."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "Mrs. Susi ... fried rice every night.",
+        "output": "Soal:\\nComplete the sentence:\\nMrs. Susi ... fried rice every night.\\n\\nA. cook\\nB. cooks\\nC. cooked\\nD. cooking\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSubjek 'Mrs. Susi' (tunggal) menggunakan V1+s/es (cooks)."
     },
     {
-        "instruction": "Health (Identify Illness).",
-        "input": "My eyes are red and itchy. I have ....",
-        "output": "Soal:\nA. Sore eyes\nB. Sore throat\nC. Sore legs\nD. Sore hands\n\nKunci Jawaban: A\n\nPembahasan:\nSakit mata."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "They ... TV usually.",
+        "output": "Soal:\\nComplete the sentence:\\nThey ... TV usually.\\n\\nA. watched\\nB. watching\\nC. watch\\nD. watches\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSubjek 'They' (jamak) menggunakan V1 (watch)."
     },
     {
-        "instruction": "Health (Identify Illness).",
-        "input": "Grandpa cannot carry heavy things because he has a ... pain.",
-        "output": "Soal:\nA. Tooth\nB. Back/Backache\nC. Ear\nD. Nose\n\nKunci Jawaban: B\n\nPembahasan:\nSakit punggung/pinggang."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "The teacher ... a letter every night.",
+        "output": "Soal:\\nComplete the sentence:\\nThe teacher ... a letter every night.\\n\\nA. writeing\\nB. write\\nC. writes\\nD. writeed\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSubjek 'The teacher' (tunggal) menggunakan V1+s/es (writes)."
     },
     {
-        "instruction": "Health (Advice).",
-        "input": "To keep our body healthy, we should ....",
-        "output": "Soal:\nA. Sleep late\nB. Eat junk food\nC. Exercise regularly\nD. Smoke\n\nKunci Jawaban: C\n\nPembahasan:\nOlahraga teratur."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "The dog ... TV every day.",
+        "output": "Soal:\\nComplete the sentence:\\nThe dog ... TV every day.\\n\\nA. watch\\nB. watching\\nC. watched\\nD. watches\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSubjek 'The dog' (tunggal) menggunakan V1+s/es (watches)."
     },
     {
-        "instruction": "Health (Identify Illness).",
-        "input": "I cannot hear you clearly. I have an ....",
-        "output": "Soal:\nA. Earache\nB. Eyeache\nC. Armache\nD. Headache\n\nKunci Jawaban: A\n\nPembahasan:\nSakit telinga."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "My friends ... TV on Sundays.",
+        "output": "Soal:\\nComplete the sentence:\\nMy friends ... TV on Sundays.\\n\\nA. watches\\nB. watching\\nC. watch\\nD. watched\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSubjek 'My friends' (jamak) menggunakan V1 (watch)."
     },
     {
-        "instruction": "Health (Vocab).",
-        "input": "A place where sick people are treated is a ....",
-        "output": "Soal:\nA. School\nB. Hospital\nC. Market\nD. Hotel\n\nKunci Jawaban: B\n\nPembahasan:\nRumah sakit."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "The players ... fried rice on Sundays.",
+        "output": "Soal:\\nComplete the sentence:\\nThe players ... fried rice on Sundays.\\n\\nA. cooking\\nB. cooked\\nC. cook\\nD. cooks\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSubjek 'The players' (jamak) menggunakan V1 (cook)."
     },
     {
-        "instruction": "Health (Vocab).",
-        "input": "A person who treats sick people is a ....",
-        "output": "Soal:\nA. Teacher\nB. Doctor\nC. Pilot\nD. Farmer\n\nKunci Jawaban: B\n\nPembahasan:\nDokter."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "My brother ... vegetables every day.",
+        "output": "Soal:\\nComplete the sentence:\\nMy brother ... vegetables every day.\\n\\nA. buyed\\nB. buy\\nC. buys\\nD. buying\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSubjek 'My brother' (tunggal) menggunakan V1+s/es (buys)."
     },
     {
-        "instruction": "Health (Vocab).",
-        "input": "A person who helps the doctor is a ....",
-        "output": "Soal:\nA. Nurse\nB. Patient\nC. Driver\nD. Chef\n\nKunci Jawaban: A\n\nPembahasan:\nPerawat."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "The students ... TV always.",
+        "output": "Soal:\\nComplete the sentence:\\nThe students ... TV always.\\n\\nA. watched\\nB. watching\\nC. watches\\nD. watch\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSubjek 'The students' (jamak) menggunakan V1 (watch)."
     },
     {
-        "instruction": "Health (Vocab).",
-        "input": "A person who is sick is called a ....",
-        "output": "Soal:\nA. Doctor\nB. Nurse\nC. Patient\nD. Visitor\n\nKunci Jawaban: C\n\nPembahasan:\nPasien."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "The teacher ... the car every morning.",
+        "output": "Soal:\\nComplete the sentence:\\nThe teacher ... the car every morning.\\n\\nA. wash\\nB. washing\\nC. washed\\nD. washes\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSubjek 'The teacher' (tunggal) menggunakan V1+s/es (washes)."
     },
     {
-        "instruction": "Health (Identify Illness).",
-        "input": "Measles in Indonesian is ....",
-        "output": "Soal:\nA. Cacar air/Campak\nB. Batuk\nC. Demam\nD. Pilek\n\nKunci Jawaban: A\n\nPembahasan:\nCampak."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "We ... the car every night.",
+        "output": "Soal:\\nComplete the sentence:\\nWe ... the car every night.\\n\\nA. washing\\nB. wash\\nC. washes\\nD. washed\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSubjek 'We' (jamak) menggunakan V1 (wash)."
     },
     {
-        "instruction": "Health (Identify Illness).",
-        "input": "Influenza is commonly known as ....",
-        "output": "Soal:\nA. Flu\nB. Cancer\nC. Diabetes\nD. Fever\n\nKunci Jawaban: A\n\nPembahasan:\nFlu."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "The dog ... the car on Sundays.",
+        "output": "Soal:\\nComplete the sentence:\\nThe dog ... the car on Sundays.\\n\\nA. wash\\nB. washed\\nC. washing\\nD. washes\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSubjek 'The dog' (tunggal) menggunakan V1+s/es (washes)."
     },
     {
-        "instruction": "Health (Dialog).",
-        "input": "Doctor: Open your mouth and say 'Aaa'.\nPatient: Aaa.\nDoctor is checking the patient's ....",
-        "output": "Soal:\nA. Ear\nB. Throat/Mouth\nC. Nose\nD. Eye\n\nKunci Jawaban: B\n\nPembahasan:\nPeriksa tenggorokan."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "My brother ... a newspaper every morning.",
+        "output": "Soal:\\nComplete the sentence:\\nMy brother ... a newspaper every morning.\\n\\nA. reading\\nB. reads\\nC. read\\nD. readed\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSubjek 'My brother' (tunggal) menggunakan V1+s/es (reads)."
     },
     {
-        "instruction": "Health (Advice).",
-        "input": "You should brush your teeth ... a day.",
-        "output": "Soal:\nA. Once\nB. Twice (Two times)\nC. Never\nD. Every hour\n\nKunci Jawaban: B\n\nPembahasan:\nDua kali sehari."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "Birds ... a newspaper on Sundays.",
+        "output": "Soal:\\nComplete the sentence:\\nBirds ... a newspaper on Sundays.\\n\\nA. reading\\nB. reads\\nC. readed\\nD. read\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSubjek 'Birds' (jamak) menggunakan V1 (read)."
     },
     {
-        "instruction": "Health (Advice).",
-        "input": "Before eating, we must ....",
-        "output": "Soal:\nA. Wash our hands\nB. Wash our feet\nC. Take a bath\nD. Sleep\n\nKunci Jawaban: A\n\nPembahasan:\nCuci tangan."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "My friends ... the room always.",
+        "output": "Soal:\\nComplete the sentence:\\nMy friends ... the room always.\\n\\nA. clean\\nB. cleaning\\nC. cleans\\nD. cleaned\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSubjek 'My friends' (jamak) menggunakan V1 (clean)."
     },
     {
-        "instruction": "Health (Advice).",
-        "input": "To have strong bones, we should drink ....",
-        "output": "Soal:\nA. Coffee\nB. Milk\nC. Soda\nD. Tea\n\nKunci Jawaban: B\n\nPembahasan:\nSusu kalsium."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "Mrs. Susi ... coffee on Sundays.",
+        "output": "Soal:\\nComplete the sentence:\\nMrs. Susi ... coffee on Sundays.\\n\\nA. drinking\\nB. drinks\\nC. drink\\nD. drinked\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSubjek 'Mrs. Susi' (tunggal) menggunakan V1+s/es (drinks)."
     },
     {
-        "instruction": "Health (Identify Illness).",
-        "input": "I cut my finger with a knife. It is ....",
-        "output": "Soal:\nA. Bleeding\nB. Broken\nC. Sleeping\nD. Walking\n\nKunci Jawaban: A\n\nPembahasan:\nBerdarah."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "My mother ... the car every morning.",
+        "output": "Soal:\\nComplete the sentence:\\nMy mother ... the car every morning.\\n\\nA. washing\\nB. washed\\nC. wash\\nD. washes\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSubjek 'My mother' (tunggal) menggunakan V1+s/es (washes)."
     },
     {
-        "instruction": "Health (Tool).",
-        "input": "The doctor uses a ... to check the heartbeat.",
-        "output": "Soal:\nA. Telescope\nB. Stethoscope\nC. Microscope\nD. Periscope\n\nKunci Jawaban: B\n\nPembahasan:\nStetoskop."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "The students ... coffee every night.",
+        "output": "Soal:\\nComplete the sentence:\\nThe students ... coffee every night.\\n\\nA. drinked\\nB. drinking\\nC. drinks\\nD. drink\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSubjek 'The students' (jamak) menggunakan V1 (drink)."
     },
     {
-        "instruction": "Health (Tool).",
-        "input": "We use a ... to check body temperature.",
-        "output": "Soal:\nA. Barometer\nB. Thermometer\nC. Speedometer\nD. Meter\n\nKunci Jawaban: B\n\nPembahasan:\nTermometer."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "My sister ... coffee on Sundays.",
+        "output": "Soal:\\nComplete the sentence:\\nMy sister ... coffee on Sundays.\\n\\nA. drinking\\nB. drink\\nC. drinked\\nD. drinks\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSubjek 'My sister' (tunggal) menggunakan V1+s/es (drinks)."
     },
     {
-        "instruction": "Health (Identify Illness).",
-        "input": "Diarrhea causes us to go to the ... many times.",
-        "output": "Soal:\nA. Kitchen\nB. Bathroom/Toilet\nC. Bedroom\nD. School\n\nKunci Jawaban: B\n\nPembahasan:\nDiare -> Toilet."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "The students ... an apple every night.",
+        "output": "Soal:\\nComplete the sentence:\\nThe students ... an apple every night.\\n\\nA. eat\\nB. eating\\nC. eats\\nD. eated\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSubjek 'The students' (jamak) menggunakan V1 (eat)."
     },
     {
-        "instruction": "Health (Advice).",
-        "input": "Rani looks pale. She should ....",
-        "output": "Soal:\nA. Run\nB. Rest\nC. Study hard\nD. Play\n\nKunci Jawaban: B\n\nPembahasan:\nPucat -> Istirahat."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "My mother ... an apple every night.",
+        "output": "Soal:\\nComplete the sentence:\\nMy mother ... an apple every night.\\n\\nA. eats\\nB. eated\\nC. eat\\nD. eating\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSubjek 'My mother' (tunggal) menggunakan V1+s/es (eats)."
     },
     {
-        "instruction": "Health (Vocab).",
-        "input": "The doctor writes a ... for the medicine.",
-        "output": "Soal:\nA. Letter\nB. Prescription (Resep)\nC. Book\nD. Newspaper\n\nKunci Jawaban: B\n\nPembahasan:\nResep obat."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "The dog ... fried rice every morning.",
+        "output": "Soal:\\nComplete the sentence:\\nThe dog ... fried rice every morning.\\n\\nA. cook\\nB. cooks\\nC. cooked\\nD. cooking\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSubjek 'The dog' (tunggal) menggunakan V1+s/es (cooks)."
     },
     {
-        "instruction": "Health (Medicine).",
-        "input": "We can buy medicine at the pharmacy. 'Medicine' in Indonesian is ....",
-        "output": "Soal:\nA. Makanan\nB. Obat\nC. Minuman\nD. Racun\n\nKunci Jawaban: B\n\nPembahasan:\nMedicine = Obat."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "They ... fried rice usually.",
+        "output": "Soal:\\nComplete the sentence:\\nThey ... fried rice usually.\\n\\nA. cooking\\nB. cooked\\nC. cooks\\nD. cook\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSubjek 'They' (jamak) menggunakan V1 (cook)."
     },
     {
-        "instruction": "Health (Identify Illness).",
-        "input": "Dengue Fever is caused by the bite of a ....",
-        "output": "Soal:\nA. Dog\nB. Mosquito\nC. Cat\nD. Fly\n\nKunci Jawaban: B\n\nPembahasan:\nNyamuk Aedes -> DBD."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "The students ... piano usually.",
+        "output": "Soal:\\nComplete the sentence:\\nThe students ... piano usually.\\n\\nA. play\\nB. playing\\nC. played\\nD. plays\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSubjek 'The students' (jamak) menggunakan V1 (play)."
     },
     {
-        "instruction": "Health (Advice).",
-        "input": "We should eat nutritious food like ....",
-        "output": "Soal:\nA. Candy and chocolate\nB. Vegetables and fruits\nC. Burger and pizza\nD. Chips and soda\n\nKunci Jawaban: B\n\nPembahasan:\nMakanan sehat."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "They ... a newspaper on Sundays.",
+        "output": "Soal:\\nComplete the sentence:\\nThey ... a newspaper on Sundays.\\n\\nA. reads\\nB. reading\\nC. readed\\nD. read\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSubjek 'They' (jamak) menggunakan V1 (read)."
     },
     {
-        "instruction": "Health (Mental Health).",
-        "input": "Feeling sad or stressed is related to ... health.",
-        "output": "Soal:\nA. Physical\nB. Mental\nC. Dental\nD. Eye\n\nKunci Jawaban: B\n\nPembahasan:\nKesehatan mental."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "Cows ... fried rice every morning.",
+        "output": "Soal:\\nComplete the sentence:\\nCows ... fried rice every morning.\\n\\nA. cooking\\nB. cooks\\nC. cook\\nD. cooked\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSubjek 'Cows' (jamak) menggunakan V1 (cook)."
     },
     {
-        "instruction": "Health (Advice).",
-        "input": "Smoking is ... for your health.",
-        "output": "Soal:\nA. Good\nB. Bad/Dangerous\nC. Healthy\nD. Nice\n\nKunci Jawaban: B\n\nPembahasan:\nMerokok bahaya."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "The children ... the car on Sundays.",
+        "output": "Soal:\\nComplete the sentence:\\nThe children ... the car on Sundays.\\n\\nA. washes\\nB. washed\\nC. washing\\nD. wash\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSubjek 'The children' (jamak) menggunakan V1 (wash)."
     },
     {
-        "instruction": "Health (Identify Illness).",
-        "input": "Smallpox in Indonesian is ....",
-        "output": "Soal:\nA. Cacar\nB. Panu\nC. Kurap\nD. Kudis\n\nKunci Jawaban: A\n\nPembahasan:\nCacar."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "The cat ... the car on Sundays.",
+        "output": "Soal:\\nComplete the sentence:\\nThe cat ... the car on Sundays.\\n\\nA. washes\\nB. wash\\nC. washing\\nD. washed\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSubjek 'The cat' (tunggal) menggunakan V1+s/es (washes)."
     },
     {
-        "instruction": "Health (Action).",
-        "input": "The nurse gives an ... to the patient.",
-        "output": "Soal:\nA. Injection (Suntikan)\nB. Ice cream\nC. Umbrella\nD. Apple\n\nKunci Jawaban: A\n\nPembahasan:\nSuntikan."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "The players ... vegetables every morning.",
+        "output": "Soal:\\nComplete the sentence:\\nThe players ... vegetables every morning.\\n\\nA. buyed\\nB. buy\\nC. buys\\nD. buying\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSubjek 'The players' (jamak) menggunakan V1 (buy)."
     },
     {
-        "instruction": "Health (Advice).",
-        "input": "Don't eat too much sugar to avoid ....",
-        "output": "Soal:\nA. Diabetes\nB. Cancer\nC. Flu\nD. Fever\n\nKunci Jawaban: A\n\nPembahasan:\nGula -> Diabetes."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "My father ... TV every day.",
+        "output": "Soal:\\nComplete the sentence:\\nMy father ... TV every day.\\n\\nA. watching\\nB. watched\\nC. watch\\nD. watches\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSubjek 'My father' (tunggal) menggunakan V1+s/es (watches)."
     },
     {
-        "instruction": "Health (Identify Illness).",
-        "input": "Asthma is a disease related to our ....",
-        "output": "Soal:\nA. Stomach\nB. Lungs/Breathing\nC. Bones\nD. Skin\n\nKunci Jawaban: B\n\nPembahasan:\nAsma -> Pernapasan."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "My father ... vegetables every night.",
+        "output": "Soal:\\nComplete the sentence:\\nMy father ... vegetables every night.\\n\\nA. buyed\\nB. buy\\nC. buying\\nD. buys\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSubjek 'My father' (tunggal) menggunakan V1+s/es (buys)."
     },
     {
-        "instruction": "Health (Advice).",
-        "input": "We must wear a ... to protect ourselves from viruses/pollution.",
-        "output": "Soal:\nA. Hat\nB. Mask\nC. Glasses\nD. Tie\n\nKunci Jawaban: B\n\nPembahasan:\nMasker."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "My friends ... an apple every day.",
+        "output": "Soal:\\nComplete the sentence:\\nMy friends ... an apple every day.\\n\\nA. eated\\nB. eats\\nC. eating\\nD. eat\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSubjek 'My friends' (jamak) menggunakan V1 (eat)."
     },
     {
-        "instruction": "Health (Symptom).",
-        "input": "Sneezing happens when we have a ....",
-        "output": "Soal:\nA. Broken bone\nB. Cold/Flu\nC. Toothache\nD. Stomachache\n\nKunci Jawaban: B\n\nPembahasan:\nBersin -> Flu."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "They ... the car usually.",
+        "output": "Soal:\\nComplete the sentence:\\nThey ... the car usually.\\n\\nA. washes\\nB. wash\\nC. washing\\nD. washed\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSubjek 'They' (jamak) menggunakan V1 (wash)."
     },
     {
-        "instruction": "Health (Advice).",
-        "input": "After playing outside, you look dirty. You should ....",
-        "output": "Soal:\nA. Eat\nB. Take a bath\nC. Sleep\nD. Study\n\nKunci Jawaban: B\n\nPembahasan:\nMandi."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "The children ... a letter every day.",
+        "output": "Soal:\\nComplete the sentence:\\nThe children ... a letter every day.\\n\\nA. write\\nB. writes\\nC. writeing\\nD. writeed\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSubjek 'The children' (jamak) menggunakan V1 (write)."
     },
     {
-        "instruction": "Health (Vocab).",
-        "input": "'Surgery' in Indonesian is ....",
-        "output": "Soal:\nA. Operasi/Bedah\nB. Rawat Inap\nC. Obat Jalan\nD. Suntik\n\nKunci Jawaban: A\n\nPembahasan:\nBedah."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "Mrs. Susi ... an apple usually.",
+        "output": "Soal:\\nComplete the sentence:\\nMrs. Susi ... an apple usually.\\n\\nA. eated\\nB. eating\\nC. eats\\nD. eat\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSubjek 'Mrs. Susi' (tunggal) menggunakan V1+s/es (eats)."
     },
     {
-        "instruction": "Health (Advice).",
-        "input": "If you have a wound, clean it with antiseptic and cover it with a ....",
-        "output": "Soal:\nA. Paper\nB. Bandage\nC. Leaf\nD. Plastic\n\nKunci Jawaban: B\n\nPembahasan:\nPerban."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "The teacher ... a newspaper usually.",
+        "output": "Soal:\\nComplete the sentence:\\nThe teacher ... a newspaper usually.\\n\\nA. reads\\nB. read\\nC. reading\\nD. readed\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSubjek 'The teacher' (tunggal) menggunakan V1+s/es (reads)."
     },
     {
-        "instruction": "Health (Vocab).",
-        "input": "Ambulance is a vehicle to transport ....",
-        "output": "Soal:\nA. Students\nB. Sick people/Patients\nC. Police\nD. Soldiers\n\nKunci Jawaban: B\n\nPembahasan:\nAmbulans."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "Birds ... TV always.",
+        "output": "Soal:\\nComplete the sentence:\\nBirds ... TV always.\\n\\nA. watch\\nB. watched\\nC. watching\\nD. watches\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSubjek 'Birds' (jamak) menggunakan V1 (watch)."
     },
     {
-        "instruction": "Health (Advice).",
-        "input": "Vitamin C is good for preventing ....",
-        "output": "Soal:\nA. Broken leg\nB. Sravya/Mouth ulcers (Sariawan)\nC. Blindness\nD. Deafness\n\nKunci Jawaban: B\n\nPembahasan:\nVit C -> Sariawan/Imun."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "They ... the car every night.",
+        "output": "Soal:\\nComplete the sentence:\\nThey ... the car every night.\\n\\nA. washing\\nB. wash\\nC. washes\\nD. washed\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSubjek 'They' (jamak) menggunakan V1 (wash)."
     },
     {
-        "instruction": "Health (Vocab).",
-        "input": "'Recovery' means ....",
-        "output": "Soal:\nA. Getting worse\nB. Getting better/Healing\nC. Dying\nD. Sick\n\nKunci Jawaban: B\n\nPembahasan:\nPemulihan."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "Cows ... TV on Sundays.",
+        "output": "Soal:\\nComplete the sentence:\\nCows ... TV on Sundays.\\n\\nA. watches\\nB. watched\\nC. watch\\nD. watching\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSubjek 'Cows' (jamak) menggunakan V1 (watch)."
     },
     {
-        "instruction": "Health (Dialog).",
-        "input": "A: How are you feeling?\nB: Not good. I feel weak.\n'Weak' means ....",
-        "output": "Soal:\nA. Kuat\nB. Lemah\nC. Sehat\nD. Segar\n\nKunci Jawaban: B\n\nPembahasan:\nLemah."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "My father ... piano on Sundays.",
+        "output": "Soal:\\nComplete the sentence:\\nMy father ... piano on Sundays.\\n\\nA. play\\nB. played\\nC. plays\\nD. playing\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSubjek 'My father' (tunggal) menggunakan V1+s/es (plays)."
     },
     {
-        "instruction": "Health (Advice).",
-        "input": "Drink 8 glasses of ... every day.",
-        "output": "Soal:\nA. Coffee\nB. Water\nC. Soda\nD. Oil\n\nKunci Jawaban: B\n\nPembahasan:\nAir putih."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "My mother ... a letter every morning.",
+        "output": "Soal:\\nComplete the sentence:\\nMy mother ... a letter every morning.\\n\\nA. writeing\\nB. write\\nC. writes\\nD. writeed\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSubjek 'My mother' (tunggal) menggunakan V1+s/es (writes)."
     },
     {
-        "instruction": "Health (Identify Illness).",
-        "input": "A disease caused by eating dirty food is ....",
-        "output": "Soal:\nA. Heart attack\nB. Typhoid/Diarrhea\nC. Stroke\nD. Asthma\n\nKunci Jawaban: B\n\nPembahasan:\nTifus/Diare."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "Mr. Budi ... coffee usually.",
+        "output": "Soal:\\nComplete the sentence:\\nMr. Budi ... coffee usually.\\n\\nA. drinked\\nB. drink\\nC. drinks\\nD. drinking\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSubjek 'Mr. Budi' (tunggal) menggunakan V1+s/es (drinks)."
     },
     {
-        "instruction": "Health (Vocab).",
-        "input": "'Appointment' with a doctor means ....",
-        "output": "Soal:\nA. Janji temu\nB. Pembayaran\nC. Resep\nD. Antrian\n\nKunci Jawaban: A\n\nPembahasan:\nJanji temu."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "The students ... piano always.",
+        "output": "Soal:\\nComplete the sentence:\\nThe students ... piano always.\\n\\nA. play\\nB. plays\\nC. playing\\nD. played\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSubjek 'The students' (jamak) menggunakan V1 (play)."
     },
     {
-        "instruction": "Health (Advice).",
-        "input": "Don't ... too close to the TV. It's bad for your eyes.",
-        "output": "Soal:\nA. Listen\nB. Watch/Sit\nC. Eat\nD. Sleep\n\nKunci Jawaban: B\n\nPembahasan:\nJarak nonton TV."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "My sister ... the room usually.",
+        "output": "Soal:\\nComplete the sentence:\\nMy sister ... the room usually.\\n\\nA. cleans\\nB. clean\\nC. cleaning\\nD. cleaned\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSubjek 'My sister' (tunggal) menggunakan V1+s/es (cleans)."
     },
     {
-        "instruction": "Health (Identify Illness).",
-        "input": "Cancer in Indonesian is ....",
-        "output": "Soal:\nA. Kanker\nB. Jantung\nC. Paru-paru\nD. Hati\n\nKunci Jawaban: A\n\nPembahasan:\nKanker."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "The teacher ... an apple every morning.",
+        "output": "Soal:\\nComplete the sentence:\\nThe teacher ... an apple every morning.\\n\\nA. eat\\nB. eating\\nC. eats\\nD. eated\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSubjek 'The teacher' (tunggal) menggunakan V1+s/es (eats)."
     },
     {
-        "instruction": "Health (Vocab).",
-        "input": "'Emergency Room' (ER) in Indonesian is ....",
-        "output": "Soal:\nA. Kamar Mayat\nB. UGD (Unit Gawat Darurat)\nC. Ruang Tunggu\nD. Apotek\n\nKunci Jawaban: B\n\nPembahasan:\nUGD."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "We ... fried rice usually.",
+        "output": "Soal:\\nComplete the sentence:\\nWe ... fried rice usually.\\n\\nA. cooked\\nB. cooks\\nC. cooking\\nD. cook\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSubjek 'We' (jamak) menggunakan V1 (cook)."
     },
     {
-        "instruction": "Simple Past Tense (V2).",
-        "input": "I ... to Bali last holiday.",
-        "output": "Soal:\nA. Go\nB. Went\nC. Goes\nD. Going\n\nKunci Jawaban: B\n\nPembahasan:\nLampau (Last holiday) -> Went (V2)."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "We ... a newspaper usually.",
+        "output": "Soal:\\nComplete the sentence:\\nWe ... a newspaper usually.\\n\\nA. reading\\nB. reads\\nC. read\\nD. readed\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSubjek 'We' (jamak) menggunakan V1 (read)."
     },
     {
-        "instruction": "Simple Past Tense (Time Signal).",
-        "input": "She visited her grandmother ....",
-        "output": "Soal:\nA. Tomorrow\nB. Yesterday\nC. Next week\nD. Now\n\nKunci Jawaban: B\n\nPembahasan:\nVisited (V2) -> Yesterday."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "They ... a letter every night.",
+        "output": "Soal:\\nComplete the sentence:\\nThey ... a letter every night.\\n\\nA. writes\\nB. writeing\\nC. writeed\\nD. write\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSubjek 'They' (jamak) menggunakan V1 (write)."
     },
     {
-        "instruction": "Simple Past Tense (Negative).",
-        "input": "They ... play football yesterday because it rained.",
-        "output": "Soal:\nA. Do not\nB. Did not\nC. Does not\nD. Are not\n\nKunci Jawaban: B\n\nPembahasan:\nLampau negatif = Did not."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "My brother ... TV always.",
+        "output": "Soal:\\nComplete the sentence:\\nMy brother ... TV always.\\n\\nA. watch\\nB. watched\\nC. watching\\nD. watches\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSubjek 'My brother' (tunggal) menggunakan V1+s/es (watches)."
     },
     {
-        "instruction": "Simple Past Tense (Interrogative).",
-        "input": "... you watch the movie last night?",
-        "output": "Soal:\nA. Do\nB. Did\nC. Does\nD. Are\n\nKunci Jawaban: B\n\nPembahasan:\nTanya lampau = Did."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "Mr. Budi ... the car every morning.",
+        "output": "Soal:\\nComplete the sentence:\\nMr. Budi ... the car every morning.\\n\\nA. washing\\nB. washes\\nC. washed\\nD. wash\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSubjek 'Mr. Budi' (tunggal) menggunakan V1+s/es (washes)."
     },
     {
-        "instruction": "Simple Past Tense (V2).",
-        "input": "My mother ... a delicious cake two days ago.",
-        "output": "Soal:\nA. Buy\nB. Bought\nC. Buys\nD. Buying\n\nKunci Jawaban: B\n\nPembahasan:\nBuy -> Bought (V2)."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "My mother ... a letter usually.",
+        "output": "Soal:\\nComplete the sentence:\\nMy mother ... a letter usually.\\n\\nA. writeed\\nB. writes\\nC. write\\nD. writeing\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSubjek 'My mother' (tunggal) menggunakan V1+s/es (writes)."
     },
     {
-        "instruction": "Simple Past Tense (Be).",
-        "input": "I ... happy yesterday.",
-        "output": "Soal:\nA. Am\nB. Was\nC. Were\nD. Is\n\nKunci Jawaban: B\n\nPembahasan:\nI -> Was (Lampau)."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "The teacher ... the car usually.",
+        "output": "Soal:\\nComplete the sentence:\\nThe teacher ... the car usually.\\n\\nA. washed\\nB. washing\\nC. wash\\nD. washes\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSubjek 'The teacher' (tunggal) menggunakan V1+s/es (washes)."
     },
     {
-        "instruction": "Simple Past Tense (Be).",
-        "input": "They ... late for school last Monday.",
-        "output": "Soal:\nA. Are\nB. Were\nC. Was\nD. Is\n\nKunci Jawaban: B\n\nPembahasan:\nThey -> Were (Lampau)."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "My father ... the room every night.",
+        "output": "Soal:\\nComplete the sentence:\\nMy father ... the room every night.\\n\\nA. cleaned\\nB. cleaning\\nC. clean\\nD. cleans\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSubjek 'My father' (tunggal) menggunakan V1+s/es (cleans)."
     },
     {
-        "instruction": "Simple Past Tense (V2).",
-        "input": "We ... English last Tuesday.",
-        "output": "Soal:\nA. Study\nB. Studied\nC. Studies\nD. Studying\n\nKunci Jawaban: B\n\nPembahasan:\nStudy -> Studied (V2)."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "My brother ... coffee every morning.",
+        "output": "Soal:\\nComplete the sentence:\\nMy brother ... coffee every morning.\\n\\nA. drinking\\nB. drink\\nC. drinks\\nD. drinked\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSubjek 'My brother' (tunggal) menggunakan V1+s/es (drinks)."
     },
     {
-        "instruction": "Simple Past Tense (V2).",
-        "input": "He ... his key this morning.",
-        "output": "Soal:\nA. Lose\nB. Lost\nC. Losed\nD. Losing\n\nKunci Jawaban: B\n\nPembahasan:\nLose -> Lost (V2)."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "My friends ... the car usually.",
+        "output": "Soal:\\nComplete the sentence:\\nMy friends ... the car usually.\\n\\nA. washes\\nB. wash\\nC. washing\\nD. washed\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSubjek 'My friends' (jamak) menggunakan V1 (wash)."
     },
     {
-        "instruction": "Simple Past Tense (V2).",
-        "input": "The baby ... all night long.",
-        "output": "Soal:\nA. Cry\nB. Cried\nC. Cries\nD. Crying\n\nKunci Jawaban: B\n\nPembahasan:\nCry -> Cried (V2)."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "Cows ... TV always.",
+        "output": "Soal:\\nComplete the sentence:\\nCows ... TV always.\\n\\nA. watching\\nB. watches\\nC. watched\\nD. watch\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSubjek 'Cows' (jamak) menggunakan V1 (watch)."
     },
     {
-        "instruction": "Simple Past Tense (Negative).",
-        "input": "I did not ... breakfast this morning.",
-        "output": "Soal:\nA. Ate\nB. Eat\nC. Eats\nD. Eating\n\nKunci Jawaban: B\n\nPembahasan:\nDid not + V1 (Eat)."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "My brother ... an apple on Sundays.",
+        "output": "Soal:\\nComplete the sentence:\\nMy brother ... an apple on Sundays.\\n\\nA. eated\\nB. eat\\nC. eats\\nD. eating\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSubjek 'My brother' (tunggal) menggunakan V1+s/es (eats)."
     },
     {
-        "instruction": "Simple Past Tense (Interrogative).",
-        "input": "Did she ... the floor yesterday?",
-        "output": "Soal:\nA. Cleaned\nB. Clean\nC. Cleans\nD. Cleaning\n\nKunci Jawaban: B\n\nPembahasan:\nDid ... + V1 (Clean)."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "My father ... the room every morning.",
+        "output": "Soal:\\nComplete the sentence:\\nMy father ... the room every morning.\\n\\nA. cleans\\nB. clean\\nC. cleaned\\nD. cleaning\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSubjek 'My father' (tunggal) menggunakan V1+s/es (cleans)."
     },
     {
-        "instruction": "Simple Past Tense (Short Answer).",
-        "input": "A: Did you go to the beach?\nB: Yes, I ....",
-        "output": "Soal:\nA. Do\nB. Did\nC. Does\nD. Was\n\nKunci Jawaban: B\n\nPembahasan:\nYes, I did."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "The children ... piano always.",
+        "output": "Soal:\\nComplete the sentence:\\nThe children ... piano always.\\n\\nA. playing\\nB. plays\\nC. play\\nD. played\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSubjek 'The children' (jamak) menggunakan V1 (play)."
     },
     {
-        "instruction": "Simple Past Tense (V2).",
-        "input": "Budi ... a letter to his pen pal last month.",
-        "output": "Soal:\nA. Write\nB. Wrote\nC. Writes\nD. Written\n\nKunci Jawaban: B\n\nPembahasan:\nWrite -> Wrote (V2)."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "The students ... a newspaper always.",
+        "output": "Soal:\\nComplete the sentence:\\nThe students ... a newspaper always.\\n\\nA. reading\\nB. reads\\nC. read\\nD. readed\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSubjek 'The students' (jamak) menggunakan V1 (read)."
     },
     {
-        "instruction": "Simple Past Tense (V2).",
-        "input": "They ... badmiton in the park yesterday afternoon.",
-        "output": "Soal:\nA. Play\nB. Played\nC. Plays\nD. Playing\n\nKunci Jawaban: B\n\nPembahasan:\nPlay -> Played (V2)."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "We ... fried rice every morning.",
+        "output": "Soal:\\nComplete the sentence:\\nWe ... fried rice every morning.\\n\\nA. cooking\\nB. cooks\\nC. cook\\nD. cooked\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSubjek 'We' (jamak) menggunakan V1 (cook)."
     },
     {
-        "instruction": "Simple Past Tense (Time Signal).",
-        "input": "We watched TV ....",
-        "output": "Soal:\nA. Now\nB. Last night\nC. Tomorrow\nD. Next week\n\nKunci Jawaban: B\n\nPembahasan:\nWatched (V2) -> Last night."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "My brother ... a letter on Sundays.",
+        "output": "Soal:\\nComplete the sentence:\\nMy brother ... a letter on Sundays.\\n\\nA. writeing\\nB. writeed\\nC. write\\nD. writes\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSubjek 'My brother' (tunggal) menggunakan V1+s/es (writes)."
     },
     {
-        "instruction": "Simple Past Tense (V2).",
-        "input": "My father ... a new car last year.",
-        "output": "Soal:\nA. Buy\nB. Bought\nC. Buys\nD. Buying\n\nKunci Jawaban: B\n\nPembahasan:\nBuy -> Bought."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "My mother ... the car every night.",
+        "output": "Soal:\\nComplete the sentence:\\nMy mother ... the car every night.\\n\\nA. washed\\nB. washes\\nC. washing\\nD. wash\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSubjek 'My mother' (tunggal) menggunakan V1+s/es (washes)."
     },
     {
-        "instruction": "Simple Past Tense (V2).",
-        "input": "I ... spicy fried rice for dinner.",
-        "output": "Soal:\nA. Eat\nB. Ate\nC. Eaten\nD. Eating\n\nKunci Jawaban: B\n\nPembahasan:\nEat -> Ate (V2)."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "My mother ... a newspaper every morning.",
+        "output": "Soal:\\nComplete the sentence:\\nMy mother ... a newspaper every morning.\\n\\nA. reads\\nB. read\\nC. reading\\nD. readed\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSubjek 'My mother' (tunggal) menggunakan V1+s/es (reads)."
     },
     {
-        "instruction": "Simple Past Tense (V2).",
-        "input": "She ... milk this morning.",
-        "output": "Soal:\nA. Drink\nB. Drank\nC. Drinks\nD. Drinking\n\nKunci Jawaban: B\n\nPembahasan:\nDrink -> Drank (V2)."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "Mrs. Susi ... coffee every morning.",
+        "output": "Soal:\\nComplete the sentence:\\nMrs. Susi ... coffee every morning.\\n\\nA. drinked\\nB. drinking\\nC. drinks\\nD. drink\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSubjek 'Mrs. Susi' (tunggal) menggunakan V1+s/es (drinks)."
     },
     {
-        "instruction": "Simple Past Tense (V2).",
-        "input": "We ... a song together.",
-        "output": "Soal:\nA. Sing\nB. Sang\nC. Sings\nD. Singing\n\nKunci Jawaban: B\n\nPembahasan:\nSing -> Sang (V2)."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "Cows ... a newspaper on Sundays.",
+        "output": "Soal:\\nComplete the sentence:\\nCows ... a newspaper on Sundays.\\n\\nA. readed\\nB. read\\nC. reading\\nD. reads\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSubjek 'Cows' (jamak) menggunakan V1 (read)."
     },
     {
-        "instruction": "Simple Past Tense (V2).",
-        "input": "The bird ... away when I came.",
-        "output": "Soal:\nA. Fly\nB. Flew\nC. Flies\nD. Flying\n\nKunci Jawaban: B\n\nPembahasan:\nFly -> Flew (V2)."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "Mr. Budi ... the room on Sundays.",
+        "output": "Soal:\\nComplete the sentence:\\nMr. Budi ... the room on Sundays.\\n\\nA. cleaned\\nB. clean\\nC. cleaning\\nD. cleans\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSubjek 'Mr. Budi' (tunggal) menggunakan V1+s/es (cleans)."
     },
     {
-        "instruction": "Simple Past Tense (V2).",
-        "input": "He ... his bike to school yesterday.",
-        "output": "Soal:\nA. Ride\nB. Rode\nC. Rides\nD. Riding\n\nKunci Jawaban: B\n\nPembahasan:\nRide -> Rode (V2)."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "The dog ... a newspaper always.",
+        "output": "Soal:\\nComplete the sentence:\\nThe dog ... a newspaper always.\\n\\nA. reading\\nB. read\\nC. reads\\nD. readed\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSubjek 'The dog' (tunggal) menggunakan V1+s/es (reads)."
     },
     {
-        "instruction": "Simple Past Tense (V2).",
-        "input": "I ... my homework last night.",
-        "output": "Soal:\nA. Do\nB. Did\nC. Does\nD. Done\n\nKunci Jawaban: B\n\nPembahasan:\nDo -> Did (V2)."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "We ... vegetables on Sundays.",
+        "output": "Soal:\\nComplete the sentence:\\nWe ... vegetables on Sundays.\\n\\nA. buy\\nB. buyed\\nC. buying\\nD. buys\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSubjek 'We' (jamak) menggunakan V1 (buy)."
     },
     {
-        "instruction": "Simple Past Tense (V2).",
-        "input": "They ... to the library two days ago.",
-        "output": "Soal:\nA. Come\nB. Came\nC. Coming\nD. Comes\n\nKunci Jawaban: B\n\nPembahasan:\nCome -> Came (V2)."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "The players ... a newspaper every night.",
+        "output": "Soal:\\nComplete the sentence:\\nThe players ... a newspaper every night.\\n\\nA. reads\\nB. read\\nC. reading\\nD. readed\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSubjek 'The players' (jamak) menggunakan V1 (read)."
     },
     {
-        "instruction": "Simple Past Tense (V2).",
-        "input": "My sister ... well last night.",
-        "output": "Soal:\nA. Sleep\nB. Slept\nC. Sleeps\nD. Sleeping\n\nKunci Jawaban: B\n\nPembahasan:\nSleep -> Slept (V2)."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "The players ... the car every night.",
+        "output": "Soal:\\nComplete the sentence:\\nThe players ... the car every night.\\n\\nA. wash\\nB. washes\\nC. washing\\nD. washed\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSubjek 'The players' (jamak) menggunakan V1 (wash)."
     },
     {
-        "instruction": "Simple Past Tense (V2).",
-        "input": "We ... a ghost in the movie.",
-        "output": "Soal:\nA. See\nB. Saw\nC. Seen\nD. Seeing\n\nKunci Jawaban: B\n\nPembahasan:\nSee -> Saw (V2)."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "My father ... coffee every morning.",
+        "output": "Soal:\\nComplete the sentence:\\nMy father ... coffee every morning.\\n\\nA. drink\\nB. drinking\\nC. drinks\\nD. drinked\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSubjek 'My father' (tunggal) menggunakan V1+s/es (drinks)."
     },
     {
-        "instruction": "Simple Past Tense (V2).",
-        "input": "I ... a present from my uncle.",
-        "output": "Soal:\nA. Get\nB. Got\nC. Gets\nD. Getting\n\nKunci Jawaban: B\n\nPembahasan:\nGet -> Got (V2)."
+        "instruction": "Grammar (Simple Present Tense).",
+        "input": "My brother ... an apple every night.",
+        "output": "Soal:\\nComplete the sentence:\\nMy brother ... an apple every night.\\n\\nA. eat\\nB. eats\\nC. eating\\nD. eated\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSubjek 'My brother' (tunggal) menggunakan V1+s/es (eats)."
     },
     {
-        "instruction": "Simple Past Tense (V2).",
-        "input": "The teacher ... us a story.",
-        "output": "Soal:\nA. Tell\nB. Told\nC. Tells\nD. Telling\n\nKunci Jawaban: B\n\nPembahasan:\nTell -> Told (V2)."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "My father ... standing in front of class right now.",
+        "output": "Soal:\\nComplete the sentence:\\nMy father ... standing in front of class right now.\\n\\nA. is\\nB. be\\nC. am\\nD. are\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nTo be untuk 'My father' adalah 'is'."
     },
     {
-        "instruction": "Simple Past Tense (V2).",
-        "input": "He ... the heavy box.",
-        "output": "Soal:\nA. Bring\nB. Brought\nC. Brings\nD. Bringing\n\nKunci Jawaban: B\n\nPembahasan:\nBring -> Brought (V2)."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "I ... playing football right now.",
+        "output": "Soal:\\nComplete the sentence:\\nI ... playing football right now.\\n\\nA. are\\nB. is\\nC. am\\nD. be\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nTo be untuk 'I' adalah 'am'."
     },
     {
-        "instruction": "Simple Past Tense (V2).",
-        "input": "They ... in the swimming pool last week.",
-        "output": "Soal:\nA. Swim\nB. Swam\nC. Swims\nD. Swimming\n\nKunci Jawaban: B\n\nPembahasan:\nSwim -> Swam (V2)."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "I ... standing in front of class right now.",
+        "output": "Soal:\\nComplete the sentence:\\nI ... standing in front of class right now.\\n\\nA. is\\nB. am\\nC. be\\nD. are\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nTo be untuk 'I' adalah 'am'."
     },
     {
-        "instruction": "Simple Past Tense (V2).",
-        "input": "I ... 10 years old last year.",
-        "output": "Soal:\nA. Am\nB. Was\nC. Were\nD. Is\n\nKunci Jawaban: B\n\nPembahasan:\nWas (Lampau)."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "Look! I am ... in the pool now.",
+        "output": "Soal:\\nComplete the sentence:\\nLook! I am ... in the pool now.\\n\\nA. swim\\nB. swimming\\nC. swimed\\nD. swims\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSedang berlangsung (now) -> V-ing (swimming)."
     },
     {
-        "instruction": "Simple Past Tense (Regular).",
-        "input": "She ... the flowers in the garden.",
-        "output": "Soal:\nA. Watered\nB. Water\nC. Waters\nD. Watering\n\nKunci Jawaban: A\n\nPembahasan:\nWater -> Watered (Regular)."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "Look! I am ... on the chair now.",
+        "output": "Soal:\\nComplete the sentence:\\nLook! I am ... on the chair now.\\n\\nA. sit\\nB. sitting\\nC. sits\\nD. sited\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSedang berlangsung (now) -> V-ing (sitting)."
     },
     {
-        "instruction": "Simple Past Tense (Regular).",
-        "input": "He ... the door.",
-        "output": "Soal:\nA. Open\nB. Opened\nC. Opens\nD. Opening\n\nKunci Jawaban: B\n\nPembahasan:\nOpen -> Opened (Regular)."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "Look! The cat is ... on the chair now.",
+        "output": "Soal:\\nComplete the sentence:\\nLook! The cat is ... on the chair now.\\n\\nA. sits\\nB. sited\\nC. sit\\nD. sitting\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSedang berlangsung (now) -> V-ing (sitting)."
     },
     {
-        "instruction": "Simple Past Tense (Regular).",
-        "input": "We ... the room together.",
-        "output": "Soal:\nA. Paint\nB. Painted\nC. Paints\nD. Painting\n\nKunci Jawaban: B\n\nPembahasan:\nPaint -> Painted."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "The doctor ... running in the park right now.",
+        "output": "Soal:\\nComplete the sentence:\\nThe doctor ... running in the park right now.\\n\\nA. am\\nB. be\\nC. is\\nD. are\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nTo be untuk 'The doctor' adalah 'is'."
     },
     {
-        "instruction": "Simple Past Tense (Regular).",
-        "input": "They ... the match.",
-        "output": "Soal:\nA. Watch\nB. Watched\nC. Watches\nD. Watching\n\nKunci Jawaban: B\n\nPembahasan:\nWatch -> Watched."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "Look! Mr. Budi is ... a movie now.",
+        "output": "Soal:\\nComplete the sentence:\\nLook! Mr. Budi is ... a movie now.\\n\\nA. watchs\\nB. watched\\nC. watch\\nD. watching\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSedang berlangsung (now) -> V-ing (watching)."
     },
     {
-        "instruction": "Simple Past Tense (Regular).",
-        "input": "I ... my grandmother last Sunday.",
-        "output": "Soal:\nA. Visit\nB. Visited\nC. Visits\nD. Visiting\n\nKunci Jawaban: B\n\nPembahasan:\nVisit -> Visited."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "Look! The children are ... a movie now.",
+        "output": "Soal:\\nComplete the sentence:\\nLook! The children are ... a movie now.\\n\\nA. watching\\nB. watch\\nC. watchs\\nD. watched\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSedang berlangsung (now) -> V-ing (watching)."
     },
     {
-        "instruction": "Simple Past Tense (Regular).",
-        "input": "My mom ... chicken soup.",
-        "output": "Soal:\nA. Cook\nB. Cooked\nC. Cooks\nD. Cooking\n\nKunci Jawaban: B\n\nPembahasan:\nCook -> Cooked."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "Look! My friends are ... lunch now.",
+        "output": "Soal:\\nComplete the sentence:\\nLook! My friends are ... lunch now.\\n\\nA. eated\\nB. eat\\nC. eats\\nD. eating\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSedang berlangsung (now) -> V-ing (eating)."
     },
     {
-        "instruction": "Simple Past Tense (Regular).",
-        "input": "He ... the ball.",
-        "output": "Soal:\nA. Kick\nB. Kicked\nC. Kicks\nD. Kicking\n\nKunci Jawaban: B\n\nPembahasan:\nKick -> Kicked."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "The players ... watching a movie right now.",
+        "output": "Soal:\\nComplete the sentence:\\nThe players ... watching a movie right now.\\n\\nA. am\\nB. is\\nC. be\\nD. are\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nTo be untuk 'The players' adalah 'are'."
     },
     {
-        "instruction": "Simple Past Tense (Regular).",
-        "input": "We ... to the music.",
-        "output": "Soal:\nA. Listen\nB. Listened\nC. Listens\nD. Listening\n\nKunci Jawaban: B\n\nPembahasan:\nListen -> Listened."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "I ... eating lunch right now.",
+        "output": "Soal:\\nComplete the sentence:\\nI ... eating lunch right now.\\n\\nA. be\\nB. is\\nC. are\\nD. am\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nTo be untuk 'I' adalah 'am'."
     },
     {
-        "instruction": "Simple Past Tense (Regular).",
-        "input": "They ... to the party.",
-        "output": "Soal:\nA. Dance\nB. Danced\nC. Dances\nD. Dancing\n\nKunci Jawaban: B\n\nPembahasan:\nDance -> Danced."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "Look! Mrs. Susi is ... lunch now.",
+        "output": "Soal:\\nComplete the sentence:\\nLook! Mrs. Susi is ... lunch now.\\n\\nA. eated\\nB. eating\\nC. eat\\nD. eats\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSedang berlangsung (now) -> V-ing (eating)."
     },
     {
-        "instruction": "Simple Past Tense (Negative).",
-        "input": "She ... happy with the result.",
-        "output": "Soal:\nA. Was not\nB. Did not\nC. Were not\nD. Is not\n\nKunci Jawaban: A\n\nPembahasan:\nWas not (Non-verb)."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "Look! They are ... on the chair now.",
+        "output": "Soal:\\nComplete the sentence:\\nLook! They are ... on the chair now.\\n\\nA. sits\\nB. sit\\nC. sitting\\nD. sited\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSedang berlangsung (now) -> V-ing (sitting)."
     },
     {
-        "instruction": "Simple Past Tense (Negative).",
-        "input": "They ... students last year (now they are workers).",
-        "output": "Soal:\nA. Were not\nB. Did not\nC. Are not\nD. Was not\n\nKunci Jawaban: A\n\nPembahasan:\nWere not."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "Look! The children are ... in the pool now.",
+        "output": "Soal:\\nComplete the sentence:\\nLook! The children are ... in the pool now.\\n\\nA. swimming\\nB. swim\\nC. swims\\nD. swimed\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSedang berlangsung (now) -> V-ing (swimming)."
     },
     {
-        "instruction": "Simple Past Tense (Dialog).",
-        "input": "A: Where did you go yesterday?\nB: I ... to the zoo.",
-        "output": "Soal:\nA. Go\nB. Went\nC. Gone\nD. Going\n\nKunci Jawaban: B\n\nPembahasan:\nGo -> Went."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "Cows ... watching a movie right now.",
+        "output": "Soal:\\nComplete the sentence:\\nCows ... watching a movie right now.\\n\\nA. is\\nB. be\\nC. am\\nD. are\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nTo be untuk 'Cows' adalah 'are'."
     },
     {
-        "instruction": "Simple Past Tense (Dialog).",
-        "input": "A: Did you see the dentist?\nB: No, I ....",
-        "output": "Soal:\nA. Do not\nB. Didn't\nC. Was not\nD. Were not\n\nKunci Jawaban: B\n\nPembahasan:\nNo, I didn't."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "My sister ... sleeping in the bedroom right now.",
+        "output": "Soal:\\nComplete the sentence:\\nMy sister ... sleeping in the bedroom right now.\\n\\nA. be\\nB. is\\nC. are\\nD. am\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nTo be untuk 'My sister' adalah 'is'."
     },
     {
-        "instruction": "Simple Past Tense (Verb Form).",
-        "input": "The correct past form of 'Buy' is ....",
-        "output": "Soal:\nA. Buyed\nB. Bought\nC. Buying\nD. Buys\n\nKunci Jawaban: B\n\nPembahasan:\nIrregular verb."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "My friends ... running in the park right now.",
+        "output": "Soal:\\nComplete the sentence:\\nMy friends ... running in the park right now.\\n\\nA. is\\nB. be\\nC. am\\nD. are\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nTo be untuk 'My friends' adalah 'are'."
     },
     {
-        "instruction": "Simple Past Tense (Verb Form).",
-        "input": "The correct past form of 'Go' is ....",
-        "output": "Soal:\nA. Goed\nB. Went\nC. Gone\nD. Goes\n\nKunci Jawaban: B\n\nPembahasan:\nIrregular verb."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "Look! My mother is ... in the park now.",
+        "output": "Soal:\\nComplete the sentence:\\nLook! My mother is ... in the park now.\\n\\nA. runed\\nB. running\\nC. run\\nD. runs\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSedang berlangsung (now) -> V-ing (running)."
     },
     {
-        "instruction": "Simple Past Tense (Verb Form).",
-        "input": "The correct past form of 'Eat' is ....",
-        "output": "Soal:\nA. Eated\nB. Ate\nC. Eats\nD. Eating\n\nKunci Jawaban: B\n\nPembahasan:\nIrregular verb."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "Look! My friends are ... in front of class now.",
+        "output": "Soal:\\nComplete the sentence:\\nLook! My friends are ... in front of class now.\\n\\nA. stand\\nB. stands\\nC. standed\\nD. standing\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSedang berlangsung (now) -> V-ing (standing)."
     },
     {
-        "instruction": "Simple Past Tense (Time Signal).",
-        "input": "My father washed the car ....",
-        "output": "Soal:\nA. Tomorrow\nB. Last Sunday\nC. Next week\nD. Now\n\nKunci Jawaban: B\n\nPembahasan:\nLampau."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "Look! Birds are ... lunch now.",
+        "output": "Soal:\\nComplete the sentence:\\nLook! Birds are ... lunch now.\\n\\nA. eated\\nB. eating\\nC. eat\\nD. eats\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSedang berlangsung (now) -> V-ing (eating)."
     },
     {
-        "instruction": "Simple Past Tense (Sentence Order).",
-        "input": "Arrange: Yesterday - football - played - they",
-        "output": "Soal:\nA. They played football yesterday\nB. Yesterday played football they\nC. Played they football yesterday\nD. Football played they yesterday\n\nKunci Jawaban: A\n\nPembahasan:\nS + V2 + O + C."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "Look! Mrs. Susi is ... in the park now.",
+        "output": "Soal:\\nComplete the sentence:\\nLook! Mrs. Susi is ... in the park now.\\n\\nA. runed\\nB. run\\nC. running\\nD. runs\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSedang berlangsung (now) -> V-ing (running)."
     },
     {
-        "instruction": "Simple Past Tense (Sentence Order).",
-        "input": "Arrange: Did - buy - you - book - a - ?",
-        "output": "Soal:\nA. Did you buy a book?\nB. You did buy a book?\nC. Buy you did a book?\nD. You buy a book did?\n\nKunci Jawaban: A\n\nPembahasan:\nDid + S + V1 + O?"
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "I ... running in the park right now.",
+        "output": "Soal:\\nComplete the sentence:\\nI ... running in the park right now.\\n\\nA. are\\nB. is\\nC. be\\nD. am\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nTo be untuk 'I' adalah 'am'."
     },
     {
-        "instruction": "Simple Past Tense (Definition).",
-        "input": "Simple Past Tense is used to talk about events in the ....",
-        "output": "Soal:\nA. Future\nB. Past\nC. Present\nD. Continuous\n\nKunci Jawaban: B\n\nPembahasan:\nMasa lampau."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "Cows ... eating lunch right now.",
+        "output": "Soal:\\nComplete the sentence:\\nCows ... eating lunch right now.\\n\\nA. be\\nB. are\\nC. am\\nD. is\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nTo be untuk 'Cows' adalah 'are'."
     },
     {
-        "instruction": "Simple Future Tense (Will).",
-        "input": "I ... go to Jakarta tomorrow.",
-        "output": "Soal:\nA. Will\nB. Went\nC. Gone\nD. Did\n\nKunci Jawaban: A\n\nPembahasan:\nTomorrow -> Will (Akan)."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "Look! We are ... in the pool now.",
+        "output": "Soal:\\nComplete the sentence:\\nLook! We are ... in the pool now.\\n\\nA. swims\\nB. swim\\nC. swimed\\nD. swimming\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSedang berlangsung (now) -> V-ing (swimming)."
     },
     {
-        "instruction": "Simple Future Tense (Time Signal).",
-        "input": "We will study English ....",
-        "output": "Soal:\nA. Yesterday\nB. Last week\nC. Tomorrow\nD. Just now\n\nKunci Jawaban: C\n\nPembahasan:\nWill -> Tomorrow."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "The children ... sitting on the chair right now.",
+        "output": "Soal:\\nComplete the sentence:\\nThe children ... sitting on the chair right now.\\n\\nA. be\\nB. am\\nC. are\\nD. is\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nTo be untuk 'The children' adalah 'are'."
     },
     {
-        "instruction": "Simple Future Tense (Be going to).",
-        "input": "She is ... to cook dinner tonight.",
-        "output": "Soal:\nA. Go\nB. Going\nC. Gone\nD. Goes\n\nKunci Jawaban: B\n\nPembahasan:\nIs going to."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "Look! I am ... English now.",
+        "output": "Soal:\\nComplete the sentence:\\nLook! I am ... English now.\\n\\nA. studying\\nB. study\\nC. studyed\\nD. studys\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSedang berlangsung (now) -> V-ing (studying)."
     },
     {
-        "instruction": "Simple Future Tense (Interrogative).",
-        "input": "... you come to my party?",
-        "output": "Soal:\nA. Did\nB. Will\nC. Was\nD. Is\n\nKunci Jawaban: B\n\nPembahasan:\nWill you...?"
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "Look! My father is ... a movie now.",
+        "output": "Soal:\\nComplete the sentence:\\nLook! My father is ... a movie now.\\n\\nA. watching\\nB. watchs\\nC. watched\\nD. watch\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSedang berlangsung (now) -> V-ing (watching)."
     },
     {
-        "instruction": "Simple Future Tense (Negative).",
-        "input": "I will ... eat spicy food anymore.",
-        "output": "Soal:\nA. Not\nB. No\nC. Don't\nD. Didn't\n\nKunci Jawaban: A\n\nPembahasan:\nWill not (Won't)."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "The students ... listening to music right now.",
+        "output": "Soal:\\nComplete the sentence:\\nThe students ... listening to music right now.\\n\\nA. be\\nB. are\\nC. am\\nD. is\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nTo be untuk 'The students' adalah 'are'."
     },
     {
-        "instruction": "Simple Future Tense (Dream).",
-        "input": "I want to be a doctor. I ... help sick people.",
-        "output": "Soal:\nA. Will\nB. Did\nC. Was\nD. Were\n\nKunci Jawaban: A\n\nPembahasan:\nCita-cita (Future)."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "Look! The doctor is ... in the bedroom now.",
+        "output": "Soal:\\nComplete the sentence:\\nLook! The doctor is ... in the bedroom now.\\n\\nA. sleep\\nB. sleeping\\nC. sleeps\\nD. sleeped\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSedang berlangsung (now) -> V-ing (sleeping)."
     },
     {
-        "instruction": "Simple Future Tense (Prediction).",
-        "input": "Look at the clouds! It ... rain soon.",
-        "output": "Soal:\nA. Will\nB. Is going to\nC. Did\nD. Was\n\nKunci Jawaban: B\n\nPembahasan:\nPrediksi dengan bukti -> Going to."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "Look! I am ... in the bedroom now.",
+        "output": "Soal:\\nComplete the sentence:\\nLook! I am ... in the bedroom now.\\n\\nA. sleeping\\nB. sleeps\\nC. sleep\\nD. sleeped\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSedang berlangsung (now) -> V-ing (sleeping)."
     },
     {
-        "instruction": "Simple Future Tense (Short Answer).",
-        "input": "A: Will you buy a new bag?\nB: Yes, I ....",
-        "output": "Soal:\nA. Will\nB. Did\nC. Do\nD. Am\n\nKunci Jawaban: A\n\nPembahasan:\nYes, I will."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "Look! My brother is ... football now.",
+        "output": "Soal:\\nComplete the sentence:\\nLook! My brother is ... football now.\\n\\nA. plays\\nB. played\\nC. playing\\nD. play\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSedang berlangsung (now) -> V-ing (playing)."
     },
     {
-        "instruction": "Simple Future Tense (Short Answer).",
-        "input": "A: Will they come?\nB: No, they ....",
-        "output": "Soal:\nA. Will\nB. Won't\nC. Don't\nD. Didn't\n\nKunci Jawaban: B\n\nPembahasan:\nNo, they won't (will not)."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "My mother ... running in the park right now.",
+        "output": "Soal:\\nComplete the sentence:\\nMy mother ... running in the park right now.\\n\\nA. are\\nB. be\\nC. is\\nD. am\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nTo be untuk 'My mother' adalah 'is'."
     },
     {
-        "instruction": "Simple Future Tense (Plan).",
-        "input": "My father ... buy a new house next year.",
-        "output": "Soal:\nA. Will\nB. Did\nC. Was\nD. Were\n\nKunci Jawaban: A\n\nPembahasan:\nRencana masa depan."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "Birds ... watching a movie right now.",
+        "output": "Soal:\\nComplete the sentence:\\nBirds ... watching a movie right now.\\n\\nA. is\\nB. are\\nC. am\\nD. be\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nTo be untuk 'Birds' adalah 'are'."
     },
     {
-        "instruction": "Simple Future Tense (Time Signal).",
-        "input": "They will play football ....",
-        "output": "Soal:\nA. Yesterday\nB. Last Sunday\nC. Next Sunday\nD. Two days ago\n\nKunci Jawaban: C\n\nPembahasan:\nWill -> Next Sunday."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "Look! The dog is ... lunch now.",
+        "output": "Soal:\\nComplete the sentence:\\nLook! The dog is ... lunch now.\\n\\nA. eat\\nB. eats\\nC. eated\\nD. eating\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSedang berlangsung (now) -> V-ing (eating)."
     },
     {
-        "instruction": "Simple Future Tense (Be going to).",
-        "input": "We ... going to visit the museum.",
-        "output": "Soal:\nA. Is\nB. Am\nC. Are\nD. Was\n\nKunci Jawaban: C\n\nPembahasan:\nWe are going to."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "My brother ... swimming in the pool right now.",
+        "output": "Soal:\\nComplete the sentence:\\nMy brother ... swimming in the pool right now.\\n\\nA. is\\nB. be\\nC. am\\nD. are\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nTo be untuk 'My brother' adalah 'is'."
     },
     {
-        "instruction": "Simple Future Tense (Be going to).",
-        "input": "I ... going to be a pilot.",
-        "output": "Soal:\nA. Is\nB. Am\nC. Are\nD. Were\n\nKunci Jawaban: B\n\nPembahasan:\nI am going to."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "The players ... playing football right now.",
+        "output": "Soal:\\nComplete the sentence:\\nThe players ... playing football right now.\\n\\nA. am\\nB. be\\nC. are\\nD. is\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nTo be untuk 'The players' adalah 'are'."
     },
     {
-        "instruction": "Simple Future Tense (Be going to).",
-        "input": "He ... going to clean his room.",
-        "output": "Soal:\nA. Is\nB. Am\nC. Are\nD. Were\n\nKunci Jawaban: A\n\nPembahasan:\nHe is going to."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "My sister ... standing in front of class right now.",
+        "output": "Soal:\\nComplete the sentence:\\nMy sister ... standing in front of class right now.\\n\\nA. are\\nB. is\\nC. am\\nD. be\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nTo be untuk 'My sister' adalah 'is'."
     },
     {
-        "instruction": "Simple Future Tense (Dialog).",
-        "input": "A: What will you do next holiday?\nB: I ... go fishing.",
-        "output": "Soal:\nA. Will\nB. Did\nC. Was\nD. Were\n\nKunci Jawaban: A\n\nPembahasan:\nRencana liburan."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "Look! My mother is ... a movie now.",
+        "output": "Soal:\\nComplete the sentence:\\nLook! My mother is ... a movie now.\\n\\nA. watched\\nB. watching\\nC. watchs\\nD. watch\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSedang berlangsung (now) -> V-ing (watching)."
     },
     {
-        "instruction": "Simple Future Tense (Vocab).",
-        "input": "'Next week' means ....",
-        "output": "Soal:\nA. Minggu lalu\nB. Minggu depan\nC. Hari ini\nD. Besok\n\nKunci Jawaban: B\n\nPembahasan:\nMinggu depan."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "Look! The teacher is ... on the chair now.",
+        "output": "Soal:\\nComplete the sentence:\\nLook! The teacher is ... on the chair now.\\n\\nA. sited\\nB. sitting\\nC. sit\\nD. sits\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSedang berlangsung (now) -> V-ing (sitting)."
     },
     {
-        "instruction": "Simple Future Tense (Vocab).",
-        "input": "'Soon' means ....",
-        "output": "Soal:\nA. Segera\nB. Lama\nC. Kemarin\nD. Tadi\n\nKunci Jawaban: A\n\nPembahasan:\nSegera."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "Look! I am ... in the park now.",
+        "output": "Soal:\\nComplete the sentence:\\nLook! I am ... in the park now.\\n\\nA. runs\\nB. runed\\nC. running\\nD. run\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSedang berlangsung (now) -> V-ing (running)."
     },
     {
-        "instruction": "Simple Future Tense (Vocab).",
-        "input": "'Later' means ....",
-        "output": "Soal:\nA. Sekarang\nB. Nanti\nC. Dulu\nD. Kemarin\n\nKunci Jawaban: B\n\nPembahasan:\nNanti."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "Cows ... standing in front of class right now.",
+        "output": "Soal:\\nComplete the sentence:\\nCows ... standing in front of class right now.\\n\\nA. are\\nB. be\\nC. is\\nD. am\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nTo be untuk 'Cows' adalah 'are'."
     },
     {
-        "instruction": "Simple Future Tense (Verb).",
-        "input": "After 'will', we must use Verb ....",
-        "output": "Soal:\nA. 1 (Base form)\nB. 2 (Past)\nC. Ing\nD. S/Es\n\nKunci Jawaban: A\n\nPembahasan:\nWill + V1."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "Look! I am ... a movie now.",
+        "output": "Soal:\\nComplete the sentence:\\nLook! I am ... a movie now.\\n\\nA. watching\\nB. watched\\nC. watch\\nD. watchs\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSedang berlangsung (now) -> V-ing (watching)."
     },
     {
-        "instruction": "Simple Future Tense (Verb).",
-        "input": "She will ... a dancer.",
-        "output": "Soal:\nA. Be\nB. Is\nC. Am\nD. Are\n\nKunci Jawaban: A\n\nPembahasan:\nWill + Be (Noun)."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "The doctor ... studying English right now.",
+        "output": "Soal:\\nComplete the sentence:\\nThe doctor ... studying English right now.\\n\\nA. is\\nB. be\\nC. am\\nD. are\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nTo be untuk 'The doctor' adalah 'is'."
     },
     {
-        "instruction": "Simple Future Tense (Sentence Order).",
-        "input": "Arrange: will - go - I - school - to - tomorrow",
-        "output": "Soal:\nA. I will go to school tomorrow\nB. Tomorrow go will I school to\nC. Will go I to school tomorrow\nD. School to go I will tomorrow\n\nKunci Jawaban: A\n\nPembahasan:\nS + Will + V1 + O + Ket."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "My brother ... sleeping in the bedroom right now.",
+        "output": "Soal:\\nComplete the sentence:\\nMy brother ... sleeping in the bedroom right now.\\n\\nA. am\\nB. is\\nC. be\\nD. are\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nTo be untuk 'My brother' adalah 'is'."
     },
     {
-        "instruction": "Simple Future Tense (Future Plan).",
-        "input": "What do you want to be in the future?",
-        "output": "Soal:\nA. I wanted to be a teacher\nB. I want to be a teacher\nC. I was a teacher\nD. I am a teacher\n\nKunci Jawaban: B\n\nPembahasan:\nCita-cita (Want)."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "Look! The players are ... in the park now.",
+        "output": "Soal:\\nComplete the sentence:\\nLook! The players are ... in the park now.\\n\\nA. runed\\nB. running\\nC. runs\\nD. run\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSedang berlangsung (now) -> V-ing (running)."
     },
     {
-        "instruction": "Simple Future Tense (Promise).",
-        "input": "I promise I ... study harder.",
-        "output": "Soal:\nA. Will\nB. Did\nC. Was\nD. Were\n\nKunci Jawaban: A\n\nPembahasan:\nJanji (Promise) -> Will."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "Look! The dog is ... in front of class now.",
+        "output": "Soal:\\nComplete the sentence:\\nLook! The dog is ... in front of class now.\\n\\nA. stands\\nB. standed\\nC. stand\\nD. standing\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSedang berlangsung (now) -> V-ing (standing)."
     },
     {
-        "instruction": "Simple Future Tense (Offer).",
-        "input": "It's hot. I ... open the window.",
-        "output": "Soal:\nA. Will\nB. Did\nC. Do\nD. Does\n\nKunci Jawaban: A\n\nPembahasan:\nTawaran spontan (Offer) -> Will."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "The players ... listening to music right now.",
+        "output": "Soal:\\nComplete the sentence:\\nThe players ... listening to music right now.\\n\\nA. am\\nB. is\\nC. are\\nD. be\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nTo be untuk 'The players' adalah 'are'."
     },
     {
-        "instruction": "Simple Future Tense (Verb).",
-        "input": "They will ... the match.",
-        "output": "Soal:\nA. Win\nB. Won\nC. Winning\nD. Wins\n\nKunci Jawaban: A\n\nPembahasan:\nWill + V1 (Win)."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "Look! I am ... lunch now.",
+        "output": "Soal:\\nComplete the sentence:\\nLook! I am ... lunch now.\\n\\nA. eats\\nB. eat\\nC. eated\\nD. eating\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSedang berlangsung (now) -> V-ing (eating)."
     },
     {
-        "instruction": "Simple Future Tense (Verb).",
-        "input": "He will ... the car.",
-        "output": "Soal:\nA. Drives\nB. Drive\nC. Drove\nD. Driving\n\nKunci Jawaban: B\n\nPembahasan:\nWill + V1 (Drive)."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "They ... sleeping in the bedroom right now.",
+        "output": "Soal:\\nComplete the sentence:\\nThey ... sleeping in the bedroom right now.\\n\\nA. is\\nB. be\\nC. am\\nD. are\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nTo be untuk 'They' adalah 'are'."
     },
     {
-        "instruction": "Simple Future Tense (Verb).",
-        "input": "We will ... pizza.",
-        "output": "Soal:\nA. Eat\nB. Ate\nC. Eating\nD. Eats\n\nKunci Jawaban: A\n\nPembahasan:\nWill + V1 (Eat)."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "We ... playing football right now.",
+        "output": "Soal:\\nComplete the sentence:\\nWe ... playing football right now.\\n\\nA. be\\nB. are\\nC. am\\nD. is\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nTo be untuk 'We' adalah 'are'."
     },
     {
-        "instruction": "Simple Future Tense (Verb).",
-        "input": "She will ... a song.",
-        "output": "Soal:\nA. Sing\nB. Sang\nC. Singing\nD. Sings\n\nKunci Jawaban: A\n\nPembahasan:\nWill + V1 (Sing)."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "Look! Birds are ... football now.",
+        "output": "Soal:\\nComplete the sentence:\\nLook! Birds are ... football now.\\n\\nA. plays\\nB. playing\\nC. played\\nD. play\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSedang berlangsung (now) -> V-ing (playing)."
     },
     {
-        "instruction": "Simple Future Tense (Verb).",
-        "input": "I will ... my homework.",
-        "output": "Soal:\nA. Do\nB. Did\nC. Done\nD. Doing\n\nKunci Jawaban: A\n\nPembahasan:\nWill + V1 (Do)."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "The dog ... sitting on the chair right now.",
+        "output": "Soal:\\nComplete the sentence:\\nThe dog ... sitting on the chair right now.\\n\\nA. is\\nB. be\\nC. are\\nD. am\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nTo be untuk 'The dog' adalah 'is'."
     },
     {
-        "instruction": "Simple Future Tense (Dialog).",
-        "input": "A: When will you arrive?\nB: I will arrive ....",
-        "output": "Soal:\nA. Yesterday\nB. Two days ago\nC. Tonight\nD. Last year\n\nKunci Jawaban: C\n\nPembahasan:\nWaktu yang akan datang (Tonight)."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "Look! Mrs. Susi is ... on the chair now.",
+        "output": "Soal:\\nComplete the sentence:\\nLook! Mrs. Susi is ... on the chair now.\\n\\nA. sit\\nB. sits\\nC. sitting\\nD. sited\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSedang berlangsung (now) -> V-ing (sitting)."
     },
     {
-        "instruction": "Simple Future Tense (Vocab).",
-        "input": "'Tomorrow morning' means ....",
-        "output": "Soal:\nA. Besok pagi\nB. Kemarin pagi\nC. Pagi ini\nD. Nanti malam\n\nKunci Jawaban: A\n\nPembahasan:\nBesok pagi."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "Look! The players are ... to music now.",
+        "output": "Soal:\\nComplete the sentence:\\nLook! The players are ... to music now.\\n\\nA. listening\\nB. listen\\nC. listens\\nD. listened\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSedang berlangsung (now) -> V-ing (listening)."
     },
     {
-        "instruction": "Simple Future Tense (Time Signal).",
-        "input": "I will see you ....",
-        "output": "Soal:\nA. Yesterday\nB. Last month\nC. Later\nD. Just now\n\nKunci Jawaban: C\n\nPembahasan:\nLater (Nanti)."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "Look! The dog is ... football now.",
+        "output": "Soal:\\nComplete the sentence:\\nLook! The dog is ... football now.\\n\\nA. played\\nB. playing\\nC. play\\nD. plays\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSedang berlangsung (now) -> V-ing (playing)."
     },
     {
-        "instruction": "Simple Future Tense (Negative).",
-        "input": "He ... not go to school tomorrow.",
-        "output": "Soal:\nA. Did\nB. Will\nC. Does\nD. Do\n\nKunci Jawaban: B\n\nPembahasan:\nWill not."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "My brother ... listening to music right now.",
+        "output": "Soal:\\nComplete the sentence:\\nMy brother ... listening to music right now.\\n\\nA. be\\nB. am\\nC. are\\nD. is\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nTo be untuk 'My brother' adalah 'is'."
     },
     {
-        "instruction": "Simple Future Tense (Be going to).",
-        "input": "Look at the dark clouds. It is ... to rain.",
-        "output": "Soal:\nA. Go\nB. Going\nC. Gone\nD. Went\n\nKunci Jawaban: B\n\nPembahasan:\nGoing to (Prediksi)."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "The players ... standing in front of class right now.",
+        "output": "Soal:\\nComplete the sentence:\\nThe players ... standing in front of class right now.\\n\\nA. am\\nB. are\\nC. be\\nD. is\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nTo be untuk 'The players' adalah 'are'."
     },
     {
-        "instruction": "Simple Future Tense (Verb).",
-        "input": "The train will ... at 7 PM.",
-        "output": "Soal:\nA. Leave\nB. Left\nC. Leaves\nD. Leaving\n\nKunci Jawaban: A\n\nPembahasan:\nWill + V1 (Leave)."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "Look! My mother is ... in the pool now.",
+        "output": "Soal:\\nComplete the sentence:\\nLook! My mother is ... in the pool now.\\n\\nA. swimming\\nB. swim\\nC. swimed\\nD. swims\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSedang berlangsung (now) -> V-ing (swimming)."
     },
     {
-        "instruction": "Simple Future Tense (Verb).",
-        "input": "The sun will ... tomorrow morning.",
-        "output": "Soal:\nA. Rise\nB. Rose\nC. Rises\nD. Rising\n\nKunci Jawaban: A\n\nPembahasan:\nWill + V1 (Rise)."
+        "instruction": "Grammar (Present Continuous Tense).",
+        "input": "The players ... swimming in the pool right now.",
+        "output": "Soal:\\nComplete the sentence:\\nThe players ... swimming in the pool right now.\\n\\nA. am\\nB. be\\nC. are\\nD. is\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nTo be untuk 'The players' adalah 'are'."
     },
     {
-        "instruction": "Simple Future Tense (Dialog).",
-        "input": "Student: Will we have a test tomorrow?\nTeacher: Yes, we ....",
-        "output": "Soal:\nA. Do\nB. Did\nC. Will\nD. Are\n\nKunci Jawaban: C\n\nPembahasan:\nYes, we will."
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "The players ... a letter last week.",
+        "output": "Soal:\\nComplete the sentence:\\nThe players ... a letter last week.\\n\\nA. write\\nB. writeing\\nC. writes\\nD. wrote\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nPast Tense (last week) menggunakan V2 (wrote)."
     },
     {
-        "instruction": "Simple Future Tense (Question Word).",
-        "input": "... will you go tomorrow?",
-        "output": "Soal:\nA. Where\nB. Who\nC. Which\nD. Whose\n\nKunci Jawaban: A\n\nPembahasan:\nMenanyakan tempat (Where)."
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "The children ... a new bag last Sunday.",
+        "output": "Soal:\\nComplete the sentence:\\nThe children ... a new bag last Sunday.\\n\\nA. buy\\nB. buying\\nC. buys\\nD. bought\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nPast Tense (last Sunday) menggunakan V2 (bought)."
     },
     {
-        "instruction": "Simple Future Tense (Question Word).",
-        "input": "... will come to the party?",
-        "output": "Soal:\nA. Who\nB. Where\nC. When\nD. Why\n\nKunci Jawaban: A\n\nPembahasan:\nMenanyakan orang (Who)."
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "My sister ... to Bali last night.",
+        "output": "Soal:\\nComplete the sentence:\\nMy sister ... to Bali last night.\\n\\nA. gos\\nB. go\\nC. went\\nD. going\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nPast Tense (last night) menggunakan V2 (went)."
     },
     {
-        "instruction": "Simple Future Tense (Question Word).",
-        "input": "... will the movie start?",
-        "output": "Soal:\nA. When\nB. Who\nC. Where\nD. Which\n\nKunci Jawaban: A\n\nPembahasan:\nMenanyakan waktu (When)."
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "My friends ... a letter last holiday.",
+        "output": "Soal:\\nComplete the sentence:\\nMy friends ... a letter last holiday.\\n\\nA. writes\\nB. write\\nC. writeing\\nD. wrote\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nPast Tense (last holiday) menggunakan V2 (wrote)."
     },
     {
-        "instruction": "Simple Future Tense (Definition).",
-        "input": "Simple Future Tense is used to talk about events in the ....",
-        "output": "Soal:\nA. Past\nB. Future\nC. Present\nD. Continuous\n\nKunci Jawaban: B\n\nPembahasan:\nMasa depan."
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "Birds ... a movie last week.",
+        "output": "Soal:\\nComplete the sentence:\\nBirds ... a movie last week.\\n\\nA. sees\\nB. see\\nC. seeing\\nD. saw\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nPast Tense (last week) menggunakan V2 (saw)."
     },
     {
-        "instruction": "Simple Future Tense (Contraction).",
-        "input": "'I will' can be shortened to ....",
-        "output": "Soal:\nA. I'll\nB. I'd\nC. Im\nD. I've\n\nKunci Jawaban: A\n\nPembahasan:\nSingkatan I will."
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "The doctor ... a new bag last night.",
+        "output": "Soal:\\nComplete the sentence:\\nThe doctor ... a new bag last night.\\n\\nA. buy\\nB. buys\\nC. buying\\nD. bought\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nPast Tense (last night) menggunakan V2 (bought)."
     },
     {
-        "instruction": "Simple Future Tense (Contraction).",
-        "input": "'Will not' can be shortened to ....",
-        "output": "Soal:\nA. Willn't\nB. Won't\nC. Don't\nD. Didn't\n\nKunci Jawaban: B\n\nPembahasan:\nSingkatan Will not."
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "Mrs. Susi ... a letter last holiday.",
+        "output": "Soal:\\nComplete the sentence:\\nMrs. Susi ... a letter last holiday.\\n\\nA. writeing\\nB. write\\nC. writes\\nD. wrote\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nPast Tense (last holiday) menggunakan V2 (wrote)."
     },
     {
-        "instruction": "Simple Future Tense (Verb).",
-        "input": "Robots will ... our work in the future.",
-        "output": "Soal:\nA. Do\nB. Did\nC. Done\nD. Doing\n\nKunci Jawaban: A\n\nPembahasan:\nWill + V1."
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "My mother ... a movie last Sunday.",
+        "output": "Soal:\\nComplete the sentence:\\nMy mother ... a movie last Sunday.\\n\\nA. seeing\\nB. see\\nC. sees\\nD. saw\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nPast Tense (last Sunday) menggunakan V2 (saw)."
     },
     {
-        "instruction": "Simple Future Tense (Hope).",
-        "input": "I hope you ... get better soon.",
-        "output": "Soal:\nA. Will\nB. Did\nC. Are\nD. Were\n\nKunci Jawaban: A\n\nPembahasan:\nHarapan (Hope) -> Will."
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "My mother ... a movie last week.",
+        "output": "Soal:\\nComplete the sentence:\\nMy mother ... a movie last week.\\n\\nA. seeing\\nB. see\\nC. sees\\nD. saw\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nPast Tense (last week) menggunakan V2 (saw)."
     },
     {
-        "instruction": "Simple Future Tense (Dialog).",
-        "input": "A: The phone is ringing.\nB: I ... answer it.",
-        "output": "Soal:\nA. Will\nB. Did\nC. Do\nD. Am\n\nKunci Jawaban: A\n\nPembahasan:\nKeputusan spontan -> Will."
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "The children ... a letter last night.",
+        "output": "Soal:\\nComplete the sentence:\\nThe children ... a letter last night.\\n\\nA. wrote\\nB. writeing\\nC. writes\\nD. write\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nPast Tense (last night) menggunakan V2 (wrote)."
     },
     {
-        "instruction": "Simple Future Tense (Verb).",
-        "input": "We will ... happy.",
-        "output": "Soal:\nA. Be\nB. Is\nC. Are\nD. Am\n\nKunci Jawaban: A\n\nPembahasan:\nWill + Be (Adjective)."
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "Mr. Budi ... football last holiday.",
+        "output": "Soal:\\nComplete the sentence:\\nMr. Budi ... football last holiday.\\n\\nA. play\\nB. playing\\nC. plays\\nD. played\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nPast Tense (last holiday) menggunakan V2 (played)."
     },
     {
-        "instruction": "Simple Future Tense (Verb).",
-        "input": "They will ... doctors.",
-        "output": "Soal:\nA. Be\nB. Are\nC. Is\nD. Were\n\nKunci Jawaban: A\n\nPembahasan:\nWill + Be (Noun)."
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "Birds ... a movie two days ago.",
+        "output": "Soal:\\nComplete the sentence:\\nBirds ... a movie two days ago.\\n\\nA. saw\\nB. see\\nC. sees\\nD. seeing\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nPast Tense (two days ago) menggunakan V2 (saw)."
     },
     {
-        "instruction": "Simple Future Tense (Verb).",
-        "input": "It will ... cold tonight.",
-        "output": "Soal:\nA. Be\nB. Is\nC. Was\nD. Are\n\nKunci Jawaban: A\n\nPembahasan:\nWill + Be (Adjective)."
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "The teacher ... noodles last Sunday.",
+        "output": "Soal:\\nComplete the sentence:\\nThe teacher ... noodles last Sunday.\\n\\nA. eating\\nB. ate\\nC. eats\\nD. eat\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nPast Tense (last Sunday) menggunakan V2 (ate)."
     },
     {
-        "instruction": "Simple Future Tense (Verb).",
-        "input": "She will ... here soon.",
-        "output": "Soal:\nA. Be\nB. Is\nC. Was\nD. Are\n\nKunci Jawaban: A\n\nPembahasan:\nWill + Be (Adverb)."
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "My father ... Grandma's house two days ago.",
+        "output": "Soal:\\nComplete the sentence:\\nMy father ... Grandma's house two days ago.\\n\\nA. visited\\nB. visit\\nC. visiting\\nD. visits\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nPast Tense (two days ago) menggunakan V2 (visited)."
     },
     {
-        "instruction": "Simple Future Tense (Phrase).",
-        "input": "'Good luck' is expression for ....",
-        "output": "Soal:\nA. Future success\nB. Past regret\nC. Present sadness\nD. Apologizing\n\nKunci Jawaban: A\n\nPembahasan:\nHarapan sukses."
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "My father ... a letter yesterday.",
+        "output": "Soal:\\nComplete the sentence:\\nMy father ... a letter yesterday.\\n\\nA. writes\\nB. wrote\\nC. writeing\\nD. write\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nPast Tense (yesterday) menggunakan V2 (wrote)."
     },
     {
-        "instruction": "Simple Future Tense (Phrase).",
-        "input": "'Have a nice holiday' means I hope your holiday ... be nice.",
-        "output": "Soal:\nA. Will\nB. Did\nC. Was\nD. Were\n\nKunci Jawaban: A\n\nPembahasan:\nHarapan."
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "The students ... a letter last week.",
+        "output": "Soal:\\nComplete the sentence:\\nThe students ... a letter last week.\\n\\nA. writeing\\nB. writes\\nC. write\\nD. wrote\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nPast Tense (last week) menggunakan V2 (wrote)."
+    },
+    {
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "Cows ... noodles yesterday.",
+        "output": "Soal:\\nComplete the sentence:\\nCows ... noodles yesterday.\\n\\nA. eats\\nB. ate\\nC. eating\\nD. eat\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nPast Tense (yesterday) menggunakan V2 (ate)."
+    },
+    {
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "The cat ... noodles last Sunday.",
+        "output": "Soal:\\nComplete the sentence:\\nThe cat ... noodles last Sunday.\\n\\nA. eats\\nB. eating\\nC. eat\\nD. ate\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nPast Tense (last Sunday) menggunakan V2 (ate)."
+    },
+    {
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "My sister ... milk last night.",
+        "output": "Soal:\\nComplete the sentence:\\nMy sister ... milk last night.\\n\\nA. drink\\nB. drinks\\nC. drinking\\nD. drank\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nPast Tense (last night) menggunakan V2 (drank)."
+    },
+    {
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "My brother ... a new bag last holiday.",
+        "output": "Soal:\\nComplete the sentence:\\nMy brother ... a new bag last holiday.\\n\\nA. buys\\nB. buy\\nC. buying\\nD. bought\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nPast Tense (last holiday) menggunakan V2 (bought)."
+    },
+    {
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "The students ... a new bag yesterday.",
+        "output": "Soal:\\nComplete the sentence:\\nThe students ... a new bag yesterday.\\n\\nA. buying\\nB. bought\\nC. buys\\nD. buy\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nPast Tense (yesterday) menggunakan V2 (bought)."
+    },
+    {
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "The doctor ... a movie yesterday.",
+        "output": "Soal:\\nComplete the sentence:\\nThe doctor ... a movie yesterday.\\n\\nA. saw\\nB. seeing\\nC. sees\\nD. see\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nPast Tense (yesterday) menggunakan V2 (saw)."
+    },
+    {
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "The doctor ... a new bag last holiday.",
+        "output": "Soal:\\nComplete the sentence:\\nThe doctor ... a new bag last holiday.\\n\\nA. buys\\nB. buying\\nC. buy\\nD. bought\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nPast Tense (last holiday) menggunakan V2 (bought)."
+    },
+    {
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "The doctor ... to Bali last Sunday.",
+        "output": "Soal:\\nComplete the sentence:\\nThe doctor ... to Bali last Sunday.\\n\\nA. went\\nB. gos\\nC. going\\nD. go\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nPast Tense (last Sunday) menggunakan V2 (went)."
+    },
+    {
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "We ... clothes last holiday.",
+        "output": "Soal:\\nComplete the sentence:\\nWe ... clothes last holiday.\\n\\nA. wash\\nB. washing\\nC. washed\\nD. washs\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nPast Tense (last holiday) menggunakan V2 (washed)."
+    },
+    {
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "My father ... football two days ago.",
+        "output": "Soal:\\nComplete the sentence:\\nMy father ... football two days ago.\\n\\nA. play\\nB. plays\\nC. played\\nD. playing\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nPast Tense (two days ago) menggunakan V2 (played)."
+    },
+    {
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "The children ... to Bali last night.",
+        "output": "Soal:\\nComplete the sentence:\\nThe children ... to Bali last night.\\n\\nA. going\\nB. went\\nC. go\\nD. gos\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nPast Tense (last night) menggunakan V2 (went)."
+    },
+    {
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "I ... noodles two days ago.",
+        "output": "Soal:\\nComplete the sentence:\\nI ... noodles two days ago.\\n\\nA. eat\\nB. eats\\nC. ate\\nD. eating\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nPast Tense (two days ago) menggunakan V2 (ate)."
+    },
+    {
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "My mother ... a movie yesterday.",
+        "output": "Soal:\\nComplete the sentence:\\nMy mother ... a movie yesterday.\\n\\nA. sees\\nB. see\\nC. saw\\nD. seeing\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nPast Tense (yesterday) menggunakan V2 (saw)."
+    },
+    {
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "My friends ... a movie last night.",
+        "output": "Soal:\\nComplete the sentence:\\nMy friends ... a movie last night.\\n\\nA. saw\\nB. sees\\nC. seeing\\nD. see\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nPast Tense (last night) menggunakan V2 (saw)."
+    },
+    {
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "The doctor ... milk two days ago.",
+        "output": "Soal:\\nComplete the sentence:\\nThe doctor ... milk two days ago.\\n\\nA. drinking\\nB. drank\\nC. drinks\\nD. drink\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nPast Tense (two days ago) menggunakan V2 (drank)."
+    },
+    {
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "My father ... noodles last week.",
+        "output": "Soal:\\nComplete the sentence:\\nMy father ... noodles last week.\\n\\nA. eats\\nB. ate\\nC. eat\\nD. eating\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nPast Tense (last week) menggunakan V2 (ate)."
+    },
+    {
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "The dog ... a letter last night.",
+        "output": "Soal:\\nComplete the sentence:\\nThe dog ... a letter last night.\\n\\nA. writeing\\nB. wrote\\nC. write\\nD. writes\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nPast Tense (last night) menggunakan V2 (wrote)."
+    },
+    {
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "Cows ... a movie two days ago.",
+        "output": "Soal:\\nComplete the sentence:\\nCows ... a movie two days ago.\\n\\nA. saw\\nB. sees\\nC. seeing\\nD. see\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nPast Tense (two days ago) menggunakan V2 (saw)."
+    },
+    {
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "We ... the floor last holiday.",
+        "output": "Soal:\\nComplete the sentence:\\nWe ... the floor last holiday.\\n\\nA. cleaning\\nB. cleans\\nC. clean\\nD. cleaned\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nPast Tense (last holiday) menggunakan V2 (cleaned)."
+    },
+    {
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "My friends ... a movie yesterday.",
+        "output": "Soal:\\nComplete the sentence:\\nMy friends ... a movie yesterday.\\n\\nA. sees\\nB. saw\\nC. seeing\\nD. see\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nPast Tense (yesterday) menggunakan V2 (saw)."
+    },
+    {
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "We ... to Bali yesterday.",
+        "output": "Soal:\\nComplete the sentence:\\nWe ... to Bali yesterday.\\n\\nA. going\\nB. go\\nC. gos\\nD. went\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nPast Tense (yesterday) menggunakan V2 (went)."
+    },
+    {
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "Birds ... a letter last Sunday.",
+        "output": "Soal:\\nComplete the sentence:\\nBirds ... a letter last Sunday.\\n\\nA. writeing\\nB. writes\\nC. write\\nD. wrote\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nPast Tense (last Sunday) menggunakan V2 (wrote)."
+    },
+    {
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "Mrs. Susi ... to Bali last week.",
+        "output": "Soal:\\nComplete the sentence:\\nMrs. Susi ... to Bali last week.\\n\\nA. go\\nB. went\\nC. going\\nD. gos\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nPast Tense (last week) menggunakan V2 (went)."
+    },
+    {
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "Cows ... milk last night.",
+        "output": "Soal:\\nComplete the sentence:\\nCows ... milk last night.\\n\\nA. drinking\\nB. drinks\\nC. drink\\nD. drank\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nPast Tense (last night) menggunakan V2 (drank)."
+    },
+    {
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "The doctor ... to Bali last night.",
+        "output": "Soal:\\nComplete the sentence:\\nThe doctor ... to Bali last night.\\n\\nA. gos\\nB. go\\nC. going\\nD. went\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nPast Tense (last night) menggunakan V2 (went)."
+    },
+    {
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "My brother ... a movie last night.",
+        "output": "Soal:\\nComplete the sentence:\\nMy brother ... a movie last night.\\n\\nA. saw\\nB. sees\\nC. seeing\\nD. see\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nPast Tense (last night) menggunakan V2 (saw)."
+    },
+    {
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "My brother ... milk yesterday.",
+        "output": "Soal:\\nComplete the sentence:\\nMy brother ... milk yesterday.\\n\\nA. drank\\nB. drinks\\nC. drinking\\nD. drink\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nPast Tense (yesterday) menggunakan V2 (drank)."
+    },
+    {
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "My brother ... to Bali yesterday.",
+        "output": "Soal:\\nComplete the sentence:\\nMy brother ... to Bali yesterday.\\n\\nA. going\\nB. went\\nC. go\\nD. gos\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nPast Tense (yesterday) menggunakan V2 (went)."
+    },
+    {
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "They ... clothes last holiday.",
+        "output": "Soal:\\nComplete the sentence:\\nThey ... clothes last holiday.\\n\\nA. wash\\nB. washed\\nC. washs\\nD. washing\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nPast Tense (last holiday) menggunakan V2 (washed)."
+    },
+    {
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "The players ... noodles last holiday.",
+        "output": "Soal:\\nComplete the sentence:\\nThe players ... noodles last holiday.\\n\\nA. ate\\nB. eating\\nC. eat\\nD. eats\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nPast Tense (last holiday) menggunakan V2 (ate)."
+    },
+    {
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "My mother ... a movie two days ago.",
+        "output": "Soal:\\nComplete the sentence:\\nMy mother ... a movie two days ago.\\n\\nA. seeing\\nB. sees\\nC. saw\\nD. see\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nPast Tense (two days ago) menggunakan V2 (saw)."
+    },
+    {
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "The dog ... milk last night.",
+        "output": "Soal:\\nComplete the sentence:\\nThe dog ... milk last night.\\n\\nA. drinking\\nB. drink\\nC. drinks\\nD. drank\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nPast Tense (last night) menggunakan V2 (drank)."
+    },
+    {
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "The children ... the floor last night.",
+        "output": "Soal:\\nComplete the sentence:\\nThe children ... the floor last night.\\n\\nA. cleaned\\nB. clean\\nC. cleaning\\nD. cleans\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nPast Tense (last night) menggunakan V2 (cleaned)."
+    },
+    {
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "My father ... a movie two days ago.",
+        "output": "Soal:\\nComplete the sentence:\\nMy father ... a movie two days ago.\\n\\nA. see\\nB. seeing\\nC. saw\\nD. sees\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nPast Tense (two days ago) menggunakan V2 (saw)."
+    },
+    {
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "Cows ... to Bali last night.",
+        "output": "Soal:\\nComplete the sentence:\\nCows ... to Bali last night.\\n\\nA. go\\nB. went\\nC. going\\nD. gos\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nPast Tense (last night) menggunakan V2 (went)."
+    },
+    {
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "The students ... football last Sunday.",
+        "output": "Soal:\\nComplete the sentence:\\nThe students ... football last Sunday.\\n\\nA. plays\\nB. play\\nC. playing\\nD. played\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nPast Tense (last Sunday) menggunakan V2 (played)."
+    },
+    {
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "Cows ... the floor yesterday.",
+        "output": "Soal:\\nComplete the sentence:\\nCows ... the floor yesterday.\\n\\nA. cleans\\nB. cleaning\\nC. clean\\nD. cleaned\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nPast Tense (yesterday) menggunakan V2 (cleaned)."
+    },
+    {
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "We ... a letter last week.",
+        "output": "Soal:\\nComplete the sentence:\\nWe ... a letter last week.\\n\\nA. wrote\\nB. writes\\nC. writeing\\nD. write\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nPast Tense (last week) menggunakan V2 (wrote)."
+    },
+    {
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "My brother ... a movie yesterday.",
+        "output": "Soal:\\nComplete the sentence:\\nMy brother ... a movie yesterday.\\n\\nA. seeing\\nB. sees\\nC. saw\\nD. see\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nPast Tense (yesterday) menggunakan V2 (saw)."
+    },
+    {
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "Birds ... the floor last week.",
+        "output": "Soal:\\nComplete the sentence:\\nBirds ... the floor last week.\\n\\nA. clean\\nB. cleans\\nC. cleaned\\nD. cleaning\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nPast Tense (last week) menggunakan V2 (cleaned)."
+    },
+    {
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "I ... the floor last week.",
+        "output": "Soal:\\nComplete the sentence:\\nI ... the floor last week.\\n\\nA. cleans\\nB. clean\\nC. cleaning\\nD. cleaned\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nPast Tense (last week) menggunakan V2 (cleaned)."
+    },
+    {
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "The players ... milk last week.",
+        "output": "Soal:\\nComplete the sentence:\\nThe players ... milk last week.\\n\\nA. drinks\\nB. drink\\nC. drank\\nD. drinking\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nPast Tense (last week) menggunakan V2 (drank)."
+    },
+    {
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "The teacher ... the floor yesterday.",
+        "output": "Soal:\\nComplete the sentence:\\nThe teacher ... the floor yesterday.\\n\\nA. cleans\\nB. cleaning\\nC. clean\\nD. cleaned\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nPast Tense (yesterday) menggunakan V2 (cleaned)."
+    },
+    {
+        "instruction": "Grammar (Simple Past Tense).",
+        "input": "Mr. Budi ... football yesterday.",
+        "output": "Soal:\\nComplete the sentence:\\nMr. Budi ... football yesterday.\\n\\nA. playing\\nB. plays\\nC. played\\nD. play\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nPast Tense (yesterday) menggunakan V2 (played)."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Bu Ani checks and cures teeth. He/She is a ....",
+        "output": "Soal:\\nBu Ani checks and cures teeth. He/She is a ....\\n\\nA. Dentist\\nB. Pilot\\nC. Teacher\\nD. Police\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nBu Ani checks and cures teeth = Dentist."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Bu Ani teaches students in a school. He/She is a ....",
+        "output": "Soal:\\nBu Ani teaches students in a school. He/She is a ....\\n\\nA. Teacher\\nB. Dentist\\nC. Chef\\nD. Farmer\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nBu Ani teaches students in a school = Teacher."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Mrs. Linda flies an airplane. He/She is a ....",
+        "output": "Soal:\\nMrs. Linda flies an airplane. He/She is a ....\\n\\nA. Chef\\nB. Pilot\\nC. Mechanic\\nD. Doctor\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMrs. Linda flies an airplane = Pilot."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Mr. Joko is a Mechanic. He/She works in a ....",
+        "output": "Soal:\\nMr. Joko is a Mechanic. He/She works in a ....\\n\\nA. Hospital\\nB. Workshop\\nC. Airport\\nD. Barracks\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nA Mechanic works in a Workshop."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Pak Budi is a Doctor. He/She works in a ....",
+        "output": "Soal:\\nPak Budi is a Doctor. He/She works in a ....\\n\\nA. Restaurant\\nB. Workshop\\nC. Police station\\nD. Hospital\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nA Doctor works in a Hospital."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Ms. Sarah is a Soldier. He/She works in a ....",
+        "output": "Soal:\\nMs. Sarah is a Soldier. He/She works in a ....\\n\\nA. Rice field\\nB. Barracks\\nC. Airport\\nD. Workshop\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nA Soldier works in a Barracks."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Mr. Ahmad is a Chef. He/She works in a ....",
+        "output": "Soal:\\nMr. Ahmad is a Chef. He/She works in a ....\\n\\nA. Clinic\\nB. School\\nC. Restaurant\\nD. Rice field\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nA Chef works in a Restaurant."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Mr. Ahmad cooks delicious food. He/She is a ....",
+        "output": "Soal:\\nMr. Ahmad cooks delicious food. He/She is a ....\\n\\nA. Pilot\\nB. Chef\\nC. Soldier\\nD. Mechanic\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMr. Ahmad cooks delicious food = Chef."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Mr. Joko is a Singer. He/She works in a ....",
+        "output": "Soal:\\nMr. Joko is a Singer. He/She works in a ....\\n\\nA. Stage\\nB. Workshop\\nC. Airport\\nD. Rice field\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nA Singer works in a Stage."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Bu Ani sings songs beautifully. He/She is a ....",
+        "output": "Soal:\\nBu Ani sings songs beautifully. He/She is a ....\\n\\nA. Soldier\\nB. Mechanic\\nC. Singer\\nD. Teacher\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nBu Ani sings songs beautifully = Singer."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Bu Ani is a Farmer. He/She works in a ....",
+        "output": "Soal:\\nBu Ani is a Farmer. He/She works in a ....\\n\\nA. Hospital\\nB. Workshop\\nC. Rice field\\nD. Stage\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nA Farmer works in a Rice field."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Mrs. Linda is a Dentist. He/She works in a ....",
+        "output": "Soal:\\nMrs. Linda is a Dentist. He/She works in a ....\\n\\nA. Airport\\nB. Clinic\\nC. Stage\\nD. Police station\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nA Dentist works in a Clinic."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Mr. Joko is a Dentist. He/She works in a ....",
+        "output": "Soal:\\nMr. Joko is a Dentist. He/She works in a ....\\n\\nA. Stage\\nB. Airport\\nC. Clinic\\nD. Barracks\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nA Dentist works in a Clinic."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Mr. Joko catches thieves and directs traffic. He/She is a ....",
+        "output": "Soal:\\nMr. Joko catches thieves and directs traffic. He/She is a ....\\n\\nA. Teacher\\nB. Pilot\\nC. Police\\nD. Soldier\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMr. Joko catches thieves and directs traffic = Police."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Mr. Ahmad protects the country. He/She is a ....",
+        "output": "Soal:\\nMr. Ahmad protects the country. He/She is a ....\\n\\nA. Chef\\nB. Dentist\\nC. Soldier\\nD. Farmer\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMr. Ahmad protects the country = Soldier."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Pak Budi flies an airplane. He/She is a ....",
+        "output": "Soal:\\nPak Budi flies an airplane. He/She is a ....\\n\\nA. Teacher\\nB. Police\\nC. Farmer\\nD. Pilot\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nPak Budi flies an airplane = Pilot."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Mrs. Linda catches thieves and directs traffic. He/She is a ....",
+        "output": "Soal:\\nMrs. Linda catches thieves and directs traffic. He/She is a ....\\n\\nA. Dentist\\nB. Chef\\nC. Police\\nD. Pilot\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMrs. Linda catches thieves and directs traffic = Police."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Bu Ani catches thieves and directs traffic. He/She is a ....",
+        "output": "Soal:\\nBu Ani catches thieves and directs traffic. He/She is a ....\\n\\nA. Singer\\nB. Doctor\\nC. Teacher\\nD. Police\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nBu Ani catches thieves and directs traffic = Police."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Pak Budi is a Teacher. He/She works in a ....",
+        "output": "Soal:\\nPak Budi is a Teacher. He/She works in a ....\\n\\nA. Rice field\\nB. School\\nC. Stage\\nD. Airport\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nA Teacher works in a School."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Mrs. Linda repairs broken cars. He/She is a ....",
+        "output": "Soal:\\nMrs. Linda repairs broken cars. He/She is a ....\\n\\nA. Chef\\nB. Mechanic\\nC. Doctor\\nD. Dentist\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMrs. Linda repairs broken cars = Mechanic."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Ms. Sarah catches thieves and directs traffic. He/She is a ....",
+        "output": "Soal:\\nMs. Sarah catches thieves and directs traffic. He/She is a ....\\n\\nA. Singer\\nB. Farmer\\nC. Police\\nD. Doctor\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMs. Sarah catches thieves and directs traffic = Police."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Mr. Joko is a Farmer. He/She works in a ....",
+        "output": "Soal:\\nMr. Joko is a Farmer. He/She works in a ....\\n\\nA. Barracks\\nB. Rice field\\nC. Clinic\\nD. Restaurant\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nA Farmer works in a Rice field."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Bu Ani is a Pilot. He/She works in a ....",
+        "output": "Soal:\\nBu Ani is a Pilot. He/She works in a ....\\n\\nA. Airport\\nB. School\\nC. Clinic\\nD. Hospital\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nA Pilot works in a Airport."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Mr. Joko repairs broken cars. He/She is a ....",
+        "output": "Soal:\\nMr. Joko repairs broken cars. He/She is a ....\\n\\nA. Doctor\\nB. Pilot\\nC. Chef\\nD. Mechanic\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMr. Joko repairs broken cars = Mechanic."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Pak Budi is a Soldier. He/She works in a ....",
+        "output": "Soal:\\nPak Budi is a Soldier. He/She works in a ....\\n\\nA. School\\nB. Barracks\\nC. Police station\\nD. Airport\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nA Soldier works in a Barracks."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Mr. Ahmad catches thieves and directs traffic. He/She is a ....",
+        "output": "Soal:\\nMr. Ahmad catches thieves and directs traffic. He/She is a ....\\n\\nA. Dentist\\nB. Mechanic\\nC. Police\\nD. Farmer\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMr. Ahmad catches thieves and directs traffic = Police."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Mr. Joko is a Chef. He/She works in a ....",
+        "output": "Soal:\\nMr. Joko is a Chef. He/She works in a ....\\n\\nA. Rice field\\nB. Restaurant\\nC. Barracks\\nD. Workshop\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nA Chef works in a Restaurant."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Mr. Ahmad is a Singer. He/She works in a ....",
+        "output": "Soal:\\nMr. Ahmad is a Singer. He/She works in a ....\\n\\nA. Airport\\nB. Stage\\nC. Police station\\nD. Clinic\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nA Singer works in a Stage."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Bu Ani is a Soldier. He/She works in a ....",
+        "output": "Soal:\\nBu Ani is a Soldier. He/She works in a ....\\n\\nA. Workshop\\nB. Stage\\nC. Barracks\\nD. School\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nA Soldier works in a Barracks."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Ms. Sarah cooks delicious food. He/She is a ....",
+        "output": "Soal:\\nMs. Sarah cooks delicious food. He/She is a ....\\n\\nA. Police\\nB. Mechanic\\nC. Chef\\nD. Pilot\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMs. Sarah cooks delicious food = Chef."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Mr. Ahmad sings songs beautifully. He/She is a ....",
+        "output": "Soal:\\nMr. Ahmad sings songs beautifully. He/She is a ....\\n\\nA. Singer\\nB. Teacher\\nC. Chef\\nD. Dentist\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMr. Ahmad sings songs beautifully = Singer."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Pak Budi cures sick people. He/She is a ....",
+        "output": "Soal:\\nPak Budi cures sick people. He/She is a ....\\n\\nA. Teacher\\nB. Doctor\\nC. Soldier\\nD. Dentist\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nPak Budi cures sick people = Doctor."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Ms. Sarah flies an airplane. He/She is a ....",
+        "output": "Soal:\\nMs. Sarah flies an airplane. He/She is a ....\\n\\nA. Pilot\\nB. Dentist\\nC. Teacher\\nD. Soldier\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMs. Sarah flies an airplane = Pilot."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Mrs. Linda is a Mechanic. He/She works in a ....",
+        "output": "Soal:\\nMrs. Linda is a Mechanic. He/She works in a ....\\n\\nA. Clinic\\nB. Police station\\nC. Workshop\\nD. Restaurant\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nA Mechanic works in a Workshop."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Mrs. Linda sings songs beautifully. He/She is a ....",
+        "output": "Soal:\\nMrs. Linda sings songs beautifully. He/She is a ....\\n\\nA. Dentist\\nB. Singer\\nC. Soldier\\nD. Police\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMrs. Linda sings songs beautifully = Singer."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Pak Budi is a Singer. He/She works in a ....",
+        "output": "Soal:\\nPak Budi is a Singer. He/She works in a ....\\n\\nA. Hospital\\nB. Police station\\nC. Stage\\nD. Rice field\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nA Singer works in a Stage."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Mr. Joko is a Doctor. He/She works in a ....",
+        "output": "Soal:\\nMr. Joko is a Doctor. He/She works in a ....\\n\\nA. Stage\\nB. Restaurant\\nC. Hospital\\nD. Workshop\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nA Doctor works in a Hospital."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Mr. Joko is a Teacher. He/She works in a ....",
+        "output": "Soal:\\nMr. Joko is a Teacher. He/She works in a ....\\n\\nA. Barracks\\nB. Stage\\nC. Clinic\\nD. School\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nA Teacher works in a School."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Mr. Joko is a Soldier. He/She works in a ....",
+        "output": "Soal:\\nMr. Joko is a Soldier. He/She works in a ....\\n\\nA. School\\nB. Workshop\\nC. Airport\\nD. Barracks\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nA Soldier works in a Barracks."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Ms. Sarah checks and cures teeth. He/She is a ....",
+        "output": "Soal:\\nMs. Sarah checks and cures teeth. He/She is a ....\\n\\nA. Pilot\\nB. Soldier\\nC. Mechanic\\nD. Dentist\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMs. Sarah checks and cures teeth = Dentist."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Bu Ani is a Dentist. He/She works in a ....",
+        "output": "Soal:\\nBu Ani is a Dentist. He/She works in a ....\\n\\nA. Airport\\nB. Police station\\nC. Hospital\\nD. Clinic\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nA Dentist works in a Clinic."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Pak Budi is a Farmer. He/She works in a ....",
+        "output": "Soal:\\nPak Budi is a Farmer. He/She works in a ....\\n\\nA. Barracks\\nB. Rice field\\nC. School\\nD. Restaurant\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nA Farmer works in a Rice field."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Mrs. Linda is a Singer. He/She works in a ....",
+        "output": "Soal:\\nMrs. Linda is a Singer. He/She works in a ....\\n\\nA. Rice field\\nB. Stage\\nC. Restaurant\\nD. Barracks\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nA Singer works in a Stage."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Mr. Ahmad flies an airplane. He/She is a ....",
+        "output": "Soal:\\nMr. Ahmad flies an airplane. He/She is a ....\\n\\nA. Pilot\\nB. Teacher\\nC. Mechanic\\nD. Singer\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMr. Ahmad flies an airplane = Pilot."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Mr. Ahmad is a Pilot. He/She works in a ....",
+        "output": "Soal:\\nMr. Ahmad is a Pilot. He/She works in a ....\\n\\nA. Restaurant\\nB. Airport\\nC. Rice field\\nD. Hospital\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nA Pilot works in a Airport."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Ms. Sarah is a Pilot. He/She works in a ....",
+        "output": "Soal:\\nMs. Sarah is a Pilot. He/She works in a ....\\n\\nA. Police station\\nB. Workshop\\nC. Airport\\nD. School\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nA Pilot works in a Airport."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Ms. Sarah is a Farmer. He/She works in a ....",
+        "output": "Soal:\\nMs. Sarah is a Farmer. He/She works in a ....\\n\\nA. Rice field\\nB. Barracks\\nC. Stage\\nD. Clinic\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nA Farmer works in a Rice field."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Pak Budi repairs broken cars. He/She is a ....",
+        "output": "Soal:\\nPak Budi repairs broken cars. He/She is a ....\\n\\nA. Dentist\\nB. Farmer\\nC. Singer\\nD. Mechanic\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nPak Budi repairs broken cars = Mechanic."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Mrs. Linda grows rice and vegetables. He/She is a ....",
+        "output": "Soal:\\nMrs. Linda grows rice and vegetables. He/She is a ....\\n\\nA. Chef\\nB. Teacher\\nC. Soldier\\nD. Farmer\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMrs. Linda grows rice and vegetables = Farmer."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Ms. Sarah sings songs beautifully. He/She is a ....",
+        "output": "Soal:\\nMs. Sarah sings songs beautifully. He/She is a ....\\n\\nA. Chef\\nB. Pilot\\nC. Soldier\\nD. Singer\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMs. Sarah sings songs beautifully = Singer."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Pak Budi checks and cures teeth. He/She is a ....",
+        "output": "Soal:\\nPak Budi checks and cures teeth. He/She is a ....\\n\\nA. Dentist\\nB. Doctor\\nC. Pilot\\nD. Teacher\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nPak Budi checks and cures teeth = Dentist."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Bu Ani is a Singer. He/She works in a ....",
+        "output": "Soal:\\nBu Ani is a Singer. He/She works in a ....\\n\\nA. Stage\\nB. Restaurant\\nC. School\\nD. Clinic\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nA Singer works in a Stage."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Ms. Sarah cures sick people. He/She is a ....",
+        "output": "Soal:\\nMs. Sarah cures sick people. He/She is a ....\\n\\nA. Mechanic\\nB. Police\\nC. Teacher\\nD. Doctor\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMs. Sarah cures sick people = Doctor."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Pak Budi is a Chef. He/She works in a ....",
+        "output": "Soal:\\nPak Budi is a Chef. He/She works in a ....\\n\\nA. Clinic\\nB. Rice field\\nC. Restaurant\\nD. Workshop\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nA Chef works in a Restaurant."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Mrs. Linda is a Chef. He/She works in a ....",
+        "output": "Soal:\\nMrs. Linda is a Chef. He/She works in a ....\\n\\nA. Barracks\\nB. Workshop\\nC. Restaurant\\nD. Airport\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nA Chef works in a Restaurant."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Mr. Ahmad teaches students in a school. He/She is a ....",
+        "output": "Soal:\\nMr. Ahmad teaches students in a school. He/She is a ....\\n\\nA. Mechanic\\nB. Doctor\\nC. Teacher\\nD. Police\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMr. Ahmad teaches students in a school = Teacher."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Mr. Joko checks and cures teeth. He/She is a ....",
+        "output": "Soal:\\nMr. Joko checks and cures teeth. He/She is a ....\\n\\nA. Teacher\\nB. Doctor\\nC. Mechanic\\nD. Dentist\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMr. Joko checks and cures teeth = Dentist."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Bu Ani is a Police. He/She works in a ....",
+        "output": "Soal:\\nBu Ani is a Police. He/She works in a ....\\n\\nA. Police station\\nB. Airport\\nC. Restaurant\\nD. Clinic\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nA Police works in a Police station."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Pak Budi protects the country. He/She is a ....",
+        "output": "Soal:\\nPak Budi protects the country. He/She is a ....\\n\\nA. Dentist\\nB. Farmer\\nC. Soldier\\nD. Doctor\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nPak Budi protects the country = Soldier."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Ms. Sarah repairs broken cars. He/She is a ....",
+        "output": "Soal:\\nMs. Sarah repairs broken cars. He/She is a ....\\n\\nA. Doctor\\nB. Mechanic\\nC. Dentist\\nD. Farmer\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMs. Sarah repairs broken cars = Mechanic."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Bu Ani grows rice and vegetables. He/She is a ....",
+        "output": "Soal:\\nBu Ani grows rice and vegetables. He/She is a ....\\n\\nA. Doctor\\nB. Dentist\\nC. Singer\\nD. Farmer\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nBu Ani grows rice and vegetables = Farmer."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Mrs. Linda teaches students in a school. He/She is a ....",
+        "output": "Soal:\\nMrs. Linda teaches students in a school. He/She is a ....\\n\\nA. Chef\\nB. Pilot\\nC. Farmer\\nD. Teacher\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMrs. Linda teaches students in a school = Teacher."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Ms. Sarah grows rice and vegetables. He/She is a ....",
+        "output": "Soal:\\nMs. Sarah grows rice and vegetables. He/She is a ....\\n\\nA. Farmer\\nB. Dentist\\nC. Doctor\\nD. Mechanic\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMs. Sarah grows rice and vegetables = Farmer."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Mrs. Linda is a Farmer. He/She works in a ....",
+        "output": "Soal:\\nMrs. Linda is a Farmer. He/She works in a ....\\n\\nA. Workshop\\nB. Clinic\\nC. Hospital\\nD. Rice field\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nA Farmer works in a Rice field."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Mr. Ahmad is a Dentist. He/She works in a ....",
+        "output": "Soal:\\nMr. Ahmad is a Dentist. He/She works in a ....\\n\\nA. Police station\\nB. Clinic\\nC. Workshop\\nD. Restaurant\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nA Dentist works in a Clinic."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Mr. Joko is a Pilot. He/She works in a ....",
+        "output": "Soal:\\nMr. Joko is a Pilot. He/She works in a ....\\n\\nA. Airport\\nB. School\\nC. Barracks\\nD. Workshop\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nA Pilot works in a Airport."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Ms. Sarah is a Teacher. He/She works in a ....",
+        "output": "Soal:\\nMs. Sarah is a Teacher. He/She works in a ....\\n\\nA. Clinic\\nB. School\\nC. Hospital\\nD. Barracks\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nA Teacher works in a School."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Mrs. Linda protects the country. He/She is a ....",
+        "output": "Soal:\\nMrs. Linda protects the country. He/She is a ....\\n\\nA. Soldier\\nB. Chef\\nC. Pilot\\nD. Farmer\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMrs. Linda protects the country = Soldier."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Mr. Joko protects the country. He/She is a ....",
+        "output": "Soal:\\nMr. Joko protects the country. He/She is a ....\\n\\nA. Farmer\\nB. Police\\nC. Soldier\\nD. Chef\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMr. Joko protects the country = Soldier."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Mr. Joko cooks delicious food. He/She is a ....",
+        "output": "Soal:\\nMr. Joko cooks delicious food. He/She is a ....\\n\\nA. Police\\nB. Singer\\nC. Farmer\\nD. Chef\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMr. Joko cooks delicious food = Chef."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Ms. Sarah is a Singer. He/She works in a ....",
+        "output": "Soal:\\nMs. Sarah is a Singer. He/She works in a ....\\n\\nA. Hospital\\nB. Restaurant\\nC. Stage\\nD. School\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nA Singer works in a Stage."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Mr. Ahmad is a Doctor. He/She works in a ....",
+        "output": "Soal:\\nMr. Ahmad is a Doctor. He/She works in a ....\\n\\nA. Hospital\\nB. Airport\\nC. Barracks\\nD. Police station\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nA Doctor works in a Hospital."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Pak Budi is a Mechanic. He/She works in a ....",
+        "output": "Soal:\\nPak Budi is a Mechanic. He/She works in a ....\\n\\nA. Airport\\nB. Hospital\\nC. Workshop\\nD. Clinic\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nA Mechanic works in a Workshop."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Pak Budi grows rice and vegetables. He/She is a ....",
+        "output": "Soal:\\nPak Budi grows rice and vegetables. He/She is a ....\\n\\nA. Teacher\\nB. Farmer\\nC. Chef\\nD. Mechanic\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nPak Budi grows rice and vegetables = Farmer."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Pak Budi catches thieves and directs traffic. He/She is a ....",
+        "output": "Soal:\\nPak Budi catches thieves and directs traffic. He/She is a ....\\n\\nA. Pilot\\nB. Police\\nC. Doctor\\nD. Teacher\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nPak Budi catches thieves and directs traffic = Police."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Mrs. Linda cooks delicious food. He/She is a ....",
+        "output": "Soal:\\nMrs. Linda cooks delicious food. He/She is a ....\\n\\nA. Chef\\nB. Farmer\\nC. Mechanic\\nD. Soldier\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMrs. Linda cooks delicious food = Chef."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Mr. Joko grows rice and vegetables. He/She is a ....",
+        "output": "Soal:\\nMr. Joko grows rice and vegetables. He/She is a ....\\n\\nA. Mechanic\\nB. Farmer\\nC. Soldier\\nD. Police\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMr. Joko grows rice and vegetables = Farmer."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Pak Budi is a Police. He/She works in a ....",
+        "output": "Soal:\\nPak Budi is a Police. He/She works in a ....\\n\\nA. Clinic\\nB. Stage\\nC. Police station\\nD. Restaurant\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nA Police works in a Police station."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Pak Budi is a Pilot. He/She works in a ....",
+        "output": "Soal:\\nPak Budi is a Pilot. He/She works in a ....\\n\\nA. Stage\\nB. Airport\\nC. Police station\\nD. Workshop\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nA Pilot works in a Airport."
+    },
+    {
+        "instruction": "Vocabulary (Occupations).",
+        "input": "Mr. Joko is a Police. He/She works in a ....",
+        "output": "Soal:\\nMr. Joko is a Police. He/She works in a ....\\n\\nA. Stage\\nB. Airport\\nC. Workshop\\nD. Police station\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nA Police works in a Police station."
+    },
+    {
+        "instruction": "Arranging Words (Jumbled Sentence).",
+        "input": "Arrange these words: buys - book - My - sister",
+        "output": "Soal:\\nThe correct sentence is....\\n\\nA. buys sister My book\\nB. My sister book buys\\nC. buys sister My book\\nD. My sister buys book\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSusunan: S (My sister) + P (buys) + O (book)."
+    },
+    {
+        "instruction": "Arranging Words (Jumbled Sentence).",
+        "input": "Arrange these words: The - rice - buys - doctor",
+        "output": "Soal:\\nThe correct sentence is....\\n\\nA. rice The buys doctor\\nB. rice doctor The buys\\nC. The doctor buys rice\\nD. buys doctor rice The\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSusunan: S (The doctor) + P (buys) + O (rice)."
+    },
+    {
+        "instruction": "Arranging Words (Jumbled Sentence).",
+        "input": "Arrange these words: The - milk - buys - teacher",
+        "output": "Soal:\\nThe correct sentence is....\\n\\nA. The buys teacher milk\\nB. The teacher buys milk\\nC. The teacher buys milk\\nD. buys teacher The milk\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSusunan: S (The teacher) + P (buys) + O (milk)."
+    },
+    {
+        "instruction": "Arranging Words (Jumbled Sentence).",
+        "input": "Arrange these words: rice - sister - eats - My",
+        "output": "Soal:\\nThe correct sentence is....\\n\\nA. eats sister rice My\\nB. eats sister My rice\\nC. My rice sister eats\\nD. My sister eats rice\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSusunan: S (My sister) + P (eats) + O (rice)."
+    },
+    {
+        "instruction": "Arranging Words (Jumbled Sentence).",
+        "input": "Arrange these words: father - fruit - drinks - My",
+        "output": "Soal:\\nThe correct sentence is....\\n\\nA. father drinks fruit My\\nB. fruit drinks My father\\nC. My father fruit drinks\\nD. My father drinks fruit\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSusunan: S (My father) + P (drinks) + O (fruit)."
+    },
+    {
+        "instruction": "Arranging Words (Jumbled Sentence).",
+        "input": "Arrange these words: fruit - eats - sister - My",
+        "output": "Soal:\\nThe correct sentence is....\\n\\nA. fruit My eats sister\\nB. My eats sister fruit\\nC. My sister eats fruit\\nD. eats sister fruit My\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSusunan: S (My sister) + P (eats) + O (fruit)."
+    },
+    {
+        "instruction": "Arranging Words (Jumbled Sentence).",
+        "input": "Arrange these words: Mr. - Budi - book - eats",
+        "output": "Soal:\\nThe correct sentence is....\\n\\nA. book eats Budi Mr.\\nB. book Mr. Budi eats\\nC. Budi eats Mr. book\\nD. Mr. Budi eats book\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSusunan: S (Mr. Budi) + P (eats) + O (book)."
+    },
+    {
+        "instruction": "Arranging Words (Jumbled Sentence).",
+        "input": "Arrange these words: rice - Mr. - drinks - Budi",
+        "output": "Soal:\\nThe correct sentence is....\\n\\nA. Mr. Budi drinks rice\\nB. drinks rice Mr. Budi\\nC. Budi Mr. drinks rice\\nD. Budi Mr. drinks rice\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSusunan: S (Mr. Budi) + P (drinks) + O (rice)."
+    },
+    {
+        "instruction": "Arranging Words (Jumbled Sentence).",
+        "input": "Arrange these words: cat - fruit - The - eats",
+        "output": "Soal:\\nThe correct sentence is....\\n\\nA. The fruit cat eats\\nB. The cat eats fruit\\nC. The cat eats fruit\\nD. fruit eats The cat\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSusunan: S (The cat) + P (eats) + O (fruit)."
+    },
+    {
+        "instruction": "Arranging Words (Jumbled Sentence).",
+        "input": "Arrange these words: My - sister - eats - rice",
+        "output": "Soal:\\nThe correct sentence is....\\n\\nA. rice My sister eats\\nB. My sister eats rice\\nC. eats My rice sister\\nD. My eats sister rice\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSusunan: S (My sister) + P (eats) + O (rice)."
+    },
+    {
+        "instruction": "Arranging Words (Jumbled Sentence).",
+        "input": "Arrange these words: teacher - The - fruit - buys",
+        "output": "Soal:\\nThe correct sentence is....\\n\\nA. buys fruit The teacher\\nB. The teacher buys fruit\\nC. teacher buys fruit The\\nD. fruit The teacher buys\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSusunan: S (The teacher) + P (buys) + O (fruit)."
+    },
+    {
+        "instruction": "Arranging Words (Jumbled Sentence).",
+        "input": "Arrange these words: cat - rice - The - reads",
+        "output": "Soal:\\nThe correct sentence is....\\n\\nA. The cat reads rice\\nB. cat The rice reads\\nC. cat rice reads The\\nD. The rice cat reads\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSusunan: S (The cat) + P (reads) + O (rice)."
+    },
+    {
+        "instruction": "Arranging Words (Jumbled Sentence).",
+        "input": "Arrange these words: reads - milk - Mrs. - Susi",
+        "output": "Soal:\\nThe correct sentence is....\\n\\nA. Mrs. Susi reads milk\\nB. reads Susi Mrs. milk\\nC. reads Mrs. milk Susi\\nD. milk Mrs. reads Susi\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSusunan: S (Mrs. Susi) + P (reads) + O (milk)."
+    },
+    {
+        "instruction": "Arranging Words (Jumbled Sentence).",
+        "input": "Arrange these words: mother - My - milk - buys",
+        "output": "Soal:\\nThe correct sentence is....\\n\\nA. My mother buys milk\\nB. mother buys My milk\\nC. milk buys mother My\\nD. My mother milk buys\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSusunan: S (My mother) + P (buys) + O (milk)."
+    },
+    {
+        "instruction": "Arranging Words (Jumbled Sentence).",
+        "input": "Arrange these words: book - The - dog - buys",
+        "output": "Soal:\\nThe correct sentence is....\\n\\nA. buys dog The book\\nB. dog buys The book\\nC. The dog buys book\\nD. dog buys book The\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSusunan: S (The dog) + P (buys) + O (book)."
+    },
+    {
+        "instruction": "Arranging Words (Jumbled Sentence).",
+        "input": "Arrange these words: Budi - rice - reads - Mr.",
+        "output": "Soal:\\nThe correct sentence is....\\n\\nA. Budi Mr. reads rice\\nB. Mr. Budi reads rice\\nC. reads rice Budi Mr.\\nD. Budi rice reads Mr.\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSusunan: S (Mr. Budi) + P (reads) + O (rice)."
+    },
+    {
+        "instruction": "Arranging Words (Jumbled Sentence).",
+        "input": "Arrange these words: rice - buys - teacher - The",
+        "output": "Soal:\\nThe correct sentence is....\\n\\nA. buys rice teacher The\\nB. The rice buys teacher\\nC. The teacher buys rice\\nD. rice teacher The buys\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSusunan: S (The teacher) + P (buys) + O (rice)."
+    },
+    {
+        "instruction": "Arranging Words (Jumbled Sentence).",
+        "input": "Arrange these words: Budi - Mr. - milk - buys",
+        "output": "Soal:\\nThe correct sentence is....\\n\\nA. milk Budi Mr. buys\\nB. buys Mr. Budi milk\\nC. Mr. Budi buys milk\\nD. Mr. milk buys Budi\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSusunan: S (Mr. Budi) + P (buys) + O (milk)."
+    },
+    {
+        "instruction": "Arranging Words (Jumbled Sentence).",
+        "input": "Arrange these words: drinks - mother - My - fruit",
+        "output": "Soal:\\nThe correct sentence is....\\n\\nA. mother drinks My fruit\\nB. My mother drinks fruit\\nC. My drinks mother fruit\\nD. fruit drinks My mother\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSusunan: S (My mother) + P (drinks) + O (fruit)."
+    },
+    {
+        "instruction": "Arranging Words (Jumbled Sentence).",
+        "input": "Arrange these words: Budi - book - buys - Mr.",
+        "output": "Soal:\\nThe correct sentence is....\\n\\nA. Budi book buys Mr.\\nB. Mr. Budi buys book\\nC. buys book Mr. Budi\\nD. buys Mr. book Budi\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSusunan: S (Mr. Budi) + P (buys) + O (book)."
+    },
+    {
+        "instruction": "Arranging Words (Jumbled Sentence).",
+        "input": "Arrange these words: rice - My - reads - sister",
+        "output": "Soal:\\nThe correct sentence is....\\n\\nA. rice sister My reads\\nB. rice sister reads My\\nC. sister rice reads My\\nD. My sister reads rice\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSusunan: S (My sister) + P (reads) + O (rice)."
+    },
+    {
+        "instruction": "Arranging Words (Jumbled Sentence).",
+        "input": "Arrange these words: milk - The - drinks - cat",
+        "output": "Soal:\\nThe correct sentence is....\\n\\nA. The cat drinks milk\\nB. cat milk drinks The\\nC. cat The milk drinks\\nD. drinks The cat milk\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSusunan: S (The cat) + P (drinks) + O (milk)."
+    },
+    {
+        "instruction": "Arranging Words (Jumbled Sentence).",
+        "input": "Arrange these words: fruit - eats - My - father",
+        "output": "Soal:\\nThe correct sentence is....\\n\\nA. My father eats fruit\\nB. fruit eats My father\\nC. eats fruit My father\\nD. eats My father fruit\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSusunan: S (My father) + P (eats) + O (fruit)."
+    },
+    {
+        "instruction": "Arranging Words (Jumbled Sentence).",
+        "input": "Arrange these words: doctor - milk - drinks - The",
+        "output": "Soal:\\nThe correct sentence is....\\n\\nA. doctor drinks The milk\\nB. The doctor drinks milk\\nC. The doctor drinks milk\\nD. The doctor milk drinks\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSusunan: S (The doctor) + P (drinks) + O (milk)."
+    },
+    {
+        "instruction": "Arranging Words (Jumbled Sentence).",
+        "input": "Arrange these words: rice - reads - sister - My",
+        "output": "Soal:\\nThe correct sentence is....\\n\\nA. rice reads My sister\\nB. My sister reads rice\\nC. My sister reads rice\\nD. My sister reads rice\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSusunan: S (My sister) + P (reads) + O (rice)."
+    },
+    {
+        "instruction": "Arranging Words (Jumbled Sentence).",
+        "input": "Arrange these words: rice - eats - mother - My",
+        "output": "Soal:\\nThe correct sentence is....\\n\\nA. My mother eats rice\\nB. eats mother rice My\\nC. My mother eats rice\\nD. mother rice eats My\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSusunan: S (My mother) + P (eats) + O (rice)."
+    },
+    {
+        "instruction": "Arranging Words (Jumbled Sentence).",
+        "input": "Arrange these words: Mr. - Budi - rice - eats",
+        "output": "Soal:\\nThe correct sentence is....\\n\\nA. Mr. Budi eats rice\\nB. eats Budi rice Mr.\\nC. Budi eats rice Mr.\\nD. eats Mr. Budi rice\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSusunan: S (Mr. Budi) + P (eats) + O (rice)."
+    },
+    {
+        "instruction": "Arranging Words (Jumbled Sentence).",
+        "input": "Arrange these words: My - book - sister - reads",
+        "output": "Soal:\\nThe correct sentence is....\\n\\nA. book My reads sister\\nB. My sister reads book\\nC. My sister reads book\\nD. book My reads sister\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSusunan: S (My sister) + P (reads) + O (book)."
+    },
+    {
+        "instruction": "Arranging Words (Jumbled Sentence).",
+        "input": "Arrange these words: rice - buys - The - dog",
+        "output": "Soal:\\nThe correct sentence is....\\n\\nA. rice The buys dog\\nB. buys The rice dog\\nC. The dog buys rice\\nD. buys dog rice The\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSusunan: S (The dog) + P (buys) + O (rice)."
+    },
+    {
+        "instruction": "Arranging Words (Jumbled Sentence).",
+        "input": "Arrange these words: My - brother - reads - fruit",
+        "output": "Soal:\\nThe correct sentence is....\\n\\nA. brother My fruit reads\\nB. reads brother My fruit\\nC. My brother reads fruit\\nD. fruit brother My reads\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSusunan: S (My brother) + P (reads) + O (fruit)."
+    },
+    {
+        "instruction": "Arranging Words (Jumbled Sentence).",
+        "input": "Arrange these words: dog - book - drinks - The",
+        "output": "Soal:\\nThe correct sentence is....\\n\\nA. dog The book drinks\\nB. The dog drinks book\\nC. dog drinks book The\\nD. The dog book drinks\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSusunan: S (The dog) + P (drinks) + O (book)."
+    },
+    {
+        "instruction": "Arranging Words (Jumbled Sentence).",
+        "input": "Arrange these words: The - reads - teacher - rice",
+        "output": "Soal:\\nThe correct sentence is....\\n\\nA. rice reads The teacher\\nB. The teacher reads rice\\nC. teacher rice reads The\\nD. teacher The reads rice\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSusunan: S (The teacher) + P (reads) + O (rice)."
+    },
+    {
+        "instruction": "Arranging Words (Jumbled Sentence).",
+        "input": "Arrange these words: The - reads - dog - book",
+        "output": "Soal:\\nThe correct sentence is....\\n\\nA. The dog reads book\\nB. The book reads dog\\nC. book dog reads The\\nD. reads dog book The\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSusunan: S (The dog) + P (reads) + O (book)."
+    },
+    {
+        "instruction": "Arranging Words (Jumbled Sentence).",
+        "input": "Arrange these words: reads - The - teacher - book",
+        "output": "Soal:\\nThe correct sentence is....\\n\\nA. reads book The teacher\\nB. book reads teacher The\\nC. The teacher reads book\\nD. The book teacher reads\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSusunan: S (The teacher) + P (reads) + O (book)."
+    },
+    {
+        "instruction": "Arranging Words (Jumbled Sentence).",
+        "input": "Arrange these words: buys - rice - dog - The",
+        "output": "Soal:\\nThe correct sentence is....\\n\\nA. buys dog The rice\\nB. The buys dog rice\\nC. The dog buys rice\\nD. dog The buys rice\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSusunan: S (The dog) + P (buys) + O (rice)."
+    },
+    {
+        "instruction": "Arranging Words (Jumbled Sentence).",
+        "input": "Arrange these words: reads - milk - Mr. - Budi",
+        "output": "Soal:\\nThe correct sentence is....\\n\\nA. Mr. Budi reads milk\\nB. Mr. milk reads Budi\\nC. reads Budi milk Mr.\\nD. Budi milk Mr. reads\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSusunan: S (Mr. Budi) + P (reads) + O (milk)."
+    },
+    {
+        "instruction": "Arranging Words (Jumbled Sentence).",
+        "input": "Arrange these words: mother - fruit - eats - My",
+        "output": "Soal:\\nThe correct sentence is....\\n\\nA. My fruit mother eats\\nB. My mother eats fruit\\nC. eats My fruit mother\\nD. eats mother My fruit\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSusunan: S (My mother) + P (eats) + O (fruit)."
+    },
+    {
+        "instruction": "Arranging Words (Jumbled Sentence).",
+        "input": "Arrange these words: drinks - dog - milk - The",
+        "output": "Soal:\\nThe correct sentence is....\\n\\nA. dog drinks milk The\\nB. dog milk drinks The\\nC. The dog milk drinks\\nD. The dog drinks milk\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSusunan: S (The dog) + P (drinks) + O (milk)."
+    },
+    {
+        "instruction": "Arranging Words (Jumbled Sentence).",
+        "input": "Arrange these words: reads - The - milk - cat",
+        "output": "Soal:\\nThe correct sentence is....\\n\\nA. The cat reads milk\\nB. reads milk cat The\\nC. The reads milk cat\\nD. milk cat reads The\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSusunan: S (The cat) + P (reads) + O (milk)."
+    },
+    {
+        "instruction": "Arranging Words (Jumbled Sentence).",
+        "input": "Arrange these words: buys - My - milk - sister",
+        "output": "Soal:\\nThe correct sentence is....\\n\\nA. My milk buys sister\\nB. sister buys My milk\\nC. milk My buys sister\\nD. My sister buys milk\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSusunan: S (My sister) + P (buys) + O (milk)."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The pen is ... the class.",
+        "output": "Soal:\\nComplete the sentence:\\nThe pen is ... the class.\\n\\nA. beside\\nB. under\\nC. in\\nD. between\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\n'in' artinya di dalam."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The book is ... the class.",
+        "output": "Soal:\\nComplete the sentence:\\nThe book is ... the class.\\n\\nA. between\\nB. under\\nC. behind\\nD. in\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\n'in' artinya di dalam."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The shoes is ... the box.",
+        "output": "Soal:\\nComplete the sentence:\\nThe shoes is ... the box.\\n\\nA. under\\nB. between\\nC. beside\\nD. in\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\n'in' artinya di dalam."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The ball is ... the cupboard.",
+        "output": "Soal:\\nComplete the sentence:\\nThe ball is ... the cupboard.\\n\\nA. under\\nB. between\\nC. on\\nD. behind\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\n'under' artinya di bawah."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The dog is ... the table.",
+        "output": "Soal:\\nComplete the sentence:\\nThe dog is ... the table.\\n\\nA. behind\\nB. beside\\nC. on\\nD. under\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\n'behind' artinya di belakang."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The book is ... the box.",
+        "output": "Soal:\\nComplete the sentence:\\nThe book is ... the box.\\n\\nA. behind\\nB. under\\nC. between\\nD. in\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\n'behind' artinya di belakang."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The book is ... the bed.",
+        "output": "Soal:\\nComplete the sentence:\\nThe book is ... the bed.\\n\\nA. behind\\nB. between\\nC. beside\\nD. under\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\n'between' artinya di antara."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The map is ... the cupboard.",
+        "output": "Soal:\\nComplete the sentence:\\nThe map is ... the cupboard.\\n\\nA. between\\nB. behind\\nC. on\\nD. beside\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\n'on' artinya di atas permukaan."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The book is ... the table.",
+        "output": "Soal:\\nComplete the sentence:\\nThe book is ... the table.\\n\\nA. on\\nB. behind\\nC. beside\\nD. between\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\n'behind' artinya di belakang."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The ball is ... the shelf.",
+        "output": "Soal:\\nComplete the sentence:\\nThe ball is ... the shelf.\\n\\nA. behind\\nB. under\\nC. on\\nD. in\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\n'on' artinya di atas permukaan."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The apple is ... the box.",
+        "output": "Soal:\\nComplete the sentence:\\nThe apple is ... the box.\\n\\nA. behind\\nB. beside\\nC. between\\nD. under\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\n'between' artinya di antara."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The dog is ... the class.",
+        "output": "Soal:\\nComplete the sentence:\\nThe dog is ... the class.\\n\\nA. in\\nB. on\\nC. under\\nD. behind\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\n'under' artinya di bawah."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The map is ... the chair.",
+        "output": "Soal:\\nComplete the sentence:\\nThe map is ... the chair.\\n\\nA. between\\nB. beside\\nC. in\\nD. under\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\n'between' artinya di antara."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The apple is ... the table.",
+        "output": "Soal:\\nComplete the sentence:\\nThe apple is ... the table.\\n\\nA. in\\nB. behind\\nC. on\\nD. under\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\n'under' artinya di bawah."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The pen is ... the cupboard.",
+        "output": "Soal:\\nComplete the sentence:\\nThe pen is ... the cupboard.\\n\\nA. behind\\nB. on\\nC. beside\\nD. in\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\n'in' artinya di dalam."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The bag is ... the class.",
+        "output": "Soal:\\nComplete the sentence:\\nThe bag is ... the class.\\n\\nA. on\\nB. under\\nC. in\\nD. beside\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\n'in' artinya di dalam."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The cat is ... the cupboard.",
+        "output": "Soal:\\nComplete the sentence:\\nThe cat is ... the cupboard.\\n\\nA. in\\nB. between\\nC. on\\nD. under\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\n'under' artinya di bawah."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The bag is ... the wall.",
+        "output": "Soal:\\nComplete the sentence:\\nThe bag is ... the wall.\\n\\nA. behind\\nB. in\\nC. on\\nD. beside\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\n'beside' artinya di samping."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The dog is ... the box.",
+        "output": "Soal:\\nComplete the sentence:\\nThe dog is ... the box.\\n\\nA. beside\\nB. in\\nC. between\\nD. behind\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\n'between' artinya di antara."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The dog is ... the cupboard.",
+        "output": "Soal:\\nComplete the sentence:\\nThe dog is ... the cupboard.\\n\\nA. between\\nB. in\\nC. behind\\nD. under\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\n'behind' artinya di belakang."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The shoes is ... the cupboard.",
+        "output": "Soal:\\nComplete the sentence:\\nThe shoes is ... the cupboard.\\n\\nA. behind\\nB. between\\nC. on\\nD. in\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\n'on' artinya di atas permukaan."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The bag is ... the box.",
+        "output": "Soal:\\nComplete the sentence:\\nThe bag is ... the box.\\n\\nA. beside\\nB. between\\nC. behind\\nD. under\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\n'behind' artinya di belakang."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The dog is ... the desk.",
+        "output": "Soal:\\nComplete the sentence:\\nThe dog is ... the desk.\\n\\nA. under\\nB. on\\nC. beside\\nD. behind\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\n'beside' artinya di samping."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The map is ... the shelf.",
+        "output": "Soal:\\nComplete the sentence:\\nThe map is ... the shelf.\\n\\nA. between\\nB. under\\nC. on\\nD. in\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\n'in' artinya di dalam."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The map is ... the class.",
+        "output": "Soal:\\nComplete the sentence:\\nThe map is ... the class.\\n\\nA. behind\\nB. in\\nC. under\\nD. on\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\n'in' artinya di dalam."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The cat is ... the wall.",
+        "output": "Soal:\\nComplete the sentence:\\nThe cat is ... the wall.\\n\\nA. on\\nB. under\\nC. in\\nD. between\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\n'in' artinya di dalam."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The apple is ... the cupboard.",
+        "output": "Soal:\\nComplete the sentence:\\nThe apple is ... the cupboard.\\n\\nA. in\\nB. between\\nC. on\\nD. beside\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\n'between' artinya di antara."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The dog is ... the wall.",
+        "output": "Soal:\\nComplete the sentence:\\nThe dog is ... the wall.\\n\\nA. under\\nB. beside\\nC. between\\nD. in\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\n'in' artinya di dalam."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The pen is ... the bed.",
+        "output": "Soal:\\nComplete the sentence:\\nThe pen is ... the bed.\\n\\nA. beside\\nB. in\\nC. behind\\nD. under\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\n'behind' artinya di belakang."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The bag is ... the bed.",
+        "output": "Soal:\\nComplete the sentence:\\nThe bag is ... the bed.\\n\\nA. behind\\nB. on\\nC. under\\nD. beside\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\n'beside' artinya di samping."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The apple is ... the desk.",
+        "output": "Soal:\\nComplete the sentence:\\nThe apple is ... the desk.\\n\\nA. between\\nB. under\\nC. behind\\nD. in\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\n'under' artinya di bawah."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The clock is ... the class.",
+        "output": "Soal:\\nComplete the sentence:\\nThe clock is ... the class.\\n\\nA. between\\nB. under\\nC. on\\nD. behind\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\n'behind' artinya di belakang."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The ball is ... the floor.",
+        "output": "Soal:\\nComplete the sentence:\\nThe ball is ... the floor.\\n\\nA. behind\\nB. beside\\nC. under\\nD. in\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\n'under' artinya di bawah."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The book is ... the desk.",
+        "output": "Soal:\\nComplete the sentence:\\nThe book is ... the desk.\\n\\nA. on\\nB. in\\nC. between\\nD. beside\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\n'in' artinya di dalam."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The cat is ... the chair.",
+        "output": "Soal:\\nComplete the sentence:\\nThe cat is ... the chair.\\n\\nA. behind\\nB. between\\nC. on\\nD. under\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\n'behind' artinya di belakang."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The cat is ... the class.",
+        "output": "Soal:\\nComplete the sentence:\\nThe cat is ... the class.\\n\\nA. under\\nB. beside\\nC. on\\nD. in\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\n'on' artinya di atas permukaan."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The ball is ... the class.",
+        "output": "Soal:\\nComplete the sentence:\\nThe ball is ... the class.\\n\\nA. beside\\nB. in\\nC. on\\nD. between\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\n'in' artinya di dalam."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The shoes is ... the shelf.",
+        "output": "Soal:\\nComplete the sentence:\\nThe shoes is ... the shelf.\\n\\nA. beside\\nB. behind\\nC. under\\nD. between\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\n'beside' artinya di samping."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The pen is ... the table.",
+        "output": "Soal:\\nComplete the sentence:\\nThe pen is ... the table.\\n\\nA. on\\nB. between\\nC. behind\\nD. under\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\n'between' artinya di antara."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The map is ... the floor.",
+        "output": "Soal:\\nComplete the sentence:\\nThe map is ... the floor.\\n\\nA. in\\nB. between\\nC. behind\\nD. beside\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\n'in' artinya di dalam."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The cat is ... the floor.",
+        "output": "Soal:\\nComplete the sentence:\\nThe cat is ... the floor.\\n\\nA. between\\nB. beside\\nC. under\\nD. behind\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\n'between' artinya di antara."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The pen is ... the shelf.",
+        "output": "Soal:\\nComplete the sentence:\\nThe pen is ... the shelf.\\n\\nA. behind\\nB. in\\nC. under\\nD. on\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\n'behind' artinya di belakang."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The pen is ... the wall.",
+        "output": "Soal:\\nComplete the sentence:\\nThe pen is ... the wall.\\n\\nA. in\\nB. on\\nC. behind\\nD. between\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\n'in' artinya di dalam."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The clock is ... the bed.",
+        "output": "Soal:\\nComplete the sentence:\\nThe clock is ... the bed.\\n\\nA. in\\nB. behind\\nC. between\\nD. beside\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\n'in' artinya di dalam."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The ball is ... the desk.",
+        "output": "Soal:\\nComplete the sentence:\\nThe ball is ... the desk.\\n\\nA. between\\nB. on\\nC. under\\nD. beside\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\n'between' artinya di antara."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The pen is ... the floor.",
+        "output": "Soal:\\nComplete the sentence:\\nThe pen is ... the floor.\\n\\nA. between\\nB. beside\\nC. on\\nD. behind\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\n'between' artinya di antara."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The clock is ... the table.",
+        "output": "Soal:\\nComplete the sentence:\\nThe clock is ... the table.\\n\\nA. between\\nB. in\\nC. behind\\nD. under\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\n'between' artinya di antara."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The cat is ... the table.",
+        "output": "Soal:\\nComplete the sentence:\\nThe cat is ... the table.\\n\\nA. beside\\nB. in\\nC. behind\\nD. on\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\n'in' artinya di dalam."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The dog is ... the floor.",
+        "output": "Soal:\\nComplete the sentence:\\nThe dog is ... the floor.\\n\\nA. behind\\nB. under\\nC. in\\nD. beside\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\n'behind' artinya di belakang."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The bag is ... the floor.",
+        "output": "Soal:\\nComplete the sentence:\\nThe bag is ... the floor.\\n\\nA. beside\\nB. behind\\nC. under\\nD. on\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\n'under' artinya di bawah."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The pen is ... the chair.",
+        "output": "Soal:\\nComplete the sentence:\\nThe pen is ... the chair.\\n\\nA. under\\nB. between\\nC. on\\nD. beside\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\n'beside' artinya di samping."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The apple is ... the bed.",
+        "output": "Soal:\\nComplete the sentence:\\nThe apple is ... the bed.\\n\\nA. in\\nB. beside\\nC. between\\nD. under\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\n'between' artinya di antara."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The shoes is ... the table.",
+        "output": "Soal:\\nComplete the sentence:\\nThe shoes is ... the table.\\n\\nA. on\\nB. under\\nC. in\\nD. behind\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\n'on' artinya di atas permukaan."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The apple is ... the class.",
+        "output": "Soal:\\nComplete the sentence:\\nThe apple is ... the class.\\n\\nA. beside\\nB. in\\nC. on\\nD. between\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\n'in' artinya di dalam."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The ball is ... the table.",
+        "output": "Soal:\\nComplete the sentence:\\nThe ball is ... the table.\\n\\nA. between\\nB. under\\nC. on\\nD. in\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\n'between' artinya di antara."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The apple is ... the shelf.",
+        "output": "Soal:\\nComplete the sentence:\\nThe apple is ... the shelf.\\n\\nA. beside\\nB. behind\\nC. on\\nD. under\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\n'beside' artinya di samping."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The bag is ... the table.",
+        "output": "Soal:\\nComplete the sentence:\\nThe bag is ... the table.\\n\\nA. between\\nB. on\\nC. behind\\nD. under\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\n'behind' artinya di belakang."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The pen is ... the desk.",
+        "output": "Soal:\\nComplete the sentence:\\nThe pen is ... the desk.\\n\\nA. beside\\nB. on\\nC. under\\nD. in\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\n'under' artinya di bawah."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The bag is ... the shelf.",
+        "output": "Soal:\\nComplete the sentence:\\nThe bag is ... the shelf.\\n\\nA. beside\\nB. on\\nC. in\\nD. behind\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\n'in' artinya di dalam."
+    },
+    {
+        "instruction": "Direction and Location (Prepositions).",
+        "input": "The clock is ... the chair.",
+        "output": "Soal:\\nComplete the sentence:\\nThe clock is ... the chair.\\n\\nA. behind\\nB. under\\nC. in\\nD. on\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\n'in' artinya di dalam."
+    },
+    {
+        "instruction": "Direction and Location (Compass).",
+        "input": "The sun rises in the ...",
+        "output": "Soal:\\nComplete the sentence:\\nThe sun rises in the ...\\n\\nA. South\\nB. North\\nC. East\\nD. West\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nEast = Timur (Matahari terbit)."
+    },
+    {
+        "instruction": "Direction and Location (Compass).",
+        "input": "The sun sets in the ...",
+        "output": "Soal:\\nComplete the sentence:\\nThe sun sets in the ...\\n\\nA. South\\nB. West\\nC. East\\nD. North\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nWest = Barat (Matahari terbenam)."
+    },
+    {
+        "instruction": "Direction and Location (Compass).",
+        "input": "Compass needle usually points to ...",
+        "output": "Soal:\\nComplete the sentence:\\nCompass needle usually points to ...\\n\\nA. North\\nB. South\\nC. West\\nD. East\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nNorth = Utara."
+    },
+    {
+        "instruction": "Direction and Location (Compass).",
+        "input": "Opposite of North is ...",
+        "output": "Soal:\\nComplete the sentence:\\nOpposite of North is ...\\n\\nA. East\\nB. South\\nC. West\\nD. North\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSouth = Selatan."
+    },
+    {
+        "instruction": "Direction and Location (Public Places).",
+        "input": "We go to the ... to play and relax.",
+        "output": "Soal:\\nComplete the sentence:\\nWe go to the ... to play and relax.\\n\\nA. Restaurant\\nB. School\\nC. Park\\nD. Library\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nTempat untuk play and relax adalah Park."
+    },
+    {
+        "instruction": "Direction and Location (Public Places).",
+        "input": "We go to the ... to see animals.",
+        "output": "Soal:\\nComplete the sentence:\\nWe go to the ... to see animals.\\n\\nA. Zoo\\nB. Cinema\\nC. Bank\\nD. Park\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nTempat untuk see animals adalah Zoo."
+    },
+    {
+        "instruction": "Direction and Location (Public Places).",
+        "input": "We go to the ... to see a doctor and get medicine.",
+        "output": "Soal:\\nComplete the sentence:\\nWe go to the ... to see a doctor and get medicine.\\n\\nA. Library\\nB. Cinema\\nC. Hospital\\nD. Restaurant\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nTempat untuk see a doctor and get medicine adalah Hospital."
+    },
+    {
+        "instruction": "Direction and Location (Public Places).",
+        "input": "We go to the ... to buy vegetables and fruit.",
+        "output": "Soal:\\nComplete the sentence:\\nWe go to the ... to buy vegetables and fruit.\\n\\nA. Market\\nB. Hospital\\nC. Restaurant\\nD. Cinema\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nTempat untuk buy vegetables and fruit adalah Market."
+    },
+    {
+        "instruction": "Direction and Location (Public Places).",
+        "input": "We go to the ... to watch movies.",
+        "output": "Soal:\\nComplete the sentence:\\nWe go to the ... to watch movies.\\n\\nA. Cinema\\nB. Hospital\\nC. Post Office\\nD. Market\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nTempat untuk watch movies adalah Cinema."
+    },
+    {
+        "instruction": "Direction and Location (Public Places).",
+        "input": "We go to the ... to borrow and read books.",
+        "output": "Soal:\\nComplete the sentence:\\nWe go to the ... to borrow and read books.\\n\\nA. Library\\nB. Restaurant\\nC. Market\\nD. School\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nTempat untuk borrow and read books adalah Library."
+    },
+    {
+        "instruction": "Direction and Location (Public Places).",
+        "input": "We go to the ... to save money.",
+        "output": "Soal:\\nComplete the sentence:\\nWe go to the ... to save money.\\n\\nA. Library\\nB. Market\\nC. Bank\\nD. Cinema\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nTempat untuk save money adalah Bank."
+    },
+    {
+        "instruction": "Direction and Location (Public Places).",
+        "input": "We go to the ... to send letters and buy stamps.",
+        "output": "Soal:\\nComplete the sentence:\\nWe go to the ... to send letters and buy stamps.\\n\\nA. Post Office\\nB. Library\\nC. Bank\\nD. Zoo\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nTempat untuk send letters and buy stamps adalah Post Office."
+    },
+    {
+        "instruction": "Direction and Location (Public Places).",
+        "input": "We go to the ... to eat food.",
+        "output": "Soal:\\nComplete the sentence:\\nWe go to the ... to eat food.\\n\\nA. Park\\nB. Restaurant\\nC. Market\\nD. Cinema\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nTempat untuk eat food adalah Restaurant."
+    },
+    {
+        "instruction": "Direction and Location (Public Places).",
+        "input": "We go to the ... to study and meet teachers.",
+        "output": "Soal:\\nComplete the sentence:\\nWe go to the ... to study and meet teachers.\\n\\nA. School\\nB. Restaurant\\nC. Bank\\nD. Market\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nTempat untuk study and meet teachers adalah School."
+    },
+    {
+        "instruction": "Direction and Location (Traffic Signs).",
+        "input": "The sign says 'Turn left'. It means....",
+        "output": "Soal:\\nWhat does the sign mean?\\n\\nA. Jalan lurus\\nB. Belok kiri\\nC. Menyeberang\\nD. Belok kanan\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\n'Turn left' artinya Belok kiri."
+    },
+    {
+        "instruction": "Direction and Location (Traffic Signs).",
+        "input": "The sign says 'Turn right'. It means....",
+        "output": "Soal:\\nWhat does the sign mean?\\n\\nA. Menyeberang\\nB. Jalan lurus\\nC. Belok kanan\\nD. Belok kiri\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\n'Turn right' artinya Belok kanan."
+    },
+    {
+        "instruction": "Direction and Location (Traffic Signs).",
+        "input": "The sign says 'Go straight'. It means....",
+        "output": "Soal:\\nWhat does the sign mean?\\n\\nA. Jalan lurus\\nB. Menyeberang\\nC. Belok kanan\\nD. Belok kiri\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\n'Go straight' artinya Jalan lurus."
+    },
+    {
+        "instruction": "Direction and Location (Traffic Signs).",
+        "input": "The sign says 'Cross'. It means....",
+        "output": "Soal:\\nWhat does the sign mean?\\n\\nA. Belok kiri\\nB. Belok kanan\\nC. Jalan lurus\\nD. Menyeberang\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\n'Cross' artinya Menyeberang."
+    },
+    {
+        "instruction": "Vocabulary (Math in English).",
+        "input": "What is six minus six?",
+        "output": "Soal:\\nWhat is six minus six?\\n\\nA. 1\\nB. 0\\nC. -1\\nD. 2\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\n6 - 6 = 0 (0)."
+    },
+    {
+        "instruction": "Vocabulary (Math in English).",
+        "input": "What is seven plus one?",
+        "output": "Soal:\\nWhat is seven plus one?\\n\\nA. 7\\nB. 10\\nC. 9\\nD. 8\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\n7 + 1 = 8 (8)."
+    },
+    {
+        "instruction": "Vocabulary (Math in English).",
+        "input": "What is eight plus eight?",
+        "output": "Soal:\\nWhat is eight plus eight?\\n\\nA. 17\\nB. 16\\nC. 15\\nD. 18\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\n8 + 8 = 16 (16)."
+    },
+    {
+        "instruction": "Vocabulary (Math in English).",
+        "input": "What is six plus one?",
+        "output": "Soal:\\nWhat is six plus one?\\n\\nA. 6\\nB. 7\\nC. 8\\nD. 9\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\n6 + 1 = 7 (7)."
+    },
+    {
+        "instruction": "Vocabulary (Math in English).",
+        "input": "What is ten minus two?",
+        "output": "Soal:\\nWhat is ten minus two?\\n\\nA. 7\\nB. 8\\nC. 9\\nD. 10\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\n10 - 2 = 8 (8)."
+    },
+    {
+        "instruction": "Vocabulary (Math in English).",
+        "input": "What is three minus one?",
+        "output": "Soal:\\nWhat is three minus one?\\n\\nA. 1\\nB. 4\\nC. 2\\nD. 3\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\n3 - 1 = 2 (2)."
+    },
+    {
+        "instruction": "Vocabulary (Math in English).",
+        "input": "What is three plus six?",
+        "output": "Soal:\\nWhat is three plus six?\\n\\nA. 9\\nB. 8\\nC. 10\\nD. 11\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\n3 + 6 = 9 (9)."
+    },
+    {
+        "instruction": "Vocabulary (Math in English).",
+        "input": "What is two plus six?",
+        "output": "Soal:\\nWhat is two plus six?\\n\\nA. 9\\nB. 8\\nC. 7\\nD. 10\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\n2 + 6 = 8 (8)."
+    },
+    {
+        "instruction": "Vocabulary (Math in English).",
+        "input": "What is nine plus ten?",
+        "output": "Soal:\\nWhat is nine plus ten?\\n\\nA. 19\\nB. 18\\nC. 21\\nD. 20\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\n9 + 10 = 19 (19)."
+    },
+    {
+        "instruction": "Vocabulary (Math in English).",
+        "input": "What is seven minus four?",
+        "output": "Soal:\\nWhat is seven minus four?\\n\\nA. 4\\nB. 2\\nC. 5\\nD. 3\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\n7 - 4 = 3 (3)."
+    },
+    {
+        "instruction": "Vocabulary (Math in English).",
+        "input": "What is eight plus ten?",
+        "output": "Soal:\\nWhat is eight plus ten?\\n\\nA. 17\\nB. 19\\nC. 18\\nD. 20\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\n8 + 10 = 18 (18)."
+    },
+    {
+        "instruction": "Vocabulary (Math in English).",
+        "input": "What is eight plus six?",
+        "output": "Soal:\\nWhat is eight plus six?\\n\\nA. 16\\nB. 13\\nC. 14\\nD. 15\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\n8 + 6 = 14 (14)."
+    },
+    {
+        "instruction": "Vocabulary (Math in English).",
+        "input": "What is six minus one?",
+        "output": "Soal:\\nWhat is six minus one?\\n\\nA. 4\\nB. 7\\nC. 5\\nD. 6\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\n6 - 1 = 5 (5)."
+    },
+    {
+        "instruction": "Vocabulary (Math in English).",
+        "input": "What is eight minus two?",
+        "output": "Soal:\\nWhat is eight minus two?\\n\\nA. 5\\nB. 8\\nC. 6\\nD. 7\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\n8 - 2 = 6 (6)."
+    },
+    {
+        "instruction": "Vocabulary (Math in English).",
+        "input": "What is three plus ten?",
+        "output": "Soal:\\nWhat is three plus ten?\\n\\nA. 15\\nB. 14\\nC. 13\\nD. 12\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\n3 + 10 = 13 (13)."
+    },
+    {
+        "instruction": "Vocabulary (Math in English).",
+        "input": "What is nine plus three?",
+        "output": "Soal:\\nWhat is nine plus three?\\n\\nA. 11\\nB. 12\\nC. 14\\nD. 13\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\n9 + 3 = 12 (12)."
+    },
+    {
+        "instruction": "Vocabulary (Math in English).",
+        "input": "What is two plus nine?",
+        "output": "Soal:\\nWhat is two plus nine?\\n\\nA. 11\\nB. 13\\nC. 12\\nD. 10\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\n2 + 9 = 11 (11)."
+    },
+    {
+        "instruction": "Vocabulary (Math in English).",
+        "input": "What is nine plus two?",
+        "output": "Soal:\\nWhat is nine plus two?\\n\\nA. 12\\nB. 10\\nC. 13\\nD. 11\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\n9 + 2 = 11 (11)."
+    },
+    {
+        "instruction": "Vocabulary (Math in English).",
+        "input": "What is seven minus six?",
+        "output": "Soal:\\nWhat is seven minus six?\\n\\nA. 2\\nB. 1\\nC. 0\\nD. 3\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\n7 - 6 = 1 (1)."
+    },
+    {
+        "instruction": "Vocabulary (Math in English).",
+        "input": "What is six plus nine?",
+        "output": "Soal:\\nWhat is six plus nine?\\n\\nA. 15\\nB. 17\\nC. 14\\nD. 16\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\n6 + 9 = 15 (15)."
+    },
+    {
+        "instruction": "Vocabulary (Math in English).",
+        "input": "What is five plus two?",
+        "output": "Soal:\\nWhat is five plus two?\\n\\nA. 9\\nB. 7\\nC. 6\\nD. 8\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\n5 + 2 = 7 (7)."
+    },
+    {
+        "instruction": "Vocabulary (Math in English).",
+        "input": "What is five plus five?",
+        "output": "Soal:\\nWhat is five plus five?\\n\\nA. 9\\nB. 10\\nC. 11\\nD. 12\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\n5 + 5 = 10 (10)."
+    },
+    {
+        "instruction": "Vocabulary (Math in English).",
+        "input": "What is four plus nine?",
+        "output": "Soal:\\nWhat is four plus nine?\\n\\nA. 15\\nB. 14\\nC. 12\\nD. 13\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\n4 + 9 = 13 (13)."
+    },
+    {
+        "instruction": "Vocabulary (Math in English).",
+        "input": "What is seven minus five?",
+        "output": "Soal:\\nWhat is seven minus five?\\n\\nA. 2\\nB. 1\\nC. 4\\nD. 3\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\n7 - 5 = 2 (2)."
+    },
+    {
+        "instruction": "Vocabulary (Math in English).",
+        "input": "What is seven plus four?",
+        "output": "Soal:\\nWhat is seven plus four?\\n\\nA. 11\\nB. 13\\nC. 12\\nD. 10\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\n7 + 4 = 11 (11)."
+    },
+    {
+        "instruction": "Vocabulary (Math in English).",
+        "input": "What is nine plus five?",
+        "output": "Soal:\\nWhat is nine plus five?\\n\\nA. 15\\nB. 13\\nC. 16\\nD. 14\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\n9 + 5 = 14 (14)."
+    },
+    {
+        "instruction": "Vocabulary (Math in English).",
+        "input": "What is six minus four?",
+        "output": "Soal:\\nWhat is six minus four?\\n\\nA. 2\\nB. 3\\nC. 1\\nD. 4\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\n6 - 4 = 2 (2)."
+    },
+    {
+        "instruction": "Vocabulary (Math in English).",
+        "input": "What is seven minus three?",
+        "output": "Soal:\\nWhat is seven minus three?\\n\\nA. 3\\nB. 6\\nC. 5\\nD. 4\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\n7 - 3 = 4 (4)."
+    },
+    {
+        "instruction": "Vocabulary (Math in English).",
+        "input": "What is nine minus three?",
+        "output": "Soal:\\nWhat is nine minus three?\\n\\nA. 6\\nB. 7\\nC. 8\\nD. 5\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\n9 - 3 = 6 (6)."
+    },
+    {
+        "instruction": "Vocabulary (Math in English).",
+        "input": "What is two plus eight?",
+        "output": "Soal:\\nWhat is two plus eight?\\n\\nA. 11\\nB. 12\\nC. 9\\nD. 10\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\n2 + 8 = 10 (10)."
+    },
+    {
+        "instruction": "Vocabulary (Days).",
+        "input": "Today is Sunday. Tomorrow is ....",
+        "output": "Soal:\\nComplete the sentence:\\nToday is Sunday. Tomorrow is ....\\n\\nA. Tuesday\\nB. Sunday\\nC. Wednesday\\nD. Monday\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nBesok hari Monday."
+    },
+    {
+        "instruction": "Vocabulary (Days).",
+        "input": "Today is Sunday. Yesterday was ....",
+        "output": "Soal:\\nComplete the sentence:\\nToday is Sunday. Yesterday was ....\\n\\nA. Tuesday\\nB. Saturday\\nC. Monday\\nD. Friday\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nKemarin hari Saturday."
+    },
+    {
+        "instruction": "Vocabulary (Days).",
+        "input": "Today is Monday. Tomorrow is ....",
+        "output": "Soal:\\nComplete the sentence:\\nToday is Monday. Tomorrow is ....\\n\\nA. Saturday\\nB. Friday\\nC. Tuesday\\nD. Wednesday\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nBesok hari Tuesday."
+    },
+    {
+        "instruction": "Vocabulary (Days).",
+        "input": "Today is Monday. Yesterday was ....",
+        "output": "Soal:\\nComplete the sentence:\\nToday is Monday. Yesterday was ....\\n\\nA. Friday\\nB. Wednesday\\nC. Monday\\nD. Sunday\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nKemarin hari Sunday."
+    },
+    {
+        "instruction": "Vocabulary (Days).",
+        "input": "Today is Tuesday. Tomorrow is ....",
+        "output": "Soal:\\nComplete the sentence:\\nToday is Tuesday. Tomorrow is ....\\n\\nA. Friday\\nB. Wednesday\\nC. Monday\\nD. Thursday\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nBesok hari Wednesday."
+    },
+    {
+        "instruction": "Vocabulary (Days).",
+        "input": "Today is Tuesday. Yesterday was ....",
+        "output": "Soal:\\nComplete the sentence:\\nToday is Tuesday. Yesterday was ....\\n\\nA. Saturday\\nB. Sunday\\nC. Monday\\nD. Tuesday\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nKemarin hari Monday."
+    },
+    {
+        "instruction": "Vocabulary (Days).",
+        "input": "Today is Wednesday. Tomorrow is ....",
+        "output": "Soal:\\nComplete the sentence:\\nToday is Wednesday. Tomorrow is ....\\n\\nA. Monday\\nB. Friday\\nC. Tuesday\\nD. Thursday\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nBesok hari Thursday."
+    },
+    {
+        "instruction": "Vocabulary (Days).",
+        "input": "Today is Wednesday. Yesterday was ....",
+        "output": "Soal:\\nComplete the sentence:\\nToday is Wednesday. Yesterday was ....\\n\\nA. Thursday\\nB. Tuesday\\nC. Saturday\\nD. Sunday\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nKemarin hari Tuesday."
+    },
+    {
+        "instruction": "Vocabulary (Days).",
+        "input": "Today is Thursday. Tomorrow is ....",
+        "output": "Soal:\\nComplete the sentence:\\nToday is Thursday. Tomorrow is ....\\n\\nA. Monday\\nB. Friday\\nC. Wednesday\\nD. Saturday\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nBesok hari Friday."
+    },
+    {
+        "instruction": "Vocabulary (Days).",
+        "input": "Today is Thursday. Yesterday was ....",
+        "output": "Soal:\\nComplete the sentence:\\nToday is Thursday. Yesterday was ....\\n\\nA. Thursday\\nB. Wednesday\\nC. Sunday\\nD. Tuesday\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nKemarin hari Wednesday."
+    },
+    {
+        "instruction": "Vocabulary (Days).",
+        "input": "Today is Friday. Tomorrow is ....",
+        "output": "Soal:\\nComplete the sentence:\\nToday is Friday. Tomorrow is ....\\n\\nA. Sunday\\nB. Tuesday\\nC. Wednesday\\nD. Saturday\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nBesok hari Saturday."
+    },
+    {
+        "instruction": "Vocabulary (Days).",
+        "input": "Today is Friday. Yesterday was ....",
+        "output": "Soal:\\nComplete the sentence:\\nToday is Friday. Yesterday was ....\\n\\nA. Friday\\nB. Sunday\\nC. Wednesday\\nD. Thursday\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nKemarin hari Thursday."
+    },
+    {
+        "instruction": "Vocabulary (Days).",
+        "input": "Today is Saturday. Tomorrow is ....",
+        "output": "Soal:\\nComplete the sentence:\\nToday is Saturday. Tomorrow is ....\\n\\nA. Friday\\nB. Monday\\nC. Sunday\\nD. Wednesday\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nBesok hari Sunday."
+    },
+    {
+        "instruction": "Vocabulary (Days).",
+        "input": "Today is Saturday. Yesterday was ....",
+        "output": "Soal:\\nComplete the sentence:\\nToday is Saturday. Yesterday was ....\\n\\nA. Sunday\\nB. Wednesday\\nC. Friday\\nD. Saturday\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nKemarin hari Friday."
+    },
+    {
+        "instruction": "Vocabulary (Body Parts).",
+        "input": "We use our ... to see.",
+        "output": "Soal:\\nComplete the sentence:\\nWe use our ... to see.\\n\\nA. mouth\\nB. eyes\\nC. legs\\nD. nose\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nsee = eyes."
+    },
+    {
+        "instruction": "Vocabulary (Body Parts).",
+        "input": "We use our ... to hear.",
+        "output": "Soal:\\nComplete the sentence:\\nWe use our ... to hear.\\n\\nA. ears\\nB. eyes\\nC. nose\\nD. legs\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nhear = ears."
+    },
+    {
+        "instruction": "Vocabulary (Body Parts).",
+        "input": "We use our ... to smell.",
+        "output": "Soal:\\nComplete the sentence:\\nWe use our ... to smell.\\n\\nA. nose\\nB. legs\\nC. mouth\\nD. ears\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nsmell = nose."
+    },
+    {
+        "instruction": "Vocabulary (Body Parts).",
+        "input": "We use our ... to eat.",
+        "output": "Soal:\\nComplete the sentence:\\nWe use our ... to eat.\\n\\nA. legs\\nB. eyes\\nC. mouth\\nD. nose\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\neat = mouth."
+    },
+    {
+        "instruction": "Vocabulary (Body Parts).",
+        "input": "We use our ... to walk.",
+        "output": "Soal:\\nComplete the sentence:\\nWe use our ... to walk.\\n\\nA. hands\\nB. nose\\nC. legs\\nD. ears\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nwalk = legs."
+    },
+    {
+        "instruction": "Vocabulary (Body Parts).",
+        "input": "We use our ... to hold something.",
+        "output": "Soal:\\nComplete the sentence:\\nWe use our ... to hold something.\\n\\nA. mouth\\nB. hands\\nC. nose\\nD. legs\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nhold = hands."
     }
 ]
