@@ -1053,5 +1053,1465 @@
         "instruction": "Analisis dampak letak geologis.",
         "input": "Kawasan ASEAN dilalui oleh jalur pegunungan Sirkum Pasifik dan Sirkum Mediterania.",
         "output": "Soal:\nAkibat dari pertemuan jalur pegunungan muda (Cincin Api) di kawasan Asia Tenggara adalah....\n\nA. Bebas dari gempa bumi\nB. Sering terjadi gempa bumi dan banyak gunung berapi aktif\nC. Tanahnya tandus\nD. Tidak memiliki laut\n\nKunci Jawaban: B\n\nPembahasan:\nRing of Fire menyebabkan wilayah seperti Indonesia dan Filipina rawan gempa dan vulkanisme, tapi tanahnya subur."
+    },
+    {
+        "instruction": "Adaptasi Hewan (Cicak).",
+        "input": "Hewan Cicak memiliki ciri khusus berupa autotomi (memutuskan ekor).",
+        "output": "Soal:\\nFungsi dari ciri khusus autotomi (memutuskan ekor) pada Cicak adalah....\\n\\nA. untuk menarik pasangan\\nB. mengelabui musuh\\nC. untuk membantu pernapasan\\nD. untuk memperindah diri\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nautotomi (memutuskan ekor) berguna untuk mengelabui musuh."
+    },
+    {
+        "instruction": "Adaptasi Hewan (Cicak).",
+        "input": "Cicak adalah hewan yang hidup di lingkungan tertentu.",
+        "output": "Soal:\\nUntuk mengelabui musuh, Cicak beradaptasi dengan cara....\\n\\nA. mengeluarkan bisa\\nB. memiliki cangkang keras\\nC. autotomi (memutuskan ekor)\\nD. tidur sepanjang hari\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nAdaptasi Cicak adalah autotomi (memutuskan ekor)."
+    },
+    {
+        "instruction": "Adaptasi Hewan (Bebek).",
+        "input": "Hewan Bebek memiliki ciri khusus berupa selaput pada kaki.",
+        "output": "Soal:\\nFungsi dari ciri khusus selaput pada kaki pada Bebek adalah....\\n\\nA. berenang di air\\nB. untuk memperindah diri\\nC. untuk membantu pernapasan\\nD. untuk menarik pasangan\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nselaput pada kaki berguna untuk berenang di air."
+    },
+    {
+        "instruction": "Adaptasi Hewan (Bebek).",
+        "input": "Bebek adalah hewan yang hidup di lingkungan tertentu.",
+        "output": "Soal:\\nUntuk berenang di air, Bebek beradaptasi dengan cara....\\n\\nA. tidur sepanjang hari\\nB. selaput pada kaki\\nC. mengeluarkan bisa\\nD. memiliki cangkang keras\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nAdaptasi Bebek adalah selaput pada kaki."
+    },
+    {
+        "instruction": "Adaptasi Hewan (Unta).",
+        "input": "Hewan Unta memiliki ciri khusus berupa punuk berisi lemak.",
+        "output": "Soal:\\nFungsi dari ciri khusus punuk berisi lemak pada Unta adalah....\\n\\nA. cadangan makanan di gurun\\nB. untuk membantu pernapasan\\nC. untuk memperindah diri\\nD. untuk menarik pasangan\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\npunuk berisi lemak berguna untuk cadangan makanan di gurun."
+    },
+    {
+        "instruction": "Adaptasi Hewan (Unta).",
+        "input": "Unta adalah hewan yang hidup di lingkungan tertentu.",
+        "output": "Soal:\\nUntuk cadangan makanan di gurun, Unta beradaptasi dengan cara....\\n\\nA. mengeluarkan bisa\\nB. punuk berisi lemak\\nC. tidur sepanjang hari\\nD. memiliki cangkang keras\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nAdaptasi Unta adalah punuk berisi lemak."
+    },
+    {
+        "instruction": "Adaptasi Hewan (Kelelawar).",
+        "input": "Hewan Kelelawar memiliki ciri khusus berupa ekolokasi (pantulan bunyi).",
+        "output": "Soal:\\nFungsi dari ciri khusus ekolokasi (pantulan bunyi) pada Kelelawar adalah....\\n\\nA. untuk membantu pernapasan\\nB. mencari makan malam hari\\nC. untuk memperindah diri\\nD. untuk menarik pasangan\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nekolokasi (pantulan bunyi) berguna untuk mencari makan malam hari."
+    },
+    {
+        "instruction": "Adaptasi Hewan (Kelelawar).",
+        "input": "Kelelawar adalah hewan yang hidup di lingkungan tertentu.",
+        "output": "Soal:\\nUntuk mencari makan malam hari, Kelelawar beradaptasi dengan cara....\\n\\nA. memiliki cangkang keras\\nB. mengeluarkan bisa\\nC. ekolokasi (pantulan bunyi)\\nD. tidur sepanjang hari\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nAdaptasi Kelelawar adalah ekolokasi (pantulan bunyi)."
+    },
+    {
+        "instruction": "Adaptasi Hewan (Walang Sangit).",
+        "input": "Hewan Walang Sangit memiliki ciri khusus berupa bau menyengat.",
+        "output": "Soal:\\nFungsi dari ciri khusus bau menyengat pada Walang Sangit adalah....\\n\\nA. untuk memperindah diri\\nB. untuk menarik pasangan\\nC. untuk membantu pernapasan\\nD. mengusir musuh\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nbau menyengat berguna untuk mengusir musuh."
+    },
+    {
+        "instruction": "Adaptasi Hewan (Walang Sangit).",
+        "input": "Walang Sangit adalah hewan yang hidup di lingkungan tertentu.",
+        "output": "Soal:\\nUntuk mengusir musuh, Walang Sangit beradaptasi dengan cara....\\n\\nA. mengeluarkan bisa\\nB. tidur sepanjang hari\\nC. bau menyengat\\nD. memiliki cangkang keras\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nAdaptasi Walang Sangit adalah bau menyengat."
+    },
+    {
+        "instruction": "Adaptasi Hewan (Bunglon).",
+        "input": "Hewan Bunglon memiliki ciri khusus berupa mimikri (ubah warna).",
+        "output": "Soal:\\nFungsi dari ciri khusus mimikri (ubah warna) pada Bunglon adalah....\\n\\nA. kamuflase/mengelabui musuh\\nB. untuk membantu pernapasan\\nC. untuk menarik pasangan\\nD. untuk memperindah diri\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nmimikri (ubah warna) berguna untuk kamuflase/mengelabui musuh."
+    },
+    {
+        "instruction": "Adaptasi Hewan (Bunglon).",
+        "input": "Bunglon adalah hewan yang hidup di lingkungan tertentu.",
+        "output": "Soal:\\nUntuk kamuflase/mengelabui musuh, Bunglon beradaptasi dengan cara....\\n\\nA. mengeluarkan bisa\\nB. mimikri (ubah warna)\\nC. tidur sepanjang hari\\nD. memiliki cangkang keras\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nAdaptasi Bunglon adalah mimikri (ubah warna)."
+    },
+    {
+        "instruction": "Adaptasi Hewan (Cumi-cumi).",
+        "input": "Hewan Cumi-cumi memiliki ciri khusus berupa tinta hitam.",
+        "output": "Soal:\\nFungsi dari ciri khusus tinta hitam pada Cumi-cumi adalah....\\n\\nA. untuk memperindah diri\\nB. untuk membantu pernapasan\\nC. untuk menarik pasangan\\nD. melarikan diri dari musuh\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\ntinta hitam berguna untuk melarikan diri dari musuh."
+    },
+    {
+        "instruction": "Adaptasi Hewan (Cumi-cumi).",
+        "input": "Cumi-cumi adalah hewan yang hidup di lingkungan tertentu.",
+        "output": "Soal:\\nUntuk melarikan diri dari musuh, Cumi-cumi beradaptasi dengan cara....\\n\\nA. mengeluarkan bisa\\nB. tidur sepanjang hari\\nC. tinta hitam\\nD. memiliki cangkang keras\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nAdaptasi Cumi-cumi adalah tinta hitam."
+    },
+    {
+        "instruction": "Adaptasi Hewan (Landak).",
+        "input": "Hewan Landak memiliki ciri khusus berupa duri tajam.",
+        "output": "Soal:\\nFungsi dari ciri khusus duri tajam pada Landak adalah....\\n\\nA. melindungi diri\\nB. untuk membantu pernapasan\\nC. untuk memperindah diri\\nD. untuk menarik pasangan\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nduri tajam berguna untuk melindungi diri."
+    },
+    {
+        "instruction": "Adaptasi Hewan (Landak).",
+        "input": "Landak adalah hewan yang hidup di lingkungan tertentu.",
+        "output": "Soal:\\nUntuk melindungi diri, Landak beradaptasi dengan cara....\\n\\nA. duri tajam\\nB. tidur sepanjang hari\\nC. memiliki cangkang keras\\nD. mengeluarkan bisa\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nAdaptasi Landak adalah duri tajam."
+    },
+    {
+        "instruction": "Adaptasi Hewan (Trenggiling).",
+        "input": "Hewan Trenggiling memiliki ciri khusus berupa menggulung diri.",
+        "output": "Soal:\\nFungsi dari ciri khusus menggulung diri pada Trenggiling adalah....\\n\\nA. untuk memperindah diri\\nB. untuk menarik pasangan\\nC. untuk membantu pernapasan\\nD. melindungi bagian perut lunak\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nmenggulung diri berguna untuk melindungi bagian perut lunak."
+    },
+    {
+        "instruction": "Adaptasi Hewan (Trenggiling).",
+        "input": "Trenggiling adalah hewan yang hidup di lingkungan tertentu.",
+        "output": "Soal:\\nUntuk melindungi bagian perut lunak, Trenggiling beradaptasi dengan cara....\\n\\nA. mengeluarkan bisa\\nB. menggulung diri\\nC. tidur sepanjang hari\\nD. memiliki cangkang keras\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nAdaptasi Trenggiling adalah menggulung diri."
+    },
+    {
+        "instruction": "Adaptasi Hewan (Burung Hantu).",
+        "input": "Hewan Burung Hantu memiliki ciri khusus berupa leher bisa putar 180 derajat.",
+        "output": "Soal:\\nFungsi dari ciri khusus leher bisa putar 180 derajat pada Burung Hantu adalah....\\n\\nA. untuk menarik pasangan\\nB. untuk membantu pernapasan\\nC. melihat mangsa di belakang\\nD. untuk memperindah diri\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nleher bisa putar 180 derajat berguna untuk melihat mangsa di belakang."
+    },
+    {
+        "instruction": "Adaptasi Hewan (Burung Hantu).",
+        "input": "Burung Hantu adalah hewan yang hidup di lingkungan tertentu.",
+        "output": "Soal:\\nUntuk melihat mangsa di belakang, Burung Hantu beradaptasi dengan cara....\\n\\nA. leher bisa putar 180 derajat\\nB. mengeluarkan bisa\\nC. tidur sepanjang hari\\nD. memiliki cangkang keras\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nAdaptasi Burung Hantu adalah leher bisa putar 180 derajat."
+    },
+    {
+        "instruction": "Adaptasi Tumbuhan (Kaktus).",
+        "input": "Tumbuhan Kaktus memiliki daun berbentuk duri.",
+        "output": "Soal:\\nTujuan adaptasi tersebut adalah....\\n\\nA. mengurangi penguapan\\nB. menyimpan makanan\\nC. memperindah bunga\\nD. melindungi diri dari pemangsa\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nKaktus beradaptasi dengan daun berbentuk duri untuk mengurangi penguapan."
+    },
+    {
+        "instruction": "Adaptasi Tumbuhan (Teratai).",
+        "input": "Tumbuhan Teratai memiliki daun lebar dan tipis.",
+        "output": "Soal:\\nTujuan adaptasi tersebut adalah....\\n\\nA. melindungi diri dari pemangsa\\nB. menyimpan makanan\\nC. memperindah bunga\\nD. mempercepat penguapan\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nTeratai beradaptasi dengan daun lebar dan tipis untuk mempercepat penguapan."
+    },
+    {
+        "instruction": "Adaptasi Tumbuhan (Eceng Gondok).",
+        "input": "Tumbuhan Eceng Gondok memiliki batang berongga.",
+        "output": "Soal:\\nTujuan adaptasi tersebut adalah....\\n\\nA. menyimpan makanan\\nB. memperindah bunga\\nC. mengapung di air\\nD. melindungi diri dari pemangsa\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nEceng Gondok beradaptasi dengan batang berongga untuk mengapung di air."
+    },
+    {
+        "instruction": "Adaptasi Tumbuhan (Kantong Semar).",
+        "input": "Tumbuhan Kantong Semar memiliki menghasilkan nektar.",
+        "output": "Soal:\\nTujuan adaptasi tersebut adalah....\\n\\nA. melindungi diri dari pemangsa\\nB. memperindah bunga\\nC. menyimpan makanan\\nD. menarik serangga (insektivora)\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nKantong Semar beradaptasi dengan menghasilkan nektar untuk menarik serangga (insektivora)."
+    },
+    {
+        "instruction": "Adaptasi Tumbuhan (Pohon Jati).",
+        "input": "Tumbuhan Pohon Jati memiliki menggugurkan daun (meranggas).",
+        "output": "Soal:\\nTujuan adaptasi tersebut adalah....\\n\\nA. mengurangi penguapan saat kemarau\\nB. melindungi diri dari pemangsa\\nC. menyimpan makanan\\nD. memperindah bunga\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nPohon Jati beradaptasi dengan menggugurkan daun (meranggas) untuk mengurangi penguapan saat kemarau."
+    },
+    {
+        "instruction": "Adaptasi Tumbuhan (Bakau).",
+        "input": "Tumbuhan Bakau memiliki akar tunjang/napas.",
+        "output": "Soal:\\nTujuan adaptasi tersebut adalah....\\n\\nA. melindungi diri dari pemangsa\\nB. bernapas saat pasang\\nC. menyimpan makanan\\nD. memperindah bunga\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nBakau beradaptasi dengan akar tunjang/napas untuk bernapas saat pasang."
+    },
+    {
+        "instruction": "Adaptasi Tumbuhan (Raflesia).",
+        "input": "Tumbuhan Raflesia memiliki bau busuk.",
+        "output": "Soal:\\nTujuan adaptasi tersebut adalah....\\n\\nA. memperindah bunga\\nB. melindungi diri dari pemangsa\\nC. menyimpan makanan\\nD. menarik lalat untuk penyerbukan\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nRaflesia beradaptasi dengan bau busuk untuk menarik lalat untuk penyerbukan."
+    },
+    {
+        "instruction": "Adaptasi Tumbuhan (Lidah Buaya).",
+        "input": "Tumbuhan Lidah Buaya memiliki batang tebal berair.",
+        "output": "Soal:\\nTujuan adaptasi tersebut adalah....\\n\\nA. memperindah bunga\\nB. menyimpan makanan\\nC. melindungi diri dari pemangsa\\nD. menyimpan cadangan air\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nLidah Buaya beradaptasi dengan batang tebal berair untuk menyimpan cadangan air."
+    },
+    {
+        "instruction": "Perpindahan Panas (Konduksi).",
+        "input": "Panas dapat berpindah dengan cara Konduksi.",
+        "output": "Soal:\\nPengertian Konduksi adalah....\\n\\nA. perambatan panas melalui zat padat tanpa perpindahan zat\\nB. Perpindahan panas dengan zat perantara\\nC. Perpindahan panas tanpa zat\\nD. Perpindahan dingin\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nKonduksi adalah perambatan panas melalui zat padat tanpa perpindahan zat."
+    },
+    {
+        "instruction": "Contoh Perpindahan Panas (Konduksi).",
+        "input": "Peristiwa: ujung sendok terasa panas saat mengaduk kopi.",
+        "output": "Soal:\\nPeristiwa tersebut merupakan contoh perpindahan panas secara....\\n\\nA. Evaporasi\\nB. Radiasi\\nC. Konveksi\\nD. Konduksi\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nujung sendok terasa panas saat mengaduk kopi adalah contoh Konduksi."
+    },
+    {
+        "instruction": "Perpindahan Panas (Konveksi).",
+        "input": "Panas dapat berpindah dengan cara Konveksi.",
+        "output": "Soal:\\nPengertian Konveksi adalah....\\n\\nA. perpindahan panas disertai perpindahan zat perantara (cair/gas)\\nB. Perpindahan panas dengan zat perantara\\nC. Perpindahan panas tanpa zat\\nD. Perpindahan dingin\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nKonveksi adalah perpindahan panas disertai perpindahan zat perantara (cair/gas)."
+    },
+    {
+        "instruction": "Contoh Perpindahan Panas (Konveksi).",
+        "input": "Peristiwa: air mendidih/angin darat laut.",
+        "output": "Soal:\\nPeristiwa tersebut merupakan contoh perpindahan panas secara....\\n\\nA. Radiasi\\nB. Konveksi\\nC. Evaporasi\\nD. Konduksi\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nair mendidih/angin darat laut adalah contoh Konveksi."
+    },
+    {
+        "instruction": "Perpindahan Panas (Radiasi).",
+        "input": "Panas dapat berpindah dengan cara Radiasi.",
+        "output": "Soal:\\nPengertian Radiasi adalah....\\n\\nA. perpindahan panas tanpa zat perantara (pancaran)\\nB. Perpindahan panas dengan zat perantara\\nC. Perpindahan panas tanpa zat\\nD. Perpindahan dingin\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nRadiasi adalah perpindahan panas tanpa zat perantara (pancaran)."
+    },
+    {
+        "instruction": "Contoh Perpindahan Panas (Radiasi).",
+        "input": "Peristiwa: panas matahari sampai ke bumi/menjemur pakaian.",
+        "output": "Soal:\\nPeristiwa tersebut merupakan contoh perpindahan panas secara....\\n\\nA. Radiasi\\nB. Evaporasi\\nC. Konveksi\\nD. Konduksi\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\npanas matahari sampai ke bumi/menjemur pakaian adalah contoh Radiasi."
+    },
+    {
+        "instruction": "Sifat Magnet (Ferromagnetik).",
+        "input": "Benda-benda seperti Besi, Baja, Nikel memiliki sifat kemagnetan tertentu.",
+        "output": "Soal:\\nBenda-benda tersebut termasuk kelompok....\\n\\nA. Ferromagnetik\\nB. Paramagnetik\\nC. Diamagnetik\\nD. Elektromagnetik\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nFerromagnetik adalah benda yang ditarik kuat oleh magnet."
+    },
+    {
+        "instruction": "Sifat Magnet (Paramagnetik).",
+        "input": "Benda-benda seperti Aluminium, Platina memiliki sifat kemagnetan tertentu.",
+        "output": "Soal:\\nBenda-benda tersebut termasuk kelompok....\\n\\nA. Ferromagnetik\\nB. Paramagnetik\\nC. Diamagnetik\\nD. Elektromagnetik\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nParamagnetik adalah benda yang ditarik lemah oleh magnet."
+    },
+    {
+        "instruction": "Sifat Magnet (Diamagnetik).",
+        "input": "Benda-benda seperti Emas, Seng, Bismut memiliki sifat kemagnetan tertentu.",
+        "output": "Soal:\\nBenda-benda tersebut termasuk kelompok....\\n\\nA. Ferromagnetik\\nB. Paramagnetik\\nC. Diamagnetik\\nD. Elektromagnetik\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nDiamagnetik adalah benda yang ditolak oleh magnet."
+    },
+    {
+        "instruction": "ASEAN (Ibukota Indonesia).",
+        "input": "Setiap negara ASEAN memiliki ibukota negara.",
+        "output": "Soal:\\nIbukota negara Indonesia adalah....\\n\\nA. Jakarta\\nB. Bangkok\\nC. Manila\\nD. Hanoi\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nIbukota Indonesia adalah Jakarta."
+    },
+    {
+        "instruction": "ASEAN (Julukan Indonesia).",
+        "input": "Negara Indonesia dikenal dengan julukan/ikon Garuda Pancasila.",
+        "output": "Soal:\\nJulukan/Ikon negara Indonesia adalah....\\n\\nA. Garuda Pancasila\\nB. Gajah Putih\\nC. Merlion\\nD. Seribu Pagoda\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nIndonesia identik dengan Garuda Pancasila."
+    },
+    {
+        "instruction": "ASEAN (Julukan Malaysia).",
+        "input": "Negara Malaysia dikenal dengan julukan/ikon Menara Petronas.",
+        "output": "Soal:\\nJulukan/Ikon negara Malaysia adalah....\\n\\nA. Menara Petronas\\nB. Gajah Putih\\nC. Merlion\\nD. Seribu Pagoda\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMalaysia identik dengan Menara Petronas."
+    },
+    {
+        "instruction": "ASEAN (Julukan Singapura).",
+        "input": "Negara Singapura dikenal dengan julukan/ikon Patung Merlion.",
+        "output": "Soal:\\nJulukan/Ikon negara Singapura adalah....\\n\\nA. Patung Merlion\\nB. Gajah Putih\\nC. Merlion\\nD. Seribu Pagoda\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSingapura identik dengan Patung Merlion."
+    },
+    {
+        "instruction": "ASEAN (Julukan Thailand).",
+        "input": "Negara Thailand dikenal dengan julukan/ikon Gajah Putih.",
+        "output": "Soal:\\nJulukan/Ikon negara Thailand adalah....\\n\\nA. Gajah Putih\\nB. Gajah Putih\\nC. Merlion\\nD. Seribu Pagoda\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nThailand identik dengan Gajah Putih."
+    },
+    {
+        "instruction": "ASEAN (Julukan Filipina).",
+        "input": "Negara Filipina dikenal dengan julukan/ikon Lumbung Padi.",
+        "output": "Soal:\\nJulukan/Ikon negara Filipina adalah....\\n\\nA. Lumbung Padi\\nB. Gajah Putih\\nC. Merlion\\nD. Seribu Pagoda\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nFilipina identik dengan Lumbung Padi."
+    },
+    {
+        "instruction": "ASEAN (Julukan Brunei Darussalam).",
+        "input": "Negara Brunei Darussalam dikenal dengan julukan/ikon Petro Dolar.",
+        "output": "Soal:\\nJulukan/Ikon negara Brunei Darussalam adalah....\\n\\nA. Petro Dolar\\nB. Gajah Putih\\nC. Merlion\\nD. Seribu Pagoda\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nBrunei Darussalam identik dengan Petro Dolar."
+    },
+    {
+        "instruction": "ASEAN (Julukan Vietnam).",
+        "input": "Negara Vietnam dikenal dengan julukan/ikon Lumbung Padi.",
+        "output": "Soal:\\nJulukan/Ikon negara Vietnam adalah....\\n\\nA. Lumbung Padi\\nB. Gajah Putih\\nC. Merlion\\nD. Seribu Pagoda\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nVietnam identik dengan Lumbung Padi."
+    },
+    {
+        "instruction": "ASEAN (Julukan Laos).",
+        "input": "Negara Laos dikenal dengan julukan/ikon Landlocked Country.",
+        "output": "Soal:\\nJulukan/Ikon negara Laos adalah....\\n\\nA. Landlocked Country\\nB. Gajah Putih\\nC. Merlion\\nD. Seribu Pagoda\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nLaos identik dengan Landlocked Country."
+    },
+    {
+        "instruction": "ASEAN (Julukan Myanmar).",
+        "input": "Negara Myanmar dikenal dengan julukan/ikon Tanah Emas.",
+        "output": "Soal:\\nJulukan/Ikon negara Myanmar adalah....\\n\\nA. Tanah Emas\\nB. Gajah Putih\\nC. Merlion\\nD. Seribu Pagoda\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMyanmar identik dengan Tanah Emas."
+    },
+    {
+        "instruction": "ASEAN (Julukan Kamboja).",
+        "input": "Negara Kamboja dikenal dengan julukan/ikon Angkor Wat.",
+        "output": "Soal:\\nJulukan/Ikon negara Kamboja adalah....\\n\\nA. Angkor Wat\\nB. Gajah Putih\\nC. Merlion\\nD. Seribu Pagoda\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nKamboja identik dengan Angkor Wat."
+    },
+    {
+        "instruction": "Sejarah (Perjanjian Linggarjati).",
+        "input": "Perjanjian Linggarjati dilakukan pada tahun 1946.",
+        "output": "Soal:\\nSalah satu isi/dampak dari Perjanjian Linggarjati adalah....\\n\\nA. Belanda mengakui Jawa, Sumatera, Madura\\nB. Indonesia menjadi jajahan Jepang\\nC. Belanda menyerahkan Irian Barat\\nD. Pembentukan ASEAN\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nHasil Linggarjati: Belanda mengakui Jawa, Sumatera, Madura."
+    },
+    {
+        "instruction": "Sejarah (Perjanjian Renville).",
+        "input": "Perjanjian Renville dilakukan pada tahun 1948.",
+        "output": "Soal:\\nSalah satu isi/dampak dari Perjanjian Renville adalah....\\n\\nA. Wilayah RI semakin sempit (Garis Van Mook)\\nB. Indonesia menjadi jajahan Jepang\\nC. Belanda menyerahkan Irian Barat\\nD. Pembentukan ASEAN\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nHasil Renville: Wilayah RI semakin sempit (Garis Van Mook)."
+    },
+    {
+        "instruction": "Sejarah (Perjanjian Roem-Royen).",
+        "input": "Perjanjian Roem-Royen dilakukan pada tahun 1949.",
+        "output": "Soal:\\nSalah satu isi/dampak dari Perjanjian Roem-Royen adalah....\\n\\nA. Belanda setuju kembalikan pemerintahan ke Yogya\\nB. Indonesia menjadi jajahan Jepang\\nC. Belanda menyerahkan Irian Barat\\nD. Pembentukan ASEAN\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nHasil Roem-Royen: Belanda setuju kembalikan pemerintahan ke Yogya."
+    },
+    {
+        "instruction": "Sejarah (Perjanjian KMB).",
+        "input": "Perjanjian KMB dilakukan pada tahun 1949.",
+        "output": "Soal:\\nSalah satu isi/dampak dari Perjanjian KMB adalah....\\n\\nA. Pengakuan kedaulatan penuh\\nB. Indonesia menjadi jajahan Jepang\\nC. Belanda menyerahkan Irian Barat\\nD. Pembentukan ASEAN\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nHasil KMB: Pengakuan kedaulatan penuh."
+    },
+    {
+        "instruction": "Provinsi di Indonesia (Aceh).",
+        "input": "Indonesia memiliki 38 provinsi.",
+        "output": "Soal:\\nIbukota provinsi Aceh adalah....\\n\\nA. Banda Aceh\\nB. Surabaya\\nC. Medan\\nD. Makassar\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nIbukota Aceh adalah Banda Aceh."
+    },
+    {
+        "instruction": "Budaya Indonesia (Aceh).",
+        "input": "Provinsi Aceh memiliki kekayaan budaya.",
+        "output": "Soal:\\nSalah satu ikon atau budaya khas dari Aceh adalah....\\n\\nA. Rencong\\nB. Tari Saman\\nC. Ulos\\nD. Rencong\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nAceh terkenal dengan Rencong/Tari Saman."
+    },
+    {
+        "instruction": "Budaya Indonesia (Sumatera Utara).",
+        "input": "Provinsi Sumatera Utara memiliki kekayaan budaya.",
+        "output": "Soal:\\nSalah satu ikon atau budaya khas dari Sumatera Utara adalah....\\n\\nA. Ulos\\nB. Tari Tor-tor\\nC. Ulos\\nD. Rencong\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSumatera Utara terkenal dengan Ulos/Tari Tor-tor."
+    },
+    {
+        "instruction": "Budaya Indonesia (Sumatera Barat).",
+        "input": "Provinsi Sumatera Barat memiliki kekayaan budaya.",
+        "output": "Soal:\\nSalah satu ikon atau budaya khas dari Sumatera Barat adalah....\\n\\nA. Rumah Gadang\\nB. Rendang\\nC. Ulos\\nD. Rencong\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSumatera Barat terkenal dengan Rumah Gadang/Rendang."
+    },
+    {
+        "instruction": "Budaya Indonesia (DKI Jakarta).",
+        "input": "Provinsi DKI Jakarta memiliki kekayaan budaya.",
+        "output": "Soal:\\nSalah satu ikon atau budaya khas dari DKI Jakarta adalah....\\n\\nA. Monas\\nB. Ondel-ondel\\nC. Ulos\\nD. Rencong\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nDKI Jakarta terkenal dengan Monas/Ondel-ondel."
+    },
+    {
+        "instruction": "Budaya Indonesia (Jawa Barat).",
+        "input": "Provinsi Jawa Barat memiliki kekayaan budaya.",
+        "output": "Soal:\\nSalah satu ikon atau budaya khas dari Jawa Barat adalah....\\n\\nA. Angklung\\nB. Gedung Sate\\nC. Ulos\\nD. Rencong\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nJawa Barat terkenal dengan Angklung/Gedung Sate."
+    },
+    {
+        "instruction": "Budaya Indonesia (Jawa Tengah).",
+        "input": "Provinsi Jawa Tengah memiliki kekayaan budaya.",
+        "output": "Soal:\\nSalah satu ikon atau budaya khas dari Jawa Tengah adalah....\\n\\nA. Borobudur\\nB. Joglo\\nC. Ulos\\nD. Rencong\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nJawa Tengah terkenal dengan Borobudur/Joglo."
+    },
+    {
+        "instruction": "Budaya Indonesia (DI Yogyakarta).",
+        "input": "Provinsi DI Yogyakarta memiliki kekayaan budaya.",
+        "output": "Soal:\\nSalah satu ikon atau budaya khas dari DI Yogyakarta adalah....\\n\\nA. Gudeg\\nB. Keraton\\nC. Ulos\\nD. Rencong\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nDI Yogyakarta terkenal dengan Gudeg/Keraton."
+    },
+    {
+        "instruction": "Budaya Indonesia (Jawa Timur).",
+        "input": "Provinsi Jawa Timur memiliki kekayaan budaya.",
+        "output": "Soal:\\nSalah satu ikon atau budaya khas dari Jawa Timur adalah....\\n\\nA. Reog Ponorogo\\nB. Jembatan Suramadu\\nC. Ulos\\nD. Rencong\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nJawa Timur terkenal dengan Reog Ponorogo/Jembatan Suramadu."
+    },
+    {
+        "instruction": "Budaya Indonesia (Bali).",
+        "input": "Provinsi Bali memiliki kekayaan budaya.",
+        "output": "Soal:\\nSalah satu ikon atau budaya khas dari Bali adalah....\\n\\nA. Kecak\\nB. Tanah Lot\\nC. Ulos\\nD. Rencong\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nBali terkenal dengan Kecak/Tanah Lot."
+    },
+    {
+        "instruction": "Budaya Indonesia (Papua).",
+        "input": "Provinsi Papua memiliki kekayaan budaya.",
+        "output": "Soal:\\nSalah satu ikon atau budaya khas dari Papua adalah....\\n\\nA. Honai\\nB. Cendrawasih\\nC. Ulos\\nD. Rencong\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nPapua terkenal dengan Honai/Cendrawasih."
+    },
+    {
+        "instruction": "Provinsi di Indonesia (Nanggroe Aceh Darussalam).",
+        "input": "Provinsi Nanggroe Aceh Darussalam adalah salah satu provinsi di Indonesia.",
+        "output": "Soal:\\nIbukota provinsi Nanggroe Aceh Darussalam adalah....\\n\\nA. Banda Aceh\\nB. Semarang\\nC. Yogyakarta\\nD. Bandar Lampung\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nIbukota Nanggroe Aceh Darussalam adalah Banda Aceh."
+    },
+    {
+        "instruction": "Provinsi di Indonesia (Sumatera Utara).",
+        "input": "Provinsi Sumatera Utara adalah salah satu provinsi di Indonesia.",
+        "output": "Soal:\\nIbukota provinsi Sumatera Utara adalah....\\n\\nA. Manado\\nB. Nabire\\nC. Denpasar\\nD. Medan\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nIbukota Sumatera Utara adalah Medan."
+    },
+    {
+        "instruction": "Provinsi di Indonesia (Sumatera Barat).",
+        "input": "Provinsi Sumatera Barat adalah salah satu provinsi di Indonesia.",
+        "output": "Soal:\\nIbukota provinsi Sumatera Barat adalah....\\n\\nA. Padang\\nB. Manado\\nC. Bandar Lampung\\nD. Palu\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nIbukota Sumatera Barat adalah Padang."
+    },
+    {
+        "instruction": "Provinsi di Indonesia (Riau).",
+        "input": "Provinsi Riau adalah salah satu provinsi di Indonesia.",
+        "output": "Soal:\\nIbukota provinsi Riau adalah....\\n\\nA. Sofifi\\nB. Wamena\\nC. Tanjungpinang\\nD. Pekanbaru\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nIbukota Riau adalah Pekanbaru."
+    },
+    {
+        "instruction": "Provinsi di Indonesia (Kepulauan Riau).",
+        "input": "Provinsi Kepulauan Riau adalah salah satu provinsi di Indonesia.",
+        "output": "Soal:\\nIbukota provinsi Kepulauan Riau adalah....\\n\\nA. Mamuju\\nB. Tanjungpinang\\nC. Gorontalo\\nD. Tanjung Selor\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nIbukota Kepulauan Riau adalah Tanjungpinang."
+    },
+    {
+        "instruction": "Provinsi di Indonesia (Jambi).",
+        "input": "Provinsi Jambi adalah salah satu provinsi di Indonesia.",
+        "output": "Soal:\\nIbukota provinsi Jambi adalah....\\n\\nA. Denpasar\\nB. Nabire\\nC. Jambi\\nD. Padang\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nIbukota Jambi adalah Jambi."
+    },
+    {
+        "instruction": "Provinsi di Indonesia (Bengkulu).",
+        "input": "Provinsi Bengkulu adalah salah satu provinsi di Indonesia.",
+        "output": "Soal:\\nIbukota provinsi Bengkulu adalah....\\n\\nA. Kendari\\nB. Nabire\\nC. Bengkulu\\nD. Manado\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nIbukota Bengkulu adalah Bengkulu."
+    },
+    {
+        "instruction": "Provinsi di Indonesia (Sumatera Selatan).",
+        "input": "Provinsi Sumatera Selatan adalah salah satu provinsi di Indonesia.",
+        "output": "Soal:\\nIbukota provinsi Sumatera Selatan adalah....\\n\\nA. Jakarta\\nB. Mamuju\\nC. Merauke\\nD. Palembang\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nIbukota Sumatera Selatan adalah Palembang."
+    },
+    {
+        "instruction": "Provinsi di Indonesia (Lampung).",
+        "input": "Provinsi Lampung adalah salah satu provinsi di Indonesia.",
+        "output": "Soal:\\nIbukota provinsi Lampung adalah....\\n\\nA. Bandar Lampung\\nB. Manado\\nC. Semarang\\nD. Makassar\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nIbukota Lampung adalah Bandar Lampung."
+    },
+    {
+        "instruction": "Provinsi di Indonesia (Bangka Belitung).",
+        "input": "Provinsi Bangka Belitung adalah salah satu provinsi di Indonesia.",
+        "output": "Soal:\\nIbukota provinsi Bangka Belitung adalah....\\n\\nA. Pangkalpinang\\nB. Jambi\\nC. Mataram\\nD. Kendari\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nIbukota Bangka Belitung adalah Pangkalpinang."
+    },
+    {
+        "instruction": "Provinsi di Indonesia (DKI Jakarta).",
+        "input": "Provinsi DKI Jakarta adalah salah satu provinsi di Indonesia.",
+        "output": "Soal:\\nIbukota provinsi DKI Jakarta adalah....\\n\\nA. Jakarta\\nB. Yogyakarta\\nC. Sofifi\\nD. Banda Aceh\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nIbukota DKI Jakarta adalah Jakarta."
+    },
+    {
+        "instruction": "Provinsi di Indonesia (Jawa Barat).",
+        "input": "Provinsi Jawa Barat adalah salah satu provinsi di Indonesia.",
+        "output": "Soal:\\nIbukota provinsi Jawa Barat adalah....\\n\\nA. Ambon\\nB. Gorontalo\\nC. Bandar Lampung\\nD. Bandung\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nIbukota Jawa Barat adalah Bandung."
+    },
+    {
+        "instruction": "Provinsi di Indonesia (Banten).",
+        "input": "Provinsi Banten adalah salah satu provinsi di Indonesia.",
+        "output": "Soal:\\nIbukota provinsi Banten adalah....\\n\\nA. Pangkalpinang\\nB. Pekanbaru\\nC. Wamena\\nD. Serang\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nIbukota Banten adalah Serang."
+    },
+    {
+        "instruction": "Provinsi di Indonesia (Jawa Tengah).",
+        "input": "Provinsi Jawa Tengah adalah salah satu provinsi di Indonesia.",
+        "output": "Soal:\\nIbukota provinsi Jawa Tengah adalah....\\n\\nA. Semarang\\nB. Mataram\\nC. Denpasar\\nD. Bandung\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nIbukota Jawa Tengah adalah Semarang."
+    },
+    {
+        "instruction": "Provinsi di Indonesia (DI Yogyakarta).",
+        "input": "Provinsi DI Yogyakarta adalah salah satu provinsi di Indonesia.",
+        "output": "Soal:\\nIbukota provinsi DI Yogyakarta adalah....\\n\\nA. Yogyakarta\\nB. Pontianak\\nC. Pangkalpinang\\nD. Ambon\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nIbukota DI Yogyakarta adalah Yogyakarta."
+    },
+    {
+        "instruction": "Provinsi di Indonesia (Jawa Timur).",
+        "input": "Provinsi Jawa Timur adalah salah satu provinsi di Indonesia.",
+        "output": "Soal:\\nIbukota provinsi Jawa Timur adalah....\\n\\nA. Nabire\\nB. Ambon\\nC. Surabaya\\nD. Sorong\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nIbukota Jawa Timur adalah Surabaya."
+    },
+    {
+        "instruction": "Provinsi di Indonesia (Bali).",
+        "input": "Provinsi Bali adalah salah satu provinsi di Indonesia.",
+        "output": "Soal:\\nIbukota provinsi Bali adalah....\\n\\nA. Denpasar\\nB. Banda Aceh\\nC. Gorontalo\\nD. Palembang\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nIbukota Bali adalah Denpasar."
+    },
+    {
+        "instruction": "Provinsi di Indonesia (Nusa Tenggara Barat).",
+        "input": "Provinsi Nusa Tenggara Barat adalah salah satu provinsi di Indonesia.",
+        "output": "Soal:\\nIbukota provinsi Nusa Tenggara Barat adalah....\\n\\nA. Gorontalo\\nB. Semarang\\nC. Denpasar\\nD. Mataram\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nIbukota Nusa Tenggara Barat adalah Mataram."
+    },
+    {
+        "instruction": "Provinsi di Indonesia (Nusa Tenggara Timur).",
+        "input": "Provinsi Nusa Tenggara Timur adalah salah satu provinsi di Indonesia.",
+        "output": "Soal:\\nIbukota provinsi Nusa Tenggara Timur adalah....\\n\\nA. Kupang\\nB. Wamena\\nC. Makassar\\nD. Samarinda\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nIbukota Nusa Tenggara Timur adalah Kupang."
+    },
+    {
+        "instruction": "Provinsi di Indonesia (Kalimantan Barat).",
+        "input": "Provinsi Kalimantan Barat adalah salah satu provinsi di Indonesia.",
+        "output": "Soal:\\nIbukota provinsi Kalimantan Barat adalah....\\n\\nA. Pangkalpinang\\nB. Pontianak\\nC. Pekanbaru\\nD. Banda Aceh\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nIbukota Kalimantan Barat adalah Pontianak."
+    },
+    {
+        "instruction": "Provinsi di Indonesia (Kalimantan Tengah).",
+        "input": "Provinsi Kalimantan Tengah adalah salah satu provinsi di Indonesia.",
+        "output": "Soal:\\nIbukota provinsi Kalimantan Tengah adalah....\\n\\nA. Palangkaraya\\nB. Wamena\\nC. Manado\\nD. Serang\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nIbukota Kalimantan Tengah adalah Palangkaraya."
+    },
+    {
+        "instruction": "Provinsi di Indonesia (Kalimantan Selatan).",
+        "input": "Provinsi Kalimantan Selatan adalah salah satu provinsi di Indonesia.",
+        "output": "Soal:\\nIbukota provinsi Kalimantan Selatan adalah....\\n\\nA. Wamena\\nB. Banjarmasin\\nC. Sofifi\\nD. Palu\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nIbukota Kalimantan Selatan adalah Banjarmasin."
+    },
+    {
+        "instruction": "Provinsi di Indonesia (Kalimantan Timur).",
+        "input": "Provinsi Kalimantan Timur adalah salah satu provinsi di Indonesia.",
+        "output": "Soal:\\nIbukota provinsi Kalimantan Timur adalah....\\n\\nA. Bengkulu\\nB. Sofifi\\nC. Samarinda\\nD. Semarang\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nIbukota Kalimantan Timur adalah Samarinda."
+    },
+    {
+        "instruction": "Provinsi di Indonesia (Kalimantan Utara).",
+        "input": "Provinsi Kalimantan Utara adalah salah satu provinsi di Indonesia.",
+        "output": "Soal:\\nIbukota provinsi Kalimantan Utara adalah....\\n\\nA. Tanjung Selor\\nB. Jayapura\\nC. Jakarta\\nD. Pangkalpinang\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nIbukota Kalimantan Utara adalah Tanjung Selor."
+    },
+    {
+        "instruction": "Provinsi di Indonesia (Sulawesi Utara).",
+        "input": "Provinsi Sulawesi Utara adalah salah satu provinsi di Indonesia.",
+        "output": "Soal:\\nIbukota provinsi Sulawesi Utara adalah....\\n\\nA. Pontianak\\nB. Makassar\\nC. Pekanbaru\\nD. Manado\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nIbukota Sulawesi Utara adalah Manado."
+    },
+    {
+        "instruction": "Provinsi di Indonesia (Gorontalo).",
+        "input": "Provinsi Gorontalo adalah salah satu provinsi di Indonesia.",
+        "output": "Soal:\\nIbukota provinsi Gorontalo adalah....\\n\\nA. Gorontalo\\nB. Bandung\\nC. Surabaya\\nD. Tanjung Selor\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nIbukota Gorontalo adalah Gorontalo."
+    },
+    {
+        "instruction": "Provinsi di Indonesia (Sulawesi Tengah).",
+        "input": "Provinsi Sulawesi Tengah adalah salah satu provinsi di Indonesia.",
+        "output": "Soal:\\nIbukota provinsi Sulawesi Tengah adalah....\\n\\nA. Manado\\nB. Kendari\\nC. Samarinda\\nD. Palu\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nIbukota Sulawesi Tengah adalah Palu."
+    },
+    {
+        "instruction": "Provinsi di Indonesia (Sulawesi Barat).",
+        "input": "Provinsi Sulawesi Barat adalah salah satu provinsi di Indonesia.",
+        "output": "Soal:\\nIbukota provinsi Sulawesi Barat adalah....\\n\\nA. Mamuju\\nB. Serang\\nC. Merauke\\nD. Palu\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nIbukota Sulawesi Barat adalah Mamuju."
+    },
+    {
+        "instruction": "Provinsi di Indonesia (Sulawesi Selatan).",
+        "input": "Provinsi Sulawesi Selatan adalah salah satu provinsi di Indonesia.",
+        "output": "Soal:\\nIbukota provinsi Sulawesi Selatan adalah....\\n\\nA. Banda Aceh\\nB. Makassar\\nC. Ambon\\nD. Sofifi\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nIbukota Sulawesi Selatan adalah Makassar."
+    },
+    {
+        "instruction": "Provinsi di Indonesia (Sulawesi Tenggara).",
+        "input": "Provinsi Sulawesi Tenggara adalah salah satu provinsi di Indonesia.",
+        "output": "Soal:\\nIbukota provinsi Sulawesi Tenggara adalah....\\n\\nA. Kendari\\nB. Gorontalo\\nC. Kupang\\nD. Jakarta\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nIbukota Sulawesi Tenggara adalah Kendari."
+    },
+    {
+        "instruction": "Provinsi di Indonesia (Maluku).",
+        "input": "Provinsi Maluku adalah salah satu provinsi di Indonesia.",
+        "output": "Soal:\\nIbukota provinsi Maluku adalah....\\n\\nA. Kendari\\nB. Bandung\\nC. Wamena\\nD. Ambon\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nIbukota Maluku adalah Ambon."
+    },
+    {
+        "instruction": "Provinsi di Indonesia (Maluku Utara).",
+        "input": "Provinsi Maluku Utara adalah salah satu provinsi di Indonesia.",
+        "output": "Soal:\\nIbukota provinsi Maluku Utara adalah....\\n\\nA. Pekanbaru\\nB. Serang\\nC. Palu\\nD. Sofifi\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nIbukota Maluku Utara adalah Sofifi."
+    },
+    {
+        "instruction": "Provinsi di Indonesia (Papua).",
+        "input": "Provinsi Papua adalah salah satu provinsi di Indonesia.",
+        "output": "Soal:\\nIbukota provinsi Papua adalah....\\n\\nA. Jayapura\\nB. Pangkalpinang\\nC. Jambi\\nD. Medan\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nIbukota Papua adalah Jayapura."
+    },
+    {
+        "instruction": "Provinsi di Indonesia (Papua Barat).",
+        "input": "Provinsi Papua Barat adalah salah satu provinsi di Indonesia.",
+        "output": "Soal:\\nIbukota provinsi Papua Barat adalah....\\n\\nA. Padang\\nB. Jayapura\\nC. Manokwari\\nD. Sofifi\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nIbukota Papua Barat adalah Manokwari."
+    },
+    {
+        "instruction": "Provinsi di Indonesia (Papua Selatan).",
+        "input": "Provinsi Papua Selatan adalah salah satu provinsi di Indonesia.",
+        "output": "Soal:\\nIbukota provinsi Papua Selatan adalah....\\n\\nA. Bandung\\nB. Palembang\\nC. Merauke\\nD. Banda Aceh\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nIbukota Papua Selatan adalah Merauke."
+    },
+    {
+        "instruction": "Provinsi di Indonesia (Papua Tengah).",
+        "input": "Provinsi Papua Tengah adalah salah satu provinsi di Indonesia.",
+        "output": "Soal:\\nIbukota provinsi Papua Tengah adalah....\\n\\nA. Surabaya\\nB. Yogyakarta\\nC. Semarang\\nD. Nabire\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nIbukota Papua Tengah adalah Nabire."
+    },
+    {
+        "instruction": "Provinsi di Indonesia (Papua Pegunungan).",
+        "input": "Provinsi Papua Pegunungan adalah salah satu provinsi di Indonesia.",
+        "output": "Soal:\\nIbukota provinsi Papua Pegunungan adalah....\\n\\nA. Kendari\\nB. Nabire\\nC. Wamena\\nD. Ambon\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nIbukota Papua Pegunungan adalah Wamena."
+    },
+    {
+        "instruction": "Provinsi di Indonesia (Papua Barat Daya).",
+        "input": "Provinsi Papua Barat Daya adalah salah satu provinsi di Indonesia.",
+        "output": "Soal:\\nIbukota provinsi Papua Barat Daya adalah....\\n\\nA. Makassar\\nB. Sorong\\nC. Wamena\\nD. Samarinda\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nIbukota Papua Barat Daya adalah Sorong."
+    },
+    {
+        "instruction": "Sifat Bahan (Konduktor).",
+        "input": "Bahan-bahan memiliki kemampuan menghantarkan panas/listrik yang berbeda. (Tembaga)",
+        "output": "Soal:\\nDi antara bahan berikut, yang termasuk konduktor adalah....\\n\\nA. Karet\\nB. Styrofoam\\nC. Kain\\nD. Tembaga\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nTembaga adalah konduktor (penghantar), sedangkan lainnya isolator."
+    },
+    {
+        "instruction": "Sifat Bahan (Konduktor).",
+        "input": "Bahan-bahan memiliki kemampuan menghantarkan panas/listrik yang berbeda. (Baja)",
+        "output": "Soal:\\nDi antara bahan berikut, yang termasuk konduktor adalah....\\n\\nA. Baja\\nB. Kayu\\nC. Udara\\nD. Kertas\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nBaja adalah konduktor (penghantar), sedangkan lainnya isolator."
+    },
+    {
+        "instruction": "Sifat Bahan (Konduktor).",
+        "input": "Bahan-bahan memiliki kemampuan menghantarkan panas/listrik yang berbeda. (Besi)",
+        "output": "Soal:\\nDi antara bahan berikut, yang termasuk konduktor adalah....\\n\\nA. Kayu\\nB. Kertas\\nC. Besi\\nD. Kaca\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nBesi adalah konduktor (penghantar), sedangkan lainnya isolator."
+    },
+    {
+        "instruction": "Sifat Bahan (Konduktor).",
+        "input": "Bahan-bahan memiliki kemampuan menghantarkan panas/listrik yang berbeda. (Emas)",
+        "output": "Soal:\\nDi antara bahan berikut, yang termasuk konduktor adalah....\\n\\nA. Udara\\nB. Styrofoam\\nC. Emas\\nD. Kaca\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nEmas adalah konduktor (penghantar), sedangkan lainnya isolator."
+    },
+    {
+        "instruction": "Sifat Bahan (Konduktor).",
+        "input": "Bahan-bahan memiliki kemampuan menghantarkan panas/listrik yang berbeda. (Perak)",
+        "output": "Soal:\\nDi antara bahan berikut, yang termasuk konduktor adalah....\\n\\nA. Kaca\\nB. Kertas\\nC. Kayu\\nD. Perak\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nPerak adalah konduktor (penghantar), sedangkan lainnya isolator."
+    },
+    {
+        "instruction": "Sifat Bahan (Konduktor).",
+        "input": "Bahan-bahan memiliki kemampuan menghantarkan panas/listrik yang berbeda. (Aluminium)",
+        "output": "Soal:\\nDi antara bahan berikut, yang termasuk konduktor adalah....\\n\\nA. Kaca\\nB. Udara\\nC. Aluminium\\nD. Kertas\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nAluminium adalah konduktor (penghantar), sedangkan lainnya isolator."
+    },
+    {
+        "instruction": "Sifat Bahan (Konduktor).",
+        "input": "Bahan-bahan memiliki kemampuan menghantarkan panas/listrik yang berbeda. (Seng)",
+        "output": "Soal:\\nDi antara bahan berikut, yang termasuk konduktor adalah....\\n\\nA. Seng\\nB. Styrofoam\\nC. Kayu\\nD. Kertas\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSeng adalah konduktor (penghantar), sedangkan lainnya isolator."
+    },
+    {
+        "instruction": "Sifat Bahan (Isolator).",
+        "input": "Bahan yang tidak dapat menghantarkan panas dengan baik disebut isolator. (Kaca)",
+        "output": "Soal:\\nContoh benda yang bersifat isolator adalah....\\n\\nA. Kaca\\nB. Besi\\nC. Tembaga\\nD. Emas\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nKaca adalah isolator (penghambat), sedangkan lainnya konduktor."
+    },
+    {
+        "instruction": "Sifat Bahan (Isolator).",
+        "input": "Bahan yang tidak dapat menghantarkan panas dengan baik disebut isolator. (Karet)",
+        "output": "Soal:\\nContoh benda yang bersifat isolator adalah....\\n\\nA. Emas\\nB. Baja\\nC. Aluminium\\nD. Karet\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nKaret adalah isolator (penghambat), sedangkan lainnya konduktor."
+    },
+    {
+        "instruction": "Sifat Bahan (Isolator).",
+        "input": "Bahan yang tidak dapat menghantarkan panas dengan baik disebut isolator. (Styrofoam)",
+        "output": "Soal:\\nContoh benda yang bersifat isolator adalah....\\n\\nA. Perak\\nB. Aluminium\\nC. Styrofoam\\nD. Seng\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nStyrofoam adalah isolator (penghambat), sedangkan lainnya konduktor."
+    },
+    {
+        "instruction": "Sifat Bahan (Isolator).",
+        "input": "Bahan yang tidak dapat menghantarkan panas dengan baik disebut isolator. (Plastik)",
+        "output": "Soal:\\nContoh benda yang bersifat isolator adalah....\\n\\nA. Tembaga\\nB. Plastik\\nC. Seng\\nD. Besi\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nPlastik adalah isolator (penghambat), sedangkan lainnya konduktor."
+    },
+    {
+        "instruction": "Sifat Bahan (Isolator).",
+        "input": "Bahan yang tidak dapat menghantarkan panas dengan baik disebut isolator. (Kertas)",
+        "output": "Soal:\\nContoh benda yang bersifat isolator adalah....\\n\\nA. Tembaga\\nB. Kertas\\nC. Perak\\nD. Besi\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nKertas adalah isolator (penghambat), sedangkan lainnya konduktor."
+    },
+    {
+        "instruction": "Sifat Bahan (Isolator).",
+        "input": "Bahan yang tidak dapat menghantarkan panas dengan baik disebut isolator. (Kayu)",
+        "output": "Soal:\\nContoh benda yang bersifat isolator adalah....\\n\\nA. Kayu\\nB. Perak\\nC. Baja\\nD. Besi\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nKayu adalah isolator (penghambat), sedangkan lainnya konduktor."
+    },
+    {
+        "instruction": "Sifat Bahan (Isolator).",
+        "input": "Bahan yang tidak dapat menghantarkan panas dengan baik disebut isolator. (Kain)",
+        "output": "Soal:\\nContoh benda yang bersifat isolator adalah....\\n\\nA. Aluminium\\nB. Emas\\nC. Kain\\nD. Air Laut\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nKain adalah isolator (penghambat), sedangkan lainnya konduktor."
+    },
+    {
+        "instruction": "Sifat Bahan (Isolator).",
+        "input": "Bahan yang tidak dapat menghantarkan panas dengan baik disebut isolator. (Udara)",
+        "output": "Soal:\\nContoh benda yang bersifat isolator adalah....\\n\\nA. Udara\\nB. Air Laut\\nC. Tembaga\\nD. Perak\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nUdara adalah isolator (penghambat), sedangkan lainnya konduktor."
+    },
+    {
+        "instruction": "Sumber Daya Alam (Terbarukan).",
+        "input": "SDA Air.",
+        "output": "Soal:\\nSumber daya alam yang dapat diperbaharui adalah....\\n\\nA. Biji Besi\\nB. Minyak Bumi\\nC. Air\\nD. Tembaga\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nAir dapat diperbaharui/tidak habis."
+    },
+    {
+        "instruction": "Sumber Daya Alam (Terbarukan).",
+        "input": "SDA Angin.",
+        "output": "Soal:\\nSumber daya alam yang dapat diperbaharui adalah....\\n\\nA. Biji Besi\\nB. Angin\\nC. Batu Bara\\nD. Nikel\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nAngin dapat diperbaharui/tidak habis."
+    },
+    {
+        "instruction": "Sumber Daya Alam (Terbarukan).",
+        "input": "SDA Panas Bumi.",
+        "output": "Soal:\\nSumber daya alam yang dapat diperbaharui adalah....\\n\\nA. Tembaga\\nB. Emas\\nC. Batu Bara\\nD. Panas Bumi\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nPanas Bumi dapat diperbaharui/tidak habis."
+    },
+    {
+        "instruction": "Sumber Daya Alam (Terbarukan).",
+        "input": "SDA Tumbuhan.",
+        "output": "Soal:\\nSumber daya alam yang dapat diperbaharui adalah....\\n\\nA. Batu Bara\\nB. Tumbuhan\\nC. Nikel\\nD. Minyak Bumi\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nTumbuhan dapat diperbaharui/tidak habis."
+    },
+    {
+        "instruction": "Sumber Daya Alam (Terbarukan).",
+        "input": "SDA Sinar Matahari.",
+        "output": "Soal:\\nSumber daya alam yang dapat diperbaharui adalah....\\n\\nA. Sinar Matahari\\nB. Biji Besi\\nC. Minyak Bumi\\nD. Gas Alam\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSinar Matahari dapat diperbaharui/tidak habis."
+    },
+    {
+        "instruction": "Sumber Daya Alam (Terbarukan).",
+        "input": "SDA Hewan Ternak.",
+        "output": "Soal:\\nSumber daya alam yang dapat diperbaharui adalah....\\n\\nA. Hewan Ternak\\nB. Tembaga\\nC. Emas\\nD. Nikel\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nHewan Ternak dapat diperbaharui/tidak habis."
+    },
+    {
+        "instruction": "Sumber Daya Alam (Terbarukan).",
+        "input": "SDA Ombak.",
+        "output": "Soal:\\nSumber daya alam yang dapat diperbaharui adalah....\\n\\nA. Ombak\\nB. Gas Alam\\nC. Tembaga\\nD. Biji Besi\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nOmbak dapat diperbaharui/tidak habis."
+    },
+    {
+        "instruction": "Sumber Daya Alam (Tak Terbarukan).",
+        "input": "SDA Minyak Bumi.",
+        "output": "Soal:\\nSumber daya alam yang tidak dapat diperbaharui (akan habis) adalah....\\n\\nA. Sinar Matahari\\nB. Minyak Bumi\\nC. Ombak\\nD. Tumbuhan\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMinyak Bumi adalah tambang yang akan habis."
+    },
+    {
+        "instruction": "Sumber Daya Alam (Tak Terbarukan).",
+        "input": "SDA Biji Besi.",
+        "output": "Soal:\\nSumber daya alam yang tidak dapat diperbaharui (akan habis) adalah....\\n\\nA. Air\\nB. Biji Besi\\nC. Biomassa\\nD. Sinar Matahari\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nBiji Besi adalah tambang yang akan habis."
+    },
+    {
+        "instruction": "Sumber Daya Alam (Tak Terbarukan).",
+        "input": "SDA Nikel.",
+        "output": "Soal:\\nSumber daya alam yang tidak dapat diperbaharui (akan habis) adalah....\\n\\nA. Hewan Ternak\\nB. Panas Bumi\\nC. Air\\nD. Nikel\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nNikel adalah tambang yang akan habis."
+    },
+    {
+        "instruction": "Sumber Daya Alam (Tak Terbarukan).",
+        "input": "SDA Emas.",
+        "output": "Soal:\\nSumber daya alam yang tidak dapat diperbaharui (akan habis) adalah....\\n\\nA. Panas Bumi\\nB. Biomassa\\nC. Emas\\nD. Air\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nEmas adalah tambang yang akan habis."
+    },
+    {
+        "instruction": "Sumber Daya Alam (Tak Terbarukan).",
+        "input": "SDA Gas Alam.",
+        "output": "Soal:\\nSumber daya alam yang tidak dapat diperbaharui (akan habis) adalah....\\n\\nA. Biomassa\\nB. Sinar Matahari\\nC. Gas Alam\\nD. Tumbuhan\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nGas Alam adalah tambang yang akan habis."
+    },
+    {
+        "instruction": "Sumber Daya Alam (Tak Terbarukan).",
+        "input": "SDA Batu Bara.",
+        "output": "Soal:\\nSumber daya alam yang tidak dapat diperbaharui (akan habis) adalah....\\n\\nA. Batu Bara\\nB. Angin\\nC. Hewan Ternak\\nD. Ombak\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nBatu Bara adalah tambang yang akan habis."
+    },
+    {
+        "instruction": "Simbiosis (Mutualisme).",
+        "input": "Hubungan antara Kerbau dan Jalak.",
+        "output": "Soal:\\nHubungan simbiosis yang terjadi antara Kerbau dan Jalak adalah....\\n\\nA. Mutualisme\\nB. Parasitisme\\nC. Komensalisme\\nD. Amensalisme\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nKerbau dan Jalak adalah contoh Mutualisme (Saling menguntungkan)."
+    },
+    {
+        "instruction": "Simbiosis (Mutualisme).",
+        "input": "Hubungan antara Lebah dan Bunga.",
+        "output": "Soal:\\nHubungan simbiosis yang terjadi antara Lebah dan Bunga adalah....\\n\\nA. Mutualisme\\nB. Parasitisme\\nC. Komensalisme\\nD. Amensalisme\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nLebah dan Bunga adalah contoh Mutualisme (Saling menguntungkan)."
+    },
+    {
+        "instruction": "Simbiosis (Mutualisme).",
+        "input": "Hubungan antara Ikan Badut dan Anemon.",
+        "output": "Soal:\\nHubungan simbiosis yang terjadi antara Ikan Badut dan Anemon adalah....\\n\\nA. Mutualisme\\nB. Parasitisme\\nC. Komensalisme\\nD. Amensalisme\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nIkan Badut dan Anemon adalah contoh Mutualisme (Saling menguntungkan)."
+    },
+    {
+        "instruction": "Simbiosis (Parasitisme).",
+        "input": "Hubungan antara Benalu dan Pohon Inang.",
+        "output": "Soal:\\nHubungan simbiosis yang terjadi antara Benalu dan Pohon Inang adalah....\\n\\nA. Mutualisme\\nB. Parasitisme\\nC. Komensalisme\\nD. Amensalisme\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nBenalu dan Pohon Inang adalah contoh Parasitisme (Satu untung satu rugi)."
+    },
+    {
+        "instruction": "Simbiosis (Parasitisme).",
+        "input": "Hubungan antara Kutu dan Manusia.",
+        "output": "Soal:\\nHubungan simbiosis yang terjadi antara Kutu dan Manusia adalah....\\n\\nA. Mutualisme\\nB. Parasitisme\\nC. Komensalisme\\nD. Amensalisme\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nKutu dan Manusia adalah contoh Parasitisme (Satu untung satu rugi)."
+    },
+    {
+        "instruction": "Simbiosis (Parasitisme).",
+        "input": "Hubungan antara Nyamuk dan Manusia.",
+        "output": "Soal:\\nHubungan simbiosis yang terjadi antara Nyamuk dan Manusia adalah....\\n\\nA. Mutualisme\\nB. Parasitisme\\nC. Komensalisme\\nD. Amensalisme\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nNyamuk dan Manusia adalah contoh Parasitisme (Satu untung satu rugi)."
+    },
+    {
+        "instruction": "Simbiosis (Komensalisme).",
+        "input": "Hubungan antara Anggrek dan Pohon Mangga.",
+        "output": "Soal:\\nHubungan simbiosis yang terjadi antara Anggrek dan Pohon Mangga adalah....\\n\\nA. Mutualisme\\nB. Parasitisme\\nC. Komensalisme\\nD. Amensalisme\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nAnggrek dan Pohon Mangga adalah contoh Komensalisme (Satu untung satu netral)."
+    },
+    {
+        "instruction": "Simbiosis (Komensalisme).",
+        "input": "Hubungan antara Ikan Remora dan Hiu.",
+        "output": "Soal:\\nHubungan simbiosis yang terjadi antara Ikan Remora dan Hiu adalah....\\n\\nA. Mutualisme\\nB. Parasitisme\\nC. Komensalisme\\nD. Amensalisme\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nIkan Remora dan Hiu adalah contoh Komensalisme (Satu untung satu netral)."
+    },
+    {
+        "instruction": "Simbiosis (Komensalisme).",
+        "input": "Hubungan antara Sirih dan Tumbuhan Inang.",
+        "output": "Soal:\\nHubungan simbiosis yang terjadi antara Sirih dan Tumbuhan Inang adalah....\\n\\nA. Mutualisme\\nB. Parasitisme\\nC. Komensalisme\\nD. Amensalisme\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSirih dan Tumbuhan Inang adalah contoh Komensalisme (Satu untung satu netral)."
+    },
+    {
+        "instruction": "Rantai Makanan (Produsen).",
+        "input": "Dalam ekosistem, terdapat rantai makanan: Padi -> Tikus -> Ular -> Elang -> Jamur.",
+        "output": "Soal:\\nMakhluk hidup yang berperan sebagai Produsen dalam rantai makanan tersebut adalah....\\n\\nA. Tikus\\nB. Jamur\\nC. Elang\\nD. Padi\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nPadi adalah Produsen."
+    },
+    {
+        "instruction": "Rantai Makanan (Produsen).",
+        "input": "Dalam ekosistem, terdapat rantai makanan: Jagung -> Belalang -> Katak -> Ular -> Bakteri.",
+        "output": "Soal:\\nMakhluk hidup yang berperan sebagai Produsen dalam rantai makanan tersebut adalah....\\n\\nA. Ular\\nB. Bakteri\\nC. Jagung\\nD. Belalang\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nJagung adalah Produsen."
+    },
+    {
+        "instruction": "Rantai Makanan (Produsen).",
+        "input": "Dalam ekosistem, terdapat rantai makanan: Rumput -> Rusa -> Harimau -> Pengurai.",
+        "output": "Soal:\\nMakhluk hidup yang berperan sebagai Produsen dalam rantai makanan tersebut adalah....\\n\\nA. Harimau\\nB. Pengurai\\nC. Rusa\\nD. Rumput\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nRumput adalah Produsen."
+    },
+    {
+        "instruction": "Rantai Makanan (Produsen).",
+        "input": "Dalam ekosistem, terdapat rantai makanan: Fitoplankton -> Zooplankton -> Ikan Kecil -> Ikan Besar -> Hiu.",
+        "output": "Soal:\\nMakhluk hidup yang berperan sebagai Produsen dalam rantai makanan tersebut adalah....\\n\\nA. Fitoplankton\\nB. Hiu\\nC. Ikan Besar\\nD. Ikan Kecil\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nFitoplankton adalah Produsen."
+    },
+    {
+        "instruction": "Rantai Makanan (Produsen).",
+        "input": "Dalam ekosistem, terdapat rantai makanan: Daun -> Ulat -> Burung Pipit -> Burung Elang -> Bakteri.",
+        "output": "Soal:\\nMakhluk hidup yang berperan sebagai Produsen dalam rantai makanan tersebut adalah....\\n\\nA. Burung Elang\\nB. Bakteri\\nC. Daun\\nD. Ulat\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nDaun adalah Produsen."
+    },
+    {
+        "instruction": "Tokoh Sejarah (Ir. Soekarno).",
+        "input": "Tokoh bangsa yang memiliki peran sebagai Pembaca Teks Proklamasi / Presiden Pertama.",
+        "output": "Soal:\\nTokoh yang dimaksud adalah....\\n\\nA. Ir. Soekarno\\nB. Jenderal Sudirman\\nC. Pangeran Diponegoro\\nD. Ki Hajar Dewantara\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nIr. Soekarno: Pembaca Teks Proklamasi / Presiden Pertama."
+    },
+    {
+        "instruction": "Peran Tokoh (Ir. Soekarno).",
+        "input": "Ir. Soekarno adalah salah satu tokoh penting kemerdekaan.",
+        "output": "Soal:\\nPeran utama Ir. Soekarno dalam peristiwa proklamasi adalah....\\n\\nA. Pembaca Teks Proklamasi / Presiden Pertama\\nB. Memimpin perang gerilya\\nC. Menculik Soekarno\\nD. Menyerang Belanda\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nIr. Soekarno: Pembaca Teks Proklamasi / Presiden Pertama."
+    },
+    {
+        "instruction": "Tokoh Sejarah (Moh. Hatta).",
+        "input": "Tokoh bangsa yang memiliki peran sebagai Pendamping roklamator / Wakil Presiden Pertama.",
+        "output": "Soal:\\nTokoh yang dimaksud adalah....\\n\\nA. Moh. Hatta\\nB. Jenderal Sudirman\\nC. Pangeran Diponegoro\\nD. Ki Hajar Dewantara\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMoh. Hatta: Pendamping roklamator / Wakil Presiden Pertama."
+    },
+    {
+        "instruction": "Peran Tokoh (Moh. Hatta).",
+        "input": "Moh. Hatta adalah salah satu tokoh penting kemerdekaan.",
+        "output": "Soal:\\nPeran utama Moh. Hatta dalam peristiwa proklamasi adalah....\\n\\nA. Pendamping roklamator / Wakil Presiden Pertama\\nB. Memimpin perang gerilya\\nC. Menculik Soekarno\\nD. Menyerang Belanda\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMoh. Hatta: Pendamping roklamator / Wakil Presiden Pertama."
+    },
+    {
+        "instruction": "Tokoh Sejarah (Fatmawati).",
+        "input": "Tokoh bangsa yang memiliki peran sebagai Penjahit Bendera Pusaka.",
+        "output": "Soal:\\nTokoh yang dimaksud adalah....\\n\\nA. Fatmawati\\nB. Jenderal Sudirman\\nC. Pangeran Diponegoro\\nD. Ki Hajar Dewantara\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nFatmawati: Penjahit Bendera Pusaka."
+    },
+    {
+        "instruction": "Peran Tokoh (Fatmawati).",
+        "input": "Fatmawati adalah salah satu tokoh penting kemerdekaan.",
+        "output": "Soal:\\nPeran utama Fatmawati dalam peristiwa proklamasi adalah....\\n\\nA. Penjahit Bendera Pusaka\\nB. Memimpin perang gerilya\\nC. Menculik Soekarno\\nD. Menyerang Belanda\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nFatmawati: Penjahit Bendera Pusaka."
+    },
+    {
+        "instruction": "Tokoh Sejarah (Sayuti Melik).",
+        "input": "Tokoh bangsa yang memiliki peran sebagai Pengetik Naskah Proklamasi.",
+        "output": "Soal:\\nTokoh yang dimaksud adalah....\\n\\nA. Sayuti Melik\\nB. Jenderal Sudirman\\nC. Pangeran Diponegoro\\nD. Ki Hajar Dewantara\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSayuti Melik: Pengetik Naskah Proklamasi."
+    },
+    {
+        "instruction": "Peran Tokoh (Sayuti Melik).",
+        "input": "Sayuti Melik adalah salah satu tokoh penting kemerdekaan.",
+        "output": "Soal:\\nPeran utama Sayuti Melik dalam peristiwa proklamasi adalah....\\n\\nA. Pengetik Naskah Proklamasi\\nB. Memimpin perang gerilya\\nC. Menculik Soekarno\\nD. Menyerang Belanda\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSayuti Melik: Pengetik Naskah Proklamasi."
+    },
+    {
+        "instruction": "Tokoh Sejarah (S. Suhud).",
+        "input": "Tokoh bangsa yang memiliki peran sebagai Pengibar Bendera saat Proklamasi.",
+        "output": "Soal:\\nTokoh yang dimaksud adalah....\\n\\nA. S. Suhud\\nB. Jenderal Sudirman\\nC. Pangeran Diponegoro\\nD. Ki Hajar Dewantara\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nS. Suhud: Pengibar Bendera saat Proklamasi."
+    },
+    {
+        "instruction": "Peran Tokoh (S. Suhud).",
+        "input": "S. Suhud adalah salah satu tokoh penting kemerdekaan.",
+        "output": "Soal:\\nPeran utama S. Suhud dalam peristiwa proklamasi adalah....\\n\\nA. Pengibar Bendera saat Proklamasi\\nB. Memimpin perang gerilya\\nC. Menculik Soekarno\\nD. Menyerang Belanda\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nS. Suhud: Pengibar Bendera saat Proklamasi."
+    },
+    {
+        "instruction": "Peran Tokoh (Latief Hendraningrat).",
+        "input": "Latief Hendraningrat adalah salah satu tokoh penting kemerdekaan.",
+        "output": "Soal:\\nPeran utama Latief Hendraningrat dalam peristiwa proklamasi adalah....\\n\\nA. Pengibar Bendera saat Proklamasi\\nB. Memimpin perang gerilya\\nC. Menculik Soekarno\\nD. Menyerang Belanda\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nLatief Hendraningrat: Pengibar Bendera saat Proklamasi."
+    },
+    {
+        "instruction": "Tokoh Sejarah (Laksamana Maeda).",
+        "input": "Tokoh bangsa yang memiliki peran sebagai Peyedia tempat perumusan Proklamasi.",
+        "output": "Soal:\\nTokoh yang dimaksud adalah....\\n\\nA. Laksamana Maeda\\nB. Jenderal Sudirman\\nC. Pangeran Diponegoro\\nD. Ki Hajar Dewantara\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nLaksamana Maeda: Peyedia tempat perumusan Proklamasi."
+    },
+    {
+        "instruction": "Peran Tokoh (Laksamana Maeda).",
+        "input": "Laksamana Maeda adalah salah satu tokoh penting kemerdekaan.",
+        "output": "Soal:\\nPeran utama Laksamana Maeda dalam peristiwa proklamasi adalah....\\n\\nA. Peyedia tempat perumusan Proklamasi\\nB. Memimpin perang gerilya\\nC. Menculik Soekarno\\nD. Menyerang Belanda\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nLaksamana Maeda: Peyedia tempat perumusan Proklamasi."
+    },
+    {
+        "instruction": "Tokoh Sejarah (Ahmad Soebardjo).",
+        "input": "Tokoh bangsa yang memiliki peran sebagai Perumus Naskah Proklamasi (Golongan Tua).",
+        "output": "Soal:\\nTokoh yang dimaksud adalah....\\n\\nA. Ahmad Soebardjo\\nB. Jenderal Sudirman\\nC. Pangeran Diponegoro\\nD. Ki Hajar Dewantara\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nAhmad Soebardjo: Perumus Naskah Proklamasi (Golongan Tua)."
+    },
+    {
+        "instruction": "Peran Tokoh (Ahmad Soebardjo).",
+        "input": "Ahmad Soebardjo adalah salah satu tokoh penting kemerdekaan.",
+        "output": "Soal:\\nPeran utama Ahmad Soebardjo dalam peristiwa proklamasi adalah....\\n\\nA. Perumus Naskah Proklamasi (Golongan Tua)\\nB. Memimpin perang gerilya\\nC. Menculik Soekarno\\nD. Menyerang Belanda\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nAhmad Soebardjo: Perumus Naskah Proklamasi (Golongan Tua)."
+    },
+    {
+        "instruction": "Tokoh Sejarah (Sukarni).",
+        "input": "Tokoh bangsa yang memiliki peran sebagai Pengusul penandatanganan naskah proklamasi.",
+        "output": "Soal:\\nTokoh yang dimaksud adalah....\\n\\nA. Sukarni\\nB. Jenderal Sudirman\\nC. Pangeran Diponegoro\\nD. Ki Hajar Dewantara\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSukarni: Pengusul penandatanganan naskah proklamasi."
+    },
+    {
+        "instruction": "Peran Tokoh (Sukarni).",
+        "input": "Sukarni adalah salah satu tokoh penting kemerdekaan.",
+        "output": "Soal:\\nPeran utama Sukarni dalam peristiwa proklamasi adalah....\\n\\nA. Pengusul penandatanganan naskah proklamasi\\nB. Memimpin perang gerilya\\nC. Menculik Soekarno\\nD. Menyerang Belanda\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSukarni: Pengusul penandatanganan naskah proklamasi."
+    },
+    {
+        "instruction": "Tokoh Sejarah (B.M. Diah).",
+        "input": "Tokoh bangsa yang memiliki peran sebagai Penyebar berita proklamasi / Wartawan.",
+        "output": "Soal:\\nTokoh yang dimaksud adalah....\\n\\nA. B.M. Diah\\nB. Jenderal Sudirman\\nC. Pangeran Diponegoro\\nD. Ki Hajar Dewantara\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nB.M. Diah: Penyebar berita proklamasi / Wartawan."
+    },
+    {
+        "instruction": "Peran Tokoh (B.M. Diah).",
+        "input": "B.M. Diah adalah salah satu tokoh penting kemerdekaan.",
+        "output": "Soal:\\nPeran utama B.M. Diah dalam peristiwa proklamasi adalah....\\n\\nA. Penyebar berita proklamasi / Wartawan\\nB. Memimpin perang gerilya\\nC. Menculik Soekarno\\nD. Menyerang Belanda\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nB.M. Diah: Penyebar berita proklamasi / Wartawan."
+    },
+    {
+        "instruction": "Jenis Gaya (Gaya Gravitasi).",
+        "input": "Peristiwa: Buah jatuh dari pohon.",
+        "output": "Soal:\\nGaya yang bekerja pada peristiwa tersebut adalah....\\n\\nA. Gaya Gravitasi\\nB. Gaya Listrik\\nC. Gaya Nuklir\\nD. Gaya Kimia\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nBuah jatuh dari pohon menggunakan Gaya Gravitasi."
+    },
+    {
+        "instruction": "Jenis Gaya (Gaya Gesek).",
+        "input": "Peristiwa: Rem sepeda / Ban mobil.",
+        "output": "Soal:\\nGaya yang bekerja pada peristiwa tersebut adalah....\\n\\nA. Gaya Gesek\\nB. Gaya Listrik\\nC. Gaya Nuklir\\nD. Gaya Kimia\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nRem sepeda / Ban mobil menggunakan Gaya Gesek."
+    },
+    {
+        "instruction": "Jenis Gaya (Gaya Magnet).",
+        "input": "Peristiwa: Kompas / Penutup kulkas.",
+        "output": "Soal:\\nGaya yang bekerja pada peristiwa tersebut adalah....\\n\\nA. Gaya Magnet\\nB. Gaya Listrik\\nC. Gaya Nuklir\\nD. Gaya Kimia\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nKompas / Penutup kulkas menggunakan Gaya Magnet."
+    },
+    {
+        "instruction": "Jenis Gaya (Gaya Otot).",
+        "input": "Peristiwa: Mendorong meja / Sapi menarik gerobak.",
+        "output": "Soal:\\nGaya yang bekerja pada peristiwa tersebut adalah....\\n\\nA. Gaya Otot\\nB. Gaya Listrik\\nC. Gaya Nuklir\\nD. Gaya Kimia\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMendorong meja / Sapi menarik gerobak menggunakan Gaya Otot."
+    },
+    {
+        "instruction": "Jenis Gaya (Gaya Pegas).",
+        "input": "Peristiwa: Ketapel / Panah.",
+        "output": "Soal:\\nGaya yang bekerja pada peristiwa tersebut adalah....\\n\\nA. Gaya Pegas\\nB. Gaya Listrik\\nC. Gaya Nuklir\\nD. Gaya Kimia\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nKetapel / Panah menggunakan Gaya Pegas."
+    },
+    {
+        "instruction": "SDA (Air).",
+        "input": "Sumber daya alam: Air.",
+        "output": "Soal:\\nSDA tersebut termasuk kelompok....\\n\\nA. Terbarukan\\nB. Tidak Terbarukan\\nC. Buatan\\nD. Sintetis\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nAir adalah SDA Terbarukan."
+    },
+    {
+        "instruction": "SDA (Gas Alam).",
+        "input": "Sumber daya alam: Gas Alam.",
+        "output": "Soal:\\nSDA tersebut termasuk kelompok....\\n\\nA. Tidak Terbarukan\\nB. Terbarukan\\nC. Buatan\\nD. Sintetis\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nGas Alam adalah SDA Tidak Terbarukan."
+    },
+    {
+        "instruction": "SDA (Panas Bumi).",
+        "input": "Sumber daya alam: Panas Bumi.",
+        "output": "Soal:\\nSDA tersebut termasuk kelompok....\\n\\nA. Terbarukan\\nB. Tidak Terbarukan\\nC. Buatan\\nD. Sintetis\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nPanas Bumi adalah SDA Terbarukan."
+    },
+    {
+        "instruction": "SDA (Batu Bara).",
+        "input": "Sumber daya alam: Batu Bara.",
+        "output": "Soal:\\nSDA tersebut termasuk kelompok....\\n\\nA. Tidak Terbarukan\\nB. Terbarukan\\nC. Buatan\\nD. Sintetis\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nBatu Bara adalah SDA Tidak Terbarukan."
+    },
+    {
+        "instruction": "SDA (Angin).",
+        "input": "Sumber daya alam: Angin.",
+        "output": "Soal:\\nSDA tersebut termasuk kelompok....\\n\\nA. Terbarukan\\nB. Tidak Terbarukan\\nC. Buatan\\nD. Sintetis\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nAngin adalah SDA Terbarukan."
+    },
+    {
+        "instruction": "SDA (Ombak).",
+        "input": "Sumber daya alam: Ombak.",
+        "output": "Soal:\\nSDA tersebut termasuk kelompok....\\n\\nA. Terbarukan\\nB. Tidak Terbarukan\\nC. Buatan\\nD. Sintetis\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nOmbak adalah SDA Terbarukan."
+    },
+    {
+        "instruction": "SDA (Emas).",
+        "input": "Sumber daya alam: Emas.",
+        "output": "Soal:\\nSDA tersebut termasuk kelompok....\\n\\nA. Tidak Terbarukan\\nB. Terbarukan\\nC. Buatan\\nD. Sintetis\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nEmas adalah SDA Tidak Terbarukan."
+    },
+    {
+        "instruction": "SDA (Minyak Bumi).",
+        "input": "Sumber daya alam: Minyak Bumi.",
+        "output": "Soal:\\nSDA tersebut termasuk kelompok....\\n\\nA. Tidak Terbarukan\\nB. Terbarukan\\nC. Buatan\\nD. Sintetis\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMinyak Bumi adalah SDA Tidak Terbarukan."
+    },
+    {
+        "instruction": "SDA (Biomassa).",
+        "input": "Sumber daya alam: Biomassa.",
+        "output": "Soal:\\nSDA tersebut termasuk kelompok....\\n\\nA. Terbarukan\\nB. Tidak Terbarukan\\nC. Buatan\\nD. Sintetis\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nBiomassa adalah SDA Terbarukan."
+    },
+    {
+        "instruction": "SDA (Sinar Matahari).",
+        "input": "Sumber daya alam: Sinar Matahari.",
+        "output": "Soal:\\nSDA tersebut termasuk kelompok....\\n\\nA. Terbarukan\\nB. Tidak Terbarukan\\nC. Buatan\\nD. Sintetis\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSinar Matahari adalah SDA Terbarukan."
+    },
+    {
+        "instruction": "Tata Surya (Merkurius).",
+        "input": "Dalam tata surya, Merkurius menempati urutan ke-1 dari Matahari.",
+        "output": "Soal:\\nPlanet yang menempati urutan ke-1 dari Matahari adalah....\\n\\nA. Merkurius\\nB. Venus\\nC. Bumi\\nD. Mars\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nUrutan: Merkurius, Venus, Bumi, Mars, Jupiter, Saturnus, Uranus, Neptunus."
+    },
+    {
+        "instruction": "Ciri Planet (Merkurius).",
+        "input": "Planet Merkurius dikenal sebagai planet terkecil dan terdekat matahari.",
+        "output": "Soal:\\nPlanet manakah yang memiliki julukan/ciri planet terkecil dan terdekat matahari?\\n\\nA. Merkurius\\nB. Venus\\nC. Pluto\\nD. Matahari\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMerkurius: planet terkecil dan terdekat matahari."
+    },
+    {
+        "instruction": "Tata Surya (Venus).",
+        "input": "Dalam tata surya, Venus menempati urutan ke-2 dari Matahari.",
+        "output": "Soal:\\nPlanet yang menempati urutan ke-2 dari Matahari adalah....\\n\\nA. Venus\\nB. Bumi\\nC. Mars\\nD. Jupiter\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nUrutan: Merkurius, Venus, Bumi, Mars, Jupiter, Saturnus, Uranus, Neptunus."
+    },
+    {
+        "instruction": "Ciri Planet (Venus).",
+        "input": "Planet Venus dikenal sebagai bintang kejora / planet terpanas.",
+        "output": "Soal:\\nPlanet manakah yang memiliki julukan/ciri bintang kejora / planet terpanas?\\n\\nA. Venus\\nB. Bumi\\nC. Pluto\\nD. Matahari\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nVenus: bintang kejora / planet terpanas."
+    },
+    {
+        "instruction": "Tata Surya (Bumi).",
+        "input": "Dalam tata surya, Bumi menempati urutan ke-3 dari Matahari.",
+        "output": "Soal:\\nPlanet yang menempati urutan ke-3 dari Matahari adalah....\\n\\nA. Bumi\\nB. Mars\\nC. Jupiter\\nD. Saturnus\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nUrutan: Merkurius, Venus, Bumi, Mars, Jupiter, Saturnus, Uranus, Neptunus."
+    },
+    {
+        "instruction": "Ciri Planet (Bumi).",
+        "input": "Planet Bumi dikenal sebagai satu-satunya planet berpenghuni (Planet Biru).",
+        "output": "Soal:\\nPlanet manakah yang memiliki julukan/ciri satu-satunya planet berpenghuni (Planet Biru)?\\n\\nA. Bumi\\nB. Mars\\nC. Pluto\\nD. Matahari\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nBumi: satu-satunya planet berpenghuni (Planet Biru)."
+    },
+    {
+        "instruction": "Tata Surya (Mars).",
+        "input": "Dalam tata surya, Mars menempati urutan ke-4 dari Matahari.",
+        "output": "Soal:\\nPlanet yang menempati urutan ke-4 dari Matahari adalah....\\n\\nA. Mars\\nB. Jupiter\\nC. Saturnus\\nD. Uranus\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nUrutan: Merkurius, Venus, Bumi, Mars, Jupiter, Saturnus, Uranus, Neptunus."
+    },
+    {
+        "instruction": "Ciri Planet (Mars).",
+        "input": "Planet Mars dikenal sebagai planet merah.",
+        "output": "Soal:\\nPlanet manakah yang memiliki julukan/ciri planet merah?\\n\\nA. Mars\\nB. Jupiter\\nC. Pluto\\nD. Matahari\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMars: planet merah."
+    },
+    {
+        "instruction": "Tata Surya (Jupiter).",
+        "input": "Dalam tata surya, Jupiter menempati urutan ke-5 dari Matahari.",
+        "output": "Soal:\\nPlanet yang menempati urutan ke-5 dari Matahari adalah....\\n\\nA. Jupiter\\nB. Saturnus\\nC. Uranus\\nD. Neptunus\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nUrutan: Merkurius, Venus, Bumi, Mars, Jupiter, Saturnus, Uranus, Neptunus."
+    },
+    {
+        "instruction": "Ciri Planet (Jupiter).",
+        "input": "Planet Jupiter dikenal sebagai planet terbesar.",
+        "output": "Soal:\\nPlanet manakah yang memiliki julukan/ciri planet terbesar?\\n\\nA. Jupiter\\nB. Saturnus\\nC. Pluto\\nD. Matahari\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nJupiter: planet terbesar."
+    },
+    {
+        "instruction": "Tata Surya (Saturnus).",
+        "input": "Dalam tata surya, Saturnus menempati urutan ke-6 dari Matahari.",
+        "output": "Soal:\\nPlanet yang menempati urutan ke-6 dari Matahari adalah....\\n\\nA. Saturnus\\nB. Uranus\\nC. Neptunus\\nD. Merkurius\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nUrutan: Merkurius, Venus, Bumi, Mars, Jupiter, Saturnus, Uranus, Neptunus."
+    },
+    {
+        "instruction": "Ciri Planet (Saturnus).",
+        "input": "Planet Saturnus dikenal sebagai planet bercincin indah.",
+        "output": "Soal:\\nPlanet manakah yang memiliki julukan/ciri planet bercincin indah?\\n\\nA. Saturnus\\nB. Uranus\\nC. Pluto\\nD. Matahari\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSaturnus: planet bercincin indah."
+    },
+    {
+        "instruction": "Tata Surya (Uranus).",
+        "input": "Dalam tata surya, Uranus menempati urutan ke-7 dari Matahari.",
+        "output": "Soal:\\nPlanet yang menempati urutan ke-7 dari Matahari adalah....\\n\\nA. Uranus\\nB. Neptunus\\nC. Merkurius\\nD. Venus\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nUrutan: Merkurius, Venus, Bumi, Mars, Jupiter, Saturnus, Uranus, Neptunus."
+    },
+    {
+        "instruction": "Ciri Planet (Uranus).",
+        "input": "Planet Uranus dikenal sebagai planet menggelinding / terdingin.",
+        "output": "Soal:\\nPlanet manakah yang memiliki julukan/ciri planet menggelinding / terdingin?\\n\\nA. Uranus\\nB. Neptunus\\nC. Pluto\\nD. Matahari\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nUranus: planet menggelinding / terdingin."
+    },
+    {
+        "instruction": "Tata Surya (Neptunus).",
+        "input": "Dalam tata surya, Neptunus menempati urutan ke-8 dari Matahari.",
+        "output": "Soal:\\nPlanet yang menempati urutan ke-8 dari Matahari adalah....\\n\\nA. Neptunus\\nB. Merkurius\\nC. Venus\\nD. Bumi\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nUrutan: Merkurius, Venus, Bumi, Mars, Jupiter, Saturnus, Uranus, Neptunus."
+    },
+    {
+        "instruction": "Ciri Planet (Neptunus).",
+        "input": "Planet Neptunus dikenal sebagai pembuat ulah / biru gelap.",
+        "output": "Soal:\\nPlanet manakah yang memiliki julukan/ciri pembuat ulah / biru gelap?\\n\\nA. Neptunus\\nB. Merkurius\\nC. Pluto\\nD. Matahari\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nNeptunus: pembuat ulah / biru gelap."
+    },
+    {
+        "instruction": "Perubahan Wujud (Mencair).",
+        "input": "Benda dapat berubah wujud dari Padat menjadi Cair.",
+        "output": "Soal:\\nPerubahan wujud dari Padat menjadi Cair disebut....\\n\\nA. Mencair\\nB. Mencair\\nC. Menguap\\nD. Menyublim\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nPadat menjadi Cair = Mencair."
+    },
+    {
+        "instruction": "Contoh Perubahan Wujud (Mencair).",
+        "input": "Peristiwa: Es krim meleleh.",
+        "output": "Soal:\\nPeristiwa tersebut merupakan contoh perubahan wujud....\\n\\nA. Mencair\\nB. Membeku\\nC. Menguap\\nD. Mengkristal\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nEs krim meleleh adalah contoh Mencair."
+    },
+    {
+        "instruction": "Contoh Perubahan Wujud (Mencair).",
+        "input": "Peristiwa: Lilin dipanaskan.",
+        "output": "Soal:\\nPeristiwa tersebut merupakan contoh perubahan wujud....\\n\\nA. Mencair\\nB. Membeku\\nC. Menguap\\nD. Mengkristal\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nLilin dipanaskan adalah contoh Mencair."
+    },
+    {
+        "instruction": "Contoh Perubahan Wujud (Mencair).",
+        "input": "Peristiwa: Mentega dipanaskan.",
+        "output": "Soal:\\nPeristiwa tersebut merupakan contoh perubahan wujud....\\n\\nA. Mencair\\nB. Membeku\\nC. Menguap\\nD. Mengkristal\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMentega dipanaskan adalah contoh Mencair."
+    },
+    {
+        "instruction": "Perubahan Wujud (Membeku).",
+        "input": "Benda dapat berubah wujud dari Cair menjadi Padat.",
+        "output": "Soal:\\nPerubahan wujud dari Cair menjadi Padat disebut....\\n\\nA. Membeku\\nB. Mencair\\nC. Menguap\\nD. Menyublim\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nCair menjadi Padat = Membeku."
+    },
+    {
+        "instruction": "Contoh Perubahan Wujud (Membeku).",
+        "input": "Peristiwa: Air jadi es batu.",
+        "output": "Soal:\\nPeristiwa tersebut merupakan contoh perubahan wujud....\\n\\nA. Membeku\\nB. Membeku\\nC. Menguap\\nD. Mengkristal\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nAir jadi es batu adalah contoh Membeku."
+    },
+    {
+        "instruction": "Contoh Perubahan Wujud (Membeku).",
+        "input": "Peristiwa: Agar-agar mengeras.",
+        "output": "Soal:\\nPeristiwa tersebut merupakan contoh perubahan wujud....\\n\\nA. Membeku\\nB. Membeku\\nC. Menguap\\nD. Mengkristal\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nAgar-agar mengeras adalah contoh Membeku."
+    },
+    {
+        "instruction": "Contoh Perubahan Wujud (Membeku).",
+        "input": "Peristiwa: Lilin cair mendingin.",
+        "output": "Soal:\\nPeristiwa tersebut merupakan contoh perubahan wujud....\\n\\nA. Membeku\\nB. Membeku\\nC. Menguap\\nD. Mengkristal\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nLilin cair mendingin adalah contoh Membeku."
+    },
+    {
+        "instruction": "Perubahan Wujud (Menguap).",
+        "input": "Benda dapat berubah wujud dari Cair menjadi Gas.",
+        "output": "Soal:\\nPerubahan wujud dari Cair menjadi Gas disebut....\\n\\nA. Menguap\\nB. Mencair\\nC. Menguap\\nD. Menyublim\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nCair menjadi Gas = Menguap."
+    },
+    {
+        "instruction": "Contoh Perubahan Wujud (Menguap).",
+        "input": "Peristiwa: Air mendidih.",
+        "output": "Soal:\\nPeristiwa tersebut merupakan contoh perubahan wujud....\\n\\nA. Menguap\\nB. Membeku\\nC. Menguap\\nD. Mengkristal\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nAir mendidih adalah contoh Menguap."
+    },
+    {
+        "instruction": "Contoh Perubahan Wujud (Menguap).",
+        "input": "Peristiwa: Baju basah jadi kering.",
+        "output": "Soal:\\nPeristiwa tersebut merupakan contoh perubahan wujud....\\n\\nA. Menguap\\nB. Membeku\\nC. Menguap\\nD. Mengkristal\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nBaju basah jadi kering adalah contoh Menguap."
+    },
+    {
+        "instruction": "Contoh Perubahan Wujud (Menguap).",
+        "input": "Peristiwa: Bensin dibiarkan terbuka.",
+        "output": "Soal:\\nPeristiwa tersebut merupakan contoh perubahan wujud....\\n\\nA. Menguap\\nB. Membeku\\nC. Menguap\\nD. Mengkristal\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nBensin dibiarkan terbuka adalah contoh Menguap."
+    },
+    {
+        "instruction": "Perubahan Wujud (Mengembun).",
+        "input": "Benda dapat berubah wujud dari Gas menjadi Cair.",
+        "output": "Soal:\\nPerubahan wujud dari Gas menjadi Cair disebut....\\n\\nA. Mengembun\\nB. Mencair\\nC. Menguap\\nD. Menyublim\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nGas menjadi Cair = Mengembun."
+    },
+    {
+        "instruction": "Contoh Perubahan Wujud (Mengembun).",
+        "input": "Peristiwa: Titik air di daun pagi hari.",
+        "output": "Soal:\\nPeristiwa tersebut merupakan contoh perubahan wujud....\\n\\nA. Mengembun\\nB. Membeku\\nC. Menguap\\nD. Mengkristal\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nTitik air di daun pagi hari adalah contoh Mengembun."
+    },
+    {
+        "instruction": "Contoh Perubahan Wujud (Mengembun).",
+        "input": "Peristiwa: Gelas berisi es basah luarnya.",
+        "output": "Soal:\\nPeristiwa tersebut merupakan contoh perubahan wujud....\\n\\nA. Mengembun\\nB. Membeku\\nC. Menguap\\nD. Mengkristal\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nGelas berisi es basah luarnya adalah contoh Mengembun."
+    },
+    {
+        "instruction": "Perubahan Wujud (Menyublim).",
+        "input": "Benda dapat berubah wujud dari Padat menjadi Gas.",
+        "output": "Soal:\\nPerubahan wujud dari Padat menjadi Gas disebut....\\n\\nA. Menyublim\\nB. Mencair\\nC. Menguap\\nD. Menyublim\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nPadat menjadi Gas = Menyublim."
+    },
+    {
+        "instruction": "Contoh Perubahan Wujud (Menyublim).",
+        "input": "Peristiwa: Kapur barus habis.",
+        "output": "Soal:\\nPeristiwa tersebut merupakan contoh perubahan wujud....\\n\\nA. Menyublim\\nB. Membeku\\nC. Menguap\\nD. Mengkristal\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nKapur barus habis adalah contoh Menyublim."
+    },
+    {
+        "instruction": "Contoh Perubahan Wujud (Menyublim).",
+        "input": "Peristiwa: Biang es berasap.",
+        "output": "Soal:\\nPeristiwa tersebut merupakan contoh perubahan wujud....\\n\\nA. Menyublim\\nB. Membeku\\nC. Menguap\\nD. Mengkristal\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nBiang es berasap adalah contoh Menyublim."
+    },
+    {
+        "instruction": "Perubahan Wujud (Mengkristal).",
+        "input": "Benda dapat berubah wujud dari Gas menjadi Padat.",
+        "output": "Soal:\\nPerubahan wujud dari Gas menjadi Padat disebut....\\n\\nA. Mengkristal\\nB. Mencair\\nC. Menguap\\nD. Menyublim\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nGas menjadi Padat = Mengkristal."
+    },
+    {
+        "instruction": "Contoh Perubahan Wujud (Mengkristal).",
+        "input": "Peristiwa: Terbentuknya salju.",
+        "output": "Soal:\\nPeristiwa tersebut merupakan contoh perubahan wujud....\\n\\nA. Mengkristal\\nB. Membeku\\nC. Menguap\\nD. Mengkristal\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nTerbentuknya salju adalah contoh Mengkristal."
+    },
+    {
+        "instruction": "Contoh Perubahan Wujud (Mengkristal).",
+        "input": "Peristiwa: Gas belerang menjadi kristal.",
+        "output": "Soal:\\nPeristiwa tersebut merupakan contoh perubahan wujud....\\n\\nA. Mengkristal\\nB. Membeku\\nC. Menguap\\nD. Mengkristal\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nGas belerang menjadi kristal adalah contoh Mengkristal."
+    },
+    {
+        "instruction": "Organ Tubuh (Jantung).",
+        "input": "Organ tubuh: Jantung.",
+        "output": "Soal:\\nFungsi utama organ Jantung adalah....\\n\\nA. memompa darah ke seluruh tubuh\\nB. Menghasilkan sel darah merah\\nC. Menyaring udara\\nD. Mengedarkan hormon\\n\\nA. mengendalikan seluruh aktivitas tubuh\\nB. tempat pertukaran oksigen dan karbon dioksida\\nC. memompa darah ke seluruh tubuh\\nD. menyaring darah dan menghasilkan urine\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nJantung berfungsi memompa darah ke seluruh tubuh."
+    },
+    {
+        "instruction": "Organ Tubuh (Paru-paru).",
+        "input": "Organ tubuh: Paru-paru.",
+        "output": "Soal:\\nFungsi utama organ Paru-paru adalah....\\n\\nA. tempat pertukaran oksigen dan karbon dioksida\\nB. Menghasilkan sel darah merah\\nC. Menyaring udara\\nD. Mengedarkan hormon\\n\\nA. menyerap sari-sari makanan\\nB. menawarkan racun\\nC. mengendalikan seluruh aktivitas tubuh\\nD. tempat pertukaran oksigen dan karbon dioksida\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nParu-paru berfungsi tempat pertukaran oksigen dan karbon dioksida."
+    },
+    {
+        "instruction": "Organ Tubuh (Lambung).",
+        "input": "Organ tubuh: Lambung.",
+        "output": "Soal:\\nFungsi utama organ Lambung adalah....\\n\\nA. mencerna makanan secara kimiawi dan mekanik\\nB. Menghasilkan sel darah merah\\nC. Menyaring udara\\nD. Mengedarkan hormon\\n\\nA. memompa darah ke seluruh tubuh\\nB. mengendalikan seluruh aktivitas tubuh\\nC. mencerna makanan secara kimiawi dan mekanik\\nD. tempat pertukaran oksigen dan karbon dioksida\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nLambung berfungsi mencerna makanan secara kimiawi dan mekanik."
+    },
+    {
+        "instruction": "Organ Tubuh (Usus Halus).",
+        "input": "Organ tubuh: Usus Halus.",
+        "output": "Soal:\\nFungsi utama organ Usus Halus adalah....\\n\\nA. menyerap sari-sari makanan\\nB. Menghasilkan sel darah merah\\nC. Menyaring udara\\nD. Mengedarkan hormon\\n\\nA. menawarkan racun\\nB. tempat pertukaran oksigen dan karbon dioksida\\nC. menyerap sari-sari makanan\\nD. menyaring darah dan menghasilkan urine\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nUsus Halus berfungsi menyerap sari-sari makanan."
+    },
+    {
+        "instruction": "Organ Tubuh (Ginjal).",
+        "input": "Organ tubuh: Ginjal.",
+        "output": "Soal:\\nFungsi utama organ Ginjal adalah....\\n\\nA. menyaring darah dan menghasilkan urine\\nB. Menghasilkan sel darah merah\\nC. Menyaring udara\\nD. Mengedarkan hormon\\n\\nA. mencerna makanan secara kimiawi dan mekanik\\nB. menyerap sari-sari makanan\\nC. menyaring darah dan menghasilkan urine\\nD. memompa darah ke seluruh tubuh\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nGinjal berfungsi menyaring darah dan menghasilkan urine."
+    },
+    {
+        "instruction": "Organ Tubuh (Hati).",
+        "input": "Organ tubuh: Hati.",
+        "output": "Soal:\\nFungsi utama organ Hati adalah....\\n\\nA. menawarkan racun\\nB. Menghasilkan sel darah merah\\nC. Menyaring udara\\nD. Mengedarkan hormon\\n\\nA. menyerap sari-sari makanan\\nB. mencerna makanan secara kimiawi dan mekanik\\nC. tempat pertukaran oksigen dan karbon dioksida\\nD. menawarkan racun\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nHati berfungsi menawarkan racun."
+    },
+    {
+        "instruction": "Organ Tubuh (Kulit).",
+        "input": "Organ tubuh: Kulit.",
+        "output": "Soal:\\nFungsi utama organ Kulit adalah....\\n\\nA. mengeluarkan keringat dan mengatur suhu tubuh\\nB. Menghasilkan sel darah merah\\nC. Menyaring udara\\nD. Mengedarkan hormon\\n\\nA. mengendalikan seluruh aktivitas tubuh\\nB. memompa darah ke seluruh tubuh\\nC. mengeluarkan keringat dan mengatur suhu tubuh\\nD. tempat pertukaran oksigen dan karbon dioksida\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nKulit berfungsi mengeluarkan keringat dan mengatur suhu tubuh."
+    },
+    {
+        "instruction": "Organ Tubuh (Otak).",
+        "input": "Organ tubuh: Otak.",
+        "output": "Soal:\\nFungsi utama organ Otak adalah....\\n\\nA. mengendalikan seluruh aktivitas tubuh\\nB. Menghasilkan sel darah merah\\nC. Menyaring udara\\nD. Mengedarkan hormon\\n\\nA. menyerap sari-sari makanan\\nB. memompa darah ke seluruh tubuh\\nC. menyaring darah dan menghasilkan urine\\nD. mengendalikan seluruh aktivitas tubuh\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nOtak berfungsi mengendalikan seluruh aktivitas tubuh."
+    },
+    {
+        "instruction": "Jenis Gaya (Gaya Gesek).",
+        "input": "Kegiatan: Alur pada ban mobil dibuat kasar.",
+        "output": "Soal:\\nKegiatan tersebut melibatkan gaya....\\n\\nA. Gaya Gesek\\nB. Gaya Listrik\\nC. Gaya Gesek\\nD. Gaya Magnet\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nAlur pada ban mobil dibuat kasar berkaitan dengan Gaya Gesek."
+    },
+    {
+        "instruction": "Jenis Gaya (Gaya Gesek).",
+        "input": "Kegiatan: Memberi oli pada rantai sepeda (memperkecil).",
+        "output": "Soal:\\nKegiatan tersebut melibatkan gaya....\\n\\nA. Gaya Gesek\\nB. Gaya Listrik\\nC. Gaya Gesek\\nD. Gaya Magnet\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMemberi oli pada rantai sepeda (memperkecil) berkaitan dengan Gaya Gesek."
+    },
+    {
+        "instruction": "Jenis Gaya (Gaya Gravitasi).",
+        "input": "Kegiatan: Penerjun payung turun ke bawah.",
+        "output": "Soal:\\nKegiatan tersebut melibatkan gaya....\\n\\nA. Gaya Gravitasi\\nB. Gaya Listrik\\nC. Gaya Gesek\\nD. Gaya Magnet\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nPenerjun payung turun ke bawah berkaitan dengan Gaya Gravitasi."
+    },
+    {
+        "instruction": "Jenis Gaya (Gaya Magnet).",
+        "input": "Kegiatan: Paku tertarik magnet.",
+        "output": "Soal:\\nKegiatan tersebut melibatkan gaya....\\n\\nA. Gaya Magnet\\nB. Gaya Listrik\\nC. Gaya Gesek\\nD. Gaya Magnet\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nPaku tertarik magnet berkaitan dengan Gaya Magnet."
+    },
+    {
+        "instruction": "Jenis Gaya (Gaya Otot).",
+        "input": "Kegiatan: Kuda menarik delman.",
+        "output": "Soal:\\nKegiatan tersebut melibatkan gaya....\\n\\nA. Gaya Otot\\nB. Gaya Listrik\\nC. Gaya Gesek\\nD. Gaya Magnet\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nKuda menarik delman berkaitan dengan Gaya Otot."
+    },
+    {
+        "instruction": "Jenis Gaya (Gaya Pegas).",
+        "input": "Kegiatan: Anak bermain trampolin.",
+        "output": "Soal:\\nKegiatan tersebut melibatkan gaya....\\n\\nA. Gaya Pegas\\nB. Gaya Listrik\\nC. Gaya Gesek\\nD. Gaya Magnet\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nAnak bermain trampolin berkaitan dengan Gaya Pegas."
+    },
+    {
+        "instruction": "Penyakit Menular (Demam Berdarah).",
+        "input": "Penyakit Demam Berdarah dapat menular ke manusia.",
+        "output": "Soal:\\nPenyebab atau perantara penularan penyakit Demam Berdarah adalah....\\n\\nA. Nyamuk Aedes Aegypti\\nB. Gigitan Tikus\\nC. Cacing Tanah\\nD. Kutu Rambut\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nDemam Berdarah ditularkan oleh Nyamuk Aedes Aegypti."
+    },
+    {
+        "instruction": "Penyakit Menular (Malaria).",
+        "input": "Penyakit Malaria dapat menular ke manusia.",
+        "output": "Soal:\\nPenyebab atau perantara penularan penyakit Malaria adalah....\\n\\nA. Nyamuk Anopheles\\nB. Gigitan Tikus\\nC. Cacing Tanah\\nD. Kutu Rambut\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMalaria ditularkan oleh Nyamuk Anopheles."
+    },
+    {
+        "instruction": "Penyakit Menular (TBC (Tuberkulosis)).",
+        "input": "Penyakit TBC (Tuberkulosis) dapat menular ke manusia.",
+        "output": "Soal:\\nPenyebab atau perantara penularan penyakit TBC (Tuberkulosis) adalah....\\n\\nA. Udara / Percikan ludah\\nB. Gigitan Tikus\\nC. Cacing Tanah\\nD. Kutu Rambut\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nTBC (Tuberkulosis) ditularkan oleh Udara / Percikan ludah."
+    },
+    {
+        "instruction": "Penyakit Menular (Influenza).",
+        "input": "Penyakit Influenza dapat menular ke manusia.",
+        "output": "Soal:\\nPenyebab atau perantara penularan penyakit Influenza adalah....\\n\\nA. Udara / Kontak langsung\\nB. Gigitan Tikus\\nC. Cacing Tanah\\nD. Kutu Rambut\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nInfluenza ditularkan oleh Udara / Kontak langsung."
+    },
+    {
+        "instruction": "Penyakit Menular (Rabies).",
+        "input": "Penyakit Rabies dapat menular ke manusia.",
+        "output": "Soal:\\nPenyebab atau perantara penularan penyakit Rabies adalah....\\n\\nA. Gigitan hewan (anjing, kucing, kera)\\nB. Gigitan Tikus\\nC. Cacing Tanah\\nD. Kutu Rambut\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nRabies ditularkan oleh Gigitan hewan (anjing, kucing, kera)."
+    },
+    {
+        "instruction": "Penyakit Menular (Diare).",
+        "input": "Penyakit Diare dapat menular ke manusia.",
+        "output": "Soal:\\nPenyebab atau perantara penularan penyakit Diare adalah....\\n\\nA. Makanan kotor / Lalat\\nB. Gigitan Tikus\\nC. Cacing Tanah\\nD. Kutu Rambut\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nDiare ditularkan oleh Makanan kotor / Lalat."
+    },
+    {
+        "instruction": "Penyakit Menular (Tifus).",
+        "input": "Penyakit Tifus dapat menular ke manusia.",
+        "output": "Soal:\\nPenyebab atau perantara penularan penyakit Tifus adalah....\\n\\nA. Makanan tidak higienis\\nB. Gigitan Tikus\\nC. Cacing Tanah\\nD. Kutu Rambut\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nTifus ditularkan oleh Makanan tidak higienis."
+    },
+    {
+        "instruction": "Penyakit Menular (Cacar Air).",
+        "input": "Penyakit Cacar Air dapat menular ke manusia.",
+        "output": "Soal:\\nPenyebab atau perantara penularan penyakit Cacar Air adalah....\\n\\nA. Udara / Sentuhan\\nB. Gigitan Tikus\\nC. Cacing Tanah\\nD. Kutu Rambut\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nCacar Air ditularkan oleh Udara / Sentuhan."
+    },
+    {
+        "instruction": "Bencana Alam (Gempa Bumi).",
+        "input": "Peristiwa alam: getaran kulit bumi.",
+        "output": "Soal:\\nPeristiwa tersebut disebut....\\n\\nA. Gempa Bumi\\nB. Angin Topan\\nC. Kekeringan\\nD. Kebakaran Hutan\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\ngetaran kulit bumi adalah Gempa Bumi."
+    },
+    {
+        "instruction": "Bencana Alam (Tsunami).",
+        "input": "Peristiwa alam: gelombang laut besar akibat gempa dasar laut.",
+        "output": "Soal:\\nPeristiwa tersebut disebut....\\n\\nA. Tsunami\\nB. Angin Topan\\nC. Kekeringan\\nD. Kebakaran Hutan\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\ngelombang laut besar akibat gempa dasar laut adalah Tsunami."
+    },
+    {
+        "instruction": "Bencana Alam (Gunung Meletus).",
+        "input": "Peristiwa alam: keluarnya magma dari perut bumi.",
+        "output": "Soal:\\nPeristiwa tersebut disebut....\\n\\nA. Gunung Meletus\\nB. Angin Topan\\nC. Kekeringan\\nD. Kebakaran Hutan\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nkeluarnya magma dari perut bumi adalah Gunung Meletus."
+    },
+    {
+        "instruction": "Bencana Alam (Banjir).",
+        "input": "Peristiwa alam: meluapnya air sungai ke daratan.",
+        "output": "Soal:\\nPeristiwa tersebut disebut....\\n\\nA. Banjir\\nB. Angin Topan\\nC. Kekeringan\\nD. Kebakaran Hutan\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nmeluapnya air sungai ke daratan adalah Banjir."
+    },
+    {
+        "instruction": "Bencana Alam (Tanah Longsor).",
+        "input": "Peristiwa alam: pergerakan tanah menuruni lereng.",
+        "output": "Soal:\\nPeristiwa tersebut disebut....\\n\\nA. Tanah Longsor\\nB. Angin Topan\\nC. Kekeringan\\nD. Kebakaran Hutan\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\npergerakan tanah menuruni lereng adalah Tanah Longsor."
+    },
+    {
+        "instruction": "Daur Air (Evaporasi).",
+        "input": "Tahapan daur air: penguapan air laut/sungai karena panas matahari.",
+        "output": "Soal:\\nTahapan tersebut dinamakan....\\n\\nA. Evaporasi\\nB. Sublimasi\\nC. Respirasi\\nD. Abrasi\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\npenguapan air laut/sungai karena panas matahari adalah Evaporasi."
+    },
+    {
+        "instruction": "Daur Air (Transpirasi).",
+        "input": "Tahapan daur air: penguapan air dari tumbuhan.",
+        "output": "Soal:\\nTahapan tersebut dinamakan....\\n\\nA. Transpirasi\\nB. Sublimasi\\nC. Respirasi\\nD. Abrasi\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\npenguapan air dari tumbuhan adalah Transpirasi."
+    },
+    {
+        "instruction": "Daur Air (Kondensasi).",
+        "input": "Tahapan daur air: pembentukan awan (uap air jadi titik air).",
+        "output": "Soal:\\nTahapan tersebut dinamakan....\\n\\nA. Kondensasi\\nB. Sublimasi\\nC. Respirasi\\nD. Abrasi\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\npembentukan awan (uap air jadi titik air) adalah Kondensasi."
+    },
+    {
+        "instruction": "Daur Air (Presipitasi).",
+        "input": "Tahapan daur air: jatuhnya titik air ke bumi (hujan).",
+        "output": "Soal:\\nTahapan tersebut dinamakan....\\n\\nA. Presipitasi\\nB. Sublimasi\\nC. Respirasi\\nD. Abrasi\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\njatuhnya titik air ke bumi (hujan) adalah Presipitasi."
+    },
+    {
+        "instruction": "Daur Air (Infiltrasi).",
+        "input": "Tahapan daur air: penyerapan air ke dalam tanah.",
+        "output": "Soal:\\nTahapan tersebut dinamakan....\\n\\nA. Infiltrasi\\nB. Sublimasi\\nC. Respirasi\\nD. Abrasi\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\npenyerapan air ke dalam tanah adalah Infiltrasi."
+    },
+    {
+        "instruction": "Pesawat Sederhana (Tuas (Pengungkit)).",
+        "input": "Alat: Gunting.",
+        "output": "Soal:\\nAlat tersebut menggunakan prinsip pesawat sederhana jenis....\\n\\nA. Tuas (Pengungkit)\\nB. Tuas\\nC. Katrol\\nD. Bidang Miring\\n\\nA. Tuas (Pengungkit)\\nB. Katrol\\nC. Bidang Miring\\nD. Roda Berporos\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nGunting adalah contoh Tuas (Pengungkit)."
+    },
+    {
+        "instruction": "Pesawat Sederhana (Tuas (Pengungkit)).",
+        "input": "Alat: Jungkat-jungkit.",
+        "output": "Soal:\\nAlat tersebut menggunakan prinsip pesawat sederhana jenis....\\n\\nA. Tuas (Pengungkit)\\nB. Tuas\\nC. Katrol\\nD. Bidang Miring\\n\\nA. Katrol\\nB. Roda Berporos\\nC. Tuas (Pengungkit)\\nD. Bidang Miring\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nJungkat-jungkit adalah contoh Tuas (Pengungkit)."
+    },
+    {
+        "instruction": "Pesawat Sederhana (Tuas (Pengungkit)).",
+        "input": "Alat: Pemotong kuku.",
+        "output": "Soal:\\nAlat tersebut menggunakan prinsip pesawat sederhana jenis....\\n\\nA. Tuas (Pengungkit)\\nB. Tuas\\nC. Katrol\\nD. Bidang Miring\\n\\nA. Bidang Miring\\nB. Katrol\\nC. Tuas (Pengungkit)\\nD. Roda Berporos\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nPemotong kuku adalah contoh Tuas (Pengungkit)."
+    },
+    {
+        "instruction": "Pesawat Sederhana (Tuas (Pengungkit)).",
+        "input": "Alat: Linggis.",
+        "output": "Soal:\\nAlat tersebut menggunakan prinsip pesawat sederhana jenis....\\n\\nA. Tuas (Pengungkit)\\nB. Tuas\\nC. Katrol\\nD. Bidang Miring\\n\\nA. Bidang Miring\\nB. Tuas (Pengungkit)\\nC. Katrol\\nD. Roda Berporos\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nLinggis adalah contoh Tuas (Pengungkit)."
+    },
+    {
+        "instruction": "Pesawat Sederhana (Bidang Miring).",
+        "input": "Alat: Tangga.",
+        "output": "Soal:\\nAlat tersebut menggunakan prinsip pesawat sederhana jenis....\\n\\nA. Bidang Miring\\nB. Tuas\\nC. Katrol\\nD. Bidang Miring\\n\\nA. Tuas (Pengungkit)\\nB. Katrol\\nC. Roda Berporos\\nD. Bidang Miring\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nTangga adalah contoh Bidang Miring."
+    },
+    {
+        "instruction": "Pesawat Sederhana (Bidang Miring).",
+        "input": "Alat: Sekrup.",
+        "output": "Soal:\\nAlat tersebut menggunakan prinsip pesawat sederhana jenis....\\n\\nA. Bidang Miring\\nB. Tuas\\nC. Katrol\\nD. Bidang Miring\\n\\nA. Tuas (Pengungkit)\\nB. Bidang Miring\\nC. Roda Berporos\\nD. Katrol\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSekrup adalah contoh Bidang Miring."
+    },
+    {
+        "instruction": "Pesawat Sederhana (Bidang Miring).",
+        "input": "Alat: Pisau.",
+        "output": "Soal:\\nAlat tersebut menggunakan prinsip pesawat sederhana jenis....\\n\\nA. Bidang Miring\\nB. Tuas\\nC. Katrol\\nD. Bidang Miring\\n\\nA. Roda Berporos\\nB. Bidang Miring\\nC. Katrol\\nD. Tuas (Pengungkit)\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nPisau adalah contoh Bidang Miring."
+    },
+    {
+        "instruction": "Pesawat Sederhana (Bidang Miring).",
+        "input": "Alat: Jalan berkelok.",
+        "output": "Soal:\\nAlat tersebut menggunakan prinsip pesawat sederhana jenis....\\n\\nA. Bidang Miring\\nB. Tuas\\nC. Katrol\\nD. Bidang Miring\\n\\nA. Bidang Miring\\nB. Roda Berporos\\nC. Tuas (Pengungkit)\\nD. Katrol\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nJalan berkelok adalah contoh Bidang Miring."
+    },
+    {
+        "instruction": "Pesawat Sederhana (Katrol).",
+        "input": "Alat: Tiang bendera.",
+        "output": "Soal:\\nAlat tersebut menggunakan prinsip pesawat sederhana jenis....\\n\\nA. Katrol\\nB. Tuas\\nC. Katrol\\nD. Bidang Miring\\n\\nA. Tuas (Pengungkit)\\nB. Katrol\\nC. Bidang Miring\\nD. Roda Berporos\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nTiang bendera adalah contoh Katrol."
+    },
+    {
+        "instruction": "Pesawat Sederhana (Katrol).",
+        "input": "Alat: Sumur timba.",
+        "output": "Soal:\\nAlat tersebut menggunakan prinsip pesawat sederhana jenis....\\n\\nA. Katrol\\nB. Tuas\\nC. Katrol\\nD. Bidang Miring\\n\\nA. Tuas (Pengungkit)\\nB. Bidang Miring\\nC. Roda Berporos\\nD. Katrol\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSumur timba adalah contoh Katrol."
+    },
+    {
+        "instruction": "Pesawat Sederhana (Katrol).",
+        "input": "Alat: Mobil derek.",
+        "output": "Soal:\\nAlat tersebut menggunakan prinsip pesawat sederhana jenis....\\n\\nA. Katrol\\nB. Tuas\\nC. Katrol\\nD. Bidang Miring\\n\\nA. Katrol\\nB. Tuas (Pengungkit)\\nC. Bidang Miring\\nD. Roda Berporos\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMobil derek adalah contoh Katrol."
+    },
+    {
+        "instruction": "Pesawat Sederhana (Roda Berporos).",
+        "input": "Alat: Setir mobil.",
+        "output": "Soal:\\nAlat tersebut menggunakan prinsip pesawat sederhana jenis....\\n\\nA. Roda Berporos\\nB. Tuas\\nC. Katrol\\nD. Bidang Miring\\n\\nA. Tuas (Pengungkit)\\nB. Bidang Miring\\nC. Katrol\\nD. Roda Berporos\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSetir mobil adalah contoh Roda Berporos."
+    },
+    {
+        "instruction": "Pesawat Sederhana (Roda Berporos).",
+        "input": "Alat: Roda sepeda.",
+        "output": "Soal:\\nAlat tersebut menggunakan prinsip pesawat sederhana jenis....\\n\\nA. Roda Berporos\\nB. Tuas\\nC. Katrol\\nD. Bidang Miring\\n\\nA. Bidang Miring\\nB. Katrol\\nC. Tuas (Pengungkit)\\nD. Roda Berporos\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nRoda sepeda adalah contoh Roda Berporos."
+    },
+    {
+        "instruction": "Pesawat Sederhana (Roda Berporos).",
+        "input": "Alat: Gerobak dorong.",
+        "output": "Soal:\\nAlat tersebut menggunakan prinsip pesawat sederhana jenis....\\n\\nA. Roda Berporos\\nB. Tuas\\nC. Katrol\\nD. Bidang Miring\\n\\nA. Katrol\\nB. Bidang Miring\\nC. Roda Berporos\\nD. Tuas (Pengungkit)\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nGerobak dorong adalah contoh Roda Berporos."
+    },
+    {
+        "instruction": "Penemu (Thomas Alva Edison).",
+        "input": "Tokoh: Thomas Alva Edison.",
+        "output": "Soal:\\nPenemuan yang membuat Thomas Alva Edison terkenal adalah....\\n\\nA. Bola lampu pijar\\nB. Mesin Waktu\\nC. Mobil Listrik\\nD. Komputer\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nThomas Alva Edison menemukan Bola lampu pijar."
+    },
+    {
+        "instruction": "Penemu (Alexander Graham Bell).",
+        "input": "Tokoh: Alexander Graham Bell.",
+        "output": "Soal:\\nPenemuan yang membuat Alexander Graham Bell terkenal adalah....\\n\\nA. Telepon\\nB. Mesin Waktu\\nC. Mobil Listrik\\nD. Komputer\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nAlexander Graham Bell menemukan Telepon."
+    },
+    {
+        "instruction": "Penemu (Guglielmo Marconi).",
+        "input": "Tokoh: Guglielmo Marconi.",
+        "output": "Soal:\\nPenemuan yang membuat Guglielmo Marconi terkenal adalah....\\n\\nA. Radio\\nB. Mesin Waktu\\nC. Mobil Listrik\\nD. Komputer\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nGuglielmo Marconi menemukan Radio."
+    },
+    {
+        "instruction": "Penemu (James Watt).",
+        "input": "Tokoh: James Watt.",
+        "output": "Soal:\\nPenemuan yang membuat James Watt terkenal adalah....\\n\\nA. Mesin Uap\\nB. Mesin Waktu\\nC. Mobil Listrik\\nD. Komputer\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nJames Watt menemukan Mesin Uap."
+    },
+    {
+        "instruction": "Penemu (Wilbur & Orville Wright).",
+        "input": "Tokoh: Wilbur & Orville Wright.",
+        "output": "Soal:\\nPenemuan yang membuat Wilbur & Orville Wright terkenal adalah....\\n\\nA. Pesawat Terbang\\nB. Mesin Waktu\\nC. Mobil Listrik\\nD. Komputer\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nWilbur & Orville Wright menemukan Pesawat Terbang."
+    },
+    {
+        "instruction": "Penemu (Galileo Galilei).",
+        "input": "Tokoh: Galileo Galilei.",
+        "output": "Soal:\\nPenemuan yang membuat Galileo Galilei terkenal adalah....\\n\\nA. Teleskop\\nB. Mesin Waktu\\nC. Mobil Listrik\\nD. Komputer\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nGalileo Galilei menemukan Teleskop."
+    },
+    {
+        "instruction": "Penemu (Isaac Newton).",
+        "input": "Tokoh: Isaac Newton.",
+        "output": "Soal:\\nPenemuan yang membuat Isaac Newton terkenal adalah....\\n\\nA. Teori Gravitasi\\nB. Mesin Waktu\\nC. Mobil Listrik\\nD. Komputer\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nIsaac Newton menemukan Teori Gravitasi."
+    },
+    {
+        "instruction": "Penemu (B.J. Habibie).",
+        "input": "Tokoh: B.J. Habibie.",
+        "output": "Soal:\\nPenemuan yang membuat B.J. Habibie terkenal adalah....\\n\\nA. Teori Crack Pesawat\\nB. Mesin Waktu\\nC. Mobil Listrik\\nD. Komputer\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nB.J. Habibie menemukan Teori Crack Pesawat."
+    },
+    {
+        "instruction": "Pelestarian Alam (Taman Nasional Ujung Kulon).",
+        "input": "Kawasan konservasi: Taman Nasional Ujung Kulon.",
+        "output": "Soal:\\nHewan langka yang dilindungi di tempat tersebut adalah....\\n\\nA. Badak Bercula Satu\\nB. Panda\\nC. Kangguru\\nD. Unta\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nTaman Nasional Ujung Kulon melindungi Badak Bercula Satu."
+    },
+    {
+        "instruction": "Lokasi Taman Nasional (Taman Nasional Ujung Kulon).",
+        "input": "Taman Nasional Taman Nasional Ujung Kulon terletak di provinsi....",
+        "output": "Soal:\\nProvinsi tempat Taman Nasional Ujung Kulon berada adalah....\\n\\nA. Banten\\nB. DKI Jakarta\\nC. Papua\\nD. Bali\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nTaman Nasional Ujung Kulon ada di Banten."
+    },
+    {
+        "instruction": "Pelestarian Alam (Taman Nasional Komodo).",
+        "input": "Kawasan konservasi: Taman Nasional Komodo.",
+        "output": "Soal:\\nHewan langka yang dilindungi di tempat tersebut adalah....\\n\\nA. Komodo\\nB. Panda\\nC. Kangguru\\nD. Unta\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nTaman Nasional Komodo melindungi Komodo."
+    },
+    {
+        "instruction": "Lokasi Taman Nasional (Taman Nasional Komodo).",
+        "input": "Taman Nasional Taman Nasional Komodo terletak di provinsi....",
+        "output": "Soal:\\nProvinsi tempat Taman Nasional Komodo berada adalah....\\n\\nA. NTT\\nB. DKI Jakarta\\nC. Papua\\nD. Bali\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nTaman Nasional Komodo ada di NTT."
+    },
+    {
+        "instruction": "Pelestarian Alam (Taman Nasional Way Kambas).",
+        "input": "Kawasan konservasi: Taman Nasional Way Kambas.",
+        "output": "Soal:\\nHewan langka yang dilindungi di tempat tersebut adalah....\\n\\nA. Gajah Sumatera\\nB. Panda\\nC. Kangguru\\nD. Unta\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nTaman Nasional Way Kambas melindungi Gajah Sumatera."
+    },
+    {
+        "instruction": "Lokasi Taman Nasional (Taman Nasional Way Kambas).",
+        "input": "Taman Nasional Taman Nasional Way Kambas terletak di provinsi....",
+        "output": "Soal:\\nProvinsi tempat Taman Nasional Way Kambas berada adalah....\\n\\nA. Lampung\\nB. DKI Jakarta\\nC. Papua\\nD. Bali\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nTaman Nasional Way Kambas ada di Lampung."
+    },
+    {
+        "instruction": "Pelestarian Alam (Taman Nasional Tanjung Puting).",
+        "input": "Kawasan konservasi: Taman Nasional Tanjung Puting.",
+        "output": "Soal:\\nHewan langka yang dilindungi di tempat tersebut adalah....\\n\\nA. Orang Utan\\nB. Panda\\nC. Kangguru\\nD. Unta\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nTaman Nasional Tanjung Puting melindungi Orang Utan."
+    },
+    {
+        "instruction": "Lokasi Taman Nasional (Taman Nasional Tanjung Puting).",
+        "input": "Taman Nasional Taman Nasional Tanjung Puting terletak di provinsi....",
+        "output": "Soal:\\nProvinsi tempat Taman Nasional Tanjung Puting berada adalah....\\n\\nA. Kalimantan Tengah\\nB. DKI Jakarta\\nC. Papua\\nD. Bali\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nTaman Nasional Tanjung Puting ada di Kalimantan Tengah."
+    },
+    {
+        "instruction": "Pelestarian Alam (Taman Nasional Bunaken).",
+        "input": "Kawasan konservasi: Taman Nasional Bunaken.",
+        "output": "Soal:\\nHewan langka yang dilindungi di tempat tersebut adalah....\\n\\nA. Taman Laut / Terumbu Karang\\nB. Panda\\nC. Kangguru\\nD. Unta\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nTaman Nasional Bunaken melindungi Taman Laut / Terumbu Karang."
+    },
+    {
+        "instruction": "Lokasi Taman Nasional (Taman Nasional Bunaken).",
+        "input": "Taman Nasional Taman Nasional Bunaken terletak di provinsi....",
+        "output": "Soal:\\nProvinsi tempat Taman Nasional Bunaken berada adalah....\\n\\nA. Sulawesi Utara\\nB. DKI Jakarta\\nC. Papua\\nD. Bali\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nTaman Nasional Bunaken ada di Sulawesi Utara."
+    },
+    {
+        "instruction": "Alat Musik (Angklung).",
+        "input": "Alat musik tradisional: Angklung.",
+        "output": "Soal:\\nAlat musik Angklung berasal dari daerah....\\n\\nA. Jawa Barat\\nB. Sumatera Barat\\nC. Kalimantan Timur\\nD. Aceh\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nAngklung dari Jawa Barat."
+    },
+    {
+        "instruction": "Cara Memainkan (Angklung).",
+        "input": "Cara memainkan alat musik Angklung.",
+        "output": "Soal:\\nAlat musik Angklung dimainkan dengan cara....\\n\\nA. Digoyangkan\\nB. Digesek\\nC. Ditekan\\nD. Diinjak\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nAngklung dimainkan dengan cara Digoyangkan."
+    },
+    {
+        "instruction": "Alat Musik (Sasando).",
+        "input": "Alat musik tradisional: Sasando.",
+        "output": "Soal:\\nAlat musik Sasando berasal dari daerah....\\n\\nA. NTT\\nB. Sumatera Barat\\nC. Kalimantan Timur\\nD. Aceh\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSasando dari NTT."
+    },
+    {
+        "instruction": "Cara Memainkan (Sasando).",
+        "input": "Cara memainkan alat musik Sasando.",
+        "output": "Soal:\\nAlat musik Sasando dimainkan dengan cara....\\n\\nA. Dipetik\\nB. Digesek\\nC. Ditekan\\nD. Diinjak\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSasando dimainkan dengan cara Dipetik."
+    },
+    {
+        "instruction": "Alat Musik (Kecapi).",
+        "input": "Alat musik tradisional: Kecapi.",
+        "output": "Soal:\\nAlat musik Kecapi berasal dari daerah....\\n\\nA. Jawa Barat\\nB. Sumatera Barat\\nC. Kalimantan Timur\\nD. Aceh\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nKecapi dari Jawa Barat."
+    },
+    {
+        "instruction": "Cara Memainkan (Kecapi).",
+        "input": "Cara memainkan alat musik Kecapi.",
+        "output": "Soal:\\nAlat musik Kecapi dimainkan dengan cara....\\n\\nA. Dipetik\\nB. Digesek\\nC. Ditekan\\nD. Diinjak\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nKecapi dimainkan dengan cara Dipetik."
+    },
+    {
+        "instruction": "Alat Musik (Gamelan).",
+        "input": "Alat musik tradisional: Gamelan.",
+        "output": "Soal:\\nAlat musik Gamelan berasal dari daerah....\\n\\nA. Jawa\\nB. Sumatera Barat\\nC. Kalimantan Timur\\nD. Aceh\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nGamelan dari Jawa."
+    },
+    {
+        "instruction": "Cara Memainkan (Gamelan).",
+        "input": "Cara memainkan alat musik Gamelan.",
+        "output": "Soal:\\nAlat musik Gamelan dimainkan dengan cara....\\n\\nA. Dipukul\\nB. Digesek\\nC. Ditekan\\nD. Diinjak\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nGamelan dimainkan dengan cara Dipukul."
+    },
+    {
+        "instruction": "Alat Musik (Kolintang).",
+        "input": "Alat musik tradisional: Kolintang.",
+        "output": "Soal:\\nAlat musik Kolintang berasal dari daerah....\\n\\nA. Sulawesi Utara\\nB. Sumatera Barat\\nC. Kalimantan Timur\\nD. Aceh\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nKolintang dari Sulawesi Utara."
+    },
+    {
+        "instruction": "Cara Memainkan (Kolintang).",
+        "input": "Cara memainkan alat musik Kolintang.",
+        "output": "Soal:\\nAlat musik Kolintang dimainkan dengan cara....\\n\\nA. Dipukul\\nB. Digesek\\nC. Ditekan\\nD. Diinjak\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nKolintang dimainkan dengan cara Dipukul."
+    },
+    {
+        "instruction": "Alat Musik (Tifa).",
+        "input": "Alat musik tradisional: Tifa.",
+        "output": "Soal:\\nAlat musik Tifa berasal dari daerah....\\n\\nA. Papua\\nB. Sumatera Barat\\nC. Kalimantan Timur\\nD. Aceh\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nTifa dari Papua."
+    },
+    {
+        "instruction": "Cara Memainkan (Tifa).",
+        "input": "Cara memainkan alat musik Tifa.",
+        "output": "Soal:\\nAlat musik Tifa dimainkan dengan cara....\\n\\nA. Dipukul\\nB. Digesek\\nC. Ditekan\\nD. Diinjak\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nTifa dimainkan dengan cara Dipukul."
+    },
+    {
+        "instruction": "Alat Musik (Suling).",
+        "input": "Alat musik tradisional: Suling.",
+        "output": "Soal:\\nAlat musik Suling berasal dari daerah....\\n\\nA. Jawa Barat\\nB. Sumatera Barat\\nC. Kalimantan Timur\\nD. Aceh\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSuling dari Jawa Barat."
+    },
+    {
+        "instruction": "Cara Memainkan (Suling).",
+        "input": "Cara memainkan alat musik Suling.",
+        "output": "Soal:\\nAlat musik Suling dimainkan dengan cara....\\n\\nA. Ditiup\\nB. Digesek\\nC. Ditekan\\nD. Diinjak\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSuling dimainkan dengan cara Ditiup."
     }
 ]
