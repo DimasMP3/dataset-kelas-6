@@ -1083,5 +1083,1510 @@
         "instruction": "Seni Patung (Volume).",
         "input": "Unsur yang membedakan karya 2 dimensi dan 3 dimensi adalah adanya unsur....",
         "output": "Soal:\nA. Panjang\nB. Lebar\nC. Volume/Ruang\nD. Warna\n\nKunci Jawaban: C\n\nPembahasan:\nRuang/Ketebalan."
+    },
+    {
+        "instruction": "Seni Patung",
+        "input": "Patung yang dibuat dengan tujuan untuk mengenang jasa pahlawan atau peristiwa bersejarah disebut....",
+        "output": "Soal:\\nPatung yang dibuat dengan tujuan untuk mengenang jasa pahlawan atau peristiwa bersejarah disebut....\\n\\nopsi:\\nA. Patung Kerajinan\\nB. Patung Dekorasi\\nC. Patung Arsitektur\\nD. Patung Monumen\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nFungsi monumen."
+    },
+    {
+        "instruction": "Seni Patung",
+        "input": "Patung yang dibuat semata-mata untuk dinikmati keindahannya disebut....",
+        "output": "Soal:\\nPatung yang dibuat semata-mata untuk dinikmati keindahannya disebut....\\n\\nopsi:\\nA. Patung Religi\\nB. Patung Arsitektur\\nC. Patung Seni\\nD. Patung Kerajinan\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nEstetika murni."
+    },
+    {
+        "instruction": "Seni Patung",
+        "input": "Patung yang digunakan sebagai sarana beribadah disebut....",
+        "output": "Soal:\\nPatung yang digunakan sebagai sarana beribadah disebut....\\n\\nopsi:\\nA. Patung Monumen\\nB. Patung Religi\\nC. Patung Seni\\nD. Patung Dekorasi\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nFungsi religius."
+    },
+    {
+        "instruction": "Seni Patung",
+        "input": "Patung yang berfungsi untuk menghias bangunan atau taman disebut....",
+        "output": "Soal:\\nPatung yang berfungsi untuk menghias bangunan atau taman disebut....\\n\\nopsi:\\nA. Patung Religi\\nB. Patung Dekorasi\\nC. Patung Monumen\\nD. Patung Seni\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nFungsi hiasan."
+    },
+    {
+        "instruction": "Seni Patung",
+        "input": "Bahan lunak yang biasa digunakan untuk membuat patung adalah....",
+        "output": "Soal:\\nBahan lunak yang biasa digunakan untuk membuat patung adalah....\\n\\nopsi:\\nA. Batu, Kayu\\nB. Semen, Pasir\\nC. Logam, Kaca\\nD. Tanah liat, Lilin, Sabun\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nBahan lunak."
+    },
+    {
+        "instruction": "Seni Patung",
+        "input": "Bahan keras untu membuat patung contohnya....",
+        "output": "Soal:\\nBahan keras untu membuat patung contohnya....\\n\\nopsi:\\nA. Plastisin\\nB. Tanah liat\\nC. Bubur kertas\\nD. Batu granit, Kayu jati\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nBahan keras."
+    },
+    {
+        "instruction": "Seni Patung",
+        "input": "Teknik membuat patung dengan cara memijit, menambah, atau mengurangi bahan lunak disebut....",
+        "output": "Soal:\\nTeknik membuat patung dengan cara memijit, menambah, atau mengurangi bahan lunak disebut....\\n\\nopsi:\\nA. Teknik Butsir\\nB. Teknik Cor\\nC. Teknik Pahat\\nD. Teknik Las\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nButsir (Modeling)."
+    },
+    {
+        "instruction": "Seni Patung",
+        "input": "Teknik membuat patung dengan cara mengurangi bahan keras (kayu/batu) menggunakan alat benturan disebut....",
+        "output": "Soal:\\nTeknik membuat patung dengan cara mengurangi bahan keras (kayu/batu) menggunakan alat benturan disebut....\\n\\nopsi:\\nA. Teknik Las\\nB. Teknik Butsir\\nC. Teknik Cetak\\nD. Teknik Pahat\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nPahat (Carving)."
+    },
+    {
+        "instruction": "Seni Patung",
+        "input": "Teknik membuat patung dengan cara menuang cairan bahan (semen/logam) ke dalam cetakan disebut....",
+        "output": "Soal:\\nTeknik membuat patung dengan cara menuang cairan bahan (semen/logam) ke dalam cetakan disebut....\\n\\nopsi:\\nA. Teknik Butsir\\nB. Teknik Cor\\nC. Teknik Pahat\\nD. Teknik Las\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nCasting."
+    },
+    {
+        "instruction": "Seni Patung",
+        "input": "Teknik menggabungkan bahan logam dengan cara dipanaskan disebut....",
+        "output": "Soal:\\nTeknik menggabungkan bahan logam dengan cara dipanaskan disebut....\\n\\nopsi:\\nA. Teknik Las\\nB. Teknik Cor\\nC. Teknik Butsir\\nD. Teknik Pahat\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nWelding."
+    },
+    {
+        "instruction": "Seni Patung",
+        "input": "Patung yang meniru bentuk alam (manusia, hewan, tumbuhan) disebut patung....",
+        "output": "Soal:\\nPatung yang meniru bentuk alam (manusia, hewan, tumbuhan) disebut patung....\\n\\nopsi:\\nA. Figuratif / Realis\\nB. Non-figuratif\\nC. Imajianatif\\nD. Abstrak\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nBentuk nyata."
+    },
+    {
+        "instruction": "Seni Patung",
+        "input": "Patung yang tidak meniru bentuk alam (garis, bidang, volume) disebut patung....",
+        "output": "Soal:\\nPatung yang tidak meniru bentuk alam (garis, bidang, volume) disebut patung....\\n\\nopsi:\\nA. Figuratif\\nB. Naturalis\\nC. Non-figuratif / Abstrak\\nD. Realis\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nBentuk abstrak."
+    },
+    {
+        "instruction": "Seni Patung",
+        "input": "Alat utama untuk memahat kayu adalah....",
+        "output": "Soal:\\nAlat utama untuk memahat kayu adalah....\\n\\nopsi:\\nA. Butsir dan Meja putar\\nB. Sudip\\nC. Cetakan\\nD. Pahat dan Palu\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nAlat pahat."
+    },
+    {
+        "instruction": "Seni Patung",
+        "input": "Alat utama untuk teknik butsir adalah....",
+        "output": "Soal:\\nAlat utama untuk teknik butsir adalah....\\n\\nopsi:\\nA. Sudip dan Meja putar\\nB. Gergaji\\nC. Pahat dan Palu\\nD. Las\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nAlat butsir."
+    },
+    {
+        "instruction": "Seni Patung",
+        "input": "Patung Liberty di Amerika Serikat termasuk jenis patung....",
+        "output": "Soal:\\nPatung Liberty di Amerika Serikat termasuk jenis patung....\\n\\nopsi:\\nA. Monumen\\nB. Arsitektur\\nC. Kerajinan\\nD. Dekorasi\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nIkon negara."
+    },
+    {
+        "instruction": "Seni Patung",
+        "input": "Patung Garuda Wisnu Kencana (GWK) terdapat di....",
+        "output": "Soal:\\nPatung Garuda Wisnu Kencana (GWK) terdapat di....\\n\\nopsi:\\nA. Bali\\nB. Jakarta\\nC. Bandung\\nD. Yogyakarta\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nKarya Nyoman Nuarta."
+    },
+    {
+        "instruction": "Seni Patung",
+        "input": "Patung Dirgantara (Pancoran) di Jakarta adalah karya....",
+        "output": "Soal:\\nPatung Dirgantara (Pancoran) di Jakarta adalah karya....\\n\\nopsi:\\nA. Edhi Sunarso\\nB. Raden Saleh\\nC. Basuki Abdullah\\nD. Affandi\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMaestro patung."
+    },
+    {
+        "instruction": "Seni Patung",
+        "input": "Patung yang hanya menampilkan bagian kepala sampai dada disebut....",
+        "output": "Soal:\\nPatung yang hanya menampilkan bagian kepala sampai dada disebut....\\n\\nopsi:\\nA. Patung Bust / Dada\\nB. Patung Wajah\\nC. Patung Torso\\nD. Patung Utuh\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nBust statue."
+    },
+    {
+        "instruction": "Seni Patung",
+        "input": "Patung yang menampilkan bagian badan tanpa kepala dan anggota gerak disebut....",
+        "output": "Soal:\\nPatung yang menampilkan bagian badan tanpa kepala dan anggota gerak disebut....\\n\\nopsi:\\nA. Patung Dada\\nB. Patung Torso\\nC. Patung Wajah\\nD. Patung Utuh\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nTorso."
+    },
+    {
+        "instruction": "Seni Patung",
+        "input": "Patung Buddha Candi Borobudur terbuat dari....",
+        "output": "Soal:\\nPatung Buddha Candi Borobudur terbuat dari....\\n\\nopsi:\\nA. Tanah liat\\nB. Emas\\nC. Kayu\\nD. Batu Andesit\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nBatu gunung."
+    },
+    {
+        "instruction": "Seni Lukis",
+        "input": "Teknik menggambar menggunakan titik-titik disebut....",
+        "output": "Soal:\\nTeknik menggambar menggunakan titik-titik disebut....\\n\\nopsi:\\nA. Arsir\\nB. Dusel\\nC. Pointilis\\nD. Blok\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nTitik-titik."
+    },
+    {
+        "instruction": "Seni Lukis",
+        "input": "Teknik menggambar dengan menutup objek menggunakan satu warna (siluet) disebut....",
+        "output": "Soal:\\nTeknik menggambar dengan menutup objek menggunakan satu warna (siluet) disebut....\\n\\nopsi:\\nA. Teknik Pointilis\\nB. Teknik Arsir\\nC. Teknik Aquarel\\nD. Teknik Blok\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nBlok/Siluet."
+    },
+    {
+        "instruction": "Seni Lukis",
+        "input": "Teknik menggambar menggunakan cat air dengan sapuan tipis disebut....",
+        "output": "Soal:\\nTeknik menggambar menggunakan cat air dengan sapuan tipis disebut....\\n\\nopsi:\\nA. Teknik Plakat\\nB. Teknik Blok\\nC. Teknik Aquarel\\nD. Teknik Dusel\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nTransparan."
+    },
+    {
+        "instruction": "Seni Lukis",
+        "input": "Teknik menggambar menggunakan cat minyak/poster dengan sapuan tebal disebut....",
+        "output": "Soal:\\nTeknik menggambar menggunakan cat minyak/poster dengan sapuan tebal disebut....\\n\\nopsi:\\nA. Teknik Arsir\\nB. Teknik Pointilis\\nC. Teknik Aquarel\\nD. Teknik Plakat\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMenutup (Opaque)."
+    },
+    {
+        "instruction": "Seni Lukis",
+        "input": "Teknik menggosok garis pensil dengan kertas/tangan agar halus disebut....",
+        "output": "Soal:\\nTeknik menggosok garis pensil dengan kertas/tangan agar halus disebut....\\n\\nopsi:\\nA. Teknik Blok\\nB. Teknik Arsir\\nC. Teknik Dusel\\nD. Teknik Pointilis\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nGosok."
+    },
+    {
+        "instruction": "Seni Lukis",
+        "input": "Warna primer (pokok) terdiri dari....",
+        "output": "Soal:\\nWarna primer (pokok) terdiri dari....\\n\\nopsi:\\nA. Hijau, Ungu, Oranye\\nB. Hitam, Putih, Abu\\nC. Merah, Kuning, Biru\\nD. Merah, Hijau, Biru\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nRGB/RYB."
+    },
+    {
+        "instruction": "Seni Lukis",
+        "input": "Campuran warna Merah dan Kuning menghasilkan warna....",
+        "output": "Soal:\\nCampuran warna Merah dan Kuning menghasilkan warna....\\n\\nopsi:\\nA. Hijau\\nB. Coklat\\nC. Ungu\\nD. Oranye / Jingga\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSekunder."
+    },
+    {
+        "instruction": "Seni Lukis",
+        "input": "Campuran warna Biru dan Kuning menghasilkan warna....",
+        "output": "Soal:\\nCampuran warna Biru dan Kuning menghasilkan warna....\\n\\nopsi:\\nA. Oranye\\nB. Hijau\\nC. Coklat\\nD. Ungu\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSekunder."
+    },
+    {
+        "instruction": "Seni Lukis",
+        "input": "Campuran warna Merah dan Biru menghasilkan warna....",
+        "output": "Soal:\\nCampuran warna Merah dan Biru menghasilkan warna....\\n\\nopsi:\\nA. Hitam\\nB. Oranye\\nC. Hijau\\nD. Ungu\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSekunder."
+    },
+    {
+        "instruction": "Seni Lukis",
+        "input": "Warna yang dihasilkan dari campuran dua warna primer disebut warna....",
+        "output": "Soal:\\nWarna yang dihasilkan dari campuran dua warna primer disebut warna....\\n\\nopsi:\\nA. Tersier\\nB. Sekunder\\nC. Primer\\nD. Netral\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSecondary."
+    },
+    {
+        "instruction": "Seni Lukis",
+        "input": "Menggambar benda diam yang disusun disebut....",
+        "output": "Soal:\\nMenggambar benda diam yang disusun disebut....\\n\\nopsi:\\nA. Gambar Ilustrasi\\nB. Gambar Model\\nC. Gambar Perspektif\\nD. Gambar Bentuk / Still Life\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nAlam benda."
+    },
+    {
+        "instruction": "Seni Lukis",
+        "input": "Kesan jauh dekat atau ruang dalam gambar disebut....",
+        "output": "Soal:\\nKesan jauh dekat atau ruang dalam gambar disebut....\\n\\nopsi:\\nA. Proporsi\\nB. Gelap Terang\\nC. Perspektif\\nD. Komposisi\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nPrespective."
+    },
+    {
+        "instruction": "Seni Lukis",
+        "input": "Benda yang letaknya jauh akan terlihat....",
+        "output": "Soal:\\nBenda yang letaknya jauh akan terlihat....\\n\\nopsi:\\nA. Kecil\\nB. Jelas\\nC. Besar\\nD. Sama saja\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nPrinsip perspektif."
+    },
+    {
+        "instruction": "Seni Lukis",
+        "input": "Proporsi dalam menggambar artinya....",
+        "output": "Soal:\\nProporsi dalam menggambar artinya....\\n\\nopsi:\\nA. Susunan letak\\nB. Warna-warni\\nC. Perbandingan ukuran yang ideal\\nD. Garis tebal\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nProportion."
+    },
+    {
+        "instruction": "Seni Lukis",
+        "input": "Komposisi dalam menggambar artinya....",
+        "output": "Soal:\\nKomposisi dalam menggambar artinya....\\n\\nopsi:\\nA. Susunan atau tata letak objek\\nB. Ukuran\\nC. Warna\\nD. Bentuk\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nComposition."
+    },
+    {
+        "instruction": "Seni Lukis",
+        "input": "Keseimbangan dalam seni rupa disebut....",
+        "output": "Soal:\\nKeseimbangan dalam seni rupa disebut....\\n\\nopsi:\\nA. Harmony\\nB. Balance\\nC. Rhythm\\nD. Unity\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nBalance."
+    },
+    {
+        "instruction": "Seni Lukis",
+        "input": "Pusat perhatian dalam sebuah gambar disebut....",
+        "output": "Soal:\\nPusat perhatian dalam sebuah gambar disebut....\\n\\nopsi:\\nA. Background\\nB. Point of Interest\\nC. Frame\\nD. Foreground\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nFokus utama."
+    },
+    {
+        "instruction": "Seni Lukis",
+        "input": "Lukisan Monalisa adalah karya pelukis....",
+        "output": "Soal:\\nLukisan Monalisa adalah karya pelukis....\\n\\nopsi:\\nA. Michaelangelo\\nB. Picasso\\nC. Leonardo da Vinci\\nD. Van Gogh\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMaestro."
+    },
+    {
+        "instruction": "Seni Lukis",
+        "input": "Pelukis Indonesia beraliran ekspresionisme yang terkenal adalah....",
+        "output": "Soal:\\nPelukis Indonesia beraliran ekspresionisme yang terkenal adalah....\\n\\nopsi:\\nA. Basuki Abdullah\\nB. S. Sudjojono\\nC. Raden Saleh\\nD. Affandi\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nAffandi."
+    },
+    {
+        "instruction": "Seni Lukis",
+        "input": "Pelukis Indonesia yang terkenal dengan lukisan 'Penangkapan Pangeran Diponegoro' adalah....",
+        "output": "Soal:\\nPelukis Indonesia yang terkenal dengan lukisan 'Penangkapan Pangeran Diponegoro' adalah....\\n\\nopsi:\\nA. Affandi\\nB. Dede Eri Supria\\nC. Basuki Abdullah\\nD. Raden Saleh\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nRomantisme."
+    },
+    {
+        "instruction": "Seni Kriya",
+        "input": "Karya seni tempel yang menggunakan potongan-potongan bahan (kertas/kaca) disusun membentuk gambar disebut....",
+        "output": "Soal:\\nKarya seni tempel yang menggunakan potongan-potongan bahan (kertas/kaca) disusun membentuk gambar disebut....\\n\\nopsi:\\nA. Kolase\\nB. Mozaik\\nC. Aplikasi\\nD. Montase\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMosaic."
+    },
+    {
+        "instruction": "Seni Kriya",
+        "input": "Karya seni tempel yang menggabungkan berbagai bahan berbeda (batu, daun, ranting) dalam satu frame disebut....",
+        "output": "Soal:\\nKarya seni tempel yang menggabungkan berbagai bahan berbeda (batu, daun, ranting) dalam satu frame disebut....\\n\\nopsi:\\nA. Kolase\\nB. Montase\\nC. Mozaik\\nD. Aplikasi\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nCollage (mix material)."
+    },
+    {
+        "instruction": "Seni Kriya",
+        "input": "Karya seni tempel yang menggabungkan potongan gambar jadi (foto majalah) menjadi tema baru disebut....",
+        "output": "Soal:\\nKarya seni tempel yang menggabungkan potongan gambar jadi (foto majalah) menjadi tema baru disebut....\\n\\nopsi:\\nA. Montase\\nB. Aplikasi\\nC. Mozaik\\nD. Kolase\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMontage (photo)."
+    },
+    {
+        "instruction": "Seni Kriya",
+        "input": "Karya seni tempel dengan cara menjahit/menempelkan kain perca membentuk motif disebut....",
+        "output": "Soal:\\nKarya seni tempel dengan cara menjahit/menempelkan kain perca membentuk motif disebut....\\n\\nopsi:\\nA. Montase\\nB. Aplikasi\\nC. Mozaik\\nD. Kolase\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nFabric Applique."
+    },
+    {
+        "instruction": "Seni Kriya",
+        "input": "Bahan alam untuk membuat kolase contohnya....",
+        "output": "Soal:\\nBahan alam untuk membuat kolase contohnya....\\n\\nopsi:\\nA. Foto\\nB. Daun kering, biji-bijian, ranting\\nC. Plastik, Kaca\\nD. Kertas koran\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nNatural materials."
+    },
+    {
+        "instruction": "Seni Kriya",
+        "input": "Bahan buatan untuk membuat mozaik contohnya....",
+        "output": "Soal:\\nBahan buatan untuk membuat mozaik contohnya....\\n\\nopsi:\\nA. Kulit jagung\\nB. Daun, Batu\\nC. Biji-bijian\\nD. Kaca, Keramik, Kertas warna\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nArtificial materials."
+    },
+    {
+        "instruction": "Seni Kriya",
+        "input": "Langkah pertama membuat mozaik adalah....",
+        "output": "Soal:\\nLangkah pertama membuat mozaik adalah....\\n\\nopsi:\\nA. Menebalkan garis\\nB. Mewarnai\\nC. Menempel bahan\\nD. Membuat sketsa gambar\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nPlanning."
+    },
+    {
+        "instruction": "Seni Kriya",
+        "input": "Lem yang kuat untuk menempelkan biji-bijian adalah....",
+        "output": "Soal:\\nLem yang kuat untuk menempelkan biji-bijian adalah....\\n\\nopsi:\\nA. Lem Glukol\\nB. Lem Kayu (Fox)\\nC. Lem Kertas\\nD. Isolasi\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nStrong glue."
+    },
+    {
+        "instruction": "Seni Kriya",
+        "input": "Seni melipat kertas dari Jepang disebut....",
+        "output": "Soal:\\nSeni melipat kertas dari Jepang disebut....\\n\\nopsi:\\nA. Kirigami\\nB. Sudoku\\nC. Origami\\nD. Ikebana\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nPaper folding."
+    },
+    {
+        "instruction": "Seni Kriya",
+        "input": "Anyaman biasanya menggunakan bahan....",
+        "output": "Soal:\\nAnyaman biasanya menggunakan bahan....\\n\\nopsi:\\nA. Bambu, Rotan, Daun Pandan\\nB. Besi, Baja\\nC. Tanah liat\\nD. Kaca\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nWoven materials."
+    },
+    {
+        "instruction": "Seni Kriya",
+        "input": "Teknik membuat simpul tali temali untuk hiasan disebut....",
+        "output": "Soal:\\nTeknik membuat simpul tali temali untuk hiasan disebut....\\n\\nopsi:\\nA. Menjahit\\nB. Menenun\\nC. Makrame\\nD. Merajut\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMacrame."
+    },
+    {
+        "instruction": "Seni Kriya",
+        "input": "Bahan utama makrame adalah....",
+        "output": "Soal:\\nBahan utama makrame adalah....\\n\\nopsi:\\nA. Tali kur / Tali katun\\nB. Rotan\\nC. Kawat\\nD. Benang jahit\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nTali."
+    },
+    {
+        "instruction": "Seni Kriya",
+        "input": "Alat untuk menenun kain tradisional adalah....",
+        "output": "Soal:\\nAlat untuk menenun kain tradisional adalah....\\n\\nopsi:\\nA. Gawangan\\nB. Mesin jahit\\nC. Canting\\nD. ATBM (Alat Tenun Bukan Mesin)\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nWeaving tool."
+    },
+    {
+        "instruction": "Seni Kriya",
+        "input": "Kain tenun Songket berasal dari daerah....",
+        "output": "Soal:\\nKain tenun Songket berasal dari daerah....\\n\\nopsi:\\nA. Papua\\nB. Jawa\\nC. Sumatera Selatan / Palembang\\nD. Bali\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSongket."
+    },
+    {
+        "instruction": "Seni Kriya",
+        "input": "Kain Ulos berasal dari daerah....",
+        "output": "Soal:\\nKain Ulos berasal dari daerah....\\n\\nopsi:\\nA. Sumatera Utara (Batak)\\nB. Minang\\nC. Aceh\\nD. Lampung\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nUlos."
+    },
+    {
+        "instruction": "Batik",
+        "input": "Alat untuk menorehkan lilin malam pada kain batik tulis disebut....",
+        "output": "Soal:\\nAlat untuk menorehkan lilin malam pada kain batik tulis disebut....\\n\\nopsi:\\nA. Canting\\nB. Pensil\\nC. Gawangan\\nD. Kuas\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nCanting tulis."
+    },
+    {
+        "instruction": "Batik",
+        "input": "Bahan perintang warna dalam membatik adalah....",
+        "output": "Soal:\\nBahan perintang warna dalam membatik adalah....\\n\\nopsi:\\nA. Lem\\nB. Cat air\\nC. Tinta\\nD. Malam / Lilin\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nResist dyeing."
+    },
+    {
+        "instruction": "Batik",
+        "input": "Alat untuk menyampirkan kain saat membatik disebut....",
+        "output": "Soal:\\nAlat untuk menyampirkan kain saat membatik disebut....\\n\\nopsi:\\nA. Gawangan\\nB. Meja\\nC. Kursi\\nD. Rak\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nHanger."
+    },
+    {
+        "instruction": "Batik",
+        "input": "Kompor kecil untuk memanaskan lilin malam disebut....",
+        "output": "Soal:\\nKompor kecil untuk memanaskan lilin malam disebut....\\n\\nopsi:\\nA. Panci\\nB. Oven\\nC. Anglo\\nD. Wajan\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nStove."
+    },
+    {
+        "instruction": "Batik",
+        "input": "Teknik batik dengan menggunakan stempel tembaga disebut....",
+        "output": "Soal:\\nTeknik batik dengan menggunakan stempel tembaga disebut....\\n\\nopsi:\\nA. Batik Tulis\\nB. Batik Celup\\nC. Batik Cap\\nD. Batik Lukis\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nStamped batik."
+    },
+    {
+        "instruction": "Batik",
+        "input": "Teknik batik dengan mengikat kain lalu dicelup warna disebut....",
+        "output": "Soal:\\nTeknik batik dengan mengikat kain lalu dicelup warna disebut....\\n\\nopsi:\\nA. Batik Tulis\\nB. Batik Cap\\nC. Jumputan / Ikat Celup\\nD. Printing\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nTie-dye."
+    },
+    {
+        "instruction": "Batik",
+        "input": "Motif batik Megamendung (awan) berasal dari....",
+        "output": "Soal:\\nMotif batik Megamendung (awan) berasal dari....\\n\\nopsi:\\nA. Pekalongan\\nB. Solo\\nC. Cirebon\\nD. Yogyakarta\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nCloud motif."
+    },
+    {
+        "instruction": "Batik",
+        "input": "Motif batik Kawung (bulatan) berasal dari....",
+        "output": "Soal:\\nMotif batik Kawung (bulatan) berasal dari....\\n\\nopsi:\\nA. Cirebon\\nB. Bali\\nC. Madura\\nD. Yogyakarta / Solo\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nOldest motif."
+    },
+    {
+        "instruction": "Batik",
+        "input": "Motif batik Parang Rusak melambangkan....",
+        "output": "Soal:\\nMotif batik Parang Rusak melambangkan....\\n\\nopsi:\\nA. Kekuasaan / Ksatria\\nB. Kesuburan\\nC. Keindahan\\nD. Kematian\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nKing's motif."
+    },
+    {
+        "instruction": "Batik",
+        "input": "Kota yang dijuluki Kota Batik adalah....",
+        "output": "Soal:\\nKota yang dijuluki Kota Batik adalah....\\n\\nopsi:\\nA. Semarang\\nB. Pekalongan\\nC. Surabaya\\nD. Bandung\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nCity of Batik."
+    },
+    {
+        "instruction": "Batik",
+        "input": "Batik yang dibuat dengan mesin pabrik disebut....",
+        "output": "Soal:\\nBatik yang dibuat dengan mesin pabrik disebut....\\n\\nopsi:\\nA. Batik Lukis\\nB. Batik Cap\\nC. Batik Printing\\nD. Batik Tulis\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nTextile print."
+    },
+    {
+        "instruction": "Batik",
+        "input": "Proses menghilangkan lilin malam dengan air panas disebut....",
+        "output": "Soal:\\nProses menghilangkan lilin malam dengan air panas disebut....\\n\\nopsi:\\nA. Nglorod / Pelorodan\\nB. Menjemur\\nC. Mewarnai\\nD. Mencanting\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nBoiling off wax."
+    },
+    {
+        "instruction": "Batik",
+        "input": "Hari Batik Nasional diperingati setiap tanggal....",
+        "output": "Soal:\\nHari Batik Nasional diperingati setiap tanggal....\\n\\nopsi:\\nA. 20 Mei\\nB. 21 April\\nC. 2 Oktober\\nD. 17 Agustus\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nUNESCO recognition."
+    },
+    {
+        "instruction": "Batik",
+        "input": "Motif batik Tujuh Rupa (alam) berasal dari....",
+        "output": "Soal:\\nMotif batik Tujuh Rupa (alam) berasal dari....\\n\\nopsi:\\nA. Pekalongan\\nB. Solo\\nC. Cirebon\\nD. Yogya\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nCoastal batik."
+    },
+    {
+        "instruction": "Batik",
+        "input": "Kain batik digunakan UNESCO sebagai Warisan Kemanusiaan untuk Budaya Lisan dan Nonbendawi sejak tahun....",
+        "output": "Soal:\\nKain batik digunakan UNESCO sebagai Warisan Kemanusiaan untuk Budaya Lisan dan Nonbendawi sejak tahun....\\n\\nopsi:\\nA. 2010\\nB. 2000\\nC. 2020\\nD. 2009\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nUNESCO 2009."
+    },
+    {
+        "instruction": "Reklame",
+        "input": "Reklame yang berisi gambar dan tulisan untuk menawarkan produk disebut reklame....",
+        "output": "Soal:\\nReklame yang berisi gambar dan tulisan untuk menawarkan produk disebut reklame....\\n\\nopsi:\\nA. Peringatan\\nB. Komersial\\nC. Pemberitahuan\\nD. Non-komersial\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nCommercial."
+    },
+    {
+        "instruction": "Reklame",
+        "input": "Selebaran kertas yang dilipat 3 disebut....",
+        "output": "Soal:\\nSelebaran kertas yang dilipat 3 disebut....\\n\\nopsi:\\nA. Brosur / Leaflet Lipat\\nB. Poster\\nC. Baliho\\nD. Spanduk\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nTrifold."
+    },
+    {
+        "instruction": "Reklame",
+        "input": "Poster pendidikan bertujuan untuk....",
+        "output": "Soal:\\nPoster pendidikan bertujuan untuk....\\n\\nopsi:\\nA. Menjual barang\\nB. Pameran seni\\nC. Kampanye politik\\nD. Mendidik masyarakat\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nEducation."
+    },
+    {
+        "instruction": "Reklame",
+        "input": "Unsur utama dalam poster adalah....",
+        "output": "Soal:\\nUnsur utama dalam poster adalah....\\n\\nopsi:\\nA. Cahaya\\nB. Gerak\\nC. Suara\\nD. Gambar dan Kalimat Singkat\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nVisual elements."
+    },
+    {
+        "instruction": "Lagu Daerah",
+        "input": "Lagu 'Ampar-Ampar Pisang' berasal dari....",
+        "output": "Soal:\\nLagu 'Ampar-Ampar Pisang' berasal dari....\\n\\nopsi:\\nA. Sumatera Utara\\nB. Jawa Barat\\nC. Kalimantan Selatan\\nD. Kalimantan Timur\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nBanjar."
+    },
+    {
+        "instruction": "Lagu Daerah",
+        "input": "Lagu 'Apuse' berasal dari....",
+        "output": "Soal:\\nLagu 'Apuse' berasal dari....\\n\\nopsi:\\nA. Papua\\nB. Sulawesi\\nC. Maluku\\nD. NTT\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nPapua folk."
+    },
+    {
+        "instruction": "Lagu Daerah",
+        "input": "Lagu 'Yamko Rambe Yamko' menceritakan tentang....",
+        "output": "Soal:\\nLagu 'Yamko Rambe Yamko' menceritakan tentang....\\n\\nopsi:\\nA. Pesta Panen\\nB. Peperangan / Bela Negara\\nC. Pemandangan\\nD. Kasih Sayang\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nWar song."
+    },
+    {
+        "instruction": "Lagu Daerah",
+        "input": "Lagu 'Bungong Jeumpa' berarti....",
+        "output": "Soal:\\nLagu 'Bungong Jeumpa' berarti....\\n\\nopsi:\\nA. Bunga Cempaka\\nB. Bunga Melati\\nC. Bunga Anggrek\\nD. Bunga Mawar\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nAceh flower."
+    },
+    {
+        "instruction": "Lagu Daerah",
+        "input": "Lagu 'Kicir-Kicir' berasal dari....",
+        "output": "Soal:\\nLagu 'Kicir-Kicir' berasal dari....\\n\\nopsi:\\nA. Jakarta (Betawi)\\nB. Banten\\nC. Jawa Barat\\nD. Jawa Tengah\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nBetawi folk."
+    },
+    {
+        "instruction": "Lagu Daerah",
+        "input": "Lagu 'Manuk Dadali' berasal dari....",
+        "output": "Soal:\\nLagu 'Manuk Dadali' berasal dari....\\n\\nopsi:\\nA. Jawa Tengah\\nB. Jawa Barat\\nC. Jawa Timur\\nD. Bali\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSunda."
+    },
+    {
+        "instruction": "Lagu Daerah",
+        "input": "Lagu 'Gundul-Gundul Pacul' memiliki makna filosofi tentang....",
+        "output": "Soal:\\nLagu 'Gundul-Gundul Pacul' memiliki makna filosofi tentang....\\n\\nopsi:\\nA. Pemimpin yang amanah\\nB. Anak nakal\\nC. Petani\\nD. Mainan\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nLeadership."
+    },
+    {
+        "instruction": "Lagu Daerah",
+        "input": "Lagu 'Rasa Sayange' berasal dari....",
+        "output": "Soal:\\nLagu 'Rasa Sayange' berasal dari....\\n\\nopsi:\\nA. NTT\\nB. Sulawesi\\nC. Maluku\\nD. Papua\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSocial song."
+    },
+    {
+        "instruction": "Lagu Daerah",
+        "input": "Lagu 'Soleram' berisi pesan orang tua untuk....",
+        "output": "Soal:\\nLagu 'Soleram' berisi pesan orang tua untuk....\\n\\nopsi:\\nA. Pasangan\\nB. Raja\\nC. Anak-anak (nasihat)\\nD. Guru\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nLullaby/Advice."
+    },
+    {
+        "instruction": "Lagu Daerah",
+        "input": "Lagu 'O Ina Ni Keke' berasal dari....",
+        "output": "Soal:\\nLagu 'O Ina Ni Keke' berasal dari....\\n\\nopsi:\\nA. Sulawesi Selatan\\nB. Sulawesi Utara\\nC. Gorontalo\\nD. Maluku\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMinahasa."
+    },
+    {
+        "instruction": "Lagu Daerah",
+        "input": "Lagu 'Sio Mama' menceritakan kerinduan pada....",
+        "output": "Soal:\\nLagu 'Sio Mama' menceritakan kerinduan pada....\\n\\nopsi:\\nA. Kekasih\\nB. Ayah\\nC. Kampung\\nD. Ibu\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMother."
+    },
+    {
+        "instruction": "Lagu Daerah",
+        "input": "Lagu 'Anging Mamiri' berasal dari....",
+        "output": "Soal:\\nLagu 'Anging Mamiri' berasal dari....\\n\\nopsi:\\nA. Sulawesi Selatan\\nB. Kalimantan\\nC. Sumatera\\nD. Sulawesi Utara\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMakassar."
+    },
+    {
+        "instruction": "Lagu Daerah",
+        "input": "Lagu 'Suwe Ora Jamu' adalah lagu daerah dari....",
+        "output": "Soal:\\nLagu 'Suwe Ora Jamu' adalah lagu daerah dari....\\n\\nopsi:\\nA. Jakarta\\nB. Jawa Barat\\nC. Jawa Tengah / Yogyakarta\\nD. Jawa Timur\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nJavanese."
+    },
+    {
+        "instruction": "Lagu Daerah",
+        "input": "Lagu 'Cik Cik Periuk' berasal dari....",
+        "output": "Soal:\\nLagu 'Cik Cik Periuk' berasal dari....\\n\\nopsi:\\nA. Kalimantan Tengah\\nB. Kalimantan Barat\\nC. Kalimantan Timur\\nD. Kalimantan Selatan\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSambas."
+    },
+    {
+        "instruction": "Lagu Daerah",
+        "input": "Lagu 'Kampuang Nan Jauh Di Mato' berasal dari....",
+        "output": "Soal:\\nLagu 'Kampuang Nan Jauh Di Mato' berasal dari....\\n\\nopsi:\\nA. Bengkulu\\nB. Sumatera Barat\\nC. Riau\\nD. Jambi\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMinang."
+    },
+    {
+        "instruction": "Lagu Daerah",
+        "input": "Lagu 'Injit-Injit Semut' berasal dari....",
+        "output": "Soal:\\nLagu 'Injit-Injit Semut' berasal dari....\\n\\nopsi:\\nA. Lampung\\nB. Jambi\\nC. Riau\\nD. Palembang\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMelayu Jambi."
+    },
+    {
+        "instruction": "Lagu Daerah",
+        "input": "Lagu 'Dek Sangke' berasal dari....",
+        "output": "Soal:\\nLagu 'Dek Sangke' berasal dari....\\n\\nopsi:\\nA. Sumatera Utara\\nB. Aceh\\nC. Sumatera Selatan\\nD. Bengkulu\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nPalembang."
+    },
+    {
+        "instruction": "Lagu Daerah",
+        "input": "Lagu 'Butet' menceritakan seorang anak yang menunggu ayahnya....",
+        "output": "Soal:\\nLagu 'Butet' menceritakan seorang anak yang menunggu ayahnya....\\n\\nopsi:\\nA. Pergi haji\\nB. Pulang kerja\\nC. Berlayar\\nD. Di medan perang\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nWar context."
+    },
+    {
+        "instruction": "Lagu Daerah",
+        "input": "Lagu 'Bubuy Bulan' berasal dari....",
+        "output": "Soal:\\nLagu 'Bubuy Bulan' berasal dari....\\n\\nopsi:\\nA. Jawa Barat\\nB. Jawa Tengah\\nC. Jakarta\\nD. Banten\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSunda sad song."
+    },
+    {
+        "instruction": "Lagu Daerah",
+        "input": "Lagu 'Rek Ayo Rek' berasal dari....",
+        "output": "Soal:\\nLagu 'Rek Ayo Rek' berasal dari....\\n\\nopsi:\\nA. Jawa Barat\\nB. Jawa Tengah\\nC. Madura\\nD. Jawa Timur (Surabaya)\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nTunjungan."
+    },
+    {
+        "instruction": "Lagu Nasional",
+        "input": "Pencipta lagu 'Indonesia Raya' adalah....",
+        "output": "Soal:\\nPencipta lagu 'Indonesia Raya' adalah....\\n\\nopsi:\\nA. W.R. Supratman\\nB. C. Simanjuntak\\nC. H. Mutahar\\nD. Ismail Marzuki\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nNational anthem."
+    },
+    {
+        "instruction": "Lagu Nasional",
+        "input": "Lagu 'Mengheningkan Cipta' diciptakan oleh....",
+        "output": "Soal:\\nLagu 'Mengheningkan Cipta' diciptakan oleh....\\n\\nopsi:\\nA. T. Prawit\\nB. Kusbini\\nC. L. Manik\\nD. Ibu Sud\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSolemn song."
+    },
+    {
+        "instruction": "Lagu Nasional",
+        "input": "Pencipta lagu 'Bagimu Negeri' adalah....",
+        "output": "Soal:\\nPencipta lagu 'Bagimu Negeri' adalah....\\n\\nopsi:\\nA. Ismail Marzuki\\nB. S. Ikhsan\\nC. Kusbini\\nD. Ibu Sud\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nPatriotic."
+    },
+    {
+        "instruction": "Lagu Nasional",
+        "input": "Lagu 'Halo-Halo Bandung' diciptakan oleh....",
+        "output": "Soal:\\nLagu 'Halo-Halo Bandung' diciptakan oleh....\\n\\nopsi:\\nA. Sanjaya\\nB. Gesang\\nC. Ismail Marzuki\\nD. C. Simanjuntak\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nBandung Lautan Api."
+    },
+    {
+        "instruction": "Lagu Nasional",
+        "input": "Pencipta lagu 'Maju Tak Gentar' adalah....",
+        "output": "Soal:\\nPencipta lagu 'Maju Tak Gentar' adalah....\\n\\nopsi:\\nA. W.R. Supratman\\nB. Ibu Sud\\nC. C. Simanjuntak\\nD. H. Mutahar\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSpirit."
+    },
+    {
+        "instruction": "Lagu Nasional",
+        "input": "Lagu 'Hari Merdeka' (17 Agustus) diciptakan oleh....",
+        "output": "Soal:\\nLagu 'Hari Merdeka' (17 Agustus) diciptakan oleh....\\n\\nopsi:\\nA. Ibu Sud\\nB. Ismail Marzuki\\nC. W.R. Supratman\\nD. H. Mutahar\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nIndependence."
+    },
+    {
+        "instruction": "Lagu Nasional",
+        "input": "Pencipta lagu 'Satu Nusa Satu Bangsa' adalah....",
+        "output": "Soal:\\nPencipta lagu 'Satu Nusa Satu Bangsa' adalah....\\n\\nopsi:\\nA. Ismail Marzuki\\nB. Daljono\\nC. Kusbini\\nD. L. Manik\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nUnity."
+    },
+    {
+        "instruction": "Lagu Nasional",
+        "input": "Lagu 'Tanah Airku' diciptakan oleh....",
+        "output": "Soal:\\nLagu 'Tanah Airku' diciptakan oleh....\\n\\nopsi:\\nA. AT Mahmud\\nB. Ibu Sud\\nC. Ismail Marzuki\\nD. Pak Kasur\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nLove of land."
+    },
+    {
+        "instruction": "Lagu Nasional",
+        "input": "Pencipta lagu 'Garuda Pancasila' adalah....",
+        "output": "Soal:\\nPencipta lagu 'Garuda Pancasila' adalah....\\n\\nopsi:\\nA. Sudharnoto\\nB. Prawit\\nC. Simanjuntak\\nD. Sartono\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nPancasila."
+    },
+    {
+        "instruction": "Lagu Nasional",
+        "input": "Lagu 'Rayuan Pulau Kelapa' diciptakan oleh....",
+        "output": "Soal:\\nLagu 'Rayuan Pulau Kelapa' diciptakan oleh....\\n\\nopsi:\\nA. Gesang\\nB. Bing Slamet\\nC. Titiek Puspa\\nD. Ismail Marzuki\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nBeauty of Indo."
+    },
+    {
+        "instruction": "Lagu Nasional",
+        "input": "Lagu kebangsaan Indonesia adalah....",
+        "output": "Soal:\\nLagu kebangsaan Indonesia adalah....\\n\\nopsi:\\nA. Bagimu Negeri\\nB. Indonesia Raya\\nC. Tanah Airku\\nD. Garuda Pancasila\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nAnthem."
+    },
+    {
+        "instruction": "Lagu Nasional",
+        "input": "Birama lagu Indonesia Raya adalah....",
+        "output": "Soal:\\nBirama lagu Indonesia Raya adalah....\\n\\nopsi:\\nA. 2/4\\nB. 4/4\\nC. 6/8\\nD. 3/4\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMarching tempo."
+    },
+    {
+        "instruction": "Lagu Nasional",
+        "input": "Tempo Di Marcia artinya....",
+        "output": "Soal:\\nTempo Di Marcia artinya....\\n\\nopsi:\\nA. Seperti orang berbaris\\nB. Mendayu-dayu\\nC. Lambat syahdu\\nD. Cepat sekali\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMarching style."
+    },
+    {
+        "instruction": "Lagu Nasional",
+        "input": "Lagu 'Gugur Bunga' bertangga nada....",
+        "output": "Soal:\\nLagu 'Gugur Bunga' bertangga nada....\\n\\nopsi:\\nA. Pentatonis\\nB. Minor\\nC. Mayor\\nD. Kromatis\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSad song."
+    },
+    {
+        "instruction": "Lagu Nasional",
+        "input": "Lagu 'Bangun Pemudi Pemuda' diciptakan oleh....",
+        "output": "Soal:\\nLagu 'Bangun Pemudi Pemuda' diciptakan oleh....\\n\\nopsi:\\nA. A. Simanjuntak\\nB. L. Manik\\nC. Kusbini\\nD. C. Simanjuntak\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nYouth spirit."
+    },
+    {
+        "instruction": "Musik",
+        "input": "Penyajian musik yang menggunakan alat musik sejenis disebut....",
+        "output": "Soal:\\nPenyajian musik yang menggunakan alat musik sejenis disebut....\\n\\nopsi:\\nA. Ansambel Sejenis\\nB. Orkestra\\nC. Ansambel Campuran\\nD. Band\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSame instruments."
+    },
+    {
+        "instruction": "Musik",
+        "input": "Penyajian musik yang menggunakan bermacam-macam alat musik disebut....",
+        "output": "Soal:\\nPenyajian musik yang menggunakan bermacam-macam alat musik disebut....\\n\\nopsi:\\nA. Solo\\nB. Ansambel Sejenis\\nC. Duet\\nD. Ansambel Campuran\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMixed instruments."
+    },
+    {
+        "instruction": "Musik",
+        "input": "Pianika dimainkan dengan cara....",
+        "output": "Soal:\\nPianika dimainkan dengan cara....\\n\\nopsi:\\nA. Dipukul\\nB. Digesek\\nC. Ditiup dan ditekan\\nD. Dipetik\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nWind/Key."
+    },
+    {
+        "instruction": "Musik",
+        "input": "Gitar dimainkan dengan cara....",
+        "output": "Soal:\\nGitar dimainkan dengan cara....\\n\\nopsi:\\nA. Dipukul\\nB. Dipetik\\nC. Ditiup\\nD. Digesek\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nString pluck."
+    },
+    {
+        "instruction": "Musik",
+        "input": "Biola dimainkan dengan cara....",
+        "output": "Soal:\\nBiola dimainkan dengan cara....\\n\\nopsi:\\nA. Ditekan\\nB. Digesek\\nC. Dipetik\\nD. Ditiup\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nString bow."
+    },
+    {
+        "instruction": "Musik",
+        "input": "Drum termasuk alat musik....",
+        "output": "Soal:\\nDrum termasuk alat musik....\\n\\nopsi:\\nA. Ritmis\\nB. Harmonis\\nC. Tradisional\\nD. Melodis\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nRhythmic."
+    },
+    {
+        "instruction": "Musik",
+        "input": "Alat musik Sasando berasal dari....",
+        "output": "Soal:\\nAlat musik Sasando berasal dari....\\n\\nopsi:\\nA. Papua\\nB. Nusa Tenggara Timur (Rote)\\nC. Maluku\\nD. Bali\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nPalm leaf instrument."
+    },
+    {
+        "instruction": "Musik",
+        "input": "Alat musik Tifa berasal dari....",
+        "output": "Soal:\\nAlat musik Tifa berasal dari....\\n\\nopsi:\\nA. Papua dan Maluku\\nB. Kalimantan\\nC. Jawa\\nD. Sumatera\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nLog drum."
+    },
+    {
+        "instruction": "Musik",
+        "input": "Alat musik Kolintang terbuat dari....",
+        "output": "Soal:\\nAlat musik Kolintang terbuat dari....\\n\\nopsi:\\nA. Logam\\nB. Bambu\\nC. Kulit\\nD. Kayu\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nWooden xylophone."
+    },
+    {
+        "instruction": "Musik",
+        "input": "Gamelan Jawa didominasi oleh alat musik berbahan....",
+        "output": "Soal:\\nGamelan Jawa didominasi oleh alat musik berbahan....\\n\\nopsi:\\nA. Bambu\\nB. Logam/Perunggu\\nC. Kayu\\nD. Plastik\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nBronze percussion."
+    },
+    {
+        "instruction": "Musik",
+        "input": "Angklung terbuat dari....",
+        "output": "Soal:\\nAngklung terbuat dari....\\n\\nopsi:\\nA. Logam\\nB. Rotan\\nC. Bambu\\nD. Kayu\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nBamboo rattle."
+    },
+    {
+        "instruction": "Musik",
+        "input": "Alat musik Saluang berasal dari....",
+        "output": "Soal:\\nAlat musik Saluang berasal dari....\\n\\nopsi:\\nA. NTT\\nB. Jawa Barat\\nC. Bali\\nD. Sumatera Barat\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nBamboo flute."
+    },
+    {
+        "instruction": "Musik",
+        "input": "Alat musik Sape berasal dari....",
+        "output": "Soal:\\nAlat musik Sape berasal dari....\\n\\nopsi:\\nA. Sumatera\\nB. Sulawesi\\nC. Kalimantan (Dayak)\\nD. Jawa\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nDayak guitar."
+    },
+    {
+        "instruction": "Musik",
+        "input": "Alat musik Rebab dimainkan dengan cara....",
+        "output": "Soal:\\nAlat musik Rebab dimainkan dengan cara....\\n\\nopsi:\\nA. Ditiup\\nB. Digesek\\nC. Dipukul\\nD. Dipetik\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nTraditional bow."
+    },
+    {
+        "instruction": "Musik",
+        "input": "Tangga nada musik modern (Do-Re-Mi...) disebut....",
+        "output": "Soal:\\nTangga nada musik modern (Do-Re-Mi...) disebut....\\n\\nopsi:\\nA. Pentatonis\\nB. Pelog\\nC. Kromatis\\nD. Diatonis\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nDiatonic."
+    },
+    {
+        "instruction": "Musik",
+        "input": "Alat musik kecapi berasal dari....",
+        "output": "Soal:\\nAlat musik kecapi berasal dari....\\n\\nopsi:\\nA. Aceh\\nB. Jawa Barat (Sunda)\\nC. Jawa Tengah\\nD. Bali\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nZither."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Tari Kecak tidak menggunakan alat musik, tetapi menggunakan....",
+        "output": "Soal:\\nTari Kecak tidak menggunakan alat musik, tetapi menggunakan....\\n\\nopsi:\\nA. Tepuk tangan\\nB. Hentakan kaki\\nC. Suara mulut penari (Acapella)\\nD. Siulan\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nCak-cak-cak."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Tari Saman ditarikan secara....",
+        "output": "Soal:\\nTari Saman ditarikan secara....\\n\\nopsi:\\nA. Berpasangan\\nB. Berkelompok\\nC. Solo\\nD. Tunggal\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMass dance."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Pola lantai Tari Saman adalah....",
+        "output": "Soal:\\nPola lantai Tari Saman adalah....\\n\\nopsi:\\nA. Lingkaran\\nB. Zig-zag\\nC. Garis lurus (Horizontal)\\nD. Diagonal\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nHorizontal line."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Tari Piring menggunakan properti piring yang dipegang di....",
+        "output": "Soal:\\nTari Piring menggunakan properti piring yang dipegang di....\\n\\nopsi:\\nA. Kepala\\nB. Telapak tangan\\nC. Bahu\\nD. Kaki\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nHand prop."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Tari Jaipong berasal dari....",
+        "output": "Soal:\\nTari Jaipong berasal dari....\\n\\nopsi:\\nA. Jawa Barat\\nB. Jakarta\\nC. Jawa Tengah\\nD. Jawa Timur\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSunda dance."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Tari Pendet awalnya adalah tari....",
+        "output": "Soal:\\nTari Pendet awalnya adalah tari....\\n\\nopsi:\\nA. Pergaulan\\nB. Perang\\nC. Panen\\nD. Pemujaan di Pura\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nTemple dance."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Tari Topeng Cirebon memiliki karakter yang....",
+        "output": "Soal:\\nTari Topeng Cirebon memiliki karakter yang....\\n\\nopsi:\\nA. Lucu\\nB. Sama semua\\nC. Berbeda-beda sesuai topengnya\\nD. Seram\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMask character."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Tari Reog Ponorogo menggunakan topeng besar berbentuk....",
+        "output": "Soal:\\nTari Reog Ponorogo menggunakan topeng besar berbentuk....\\n\\nopsi:\\nA. Naga\\nB. Buaya\\nC. Kepala Singa dan Merak\\nD. Harimau\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSinga Barong."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Tari Lilin ditarikan dengan membawa lilin yang....",
+        "output": "Soal:\\nTari Lilin ditarikan dengan membawa lilin yang....\\n\\nopsi:\\nA. Putih\\nB. Merah\\nC. Mati\\nD. Menyala\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nLit candle."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Tari Merak menggambarkan keindahan burung merak....",
+        "output": "Soal:\\nTari Merak menggambarkan keindahan burung merak....\\n\\nopsi:\\nA. Betina\\nB. Jantan\\nC. Anak\\nD. Induk\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMale peacock attracts female."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Tari Pakarena melambangkan kelembutan wanita....",
+        "output": "Soal:\\nTari Pakarena melambangkan kelembutan wanita....\\n\\nopsi:\\nA. Minang\\nB. Bali\\nC. Gowa (Makassar)\\nD. Jawa\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSouth Sulawesi."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Tari Cakalele adalah tari perang, penari membawa....",
+        "output": "Soal:\\nTari Cakalele adalah tari perang, penari membawa....\\n\\nopsi:\\nA. Panah\\nB. Parang dan Salawaku\\nC. Keris\\nD. Tombak\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMoluccan war dance."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Tari Serimpi ditarikan oleh ... orang penari wanita.",
+        "output": "Soal:\\nTari Serimpi ditarikan oleh ... orang penari wanita.\\n\\nopsi:\\nA. 10\\nB. 4\\nC. 2\\nD. 1\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nFour dancers."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Tari Gambyong sering digunakan untuk....",
+        "output": "Soal:\\nTari Gambyong sering digunakan untuk....\\n\\nopsi:\\nA. Upacara kematian\\nB. Menyambut tamu\\nC. Menidurkan anak\\nD. Berperang\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nWelcome dance."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Busana penari Tari Legong berwarna dominan....",
+        "output": "Soal:\\nBusana penari Tari Legong berwarna dominan....\\n\\nopsi:\\nA. Emas dan Merah\\nB. Biru\\nC. Hitam\\nD. Putih\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nBali vibrant."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Gerakan mata yang tajam (Seledet) adalah ciri khas tari....",
+        "output": "Soal:\\nGerakan mata yang tajam (Seledet) adalah ciri khas tari....\\n\\nopsi:\\nA. Bali\\nB. Kalimantan\\nC. Jawa\\nD. Sumatera\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nEye movement."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Gerakan patah-patah yang kaku adalah ciri tari....",
+        "output": "Soal:\\nGerakan patah-patah yang kaku adalah ciri tari....\\n\\nopsi:\\nA. Bali\\nB. Papua\\nC. Sunda\\nD. Jawa\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nDynamic rigid."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Gerakan tangan yang luwes dan halus ciri tari....",
+        "output": "Soal:\\nGerakan tangan yang luwes dan halus ciri tari....\\n\\nopsi:\\nA. Bali\\nB. Jawa (Solo/Yogya)\\nC. Aceh\\nD. Papua\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nGraceful."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Properti Tari Bondan adalah....",
+        "output": "Soal:\\nProperti Tari Bondan adalah....\\n\\nopsi:\\nA. Kipas\\nB. Topeng\\nC. Piring, Lilin\\nD. Payung, Boneka Bayi, Kendi\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMotherhood."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Tari Kuda Lumping menggambarkan prajurit yang....",
+        "output": "Soal:\\nTari Kuda Lumping menggambarkan prajurit yang....\\n\\nopsi:\\nA. Kalah perang\\nB. Sedih\\nC. Gagah berani berkuda\\nD. Sakit\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nHorsemen."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Tari Remo berasal dari....",
+        "output": "Soal:\\nTari Remo berasal dari....\\n\\nopsi:\\nA. Jawa Barat\\nB. Bali\\nC. Jawa Tengah\\nD. Jawa Timur\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nRemo."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Tari Tor-Tor berasal dari....",
+        "output": "Soal:\\nTari Tor-Tor berasal dari....\\n\\nopsi:\\nA. Sumatera Utara (Batak)\\nB. Riau\\nC. Sumatera Barat\\nD. Aceh\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nBatak dance."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Fungsi tata rias tari adalah....",
+        "output": "Soal:\\nFungsi tata rias tari adalah....\\n\\nopsi:\\nA. Supaya putih\\nB. Membuat lucu\\nC. Mengubah karakter wajah penari\\nD. Menutupi jerawat\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nCharacter makeup."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Level gerak tari dibagi menjadi....",
+        "output": "Soal:\\nLevel gerak tari dibagi menjadi....\\n\\nopsi:\\nA. Cepat, Lambat\\nB. Jauh, Dekat\\nC. Tinggi, Sedang, Rendah\\nD. Keras, Lembut\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nLevels."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Gerak melompat termasuk level....",
+        "output": "Soal:\\nGerak melompat termasuk level....\\n\\nopsi:\\nA. Bawah\\nB. Rendah\\nC. Sedang\\nD. Tinggi\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nHigh level."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Gerak duduk bersimpuh termasuk level....",
+        "output": "Soal:\\nGerak duduk bersimpuh termasuk level....\\n\\nopsi:\\nA. Atas\\nB. Sedang\\nC. Rendah\\nD. Tinggi\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nLow level."
+    },
+    {
+        "instruction": "Seni Rupa",
+        "input": "Warna hijau adalah campuran warna....",
+        "output": "Soal:\\nWarna hijau adalah campuran warna....\\n\\nopsi:\\nA. Biru dan Kuning\\nB. Hitam dan Putih\\nC. Merah dan Kuning\\nD. Merah dan Biru\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSecondary."
+    },
+    {
+        "instruction": "Seni Rupa",
+        "input": "Warna ungu adalah campuran warna....",
+        "output": "Soal:\\nWarna ungu adalah campuran warna....\\n\\nopsi:\\nA. Kuning dan Biru\\nB. Merah dan Biru\\nC. Merah dan Kuning\\nD. Putih dan Hitam\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSecondary."
+    },
+    {
+        "instruction": "Seni Rupa",
+        "input": "Lukisan kaca adalah seni khas dari daerah....",
+        "output": "Soal:\\nLukisan kaca adalah seni khas dari daerah....\\n\\nopsi:\\nA. Papua\\nB. Solo\\nC. Bali\\nD. Cirebon\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nGlass painting."
+    },
+    {
+        "instruction": "Seni Rupa",
+        "input": "Topeng Malang adalah seni rupa berbahan....",
+        "output": "Soal:\\nTopeng Malang adalah seni rupa berbahan....\\n\\nopsi:\\nA. Logam\\nB. Kayu\\nC. Tanah liat\\nD. Kertas\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nWooden mask."
+    },
+    {
+        "instruction": "Seni Rupa",
+        "input": "Relief pada Candi Borobudur termasuk karya seni....",
+        "output": "Soal:\\nRelief pada Candi Borobudur termasuk karya seni....\\n\\nopsi:\\nA. 3 Dimensi (timbul)\\nB. Grafis\\nC. Lukisan\\nD. 2 Dimensi\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nRelief."
+    },
+    {
+        "instruction": "Seni Rupa",
+        "input": "Karya seni yang memiliki panjang, lebar, dan tinggi disebut....",
+        "output": "Soal:\\nKarya seni yang memiliki panjang, lebar, dan tinggi disebut....\\n\\nopsi:\\nA. Lukisan\\nB. 3 Dimensi\\nC. 2 Dimensi\\nD. 4 Dimensi\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\n3D Art."
+    },
+    {
+        "instruction": "Seni Rupa",
+        "input": "Karya seni yang hanya memiliki panjang dan lebar disebut....",
+        "output": "Soal:\\nKarya seni yang hanya memiliki panjang dan lebar disebut....\\n\\nopsi:\\nA. Patung\\nB. 3 Dimensi\\nC. Relief\\nD. 2 Dimensi\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\n2D Art."
+    },
+    {
+        "instruction": "Seni Rupa",
+        "input": "Guci dan vas bunga termasuk karya seni....",
+        "output": "Soal:\\nGuci dan vas bunga termasuk karya seni....\\n\\nopsi:\\nA. Murni\\nB. Lukis\\nC. 3 Dimensi (Terapan)\\nD. 2 Dimensi\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nCeramic."
+    },
+    {
+        "instruction": "Seni Rupa",
+        "input": "Wayang Kulit terbuat dari....",
+        "output": "Soal:\\nWayang Kulit terbuat dari....\\n\\nopsi:\\nA. Plastik\\nB. Kulit Sapi/Kerbau\\nC. Kertas\\nD. Kulit Kayu\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nLeather puppet."
+    },
+    {
+        "instruction": "Seni Rupa",
+        "input": "Poster yang berisi ajakan menjaga kebersihan termasuk poster....",
+        "output": "Soal:\\nPoster yang berisi ajakan menjaga kebersihan termasuk poster....\\n\\nopsi:\\nA. Kelas\\nB. Kegiatan\\nC. Niaga\\nD. Layanan Masyarakat\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSocial poster."
+    },
+    {
+        "instruction": "Seni Rupa",
+        "input": "Poster yang berisi jadwal pertunjukan sirkus termasuk poster....",
+        "output": "Soal:\\nPoster yang berisi jadwal pertunjukan sirkus termasuk poster....\\n\\nopsi:\\nA. Kegiatan\\nB. Niaga\\nC. Pendidikan\\nD. Kesehatan\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nEvent poster."
+    },
+    {
+        "instruction": "Seni Rupa",
+        "input": "Poster untuk mempromosikan produk sabun termasuk poster....",
+        "output": "Soal:\\nPoster untuk mempromosikan produk sabun termasuk poster....\\n\\nopsi:\\nA. Niaga / Komersial\\nB. Layanan Masyarakat\\nC. Dekorasi\\nD. Pendidikan\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nCommercial."
+    },
+    {
+        "instruction": "Seni Rupa",
+        "input": "Embalase adalah reklame yang terdapat pada....",
+        "output": "Soal:\\nEmbalase adalah reklame yang terdapat pada....\\n\\nopsi:\\nA. Kemasan produk\\nB. Koran\\nC. Spanduk\\nD. Baliho\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nPackaging."
+    },
+    {
+        "instruction": "Seni Rupa",
+        "input": "Booklet adalah reklame berbentuk....",
+        "output": "Soal:\\nBooklet adalah reklame berbentuk....\\n\\nopsi:\\nA. Lembaran\\nB. Layar\\nC. Papan\\nD. Buku kecil\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSmall book."
+    },
+    {
+        "instruction": "Seni Rupa",
+        "input": "Spanduk biasanya dipasang di....",
+        "output": "Soal:\\nSpanduk biasanya dipasang di....\\n\\nopsi:\\nA. Dalam kamar\\nB. Atas meja\\nC. Tepi jalan raya\\nD. Bawah tanah\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nOutdoor."
+    },
+    {
+        "instruction": "Seni Musik",
+        "input": "Lagu 'Desaku yang Kucinta' diciptakan oleh....",
+        "output": "Soal:\\nLagu 'Desaku yang Kucinta' diciptakan oleh....\\n\\nopsi:\\nA. L. Manik\\nB. AT Mahmud\\nC. Pak Kasur\\nD. Ibu Sud\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nDesaku."
+    },
+    {
+        "instruction": "Seni Musik",
+        "input": "Lagu 'Pelangi-Pelangi' diciptakan oleh....",
+        "output": "Soal:\\nLagu 'Pelangi-Pelangi' diciptakan oleh....\\n\\nopsi:\\nA. Pak Kasur\\nB. AT Mahmud\\nC. Ibu Sud\\nD. Daljono\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nRainbow."
+    },
+    {
+        "instruction": "Seni Musik",
+        "input": "Lagu 'Bintang Kecil' diciptakan oleh....",
+        "output": "Soal:\\nLagu 'Bintang Kecil' diciptakan oleh....\\n\\nopsi:\\nA. AT Mahmud\\nB. Pak Kasur\\nC. Ibu Sud\\nD. Daljono\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nLittle star."
+    },
+    {
+        "instruction": "Seni Musik",
+        "input": "Lagu 'Kasih Ibu' diciptakan oleh....",
+        "output": "Soal:\\nLagu 'Kasih Ibu' diciptakan oleh....\\n\\nopsi:\\nA. Ibu Sud\\nB. Pak Kasur\\nC. SM. Mochtar\\nD. AT Mahmud\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMother's love."
+    },
+    {
+        "instruction": "Seni Musik",
+        "input": "Lagu 'Tik Tik Bunyi Hujan' diciptakan oleh....",
+        "output": "Soal:\\nLagu 'Tik Tik Bunyi Hujan' diciptakan oleh....\\n\\nopsi:\\nA. Ibu Sud\\nB. Pak Kasur\\nC. AT Mahmud\\nD. L. Manik\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nRain song."
+    },
+    {
+        "instruction": "Seni Musik",
+        "input": "Lagu 'Naik Delman' diciptakan oleh....",
+        "output": "Soal:\\nLagu 'Naik Delman' diciptakan oleh....\\n\\nopsi:\\nA. Daljono\\nB. Pak Kasur\\nC. Ibu Sud\\nD. AT Mahmud\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nDelman."
+    },
+    {
+        "instruction": "Seni Musik",
+        "input": "Alat musik kastanet dimainkan dengan cara....",
+        "output": "Soal:\\nAlat musik kastanet dimainkan dengan cara....\\n\\nopsi:\\nA. Ditepukkan\\nB. Digesek\\nC. Dipetik\\nD. Ditiup\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nClapping."
+    },
+    {
+        "instruction": "Seni Musik",
+        "input": "Alat musik marakas dimainkan dengan cara....",
+        "output": "Soal:\\nAlat musik marakas dimainkan dengan cara....\\n\\nopsi:\\nA. Dipukul\\nB. Ditiup\\nC. Digesek\\nD. Digoyangkan\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nShaking."
+    },
+    {
+        "instruction": "Seni Musik",
+        "input": "Alat musik triangle berbentuk....",
+        "output": "Soal:\\nAlat musik triangle berbentuk....\\n\\nopsi:\\nA. Kotak\\nB. Lonjong\\nC. Bulat\\nD. Segitiga\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nTriangle."
+    },
+    {
+        "instruction": "Seni Musik",
+        "input": "Bunyi yang teratur disebut....",
+        "output": "Soal:\\nBunyi yang teratur disebut....\\n\\nopsi:\\nA. Gaung\\nB. Nada\\nC. Gema\\nD. Desah\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nTone."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Tari Yapong berasal dari....",
+        "output": "Soal:\\nTari Yapong berasal dari....\\n\\nopsi:\\nA. Jawa Timur\\nB. Jakarta\\nC. Jawa Barat\\nD. Jawa Tengah\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nBagong Kussudiardja."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Tari Gending Sriwijaya berasal dari....",
+        "output": "Soal:\\nTari Gending Sriwijaya berasal dari....\\n\\nopsi:\\nA. Lampung\\nB. Sumatera Selatan\\nC. Sumatera Barat\\nD. Jambi\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nPalembang."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Tari Sigeh Pengunten berasal dari....",
+        "output": "Soal:\\nTari Sigeh Pengunten berasal dari....\\n\\nopsi:\\nA. Lampung\\nB. Jambi\\nC. Bengkulu\\nD. Riau\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSigeh."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Tari Selamat Datang dari Papua penarinya membawa....",
+        "output": "Soal:\\nTari Selamat Datang dari Papua penarinya membawa....\\n\\nopsi:\\nA. Lilin\\nB. Panah dan Tifa\\nC. Kipas\\nD. Piring\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nPapua prop."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Busana Tari Saman menggunakan motif....",
+        "output": "Soal:\\nBusana Tari Saman menggunakan motif....\\n\\nopsi:\\nA. Tenun Ikat\\nB. Kerawang Gayo\\nC. Songket\\nD. Batik Jawa\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nGayo motif."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Gerak meniru kupu-kupu terbang termasuk gerak....",
+        "output": "Soal:\\nGerak meniru kupu-kupu terbang termasuk gerak....\\n\\nopsi:\\nA. Maknawi\\nB. Murni\\nC. Senam\\nD. Silat\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMeaningful."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Gerak meniru orang mencangkul termasuk gerak....",
+        "output": "Soal:\\nGerak meniru orang mencangkul termasuk gerak....\\n\\nopsi:\\nA. Maknawi\\nB. Bela diri\\nC. Olah raga\\nD. Murni\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMeaningful."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Gerak memutar pergelangan tangan disebut....",
+        "output": "Soal:\\nGerak memutar pergelangan tangan disebut....\\n\\nopsi:\\nA. Ukel\\nB. Debeg\\nC. Sembah\\nD. Trisik\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nHand move."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Gerak jalan kecil-kecil jinjit disebut....",
+        "output": "Soal:\\nGerak jalan kecil-kecil jinjit disebut....\\n\\nopsi:\\nA. Sembah\\nB. Kengser\\nC. Trisik\\nD. Ukel\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nJavanese move."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Gerak menggeser telapak kaki ke samping disebut....",
+        "output": "Soal:\\nGerak menggeser telapak kaki ke samping disebut....\\n\\nopsi:\\nA. Kengser\\nB. Ukel\\nC. Trisik\\nD. Sembah\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nJavanese move."
+    },
+    {
+        "instruction": "Seni Musik",
+        "input": "Suara tinggi wanita disebut....",
+        "output": "Soal:\\nSuara tinggi wanita disebut....\\n\\nopsi:\\nA. Alto\\nB. Tenor\\nC. Bass\\nD. Sopran\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nHigh female."
+    },
+    {
+        "instruction": "Seni Musik",
+        "input": "Suara rendah wanita disebut....",
+        "output": "Soal:\\nSuara rendah wanita disebut....\\n\\nopsi:\\nA. Tenor\\nB. Sopran\\nC. Alto\\nD. Bass\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nLow female."
+    },
+    {
+        "instruction": "Seni Musik",
+        "input": "Suara tinggi pria disebut....",
+        "output": "Soal:\\nSuara tinggi pria disebut....\\n\\nopsi:\\nA. Tenor\\nB. Alto\\nC. Bass\\nD. Sopran\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nHigh male."
+    },
+    {
+        "instruction": "Seni Musik",
+        "input": "Suara rendah pria disebut....",
+        "output": "Soal:\\nSuara rendah pria disebut....\\n\\nopsi:\\nA. Bariton\\nB. Tenor\\nC. Sopran\\nD. Bass\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nLow male."
+    },
+    {
+        "instruction": "Seni Musik",
+        "input": "Suara sedang pria disebut....",
+        "output": "Soal:\\nSuara sedang pria disebut....\\n\\nopsi:\\nA. Bass\\nB. Bariton\\nC. Alto\\nD. Tenor\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMid male."
+    },
+    {
+        "instruction": "Seni Musik",
+        "input": "Suara sedang wanita disebut....",
+        "output": "Soal:\\nSuara sedang wanita disebut....\\n\\nopsi:\\nA. Sopran\\nB. Mezzo Sopran\\nC. Tenor\\nD. Alto\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMid female."
+    },
+    {
+        "instruction": "Seni Rupa",
+        "input": "Vas bunga dari tanah liat dibuat dengan teknik....",
+        "output": "Soal:\\nVas bunga dari tanah liat dibuat dengan teknik....\\n\\nopsi:\\nA. Anyam\\nB. Pahat\\nC. Ukir\\nD. Butsir / Putar\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nPottery."
+    },
+    {
+        "instruction": "Seni Rupa",
+        "input": "Karya seni rupa yang berfungsi pakai disebut....",
+        "output": "Soal:\\nKarya seni rupa yang berfungsi pakai disebut....\\n\\nopsi:\\nA. Seni Murni\\nB. Seni Lukis\\nC. Seni Patung\\nD. Seni Terapan\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nApplied art."
+    },
+    {
+        "instruction": "Seni Rupa",
+        "input": "Karya seni rupa yang hanya mengutamakan keindahan disebut....",
+        "output": "Soal:\\nKarya seni rupa yang hanya mengutamakan keindahan disebut....\\n\\nopsi:\\nA. Seni Kriya\\nB. Seni Terapan\\nC. Seni Murni\\nD. Desain\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nFine art."
+    },
+    {
+        "instruction": "Seni Rupa",
+        "input": "Contoh karya seni murni adalah....",
+        "output": "Soal:\\nContoh karya seni murni adalah....\\n\\nopsi:\\nA. Baju dan Tas\\nB. Lukisan dan Patung\\nC. Sepatu\\nD. Kursi dan Meja\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nFine art ex."
+    },
+    {
+        "instruction": "Seni Rupa",
+        "input": "Contoh karya seni terapan adalah....",
+        "output": "Soal:\\nContoh karya seni terapan adalah....\\n\\nopsi:\\nA. Foto\\nB. Lukisan abstrak\\nC. Patung pahlawan\\nD. Kursi rotan dan Kain batik\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nApplied ex."
+    },
+    {
+        "instruction": "Seni Kriya",
+        "input": "Simpul pangkal biasanya digunakan untuk....",
+        "output": "Soal:\\nSimpul pangkal biasanya digunakan untuk....\\n\\nopsi:\\nA. Mengawali ikatan\\nB. Memotong\\nC. Menghias\\nD. Mengakhiri\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nStart knot."
+    },
+    {
+        "instruction": "Seni Kriya",
+        "input": "Simpul mati digunakan untuk....",
+        "output": "Soal:\\nSimpul mati digunakan untuk....\\n\\nopsi:\\nA. Memulai\\nB. Menggantung\\nC. Menyambung tali\\nD. Hiasan\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nReef knot."
+    },
+    {
+        "instruction": "Seni Kriya",
+        "input": "Roncean melati biasanya digunakan untuk....",
+        "output": "Soal:\\nRoncean melati biasanya digunakan untuk....\\n\\nopsi:\\nA. Hiasan pengantin\\nB. Tirai\\nC. Tali sepatu\\nD. Hiasan rumah\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nJasmine chain."
+    },
+    {
+        "instruction": "Seni Musik",
+        "input": "Akor C Mayor terdiri dari nada....",
+        "output": "Soal:\\nAkor C Mayor terdiri dari nada....\\n\\nopsi:\\nA. D - F - A\\nB. C - E - G\\nC. C - F - A\\nD. G - B - D\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nDo - Mi - Sol."
+    },
+    {
+        "instruction": "Seni Musik",
+        "input": "Akor F Mayor terdiri dari nada....",
+        "output": "Soal:\\nAkor F Mayor terdiri dari nada....\\n\\nopsi:\\nA. F - A - C\\nB. G - B - D\\nC. F - G - A\\nD. C - E - G\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nFa - La - Do."
+    },
+    {
+        "instruction": "Seni Musik",
+        "input": "Akor G Mayor terdiri dari nada....",
+        "output": "Soal:\\nAkor G Mayor terdiri dari nada....\\n\\nopsi:\\nA. C - E - G\\nB. G - A - B\\nC. F - A - C\\nD. G - B - D\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSol - Si - Re."
+    },
+    {
+        "instruction": "Seni Musik",
+        "input": "Akor A Minor (Am) terdiri dari nada....",
+        "output": "Soal:\\nAkor A Minor (Am) terdiri dari nada....\\n\\nopsi:\\nA. A - C - E\\nB. E - G - B\\nC. D - F - A\\nD. A - B - C\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nLa - Do - Mi."
+    },
+    {
+        "instruction": "Seni Musik",
+        "input": "Akor D Minor (Dm) terdiri dari nada....",
+        "output": "Soal:\\nAkor D Minor (Dm) terdiri dari nada....\\n\\nopsi:\\nA. D - F - A\\nB. D - E - F\\nC. C - E - G\\nD. G - B - D\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nRe - Fa - La."
+    },
+    {
+        "instruction": "Seni Musik",
+        "input": "Akor E Minor (Em) terdiri dari nada....",
+        "output": "Soal:\\nAkor E Minor (Em) terdiri dari nada....\\n\\nopsi:\\nA. A - C - E\\nB. E - F - G\\nC. E - G - B\\nD. D - F - A\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMi - Sol - Si."
+    },
+    {
+        "instruction": "Seni Musik",
+        "input": "Alat musik yang berfungsi ganda (melodis dan harmonis) adalah....",
+        "output": "Soal:\\nAlat musik yang berfungsi ganda (melodis dan harmonis) adalah....\\n\\nopsi:\\nA. Piano / Keyboard\\nB. Suling\\nC. Drum\\nD. Triangle\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nPolyphonic."
+    },
+    {
+        "instruction": "Seni Musik",
+        "input": "Lagu yang dinyanyikan oleh satu orang disebut....",
+        "output": "Soal:\\nLagu yang dinyanyikan oleh satu orang disebut....\\n\\nopsi:\\nA. Trio\\nB. Duet\\nC. Solo\\nD. Kuartet\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSingle singer."
+    },
+    {
+        "instruction": "Seni Musik",
+        "input": "Lagu yang dinyanyikan dua orang disebut....",
+        "output": "Soal:\\nLagu yang dinyanyikan dua orang disebut....\\n\\nopsi:\\nA. Trio\\nB. Solo\\nC. Duet\\nD. Kuartet\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nTwo singers."
+    },
+    {
+        "instruction": "Seni Musik",
+        "input": "Lagu yang dinyanyikan tiga orang disebut....",
+        "output": "Soal:\\nLagu yang dinyanyikan tiga orang disebut....\\n\\nopsi:\\nA. Trio\\nB. Duet\\nC. Solo\\nD. Kuartet\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nThree singers."
+    },
+    {
+        "instruction": "Seni Musik",
+        "input": "Lagu yang dinyanyikan empat orang disebut....",
+        "output": "Soal:\\nLagu yang dinyanyikan empat orang disebut....\\n\\nopsi:\\nA. Trio\\nB. Kuartet\\nC. Duet\\nD. Solo\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nFour singers."
+    },
+    {
+        "instruction": "Seni Musik",
+        "input": "Intro dalam sebuah lagu terletak di....",
+        "output": "Soal:\\nIntro dalam sebuah lagu terletak di....\\n\\nopsi:\\nA. Reff\\nB. Akhir lagu\\nC. Awal lagu\\nD. Tengah lagu\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nIntroduction."
+    },
+    {
+        "instruction": "Seni Musik",
+        "input": "Coda dalam sebuah lagu terletak di....",
+        "output": "Soal:\\nCoda dalam sebuah lagu terletak di....\\n\\nopsi:\\nA. Akhir lagu\\nB. Awal lagu\\nC. Intro\\nD. Tengah lagu\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nEnding."
+    },
+    {
+        "instruction": "Seni Musik",
+        "input": "Bagian lagu yang diulang-ulang dengan syair yang sama disebut....",
+        "output": "Soal:\\nBagian lagu yang diulang-ulang dengan syair yang sama disebut....\\n\\nopsi:\\nA. Intro\\nB. Coda\\nC. Reffrain / Chorus\\nD. Verse\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nHook."
+    },
+    {
+        "instruction": "Seni Kriya",
+        "input": "Kerajinan Perak yang terkenal berasal dari daerah....",
+        "output": "Soal:\\nKerajinan Perak yang terkenal berasal dari daerah....\\n\\nopsi:\\nA. Lombok\\nB. Kotagede (Yogyakarta)\\nC. Papua\\nD. Bali\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSilver craft."
+    },
+    {
+        "instruction": "Seni Kriya",
+        "input": "Kerajinan Ukiran Kayu yang sangat terkenal berasal dari....",
+        "output": "Soal:\\nKerajinan Ukiran Kayu yang sangat terkenal berasal dari....\\n\\nopsi:\\nA. Bandung\\nB. Jakarta\\nC. Surabaya\\nD. Jepara\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nCarving city."
+    },
+    {
+        "instruction": "Seni Kriya",
+        "input": "Kerajinan Keramik/Gerabah terkenal dari daerah....",
+        "output": "Soal:\\nKerajinan Keramik/Gerabah terkenal dari daerah....\\n\\nopsi:\\nA. Solo\\nB. Magelang\\nC. Semarang\\nD. Kasongan (Yogyakarta)\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nPottery village."
+    },
+    {
+        "instruction": "Seni Kriya",
+        "input": "Kerajinan Kulit (Wayang/Jaket) terkenal dari....",
+        "output": "Soal:\\nKerajinan Kulit (Wayang/Jaket) terkenal dari....\\n\\nopsi:\\nA. Aceh\\nB. Garut & Bantul\\nC. Papua\\nD. Medan\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nLeather."
+    },
+    {
+        "instruction": "Seni Kriya",
+        "input": "Kain Sasirangan berasal dari daerah....",
+        "output": "Soal:\\nKain Sasirangan berasal dari daerah....\\n\\nopsi:\\nA. Bali\\nB. Kalimantan Barat\\nC. Kalimantan Selatan\\nD. Jawa\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nBanjar fabric."
+    },
+    {
+        "instruction": "Seni Kriya",
+        "input": "Kain Tapis bersulam emas berasal dari....",
+        "output": "Soal:\\nKain Tapis bersulam emas berasal dari....\\n\\nopsi:\\nA. Riau\\nB. Lampung\\nC. Jambi\\nD. Palembang\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nGold thread."
+    },
+    {
+        "instruction": "Seni Kriya",
+        "input": "Noken (tas tradisional) berasal dari....",
+        "output": "Soal:\\nNoken (tas tradisional) berasal dari....\\n\\nopsi:\\nA. Maluku\\nB. NTT\\nC. Sulawesi\\nD. Papua\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nUNESCO heritage."
+    },
+    {
+        "instruction": "Seni Kriya",
+        "input": "Mandau adalah senjata tradisional khas....",
+        "output": "Soal:\\nMandau adalah senjata tradisional khas....\\n\\nopsi:\\nA. Jawa\\nB. Sumatera\\nC. Sulawesi\\nD. Kalimantan (Dayak)\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nDayak sword."
+    },
+    {
+        "instruction": "Seni Kriya",
+        "input": "Rencong adalah senjata tradisional khas....",
+        "output": "Soal:\\nRencong adalah senjata tradisional khas....\\n\\nopsi:\\nA. Medan\\nB. Aceh\\nC. Padang\\nD. Palembang\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nAceh dagger."
+    },
+    {
+        "instruction": "Seni Kriya",
+        "input": "Keris adalah senjata tradisional khas....",
+        "output": "Soal:\\nKeris adalah senjata tradisional khas....\\n\\nopsi:\\nA. Maluku\\nB. Papua\\nC. Jawa\\nD. NTT\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nJavanese dagger."
+    },
+    {
+        "instruction": "Seni Kriya",
+        "input": "Badik adalah senjata tradisional khas....",
+        "output": "Soal:\\nBadik adalah senjata tradisional khas....\\n\\nopsi:\\nA. Sulawesi Selatan\\nB. Bali\\nC. Jawa\\nD. Kalimantan\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nBugis dagger."
+    },
+    {
+        "instruction": "Seni Kriya",
+        "input": "Kujang adalah senjata tradisional khas....",
+        "output": "Soal:\\nKujang adalah senjata tradisional khas....\\n\\nopsi:\\nA. Jawa Tengah\\nB. Jawa Barat (Sunda)\\nC. Jawa Timur\\nD. Bali\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSunda weapon."
+    },
+    {
+        "instruction": "Seni Kriya",
+        "input": "Celurit adalah senjata tradisional khas....",
+        "output": "Soal:\\nCelurit adalah senjata tradisional khas....\\n\\nopsi:\\nA. Madura\\nB. Sumbawa\\nC. Lombok\\nD. Bali\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSickle."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Siger adalah hiasan kepala pengantin/penari dari....",
+        "output": "Soal:\\nSiger adalah hiasan kepala pengantin/penari dari....\\n\\nopsi:\\nA. Jawa\\nB. Papua\\nC. Bali\\nD. Lampung & Sunda\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nCrown."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Suntiang adalah hiasan kepala pengantin/penari dari....",
+        "output": "Soal:\\nSuntiang adalah hiasan kepala pengantin/penari dari....\\n\\nopsi:\\nA. Jambi\\nB. Aceh\\nC. Sumatera Barat (Minang)\\nD. Riau\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMinang crown."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Udeng adalah ikat kepala khas pria dari....",
+        "output": "Soal:\\nUdeng adalah ikat kepala khas pria dari....\\n\\nopsi:\\nA. Bali & Jawa\\nB. Papua\\nC. Sulawesi\\nD. Kalimantan\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nHeadband."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Blangkon adalah tutup kepala khas pria dari....",
+        "output": "Soal:\\nBlangkon adalah tutup kepala khas pria dari....\\n\\nopsi:\\nA. Betawi\\nB. Jawa (Yogya/Solo)\\nC. Sunda\\nD. Madura\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nJavanese hat."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Kain jarik digunakan sebagai....",
+        "output": "Soal:\\nKain jarik digunakan sebagai....\\n\\nopsi:\\nA. Bawahan (rok/celana)\\nB. Topi\\nC. Atasan\\nD. Sepatu\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nLower garment."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Sampur atau selendang digunakan untuk....",
+        "output": "Soal:\\nSampur atau selendang digunakan untuk....\\n\\nopsi:\\nA. Alas duduk\\nB. Selimut\\nC. Menari (dikibas/diputar)\\nD. Mengikat kepala\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nScarf."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Keris sering digunakan sebagai properti tari....",
+        "output": "Soal:\\nKeris sering digunakan sebagai properti tari....\\n\\nopsi:\\nA. Gagah/Putra Halus\\nB. Hewan\\nC. Putri\\nD. Anak-anak\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMale prop."
+    },
+    {
+        "instruction": "Seni Visual",
+        "input": "Kamera adalah alat utama dalam seni....",
+        "output": "Soal:\\nKamera adalah alat utama dalam seni....\\n\\nopsi:\\nA. Patung\\nB. Tari\\nC. Lukis\\nD. Fotografi\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nPhotography."
+    },
+    {
+        "instruction": "Seni Visual",
+        "input": "Orang yang pekerjaannya mengambil foto disebut....",
+        "output": "Soal:\\nOrang yang pekerjaannya mengambil foto disebut....\\n\\nopsi:\\nA. Penyanyi\\nB. Fotografer\\nC. Penari\\nD. Pelukis\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nPhotographer."
+    },
+    {
+        "instruction": "Seni Visual",
+        "input": "Sudut pengambilan gambar dari atas disebut....",
+        "output": "Soal:\\nSudut pengambilan gambar dari atas disebut....\\n\\nopsi:\\nA. Frog Eye\\nB. Eye Level\\nC. High Angle / Bird Eye\\nD. Low Angle\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nHigh view."
+    },
+    {
+        "instruction": "Seni Visual",
+        "input": "Sudut pengambilan gambar dari bawah disebut....",
+        "output": "Soal:\\nSudut pengambilan gambar dari bawah disebut....\\n\\nopsi:\\nA. High Angle\\nB. Low Angle / Frog Eye\\nC. Bird Eye\\nD. Eye Level\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nLow view."
+    },
+    {
+        "instruction": "Seni Visual",
+        "input": "Cahaya buatan dalam fotografi disebut....",
+        "output": "Soal:\\nCahaya buatan dalam fotografi disebut....\\n\\nopsi:\\nA. Artificial Light (Lampu/Flash)\\nB. Moonlight\\nC. Sunlight\\nD. Fire\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nArtificial."
+    },
+    {
+        "instruction": "Seni Visual",
+        "input": "Mengambil gambar diri sendiri disebut....",
+        "output": "Soal:\\nMengambil gambar diri sendiri disebut....\\n\\nopsi:\\nA. Wefie\\nB. Selfie\\nC. Groupie\\nD. Candid\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSelf protrait."
+    },
+    {
+        "instruction": "Seni Visual",
+        "input": "Foto yang diambil tanpa sepengetahuan subjeknya disebut....",
+        "output": "Soal:\\nFoto yang diambil tanpa sepengetahuan subjeknya disebut....\\n\\nopsi:\\nA. Candid\\nB. Pose\\nC. Model\\nD. Studio\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nNatural shot."
+    },
+    {
+        "instruction": "Seni Teater",
+        "input": "Orang yang menulis naskah drama disebut....",
+        "output": "Soal:\\nOrang yang menulis naskah drama disebut....\\n\\nopsi:\\nA. Penulis Naskah / Skenario\\nB. Produser\\nC. Aktor\\nD. Sutradara\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nWriter."
+    },
+    {
+        "instruction": "Seni Teater",
+        "input": "Orang yang mengatur jalannya pertunjukan drama/film disebut....",
+        "output": "Soal:\\nOrang yang mengatur jalannya pertunjukan drama/film disebut....\\n\\nopsi:\\nA. Sutradara\\nB. Produser\\nC. Penulis\\nD. Aktor\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nDirector."
+    },
+    {
+        "instruction": "Seni Teater",
+        "input": "Pemeran utama wanita dalam film disebut....",
+        "output": "Soal:\\nPemeran utama wanita dalam film disebut....\\n\\nopsi:\\nA. Figuran\\nB. Aktor\\nC. Aktris\\nD. Stuntman\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nActress."
+    },
+    {
+        "instruction": "Seni Teater",
+        "input": "Pemeran utama pria dalam film disebut....",
+        "output": "Soal:\\nPemeran utama pria dalam film disebut....\\n\\nopsi:\\nA. Figuran\\nB. Aktris\\nC. Aktor\\nD. Stuntman\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nActor."
+    },
+    {
+        "instruction": "Seni Teater",
+        "input": "Pemeran pengganti untuk adegan berbahaya disebut....",
+        "output": "Soal:\\nPemeran pengganti untuk adegan berbahaya disebut....\\n\\nopsi:\\nA. Sutradara\\nB. Aktor\\nC. Stuntman\\nD. Figuran\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nStunt."
+    },
+    {
+        "instruction": "Seni Teater",
+        "input": "Pemeran tambahan yang tidak banyak bicara disebut....",
+        "output": "Soal:\\nPemeran tambahan yang tidak banyak bicara disebut....\\n\\nopsi:\\nA. Pembantu\\nB. Utama\\nC. Bintang\\nD. Figuran\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nExtra."
+    },
+    {
+        "instruction": "Seni Teater",
+        "input": "Latihan sebelum pementasan drama disebut....",
+        "output": "Soal:\\nLatihan sebelum pementasan drama disebut....\\n\\nopsi:\\nA. Lomba\\nB. Pentas\\nC. Ujian\\nD. Gladi Resik\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nRehearsal."
+    },
+    {
+        "instruction": "Seni Teater",
+        "input": "Panggung tempat pementasan disebut....",
+        "output": "Soal:\\nPanggung tempat pementasan disebut....\\n\\nopsi:\\nA. Studio\\nB. Layar\\nC. Arena\\nD. Stage / Panggung\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nStage."
+    },
+    {
+        "instruction": "Seni Teater",
+        "input": "Latar tempat, waktu, dan suasana dalam panggung disebut....",
+        "output": "Soal:\\nLatar tempat, waktu, dan suasana dalam panggung disebut....\\n\\nopsi:\\nA. Amanat\\nB. Tema\\nC. Plot\\nD. Setting / Latar\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nBackground."
+    },
+    {
+        "instruction": "Seni Rupa",
+        "input": "Warna bendera Indonesia adalah....",
+        "output": "Soal:\\nWarna bendera Indonesia adalah....\\n\\nopsi:\\nA. Hijau Putih\\nB. Merah Kuning\\nC. Merah Putih\\nD. Biru Putih\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nFlag."
+    },
+    {
+        "instruction": "Seni Rupa",
+        "input": "Merah pada bendera berarti....",
+        "output": "Soal:\\nMerah pada bendera berarti....\\n\\nopsi:\\nA. Sedih\\nB. Takut\\nC. Suci\\nD. Berani\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nBrave."
+    },
+    {
+        "instruction": "Seni Rupa",
+        "input": "Putih pada bendera berarti....",
+        "output": "Soal:\\nPutih pada bendera berarti....\\n\\nopsi:\\nA. Suci\\nB. Berani\\nC. Kaya\\nD. Mewah\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nHoly."
+    },
+    {
+        "instruction": "Seni Musik",
+        "input": "Lagu ulang tahun biasanya bernada....",
+        "output": "Soal:\\nLagu ulang tahun biasanya bernada....\\n\\nopsi:\\nA. Marah\\nB. Minor\\nC. Mayor (Gembira)\\nD. Sedih\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nHappy."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Menari sebaiknya dilakukan dengan....",
+        "output": "Soal:\\nMenari sebaiknya dilakukan dengan....\\n\\nopsi:\\nA. Percaya diri dan senyum\\nB. Menunduk\\nC. Marah\\nD. Cemberut\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nExpression."
+    },
+    {
+        "instruction": "Seni Kriya",
+        "input": "Menggunting kertas harus menggunakan....",
+        "output": "Soal:\\nMenggunting kertas harus menggunakan....\\n\\nopsi:\\nA. Tang\\nB. Gergaji\\nC. Pisau\\nD. Gunting\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nScissor."
+    },
+    {
+        "instruction": "Seni Kriya",
+        "input": "Menempel kertas menggunakan....",
+        "output": "Soal:\\nMenempel kertas menggunakan....\\n\\nopsi:\\nA. Jarum\\nB. Benang\\nC. Paku\\nD. Lem\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nGlue."
+    },
+    {
+        "instruction": "Seni Rupa",
+        "input": "Buku gambar digunakan untuk....",
+        "output": "Soal:\\nBuku gambar digunakan untuk....\\n\\nopsi:\\nA. Bungkus kacang\\nB. Alas duduk\\nC. Menulis surat\\nD. Menggambar\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nDrawing book."
+    },
+    {
+        "instruction": "Seni Rupa",
+        "input": "Pensil warna digunakan untuk....",
+        "output": "Soal:\\nPensil warna digunakan untuk....\\n\\nopsi:\\nA. Meraut\\nB. Menghapus\\nC. Menulis\\nD. Mewarnai gambar\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nColoring."
+    },
+    {
+        "instruction": "Seni Rupa",
+        "input": "Penghapus digunakan untuk....",
+        "output": "Soal:\\nPenghapus digunakan untuk....\\n\\nopsi:\\nA. Menggaris\\nB. Menebalkan\\nC. Mewarnai\\nD. Menghapus tulisan/gambar salah\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nEraser."
+    },
+    {
+        "instruction": "Seni Musik",
+        "input": "Gitar listrik membutuhkan ... agar berbunyi keras.",
+        "output": "Soal:\\nGitar listrik membutuhkan ... agar berbunyi keras.\\n\\nopsi:\\nA. Angin\\nB. Air\\nC. Api\\nD. Listrik dan Amplifier\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nElectric amp."
+    },
+    {
+        "instruction": "Seni Musik",
+        "input": "Mikrofon berfungsi untuk....",
+        "output": "Soal:\\nMikrofon berfungsi untuk....\\n\\nopsi:\\nA. Merekam\\nB. Memotret\\nC. Memperkeras suara\\nD. Mengetik\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMic."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Penari balet memakai sepatu....",
+        "output": "Soal:\\nPenari balet memakai sepatu....\\n\\nopsi:\\nA. Sandal\\nB. Kets\\nC. Ballet (Toe shoes)\\nD. Boot\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nPointe shoes."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Tari Breakdance termasuk tari....",
+        "output": "Soal:\\nTari Breakdance termasuk tari....\\n\\nopsi:\\nA. Tradisional\\nB. Sakral\\nC. Klasik\\nD. Modern\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nStreet dance."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Tari Piring melambangkan rasa syukur masyarakat terhadap....",
+        "output": "Soal:\\nTari Piring melambangkan rasa syukur masyarakat terhadap....\\n\\nopsi:\\nA. Kemenangan perang\\nB. Hujan turun\\nC. Hasil panen yang melimpah\\nD. Kelahiran raja\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nHarvest thanksgiving."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Tari Nguri adalah tari penyambutan tamu dari....",
+        "output": "Soal:\\nTari Nguri adalah tari penyambutan tamu dari....\\n\\nopsi:\\nA. Flores\\nB. Bali\\nC. Lombok\\nD. Sumbawa (NTB)\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSumbawa welcom dance."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Tari Bosara adalah tari penyambutan tamu dari....",
+        "output": "Soal:\\nTari Bosara adalah tari penyambutan tamu dari....\\n\\nopsi:\\nA. Makassar\\nB. Gorontalo\\nC. Manado\\nD. Sulawesi Selatan (Bugis)\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nBugis bosara."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Tari Lumense berasal dari....",
+        "output": "Soal:\\nTari Lumense berasal dari....\\n\\nopsi:\\nA. Sulawesi Tengah\\nB. Sulawesi Utara\\nC. Gorontalo\\nD. Sulawesi Tenggara (Buton)\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nTokia dance."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Tari Peule Cinde berasal dari....",
+        "output": "Soal:\\nTari Peule Cinde berasal dari....\\n\\nopsi:\\nA. Gorontalo\\nB. Sulawesi Selatan\\nC. Sulawesi Tengah\\nD. Sulawesi Tenggara\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nFlower dance."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Tari Kipas Pakarena mencerminkan karakter wanita Gowa yang....",
+        "output": "Soal:\\nTari Kipas Pakarena mencerminkan karakter wanita Gowa yang....\\n\\nopsi:\\nA. Keras\\nB. Sopan, setia, dan patuh\\nC. Pemarah\\nD. Pemberani\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nGentle character."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Tari Gandrung berasal dari....",
+        "output": "Soal:\\nTari Gandrung berasal dari....\\n\\nopsi:\\nA. Malang\\nB. Surabaya\\nC. Madura\\nD. Banyuwangi (Jawa Timur)\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nOsing dance."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Tari Janger adalah tari pergaulan muda-mudi dari....",
+        "output": "Soal:\\nTari Janger adalah tari pergaulan muda-mudi dari....\\n\\nopsi:\\nA. Lombok\\nB. Jawa\\nC. Sunda\\nD. Bali\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nBalinese youth dance."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Tari Lenso ditarikan menggunakan....",
+        "output": "Soal:\\nTari Lenso ditarikan menggunakan....\\n\\nopsi:\\nA. Selendang\\nB. Sapu tangan\\nC. Kipas\\nD. Topeng\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nHandkerchief."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Tari Saureka-Reka (Lompat Bambu) berasal dari....",
+        "output": "Soal:\\nTari Saureka-Reka (Lompat Bambu) berasal dari....\\n\\nopsi:\\nA. Sulawesi\\nB. Papua\\nC. NTT\\nD. Maluku\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nBamboo dance."
+    },
+    {
+        "instruction": "Seni Musik",
+        "input": "Lagu 'Anak Kambing Saya' berasal dari....",
+        "output": "Soal:\\nLagu 'Anak Kambing Saya' berasal dari....\\n\\nopsi:\\nA. Bali\\nB. Nusa Tenggara Timur (NTT)\\nC. Maluku\\nD. NTB\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMana dimana."
+    },
+    {
+        "instruction": "Seni Musik",
+        "input": "Lagu 'Potong Bebek Angsa' berasal dari....",
+        "output": "Soal:\\nLagu 'Potong Bebek Angsa' berasal dari....\\n\\nopsi:\\nA. Maluku\\nB. Nusa Tenggara Timur (NTT)\\nC. NTB\\nD. Papua\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nDuck song."
+    },
+    {
+        "instruction": "Seni Musik",
+        "input": "Lagu 'Burung Kakatua' berasal dari....",
+        "output": "Soal:\\nLagu 'Burung Kakatua' berasal dari....\\n\\nopsi:\\nA. NTT\\nB. Maluku\\nC. Sulawesi\\nD. Papua\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nCockatoo."
+    },
+    {
+        "instruction": "Seni Musik",
+        "input": "Lagu 'Sarinande' berasal dari....",
+        "output": "Soal:\\nLagu 'Sarinande' berasal dari....\\n\\nopsi:\\nA. Sulawesi\\nB. Maluku\\nC. NTT\\nD. Papua\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSarinande."
+    },
+    {
+        "instruction": "Seni Musik",
+        "input": "Lagu 'O Ulate' berasal dari....",
+        "output": "Soal:\\nLagu 'O Ulate' berasal dari....\\n\\nopsi:\\nA. Sulawesi\\nB. NTT\\nC. Papua\\nD. Maluku\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nUlate."
+    },
+    {
+        "instruction": "Seni Musik",
+        "input": "Lagu 'Sipatokaan' berasal dari....",
+        "output": "Soal:\\nLagu 'Sipatokaan' berasal dari....\\n\\nopsi:\\nA. Sulawesi Utara\\nB. Sulawesi Selatan\\nC. Maluku\\nD. Gorontalo\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMinahasa."
+    },
+    {
+        "instruction": "Seni Musik",
+        "input": "Lagu 'Esa Mokan' berasal dari....",
+        "output": "Soal:\\nLagu 'Esa Mokan' berasal dari....\\n\\nopsi:\\nA. Sulawesi Utara\\nB. Maluku\\nC. Gorontalo\\nD. Sulawesi Tengah\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMinahasa."
+    },
+    {
+        "instruction": "Seni Musik",
+        "input": "Lagu 'Tondok Kadadianku' berasal dari....",
+        "output": "Soal:\\nLagu 'Tondok Kadadianku' berasal dari....\\n\\nopsi:\\nA. Sulawesi Utara\\nB. Sulawesi Selatan\\nC. Gorontalo\\nD. Sulawesi Tengah\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nCentral Sulawesi."
+    },
+    {
+        "instruction": "Seni Musik",
+        "input": "Lagu 'Pakarena' menceritakan tentang....",
+        "output": "Soal:\\nLagu 'Pakarena' menceritakan tentang....\\n\\nopsi:\\nA. Siklus hidup manusia\\nB. Pesta\\nC. Perang\\nD. Laut\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nPhilosophical."
+    },
+    {
+        "instruction": "Seni Musik",
+        "input": "Lagu 'Cik Cik Periuk' menyindir tentang....",
+        "output": "Soal:\\nLagu 'Cik Cik Periuk' menyindir tentang....\\n\\nopsi:\\nA. Pesta rakyat\\nB. Panen padi\\nC. Kedatangan tentara Jepang/Orang asing\\nD. Hujan\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSatire."
+    },
+    {
+        "instruction": "Seni Kriya",
+        "input": "Topeng Cirebon yang berwarna merah melambangkan karakter....",
+        "output": "Soal:\\nTopeng Cirebon yang berwarna merah melambangkan karakter....\\n\\nopsi:\\nA. Bijaksana\\nB. Lucu\\nC. Pemarah / Angkara Murka\\nD. Suci / Baik\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nRed mask."
+    },
+    {
+        "instruction": "Seni Kriya",
+        "input": "Topeng Cirebon yang berwarna putih melambangkan karakter....",
+        "output": "Soal:\\nTopeng Cirebon yang berwarna putih melambangkan karakter....\\n\\nopsi:\\nA. Lucu\\nB. Suci / Baik Hati\\nC. Jahat\\nD. Sombong\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nWhite mask."
+    },
+    {
+        "instruction": "Seni Kriya",
+        "input": "Wayang Golek adalah wayang boneka kayu dari....",
+        "output": "Soal:\\nWayang Golek adalah wayang boneka kayu dari....\\n\\nopsi:\\nA. Jawa Timur\\nB. Bali\\nC. Jawa Barat (Sunda)\\nD. Jawa Tengah\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nWooden puppet."
+    },
+    {
+        "instruction": "Seni Kriya",
+        "input": "Wayang Beber adalah wayang yang digambar pada....",
+        "output": "Soal:\\nWayang Beber adalah wayang yang digambar pada....\\n\\nopsi:\\nA. Lembaran kain/kertas gulungan\\nB. Kayu\\nC. Batu\\nD. Kulit sapi\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nScroll puppet."
+    },
+    {
+        "instruction": "Seni Kriya",
+        "input": "Batik motif Semen Rama menggambarkan....",
+        "output": "Soal:\\nBatik motif Semen Rama menggambarkan....\\n\\nopsi:\\nA. Kehidupan yang semi (tumbuh)\\nB. Kematian\\nC. Laut\\nD. Perang\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nGrowth."
+    },
+    {
+        "instruction": "Seni Kriya",
+        "input": "Batik motif Sido Mukti biasanya dipakai oleh....",
+        "output": "Soal:\\nBatik motif Sido Mukti biasanya dipakai oleh....\\n\\nopsi:\\nA. Pengantin (agar bahagia)\\nB. Raja\\nC. Prajurit\\nD. Petani\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nWedding hope."
+    },
+    {
+        "instruction": "Seni Kriya",
+        "input": "Batik motif Truntum (bintang) melambangkan....",
+        "output": "Soal:\\nBatik motif Truntum (bintang) melambangkan....\\n\\nopsi:\\nA. Kemarahan\\nB. Cinta yang tumbuh kembali\\nC. Perpisahan\\nD. Kesedihan\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nReborn love."
+    },
+    {
+        "instruction": "Seni Kriya",
+        "input": "Tenun Ikat Troso berasal dari....",
+        "output": "Soal:\\nTenun Ikat Troso berasal dari....\\n\\nopsi:\\nA. Pekalongan\\nB. Solo\\nC. Jepara\\nD. Yogya\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nWeaving town."
+    },
+    {
+        "instruction": "Seni Kriya",
+        "input": "Tenun Gringsing (Double Ikat) hanya ada di....",
+        "output": "Soal:\\nTenun Gringsing (Double Ikat) hanya ada di....\\n\\nopsi:\\nA. Ubud\\nB. Denpasar\\nC. Tenganan (Bali)\\nD. Kuta\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nRare weaving."
+    },
+    {
+        "instruction": "Seni Kriya",
+        "input": "Kerajinan anyaman Tasikmalaya (Jabar) terkenal menggunakan bahan....",
+        "output": "Soal:\\nKerajinan anyaman Tasikmalaya (Jabar) terkenal menggunakan bahan....\\n\\nopsi:\\nA. Mendung / Pandan\\nB. Bambu\\nC. Plastik\\nD. Rotan\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nPandan wangi."
+    },
+    {
+        "instruction": "Seni Rupa",
+        "input": "Warna pelangi disingkat menjadi....",
+        "output": "Soal:\\nWarna pelangi disingkat menjadi....\\n\\nopsi:\\nA. Mejikuhibiniu\\nB. Mejikuhiniu\\nC. Majikuhibiniu\\nD. Mejikuhibiu\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nRainbow colors."
+    },
+    {
+        "instruction": "Seni Rupa",
+        "input": "Warna nila adalah campuran warna....",
+        "output": "Soal:\\nWarna nila adalah campuran warna....\\n\\nopsi:\\nA. Merah dan Biru\\nB. Kuning dan Hijau\\nC. Biru dan Ungu\\nD. Hitam dan Putih\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nIndigo."
+    },
+    {
+        "instruction": "Seni Musik",
+        "input": "Lagu 'Balonku' diciptakan oleh....",
+        "output": "Soal:\\nLagu 'Balonku' diciptakan oleh....\\n\\nopsi:\\nA. Daljono\\nB. Ibu Sud\\nC. AT Mahmud\\nD. Pak Kasur\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nBalloons."
+    },
+    {
+        "instruction": "Seni Musik",
+        "input": "Lagu 'Lihat Kebunku' diciptakan oleh....",
+        "output": "Soal:\\nLagu 'Lihat Kebunku' diciptakan oleh....\\n\\nopsi:\\nA. AT Mahmud\\nB. L. Manik\\nC. Ibu Sud\\nD. Pak Kasur\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nGarden."
+    },
+    {
+        "instruction": "Seni Musik",
+        "input": "Lagu 'Dua Mata Saya' diciptakan oleh....",
+        "output": "Soal:\\nLagu 'Dua Mata Saya' diciptakan oleh....\\n\\nopsi:\\nA. AT Mahmud\\nB. Daljono\\nC. Ibu Sud\\nD. Pak Kasur\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nBody parts."
+    },
+    {
+        "instruction": "Seni Musik",
+        "input": "Lagu 'Topi Saya Bundar' diciptakan oleh....",
+        "output": "Soal:\\nLagu 'Topi Saya Bundar' diciptakan oleh....\\n\\nopsi:\\nA. Ibu Sud\\nB. Pak Kasur\\nC. Daljono\\nD. AT Mahmud\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nHat song."
+    },
+    {
+        "instruction": "Seni Tari",
+        "input": "Tari dengan gerakan menirukan hewan disebut tari....",
+        "output": "Soal:\\nTari dengan gerakan menirukan hewan disebut tari....\\n\\nopsi:\\nA. Imitatif\\nB. Murni\\nC. Abstrak\\nD. Kreasi\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nImitative."
     }
 ]

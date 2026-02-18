@@ -1053,5 +1053,1660 @@
         "instruction": "Keberagaman (Suku).",
         "input": "Suku Baduy Dalam dan Baduy Luar tinggal di provinsi....",
         "output": "Soal:\nA. Jawa Barat (Banten)\nB. Jawa Barat (Bandung)\nC. DKI Jakarta\nD. Jawa Tengah\n\nKunci Jawaban: A\n\nPembahasan:\nBaduy = Banten (dulu masuk Jabar, sekarang provinsi Banten, tapi secara budaya Sunda/Banten)."
+    },
+    {
+        "instruction": "Tugas dan Wewenang MPR.",
+        "input": "Lembaga negara MPR memiliki tugas utama....",
+        "output": "Soal:\\nTugas MPR adalah....\\n\\nA. Memeriksa keuangan negara\\nB. Melantik Presiden dan Wakil Presiden, Mengubah UUD 1945\\nC. Mengatur lalu lintas\\nD. Menjaga keamanan\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nTugas utama MPR sesuai UUD 1945 adalah Melantik Presiden dan Wakil Presiden, Mengubah UUD 1945."
+    },
+    {
+        "instruction": "Tugas dan Wewenang MPR.",
+        "input": "Lembaga negara MPR memiliki tugas utama....",
+        "output": "Soal:\\nTugas MPR adalah....\\n\\nA. Menjaga keamanan\\nB. Mengatur lalu lintas\\nC. Melantik Presiden dan Wakil Presiden, Mengubah UUD 1945\\nD. Memeriksa keuangan negara\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nTugas utama MPR sesuai UUD 1945 adalah Melantik Presiden dan Wakil Presiden, Mengubah UUD 1945."
+    },
+    {
+        "instruction": "Tugas dan Wewenang MPR.",
+        "input": "Lembaga negara MPR memiliki tugas utama....",
+        "output": "Soal:\\nTugas MPR adalah....\\n\\nA. Mengatur lalu lintas\\nB. Melantik Presiden dan Wakil Presiden, Mengubah UUD 1945\\nC. Menjaga keamanan\\nD. Mengadili perkara pidana\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nTugas utama MPR sesuai UUD 1945 adalah Melantik Presiden dan Wakil Presiden, Mengubah UUD 1945."
+    },
+    {
+        "instruction": "Lembaga Negara (Melantik Presiden dan Wakil Presiden, Mengubah UUD 1945).",
+        "input": "Lembaga yang bertugas Melantik Presiden dan Wakil Presiden, Mengubah UUD 1945 adalah....",
+        "output": "Soal:\\nLembaga tersebut adalah....\\n\\nA. MK\\nB. BPK\\nC. MPR\\nD. DPR\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMPR bertugas Melantik Presiden dan Wakil Presiden, Mengubah UUD 1945."
+    },
+    {
+        "instruction": "Lembaga Negara (Melantik Presiden dan Wakil Presiden, Mengubah UUD 1945).",
+        "input": "Lembaga yang bertugas Melantik Presiden dan Wakil Presiden, Mengubah UUD 1945 adalah....",
+        "output": "Soal:\\nLembaga tersebut adalah....\\n\\nA. MA\\nB. MK\\nC. MPR\\nD. KY\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMPR bertugas Melantik Presiden dan Wakil Presiden, Mengubah UUD 1945."
+    },
+    {
+        "instruction": "Lembaga Negara (Melantik Presiden dan Wakil Presiden, Mengubah UUD 1945).",
+        "input": "Lembaga yang bertugas Melantik Presiden dan Wakil Presiden, Mengubah UUD 1945 adalah....",
+        "output": "Soal:\\nLembaga tersebut adalah....\\n\\nA. MA\\nB. MPR\\nC. MK\\nD. KY\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMPR bertugas Melantik Presiden dan Wakil Presiden, Mengubah UUD 1945."
+    },
+    {
+        "instruction": "Tugas dan Wewenang DPR.",
+        "input": "Lembaga negara DPR memiliki tugas utama....",
+        "output": "Soal:\\nTugas DPR adalah....\\n\\nA. Membuat Undang-Undang (Legislasi), Anggaran, Pengawasan\\nB. Mengatur lalu lintas\\nC. Menjaga keamanan\\nD. Melantik Presiden\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nTugas utama DPR sesuai UUD 1945 adalah Membuat Undang-Undang (Legislasi), Anggaran, Pengawasan."
+    },
+    {
+        "instruction": "Tugas dan Wewenang DPR.",
+        "input": "Lembaga negara DPR memiliki tugas utama....",
+        "output": "Soal:\\nTugas DPR adalah....\\n\\nA. Mengadili Presiden\\nB. Melantik Presiden\\nC. Membuat Undang-Undang (Legislasi), Anggaran, Pengawasan\\nD. Memeriksa pajak\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nTugas utama DPR sesuai UUD 1945 adalah Membuat Undang-Undang (Legislasi), Anggaran, Pengawasan."
+    },
+    {
+        "instruction": "Tugas dan Wewenang DPR.",
+        "input": "Lembaga negara DPR memiliki tugas utama....",
+        "output": "Soal:\\nTugas DPR adalah....\\n\\nA. Mengadili Presiden\\nB. Memeriksa pajak\\nC. Membuat Undang-Undang (Legislasi), Anggaran, Pengawasan\\nD. Mengatur lalu lintas\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nTugas utama DPR sesuai UUD 1945 adalah Membuat Undang-Undang (Legislasi), Anggaran, Pengawasan."
+    },
+    {
+        "instruction": "Lembaga Negara (Membuat Undang-Undang (Legislasi), Anggaran, Pengawasan).",
+        "input": "Lembaga yang bertugas Membuat Undang-Undang (Legislasi), Anggaran, Pengawasan adalah....",
+        "output": "Soal:\\nLembaga tersebut adalah....\\n\\nA. Presiden\\nB. BPK\\nC. DPR\\nD. MA\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nDPR bertugas Membuat Undang-Undang (Legislasi), Anggaran, Pengawasan."
+    },
+    {
+        "instruction": "Lembaga Negara (Membuat Undang-Undang (Legislasi), Anggaran, Pengawasan).",
+        "input": "Lembaga yang bertugas Membuat Undang-Undang (Legislasi), Anggaran, Pengawasan adalah....",
+        "output": "Soal:\\nLembaga tersebut adalah....\\n\\nA. KY\\nB. DPR\\nC. Presiden\\nD. MPR\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nDPR bertugas Membuat Undang-Undang (Legislasi), Anggaran, Pengawasan."
+    },
+    {
+        "instruction": "Lembaga Negara (Membuat Undang-Undang (Legislasi), Anggaran, Pengawasan).",
+        "input": "Lembaga yang bertugas Membuat Undang-Undang (Legislasi), Anggaran, Pengawasan adalah....",
+        "output": "Soal:\\nLembaga tersebut adalah....\\n\\nA. DPR\\nB. BPK\\nC. MPR\\nD. Presiden\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nDPR bertugas Membuat Undang-Undang (Legislasi), Anggaran, Pengawasan."
+    },
+    {
+        "instruction": "Tugas dan Wewenang Presiden.",
+        "input": "Lembaga negara Presiden memiliki tugas utama....",
+        "output": "Soal:\\nTugas Presiden adalah....\\n\\nA. Ketua DPR\\nB. Menjaga keamanan\\nC. Ketua MPR\\nD. Kepala Negara dan Kepala Pemerintahan\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nTugas utama Presiden sesuai UUD 1945 adalah Kepala Negara dan Kepala Pemerintahan."
+    },
+    {
+        "instruction": "Tugas dan Wewenang Presiden.",
+        "input": "Lembaga negara Presiden memiliki tugas utama....",
+        "output": "Soal:\\nTugas Presiden adalah....\\n\\nA. Ketua MPR\\nB. Menjaga keamanan\\nC. Kepala Negara dan Kepala Pemerintahan\\nD. Mengatur lalu lintas\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nTugas utama Presiden sesuai UUD 1945 adalah Kepala Negara dan Kepala Pemerintahan."
+    },
+    {
+        "instruction": "Tugas dan Wewenang Presiden.",
+        "input": "Lembaga negara Presiden memiliki tugas utama....",
+        "output": "Soal:\\nTugas Presiden adalah....\\n\\nA. Ketua MPR\\nB. Mengatur lalu lintas\\nC. Ketua MA\\nD. Kepala Negara dan Kepala Pemerintahan\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nTugas utama Presiden sesuai UUD 1945 adalah Kepala Negara dan Kepala Pemerintahan."
+    },
+    {
+        "instruction": "Lembaga Negara (Kepala Negara dan Kepala Pemerintahan).",
+        "input": "Lembaga yang bertugas Kepala Negara dan Kepala Pemerintahan adalah....",
+        "output": "Soal:\\nLembaga tersebut adalah....\\n\\nA. MPR\\nB. BPK\\nC. Presiden\\nD. DPR\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nPresiden bertugas Kepala Negara dan Kepala Pemerintahan."
+    },
+    {
+        "instruction": "Lembaga Negara (Kepala Negara dan Kepala Pemerintahan).",
+        "input": "Lembaga yang bertugas Kepala Negara dan Kepala Pemerintahan adalah....",
+        "output": "Soal:\\nLembaga tersebut adalah....\\n\\nA. MK\\nB. Presiden\\nC. BPK\\nD. MA\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nPresiden bertugas Kepala Negara dan Kepala Pemerintahan."
+    },
+    {
+        "instruction": "Lembaga Negara (Kepala Negara dan Kepala Pemerintahan).",
+        "input": "Lembaga yang bertugas Kepala Negara dan Kepala Pemerintahan adalah....",
+        "output": "Soal:\\nLembaga tersebut adalah....\\n\\nA. Presiden\\nB. MK\\nC. MA\\nD. MPR\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nPresiden bertugas Kepala Negara dan Kepala Pemerintahan."
+    },
+    {
+        "instruction": "Tugas dan Wewenang MK.",
+        "input": "Lembaga negara MK memiliki tugas utama....",
+        "output": "Soal:\\nTugas MK adalah....\\n\\nA. Membuat UU\\nB. Menguji UU terhadap UUD 1945, Memutuskan sengketa Pemilu\\nC. Memecat menteri\\nD. Mengatur lalu lintas\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nTugas utama MK sesuai UUD 1945 adalah Menguji UU terhadap UUD 1945, Memutuskan sengketa Pemilu."
+    },
+    {
+        "instruction": "Tugas dan Wewenang MK.",
+        "input": "Lembaga negara MK memiliki tugas utama....",
+        "output": "Soal:\\nTugas MK adalah....\\n\\nA. Membuat UU\\nB. Menguji UU terhadap UUD 1945, Memutuskan sengketa Pemilu\\nC. Memecat menteri\\nD. Mengadili korupsi\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nTugas utama MK sesuai UUD 1945 adalah Menguji UU terhadap UUD 1945, Memutuskan sengketa Pemilu."
+    },
+    {
+        "instruction": "Tugas dan Wewenang MK.",
+        "input": "Lembaga negara MK memiliki tugas utama....",
+        "output": "Soal:\\nTugas MK adalah....\\n\\nA. Menjaga keamanan\\nB. Mengadili korupsi\\nC. Menguji UU terhadap UUD 1945, Memutuskan sengketa Pemilu\\nD. Memecat menteri\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nTugas utama MK sesuai UUD 1945 adalah Menguji UU terhadap UUD 1945, Memutuskan sengketa Pemilu."
+    },
+    {
+        "instruction": "Lembaga Negara (Menguji UU terhadap UUD 1945, Memutuskan sengketa Pemilu).",
+        "input": "Lembaga yang bertugas Menguji UU terhadap UUD 1945, Memutuskan sengketa Pemilu adalah....",
+        "output": "Soal:\\nLembaga tersebut adalah....\\n\\nA. MA\\nB. MK\\nC. Presiden\\nD. BPK\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMK bertugas Menguji UU terhadap UUD 1945, Memutuskan sengketa Pemilu."
+    },
+    {
+        "instruction": "Lembaga Negara (Menguji UU terhadap UUD 1945, Memutuskan sengketa Pemilu).",
+        "input": "Lembaga yang bertugas Menguji UU terhadap UUD 1945, Memutuskan sengketa Pemilu adalah....",
+        "output": "Soal:\\nLembaga tersebut adalah....\\n\\nA. MA\\nB. MK\\nC. BPK\\nD. MPR\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMK bertugas Menguji UU terhadap UUD 1945, Memutuskan sengketa Pemilu."
+    },
+    {
+        "instruction": "Lembaga Negara (Menguji UU terhadap UUD 1945, Memutuskan sengketa Pemilu).",
+        "input": "Lembaga yang bertugas Menguji UU terhadap UUD 1945, Memutuskan sengketa Pemilu adalah....",
+        "output": "Soal:\\nLembaga tersebut adalah....\\n\\nA. BPK\\nB. Presiden\\nC. MK\\nD. DPR\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMK bertugas Menguji UU terhadap UUD 1945, Memutuskan sengketa Pemilu."
+    },
+    {
+        "instruction": "Tugas dan Wewenang MA.",
+        "input": "Lembaga negara MA memiliki tugas utama....",
+        "output": "Soal:\\nTugas MA adalah....\\n\\nA. Menguji UU\\nB. Membuat UU\\nC. Menjaga keamanan\\nD. Lembaga peradilan tertinggi (Kasasi)\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nTugas utama MA sesuai UUD 1945 adalah Lembaga peradilan tertinggi (Kasasi)."
+    },
+    {
+        "instruction": "Tugas dan Wewenang MA.",
+        "input": "Lembaga negara MA memiliki tugas utama....",
+        "output": "Soal:\\nTugas MA adalah....\\n\\nA. Melantik Presiden\\nB. Mengatur lalu lintas\\nC. Menguji UU\\nD. Lembaga peradilan tertinggi (Kasasi)\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nTugas utama MA sesuai UUD 1945 adalah Lembaga peradilan tertinggi (Kasasi)."
+    },
+    {
+        "instruction": "Tugas dan Wewenang MA.",
+        "input": "Lembaga negara MA memiliki tugas utama....",
+        "output": "Soal:\\nTugas MA adalah....\\n\\nA. Melantik Presiden\\nB. Mengatur lalu lintas\\nC. Lembaga peradilan tertinggi (Kasasi)\\nD. Membuat UU\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nTugas utama MA sesuai UUD 1945 adalah Lembaga peradilan tertinggi (Kasasi)."
+    },
+    {
+        "instruction": "Lembaga Negara (Lembaga peradilan tertinggi (Kasasi)).",
+        "input": "Lembaga yang bertugas Lembaga peradilan tertinggi (Kasasi) adalah....",
+        "output": "Soal:\\nLembaga tersebut adalah....\\n\\nA. DPR\\nB. BPK\\nC. MPR\\nD. MA\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMA bertugas Lembaga peradilan tertinggi (Kasasi)."
+    },
+    {
+        "instruction": "Lembaga Negara (Lembaga peradilan tertinggi (Kasasi)).",
+        "input": "Lembaga yang bertugas Lembaga peradilan tertinggi (Kasasi) adalah....",
+        "output": "Soal:\\nLembaga tersebut adalah....\\n\\nA. KY\\nB. DPR\\nC. MA\\nD. MPR\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMA bertugas Lembaga peradilan tertinggi (Kasasi)."
+    },
+    {
+        "instruction": "Lembaga Negara (Lembaga peradilan tertinggi (Kasasi)).",
+        "input": "Lembaga yang bertugas Lembaga peradilan tertinggi (Kasasi) adalah....",
+        "output": "Soal:\\nLembaga tersebut adalah....\\n\\nA. DPR\\nB. KY\\nC. MA\\nD. BPK\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMA bertugas Lembaga peradilan tertinggi (Kasasi)."
+    },
+    {
+        "instruction": "Tugas dan Wewenang BPK.",
+        "input": "Lembaga negara BPK memiliki tugas utama....",
+        "output": "Soal:\\nTugas BPK adalah....\\n\\nA. Menarik pajak\\nB. Memeriksa pengelolaan dan tanggung jawab keuangan negara\\nC. Mencetak uang\\nD. Mengatur lalu lintas\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nTugas utama BPK sesuai UUD 1945 adalah Memeriksa pengelolaan dan tanggung jawab keuangan negara."
+    },
+    {
+        "instruction": "Tugas dan Wewenang BPK.",
+        "input": "Lembaga negara BPK memiliki tugas utama....",
+        "output": "Soal:\\nTugas BPK adalah....\\n\\nA. Mengatur lalu lintas\\nB. Membuat anggaran\\nC. Menarik pajak\\nD. Memeriksa pengelolaan dan tanggung jawab keuangan negara\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nTugas utama BPK sesuai UUD 1945 adalah Memeriksa pengelolaan dan tanggung jawab keuangan negara."
+    },
+    {
+        "instruction": "Tugas dan Wewenang BPK.",
+        "input": "Lembaga negara BPK memiliki tugas utama....",
+        "output": "Soal:\\nTugas BPK adalah....\\n\\nA. Menarik pajak\\nB. Membuat anggaran\\nC. Mengatur lalu lintas\\nD. Memeriksa pengelolaan dan tanggung jawab keuangan negara\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nTugas utama BPK sesuai UUD 1945 adalah Memeriksa pengelolaan dan tanggung jawab keuangan negara."
+    },
+    {
+        "instruction": "Lembaga Negara (Memeriksa pengelolaan dan tanggung jawab keuangan negara).",
+        "input": "Lembaga yang bertugas Memeriksa pengelolaan dan tanggung jawab keuangan negara adalah....",
+        "output": "Soal:\\nLembaga tersebut adalah....\\n\\nA. BPK\\nB. Presiden\\nC. MA\\nD. MPR\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nBPK bertugas Memeriksa pengelolaan dan tanggung jawab keuangan negara."
+    },
+    {
+        "instruction": "Lembaga Negara (Memeriksa pengelolaan dan tanggung jawab keuangan negara).",
+        "input": "Lembaga yang bertugas Memeriksa pengelolaan dan tanggung jawab keuangan negara adalah....",
+        "output": "Soal:\\nLembaga tersebut adalah....\\n\\nA. KY\\nB. BPK\\nC. DPR\\nD. MPR\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nBPK bertugas Memeriksa pengelolaan dan tanggung jawab keuangan negara."
+    },
+    {
+        "instruction": "Lembaga Negara (Memeriksa pengelolaan dan tanggung jawab keuangan negara).",
+        "input": "Lembaga yang bertugas Memeriksa pengelolaan dan tanggung jawab keuangan negara adalah....",
+        "output": "Soal:\\nLembaga tersebut adalah....\\n\\nA. MK\\nB. MA\\nC. Presiden\\nD. BPK\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nBPK bertugas Memeriksa pengelolaan dan tanggung jawab keuangan negara."
+    },
+    {
+        "instruction": "Tugas dan Wewenang KY.",
+        "input": "Lembaga negara KY memiliki tugas utama....",
+        "output": "Soal:\\nTugas KY adalah....\\n\\nA. Membuat UU\\nB. Mengusulkan pengangkatan Hakim Agung\\nC. Menjaga keamanan\\nD. Mengatur lalu lintas\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nTugas utama KY sesuai UUD 1945 adalah Mengusulkan pengangkatan Hakim Agung."
+    },
+    {
+        "instruction": "Tugas dan Wewenang KY.",
+        "input": "Lembaga negara KY memiliki tugas utama....",
+        "output": "Soal:\\nTugas KY adalah....\\n\\nA. Mengadili hakim\\nB. Menjaga keamanan\\nC. Mengusulkan pengangkatan Hakim Agung\\nD. Mengatur lalu lintas\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nTugas utama KY sesuai UUD 1945 adalah Mengusulkan pengangkatan Hakim Agung."
+    },
+    {
+        "instruction": "Tugas dan Wewenang KY.",
+        "input": "Lembaga negara KY memiliki tugas utama....",
+        "output": "Soal:\\nTugas KY adalah....\\n\\nA. Mengusulkan pengangkatan Hakim Agung\\nB. Mengadili hakim\\nC. Mengatur lalu lintas\\nD. Melantik Hakim\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nTugas utama KY sesuai UUD 1945 adalah Mengusulkan pengangkatan Hakim Agung."
+    },
+    {
+        "instruction": "Lembaga Negara (Mengusulkan pengangkatan Hakim Agung).",
+        "input": "Lembaga yang bertugas Mengusulkan pengangkatan Hakim Agung adalah....",
+        "output": "Soal:\\nLembaga tersebut adalah....\\n\\nA. MPR\\nB. MK\\nC. KY\\nD. DPR\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nKY bertugas Mengusulkan pengangkatan Hakim Agung."
+    },
+    {
+        "instruction": "Lembaga Negara (Mengusulkan pengangkatan Hakim Agung).",
+        "input": "Lembaga yang bertugas Mengusulkan pengangkatan Hakim Agung adalah....",
+        "output": "Soal:\\nLembaga tersebut adalah....\\n\\nA. MA\\nB. Presiden\\nC. KY\\nD. MK\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nKY bertugas Mengusulkan pengangkatan Hakim Agung."
+    },
+    {
+        "instruction": "Lembaga Negara (Mengusulkan pengangkatan Hakim Agung).",
+        "input": "Lembaga yang bertugas Mengusulkan pengangkatan Hakim Agung adalah....",
+        "output": "Soal:\\nLembaga tersebut adalah....\\n\\nA. KY\\nB. MPR\\nC. BPK\\nD. DPR\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nKY bertugas Mengusulkan pengangkatan Hakim Agung."
+    },
+    {
+        "instruction": "Amandemen UUD 1945.",
+        "input": "Amandemen UUD 1945 yang ke-pertama dilakukan pada tahun....",
+        "output": "Soal:\\nTahun berapakah amandemen ke-Pertama?\\n\\nA. 1999\\nB. 2000\\nC. 1998\\nD. 2001\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nAmandemen ke-Pertama disahkan pada tahun 1999."
+    },
+    {
+        "instruction": "Amandemen UUD 1945.",
+        "input": "Amandemen UUD 1945 yang ke-kedua dilakukan pada tahun....",
+        "output": "Soal:\\nTahun berapakah amandemen ke-Kedua?\\n\\nA. 2002\\nB. 2001\\nC. 2000\\nD. 1999\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nAmandemen ke-Kedua disahkan pada tahun 2000."
+    },
+    {
+        "instruction": "Amandemen UUD 1945.",
+        "input": "Amandemen UUD 1945 yang ke-ketiga dilakukan pada tahun....",
+        "output": "Soal:\\nTahun berapakah amandemen ke-Ketiga?\\n\\nA. 2003\\nB. 2000\\nC. 2002\\nD. 2001\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nAmandemen ke-Ketiga disahkan pada tahun 2001."
+    },
+    {
+        "instruction": "Amandemen UUD 1945.",
+        "input": "Amandemen UUD 1945 yang ke-keempat dilakukan pada tahun....",
+        "output": "Soal:\\nTahun berapakah amandemen ke-Keempat?\\n\\nA. 2001\\nB. 2003\\nC. 2002\\nD. 2004\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nAmandemen ke-Keempat disahkan pada tahun 2002."
+    },
+    {
+        "instruction": "Kepala Daerah Provinsi.",
+        "input": "Wilayah Provinsi dipimpin oleh seorang....",
+        "output": "Soal:\\nPemimpin Provinsi disebut....\\n\\nA. Gubernur\\nB. Walikota\\nC. Presiden\\nD. Bupati\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nProvinsi dipimpin oleh Gubernur."
+    },
+    {
+        "instruction": "Kepala Daerah Kabupaten.",
+        "input": "Wilayah Kabupaten dipimpin oleh seorang....",
+        "output": "Soal:\\nPemimpin Kabupaten disebut....\\n\\nA. Camat\\nB. Gubernur\\nC. Walikota\\nD. Bupati\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nKabupaten dipimpin oleh Bupati."
+    },
+    {
+        "instruction": "Kepala Daerah Kota.",
+        "input": "Wilayah Kota dipimpin oleh seorang....",
+        "output": "Soal:\\nPemimpin Kota disebut....\\n\\nA. Gubernur\\nB. Bupati\\nC. Walikota\\nD. Lurah\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nKota dipimpin oleh Walikota."
+    },
+    {
+        "instruction": "Kepala Daerah Kecamatan.",
+        "input": "Wilayah Kecamatan dipimpin oleh seorang....",
+        "output": "Soal:\\nPemimpin Kecamatan disebut....\\n\\nA. Bupati\\nB. Lurah\\nC. Ketua RW\\nD. Camat\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nKecamatan dipimpin oleh Camat."
+    },
+    {
+        "instruction": "Kepala Daerah Desa.",
+        "input": "Wilayah Desa dipimpin oleh seorang....",
+        "output": "Soal:\\nPemimpin Desa disebut....\\n\\nA. Camat\\nB. Lurah\\nC. Kepala Desa\\nD. Ketua RT\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nDesa dipimpin oleh Kepala Desa."
+    },
+    {
+        "instruction": "Kepala Daerah Kelurahan.",
+        "input": "Wilayah Kelurahan dipimpin oleh seorang....",
+        "output": "Soal:\\nPemimpin Kelurahan disebut....\\n\\nA. Ketua RW\\nB. Lurah\\nC. Kepala Desa\\nD. Camat\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nKelurahan dipimpin oleh Lurah."
+    },
+    {
+        "instruction": "Peran DPRD.",
+        "input": "Fungsi utama DPRD di masyarakat adalah....",
+        "output": "Soal:\\nTugas DPRD adalah....\\n\\nA. Mengadili\\nB. Membuat UUD\\nC. Menangkap pencuri\\nD. Membuat Perda (Peraturan Daerah) bersama Kepala Daerah\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nDPRD bertugas Membuat Perda (Peraturan Daerah) bersama Kepala Daerah."
+    },
+    {
+        "instruction": "Peran DPRD.",
+        "input": "Fungsi utama DPRD di masyarakat adalah....",
+        "output": "Soal:\\nTugas DPRD adalah....\\n\\nA. Menangkap pencuri\\nB. Membuat Perda (Peraturan Daerah) bersama Kepala Daerah\\nC. Membangun jembatan\\nD. Mengadili\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nDPRD bertugas Membuat Perda (Peraturan Daerah) bersama Kepala Daerah."
+    },
+    {
+        "instruction": "Peran Posyandu.",
+        "input": "Fungsi utama Posyandu di masyarakat adalah....",
+        "output": "Soal:\\nTugas Posyandu adalah....\\n\\nA. Pelayanan KTP\\nB. Keamanan\\nC. Membangun jembatan\\nD. Pelayanan kesehatan dasar ibu dan anak\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nPosyandu bertugas Pelayanan kesehatan dasar ibu dan anak."
+    },
+    {
+        "instruction": "Peran Posyandu.",
+        "input": "Fungsi utama Posyandu di masyarakat adalah....",
+        "output": "Soal:\\nTugas Posyandu adalah....\\n\\nA. Keamanan\\nB. Pelayanan kesehatan dasar ibu dan anak\\nC. Pelayanan KTP\\nD. Pelayanan SIM\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nPosyandu bertugas Pelayanan kesehatan dasar ibu dan anak."
+    },
+    {
+        "instruction": "Peran Satpol PP.",
+        "input": "Fungsi utama Satpol PP di masyarakat adalah....",
+        "output": "Soal:\\nTugas Satpol PP adalah....\\n\\nA. Menegakkan Perda dan ketertiban umum\\nB. Menangkap perampok\\nC. Memadamkan api\\nD. Membangun jembatan\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSatpol PP bertugas Menegakkan Perda dan ketertiban umum."
+    },
+    {
+        "instruction": "Peran Satpol PP.",
+        "input": "Fungsi utama Satpol PP di masyarakat adalah....",
+        "output": "Soal:\\nTugas Satpol PP adalah....\\n\\nA. Menegakkan Perda dan ketertiban umum\\nB. Membangun jembatan\\nC. Memadamkan api\\nD. Mengatur lalu lintas\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSatpol PP bertugas Menegakkan Perda dan ketertiban umum."
+    },
+    {
+        "instruction": "Peran RT/RW.",
+        "input": "Fungsi utama RT/RW di masyarakat adalah....",
+        "output": "Soal:\\nTugas RT/RW adalah....\\n\\nA. Menarik pajak\\nB. Membangun jembatan\\nC. Melayani administrasi warga tingkat paling bawah\\nD. Membuat UU\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nRT/RW bertugas Melayani administrasi warga tingkat paling bawah."
+    },
+    {
+        "instruction": "Peran RT/RW.",
+        "input": "Fungsi utama RT/RW di masyarakat adalah....",
+        "output": "Soal:\\nTugas RT/RW adalah....\\n\\nA. Melayani administrasi warga tingkat paling bawah\\nB. Membuat UU\\nC. Menarik pajak\\nD. Membangun jembatan\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nRT/RW bertugas Melayani administrasi warga tingkat paling bawah."
+    },
+    {
+        "instruction": "Sejarah BPUPKI.",
+        "input": "Apa tujuan/pengertian dari BPUPKI?",
+        "output": "Soal:\\nTujuan BPUPKI adalah....\\n\\nA. Gerakan wanita\\nB. Badan Penyelidik Usaha-usaha Persiapan Kemerdekaan Indonesia\\nC. Organisasi perdagangan\\nD. Pasukan militer Jepang\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nBPUPKI adalah Badan Penyelidik Usaha-usaha Persiapan Kemerdekaan Indonesia."
+    },
+    {
+        "instruction": "Tanggal Sejarah BPUPKI.",
+        "input": "Kapan peristiwa BPUPKI terjadi?",
+        "output": "Soal:\\nTanggal BPUPKI adalah....\\n\\nA. 1 Maret 1945\\nB. 28 Oktober 1928\\nC. 17 Agustus 1945\\nD. 1 Juni 1945\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nBPUPKI terjadi pada 1 Maret 1945."
+    },
+    {
+        "instruction": "Sejarah PPKI.",
+        "input": "Apa tujuan/pengertian dari PPKI?",
+        "output": "Soal:\\nTujuan PPKI adalah....\\n\\nA. Pasukan militer Jepang\\nB. Organisasi perdagangan\\nC. Panitia Persiapan Kemerdekaan Indonesia\\nD. Gerakan wanita\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nPPKI adalah Panitia Persiapan Kemerdekaan Indonesia."
+    },
+    {
+        "instruction": "Tanggal Sejarah PPKI.",
+        "input": "Kapan peristiwa PPKI terjadi?",
+        "output": "Soal:\\nTanggal PPKI adalah....\\n\\nA. 1 Juni 1945\\nB. 28 Oktober 1928\\nC. 7 Agustus 1945\\nD. 20 Mei 1908\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nPPKI terjadi pada 7 Agustus 1945."
+    },
+    {
+        "instruction": "Sejarah Rengasdengklok.",
+        "input": "Apa tujuan/pengertian dari Rengasdengklok?",
+        "output": "Soal:\\nTujuan Rengasdengklok adalah....\\n\\nA. Mendesak Soekarno-Hatta segera memproklamasikan kemerdekaan\\nB. Gerakan wanita\\nC. Organisasi perdagangan\\nD. Pasukan militer Jepang\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nRengasdengklok adalah Mendesak Soekarno-Hatta segera memproklamasikan kemerdekaan."
+    },
+    {
+        "instruction": "Tanggal Sejarah Rengasdengklok.",
+        "input": "Kapan peristiwa Rengasdengklok terjadi?",
+        "output": "Soal:\\nTanggal Rengasdengklok adalah....\\n\\nA. 28 Oktober 1928\\nB. 20 Mei 1908\\nC. 16 Agustus 1945\\nD. 17 Agustus 1945\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nRengasdengklok terjadi pada 16 Agustus 1945."
+    },
+    {
+        "instruction": "Sejarah Proklamasi.",
+        "input": "Apa tujuan/pengertian dari Proklamasi?",
+        "output": "Soal:\\nTujuan Proklamasi adalah....\\n\\nA. Organisasi perdagangan\\nB. Pernyataan kemerdekaan Indonesia\\nC. Gerakan wanita\\nD. Pasukan militer Jepang\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nProklamasi adalah Pernyataan kemerdekaan Indonesia."
+    },
+    {
+        "instruction": "Tanggal Sejarah Proklamasi.",
+        "input": "Kapan peristiwa Proklamasi terjadi?",
+        "output": "Soal:\\nTanggal Proklamasi adalah....\\n\\nA. 1 Juni 1945\\nB. 20 Mei 1908\\nC. 28 Oktober 1928\\nD. 17 Agustus 1945\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nProklamasi terjadi pada 17 Agustus 1945."
+    },
+    {
+        "instruction": "Tokoh Sejarah (Pembaca teks Proklamasi / Presiden Pertama).",
+        "input": "Siapakah tokoh yang Pembaca teks Proklamasi / Presiden Pertama?",
+        "output": "Soal:\\nTokoh tersebut adalah....\\n\\nA. Ir. Soekarno\\nB. Moh. Hatta\\nC. Ahmad Soebardjo\\nD. Sayuti Melik\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nIr. Soekarno adalah Pembaca teks Proklamasi / Presiden Pertama."
+    },
+    {
+        "instruction": "Tokoh Sejarah (Pendamping Soekarno / Wakil Presiden Pertama).",
+        "input": "Siapakah tokoh yang Pendamping Soekarno / Wakil Presiden Pertama?",
+        "output": "Soal:\\nTokoh tersebut adalah....\\n\\nA. Soekarno\\nB. Sukarni\\nC. Fatmawati\\nD. Drs. Moh. Hatta\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nDrs. Moh. Hatta adalah Pendamping Soekarno / Wakil Presiden Pertama."
+    },
+    {
+        "instruction": "Tokoh Sejarah (Pengetik naskah Proklamasi).",
+        "input": "Siapakah tokoh yang Pengetik naskah Proklamasi?",
+        "output": "Soal:\\nTokoh tersebut adalah....\\n\\nA. Sayuti Melik\\nB. BM Diah\\nC. Soekarno\\nD. Hatta\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSayuti Melik adalah Pengetik naskah Proklamasi."
+    },
+    {
+        "instruction": "Tokoh Sejarah (Penjahit Bendera Merah Putih).",
+        "input": "Siapakah tokoh yang Penjahit Bendera Merah Putih?",
+        "output": "Soal:\\nTokoh tersebut adalah....\\n\\nA. Cut Nyak Dien\\nB. Megawati\\nC. Kartini\\nD. Fatmawati\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nFatmawati adalah Penjahit Bendera Merah Putih."
+    },
+    {
+        "instruction": "Tokoh Sejarah (Pengibar Bendera saat Proklamasi).",
+        "input": "Siapakah tokoh yang Pengibar Bendera saat Proklamasi?",
+        "output": "Soal:\\nTokoh tersebut adalah....\\n\\nA. Latief Hendraningrat\\nB. Soekarno\\nC. Sayuti Melik\\nD. Hatta\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nLatief Hendraningrat adalah Pengibar Bendera saat Proklamasi."
+    },
+    {
+        "instruction": "Tokoh Sejarah (Pencipta lagu Indonesia Raya).",
+        "input": "Siapakah tokoh yang Pencipta lagu Indonesia Raya?",
+        "output": "Soal:\\nTokoh tersebut adalah....\\n\\nA. Cornel Simanjuntak\\nB. Ibu Sud\\nC. H. Mutahar\\nD. WR. Supratman\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nWR. Supratman adalah Pencipta lagu Indonesia Raya."
+    },
+    {
+        "instruction": "Pengetahuan Global (ASEAN).",
+        "input": "Apa yang dimaksud dengan ASEAN?",
+        "output": "Soal:\\nASEAN adalah....\\n\\nA. Organisasi Kesehatan Dunia\\nB. Persatuan Bangsa Eropa\\nC. PBB\\nD. Perhimpunan Bangsa-Bangsa Asia Tenggara\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nASEAN adalah Perhimpunan Bangsa-Bangsa Asia Tenggara."
+    },
+    {
+        "instruction": "Pengetahuan Global (PBB).",
+        "input": "Apa yang dimaksud dengan PBB?",
+        "output": "Soal:\\nPBB adalah....\\n\\nA. NATO\\nB. ASEAN\\nC. Perserikatan Bangsa-Bangsa (United Nations)\\nD. OPEC\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nPBB adalah Perserikatan Bangsa-Bangsa (United Nations)."
+    },
+    {
+        "instruction": "Pengetahuan Global (Adam Malik).",
+        "input": "Apa yang dimaksud dengan Adam Malik?",
+        "output": "Soal:\\nAdam Malik adalah....\\n\\nA. Tokoh Indonesia pendiri ASEAN\\nB. Suharto\\nC. Hatta\\nD. Soekarno\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nAdam Malik adalah Tokoh Indonesia pendiri ASEAN."
+    },
+    {
+        "instruction": "Pengetahuan Global (KTT G20).",
+        "input": "Apa yang dimaksud dengan KTT G20?",
+        "output": "Soal:\\nKTT G20 adalah....\\n\\nA. Olimpiade\\nB. Forum kerja sama ekonomi internasional\\nC. Piala Dunia\\nD. Miss Universe\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nKTT G20 adalah Forum kerja sama ekonomi internasional."
+    },
+    {
+        "instruction": "Literasi Digital (Netiquette).",
+        "input": "Dalam dunia digital, Netiquette artinya....",
+        "output": "Soal:\\nPengertian Netiquette adalah....\\n\\nA. Nama jaringan\\nB. Virus komputer\\nC. Etika/sopan santun dalam menggunakan internet\\nD. Kecepatan internet\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nNetiquette adalah Etika/sopan santun dalam menggunakan internet."
+    },
+    {
+        "instruction": "Literasi Digital (Hoaks).",
+        "input": "Dalam dunia digital, Hoaks artinya....",
+        "output": "Soal:\\nPengertian Hoaks adalah....\\n\\nA. Iklan\\nB. Berita bohong yang tidak benar faktanya\\nC. Cerita lucu\\nD. Berita olahraga\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nHoaks adalah Berita bohong yang tidak benar faktanya."
+    },
+    {
+        "instruction": "Literasi Digital (UU ITE).",
+        "input": "Dalam dunia digital, UU ITE artinya....",
+        "output": "Soal:\\nPengertian UU ITE adalah....\\n\\nA. UU Kesehatan\\nB. UU Pendidikan\\nC. UU Lalu Lintas\\nD. Undang-Undang Informasi dan Transaksi Elektronik\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nUU ITE adalah Undang-Undang Informasi dan Transaksi Elektronik."
+    },
+    {
+        "instruction": "Literasi Digital (Cyberbullying).",
+        "input": "Dalam dunia digital, Cyberbullying artinya....",
+        "output": "Soal:\\nPengertian Cyberbullying adalah....\\n\\nA. Perundungan/penghinaan di dunia maya\\nB. Belajar online\\nC. Belanja online\\nD. Bermain game\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nCyberbullying adalah Perundungan/penghinaan di dunia maya."
+    },
+    {
+        "instruction": "Kasus Moral (Korupsi Waktu).",
+        "input": "Contoh perilaku Korupsi Waktu adalah....",
+        "output": "Soal:\\nPerilaku yang dimaksud adalah....\\n\\nA. Kewajiban negara\\nB. Tindakan terpuji\\nC. Hak asasi\\nD. Datang terlambat dan pulang sebelum waktunya\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nKorupsi Waktu: Datang terlambat dan pulang sebelum waktunya. Kita harus Siswa harus disiplin waktu."
+    },
+    {
+        "instruction": "Kasus Moral (Menyontek).",
+        "input": "Contoh perilaku Menyontek adalah....",
+        "output": "Soal:\\nPerilaku yang dimaksud adalah....\\n\\nA. Tindakan tidak jujur meniru jawaban teman\\nB. Kewajiban negara\\nC. Tindakan terpuji\\nD. Hak asasi\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMenyontek: Tindakan tidak jujur meniru jawaban teman. Kita harus Siswa harus percaya diri dan jujur."
+    },
+    {
+        "instruction": "Kasus Moral (Membuang Sampah).",
+        "input": "Contoh perilaku Membuang Sampah adalah....",
+        "output": "Soal:\\nPerilaku yang dimaksud adalah....\\n\\nA. Kewajiban negara\\nB. Hak asasi\\nC. Tindakan terpuji\\nD. Membuang di tempat sampah, bukan di sungai\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMembuang Sampah: Membuang di tempat sampah, bukan di sungai. Kita harus Menjaga kebersihan lingkungan."
+    },
+    {
+        "instruction": "Kasus Moral (Helm).",
+        "input": "Contoh perilaku Helm adalah....",
+        "output": "Soal:\\nPerilaku yang dimaksud adalah....\\n\\nA. Tindakan terpuji\\nB. Hak asasi\\nC. Wajib dipakai pengendara motor untuk keselamatan\\nD. Kewajiban negara\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nHelm: Wajib dipakai pengendara motor untuk keselamatan. Kita harus Mematuhi aturan lalu lintas."
+    },
+    {
+        "instruction": "Kasus Moral (Zebra Cross).",
+        "input": "Contoh perilaku Zebra Cross adalah....",
+        "output": "Soal:\\nPerilaku yang dimaksud adalah....\\n\\nA. Tindakan terpuji\\nB. Kewajiban negara\\nC. Tempat penyeberangan jalan bagi pejalan kaki\\nD. Hak asasi\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nZebra Cross: Tempat penyeberangan jalan bagi pejalan kaki. Kita harus Hak pejalan kaki."
+    },
+    {
+        "instruction": "Hak di Rumah.",
+        "input": "Salah satu contoh hak di rumah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Mendapat kasih sayang\\nB. Mengerjakan PR\\nC. Ronda malam\\nD. Membayar pajak\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMendapat kasih sayang adalah bentuk hak di rumah."
+    },
+    {
+        "instruction": "Hak di Rumah.",
+        "input": "Salah satu contoh hak di rumah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Membayar pajak\\nB. Mendapat kasih sayang\\nC. Mengerjakan PR\\nD. Ronda malam\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMendapat kasih sayang adalah bentuk hak di rumah."
+    },
+    {
+        "instruction": "Hak di Rumah.",
+        "input": "Salah satu contoh hak di rumah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Membayar pajak\\nB. Mengerjakan PR\\nC. Mendapat kasih sayang\\nD. Ronda malam\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMendapat kasih sayang adalah bentuk hak di rumah."
+    },
+    {
+        "instruction": "Hak di Rumah.",
+        "input": "Salah satu contoh hak di rumah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Ronda malam\\nB. Membayar pajak\\nC. Mendapat kasih sayang\\nD. Mengerjakan PR\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMendapat kasih sayang adalah bentuk hak di rumah."
+    },
+    {
+        "instruction": "Hak di Rumah.",
+        "input": "Salah satu contoh hak di rumah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Membayar pajak\\nB. Ronda malam\\nC. Mendapat kasih sayang\\nD. Mengerjakan PR\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMendapat kasih sayang adalah bentuk hak di rumah."
+    },
+    {
+        "instruction": "Hak di Rumah.",
+        "input": "Salah satu contoh hak di rumah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Membayar pajak\\nB. Mengerjakan PR\\nC. Ronda malam\\nD. Mendapat kasih sayang\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMendapat kasih sayang adalah bentuk hak di rumah."
+    },
+    {
+        "instruction": "Hak di Rumah.",
+        "input": "Salah satu contoh hak di rumah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Mendapat kasih sayang\\nB. Ronda malam\\nC. Mengerjakan PR\\nD. Membayar pajak\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMendapat kasih sayang adalah bentuk hak di rumah."
+    },
+    {
+        "instruction": "Hak di Rumah.",
+        "input": "Salah satu contoh hak di rumah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Ronda malam\\nB. Membayar pajak\\nC. Mendapat kasih sayang\\nD. Mengerjakan PR\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMendapat kasih sayang adalah bentuk hak di rumah."
+    },
+    {
+        "instruction": "Hak di Rumah.",
+        "input": "Salah satu contoh hak di rumah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Mengerjakan PR\\nB. Mendapat kasih sayang\\nC. Ronda malam\\nD. Membayar pajak\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMendapat kasih sayang adalah bentuk hak di rumah."
+    },
+    {
+        "instruction": "Hak di Rumah.",
+        "input": "Salah satu contoh hak di rumah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Membayar pajak\\nB. Mengerjakan PR\\nC. Ronda malam\\nD. Mendapat kasih sayang\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMendapat kasih sayang adalah bentuk hak di rumah."
+    },
+    {
+        "instruction": "Hak di Rumah.",
+        "input": "Salah satu contoh hak di rumah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Membayar pajak\\nB. Mengerjakan PR\\nC. Mendapat kasih sayang\\nD. Ronda malam\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMendapat kasih sayang adalah bentuk hak di rumah."
+    },
+    {
+        "instruction": "Hak di Rumah.",
+        "input": "Salah satu contoh hak di rumah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Mendapat kasih sayang\\nB. Mengerjakan PR\\nC. Membayar pajak\\nD. Ronda malam\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMendapat kasih sayang adalah bentuk hak di rumah."
+    },
+    {
+        "instruction": "Hak di Rumah.",
+        "input": "Salah satu contoh hak di rumah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Mengerjakan PR\\nB. Mendapat kasih sayang\\nC. Ronda malam\\nD. Membayar pajak\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMendapat kasih sayang adalah bentuk hak di rumah."
+    },
+    {
+        "instruction": "Hak di Rumah.",
+        "input": "Salah satu contoh hak di rumah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Mengerjakan PR\\nB. Membayar pajak\\nC. Ronda malam\\nD. Mendapat kasih sayang\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMendapat kasih sayang adalah bentuk hak di rumah."
+    },
+    {
+        "instruction": "Hak di Rumah.",
+        "input": "Salah satu contoh hak di rumah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Mendapat kasih sayang\\nB. Membayar pajak\\nC. Mengerjakan PR\\nD. Ronda malam\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMendapat kasih sayang adalah bentuk hak di rumah."
+    },
+    {
+        "instruction": "Kewajiban di Rumah.",
+        "input": "Salah satu contoh kewajiban di rumah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Bermain sepuasnya\\nB. Membantu orang tua\\nC. Minta motor\\nD. Mendapat uang jajan\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMembantu orang tua adalah bentuk kewajiban di rumah."
+    },
+    {
+        "instruction": "Kewajiban di Rumah.",
+        "input": "Salah satu contoh kewajiban di rumah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Bermain sepuasnya\\nB. Mendapat uang jajan\\nC. Minta motor\\nD. Membantu orang tua\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMembantu orang tua adalah bentuk kewajiban di rumah."
+    },
+    {
+        "instruction": "Kewajiban di Rumah.",
+        "input": "Salah satu contoh kewajiban di rumah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Bermain sepuasnya\\nB. Minta motor\\nC. Membantu orang tua\\nD. Mendapat uang jajan\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMembantu orang tua adalah bentuk kewajiban di rumah."
+    },
+    {
+        "instruction": "Kewajiban di Rumah.",
+        "input": "Salah satu contoh kewajiban di rumah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Mendapat uang jajan\\nB. Membantu orang tua\\nC. Bermain sepuasnya\\nD. Minta motor\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMembantu orang tua adalah bentuk kewajiban di rumah."
+    },
+    {
+        "instruction": "Kewajiban di Rumah.",
+        "input": "Salah satu contoh kewajiban di rumah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Minta motor\\nB. Mendapat uang jajan\\nC. Membantu orang tua\\nD. Bermain sepuasnya\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMembantu orang tua adalah bentuk kewajiban di rumah."
+    },
+    {
+        "instruction": "Kewajiban di Rumah.",
+        "input": "Salah satu contoh kewajiban di rumah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Membantu orang tua\\nB. Mendapat uang jajan\\nC. Minta motor\\nD. Bermain sepuasnya\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMembantu orang tua adalah bentuk kewajiban di rumah."
+    },
+    {
+        "instruction": "Kewajiban di Rumah.",
+        "input": "Salah satu contoh kewajiban di rumah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Minta motor\\nB. Mendapat uang jajan\\nC. Bermain sepuasnya\\nD. Membantu orang tua\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMembantu orang tua adalah bentuk kewajiban di rumah."
+    },
+    {
+        "instruction": "Kewajiban di Rumah.",
+        "input": "Salah satu contoh kewajiban di rumah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Membantu orang tua\\nB. Minta motor\\nC. Bermain sepuasnya\\nD. Mendapat uang jajan\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMembantu orang tua adalah bentuk kewajiban di rumah."
+    },
+    {
+        "instruction": "Kewajiban di Rumah.",
+        "input": "Salah satu contoh kewajiban di rumah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Membantu orang tua\\nB. Mendapat uang jajan\\nC. Minta motor\\nD. Bermain sepuasnya\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMembantu orang tua adalah bentuk kewajiban di rumah."
+    },
+    {
+        "instruction": "Kewajiban di Rumah.",
+        "input": "Salah satu contoh kewajiban di rumah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Mendapat uang jajan\\nB. Minta motor\\nC. Bermain sepuasnya\\nD. Membantu orang tua\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMembantu orang tua adalah bentuk kewajiban di rumah."
+    },
+    {
+        "instruction": "Kewajiban di Rumah.",
+        "input": "Salah satu contoh kewajiban di rumah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Minta motor\\nB. Mendapat uang jajan\\nC. Bermain sepuasnya\\nD. Membantu orang tua\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMembantu orang tua adalah bentuk kewajiban di rumah."
+    },
+    {
+        "instruction": "Kewajiban di Rumah.",
+        "input": "Salah satu contoh kewajiban di rumah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Minta motor\\nB. Membantu orang tua\\nC. Bermain sepuasnya\\nD. Mendapat uang jajan\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMembantu orang tua adalah bentuk kewajiban di rumah."
+    },
+    {
+        "instruction": "Kewajiban di Rumah.",
+        "input": "Salah satu contoh kewajiban di rumah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Membantu orang tua\\nB. Minta motor\\nC. Mendapat uang jajan\\nD. Bermain sepuasnya\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMembantu orang tua adalah bentuk kewajiban di rumah."
+    },
+    {
+        "instruction": "Kewajiban di Rumah.",
+        "input": "Salah satu contoh kewajiban di rumah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Membantu orang tua\\nB. Minta motor\\nC. Bermain sepuasnya\\nD. Mendapat uang jajan\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMembantu orang tua adalah bentuk kewajiban di rumah."
+    },
+    {
+        "instruction": "Kewajiban di Rumah.",
+        "input": "Salah satu contoh kewajiban di rumah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Mendapat uang jajan\\nB. Bermain sepuasnya\\nC. Minta motor\\nD. Membantu orang tua\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMembantu orang tua adalah bentuk kewajiban di rumah."
+    },
+    {
+        "instruction": "Hak di Sekolah.",
+        "input": "Salah satu contoh hak di sekolah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Mendapatkan pelajaran\\nB. Piket kelas\\nC. Bayar SPP\\nD. Hormat bendera\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMendapatkan pelajaran adalah bentuk hak di sekolah."
+    },
+    {
+        "instruction": "Hak di Sekolah.",
+        "input": "Salah satu contoh hak di sekolah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Hormat bendera\\nB. Bayar SPP\\nC. Piket kelas\\nD. Mendapatkan pelajaran\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMendapatkan pelajaran adalah bentuk hak di sekolah."
+    },
+    {
+        "instruction": "Hak di Sekolah.",
+        "input": "Salah satu contoh hak di sekolah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Hormat bendera\\nB. Bayar SPP\\nC. Piket kelas\\nD. Mendapatkan pelajaran\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMendapatkan pelajaran adalah bentuk hak di sekolah."
+    },
+    {
+        "instruction": "Hak di Sekolah.",
+        "input": "Salah satu contoh hak di sekolah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Piket kelas\\nB. Bayar SPP\\nC. Hormat bendera\\nD. Mendapatkan pelajaran\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMendapatkan pelajaran adalah bentuk hak di sekolah."
+    },
+    {
+        "instruction": "Hak di Sekolah.",
+        "input": "Salah satu contoh hak di sekolah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Mendapatkan pelajaran\\nB. Hormat bendera\\nC. Bayar SPP\\nD. Piket kelas\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMendapatkan pelajaran adalah bentuk hak di sekolah."
+    },
+    {
+        "instruction": "Hak di Sekolah.",
+        "input": "Salah satu contoh hak di sekolah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Hormat bendera\\nB. Mendapatkan pelajaran\\nC. Bayar SPP\\nD. Piket kelas\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMendapatkan pelajaran adalah bentuk hak di sekolah."
+    },
+    {
+        "instruction": "Hak di Sekolah.",
+        "input": "Salah satu contoh hak di sekolah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Hormat bendera\\nB. Piket kelas\\nC. Bayar SPP\\nD. Mendapatkan pelajaran\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMendapatkan pelajaran adalah bentuk hak di sekolah."
+    },
+    {
+        "instruction": "Hak di Sekolah.",
+        "input": "Salah satu contoh hak di sekolah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Bayar SPP\\nB. Mendapatkan pelajaran\\nC. Hormat bendera\\nD. Piket kelas\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMendapatkan pelajaran adalah bentuk hak di sekolah."
+    },
+    {
+        "instruction": "Hak di Sekolah.",
+        "input": "Salah satu contoh hak di sekolah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Bayar SPP\\nB. Mendapatkan pelajaran\\nC. Piket kelas\\nD. Hormat bendera\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMendapatkan pelajaran adalah bentuk hak di sekolah."
+    },
+    {
+        "instruction": "Hak di Sekolah.",
+        "input": "Salah satu contoh hak di sekolah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Hormat bendera\\nB. Mendapatkan pelajaran\\nC. Bayar SPP\\nD. Piket kelas\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMendapatkan pelajaran adalah bentuk hak di sekolah."
+    },
+    {
+        "instruction": "Hak di Sekolah.",
+        "input": "Salah satu contoh hak di sekolah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Hormat bendera\\nB. Bayar SPP\\nC. Mendapatkan pelajaran\\nD. Piket kelas\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMendapatkan pelajaran adalah bentuk hak di sekolah."
+    },
+    {
+        "instruction": "Hak di Sekolah.",
+        "input": "Salah satu contoh hak di sekolah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Hormat bendera\\nB. Piket kelas\\nC. Bayar SPP\\nD. Mendapatkan pelajaran\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMendapatkan pelajaran adalah bentuk hak di sekolah."
+    },
+    {
+        "instruction": "Hak di Sekolah.",
+        "input": "Salah satu contoh hak di sekolah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Mendapatkan pelajaran\\nB. Hormat bendera\\nC. Piket kelas\\nD. Bayar SPP\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMendapatkan pelajaran adalah bentuk hak di sekolah."
+    },
+    {
+        "instruction": "Hak di Sekolah.",
+        "input": "Salah satu contoh hak di sekolah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Mendapatkan pelajaran\\nB. Piket kelas\\nC. Hormat bendera\\nD. Bayar SPP\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMendapatkan pelajaran adalah bentuk hak di sekolah."
+    },
+    {
+        "instruction": "Hak di Sekolah.",
+        "input": "Salah satu contoh hak di sekolah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Piket kelas\\nB. Hormat bendera\\nC. Mendapatkan pelajaran\\nD. Bayar SPP\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMendapatkan pelajaran adalah bentuk hak di sekolah."
+    },
+    {
+        "instruction": "Kewajiban di Sekolah.",
+        "input": "Salah satu contoh kewajiban di sekolah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Mematuhi tata tertib\\nB. Jajan di kantin\\nC. Dapat nilai bagus\\nD. Istirahat\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMematuhi tata tertib adalah bentuk kewajiban di sekolah."
+    },
+    {
+        "instruction": "Kewajiban di Sekolah.",
+        "input": "Salah satu contoh kewajiban di sekolah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Jajan di kantin\\nB. Istirahat\\nC. Mematuhi tata tertib\\nD. Dapat nilai bagus\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMematuhi tata tertib adalah bentuk kewajiban di sekolah."
+    },
+    {
+        "instruction": "Kewajiban di Sekolah.",
+        "input": "Salah satu contoh kewajiban di sekolah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Dapat nilai bagus\\nB. Jajan di kantin\\nC. Mematuhi tata tertib\\nD. Istirahat\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMematuhi tata tertib adalah bentuk kewajiban di sekolah."
+    },
+    {
+        "instruction": "Kewajiban di Sekolah.",
+        "input": "Salah satu contoh kewajiban di sekolah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Dapat nilai bagus\\nB. Istirahat\\nC. Jajan di kantin\\nD. Mematuhi tata tertib\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMematuhi tata tertib adalah bentuk kewajiban di sekolah."
+    },
+    {
+        "instruction": "Kewajiban di Sekolah.",
+        "input": "Salah satu contoh kewajiban di sekolah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Mematuhi tata tertib\\nB. Jajan di kantin\\nC. Istirahat\\nD. Dapat nilai bagus\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMematuhi tata tertib adalah bentuk kewajiban di sekolah."
+    },
+    {
+        "instruction": "Kewajiban di Sekolah.",
+        "input": "Salah satu contoh kewajiban di sekolah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Jajan di kantin\\nB. Mematuhi tata tertib\\nC. Istirahat\\nD. Dapat nilai bagus\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMematuhi tata tertib adalah bentuk kewajiban di sekolah."
+    },
+    {
+        "instruction": "Kewajiban di Sekolah.",
+        "input": "Salah satu contoh kewajiban di sekolah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Jajan di kantin\\nB. Istirahat\\nC. Dapat nilai bagus\\nD. Mematuhi tata tertib\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMematuhi tata tertib adalah bentuk kewajiban di sekolah."
+    },
+    {
+        "instruction": "Kewajiban di Sekolah.",
+        "input": "Salah satu contoh kewajiban di sekolah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Mematuhi tata tertib\\nB. Jajan di kantin\\nC. Dapat nilai bagus\\nD. Istirahat\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMematuhi tata tertib adalah bentuk kewajiban di sekolah."
+    },
+    {
+        "instruction": "Kewajiban di Sekolah.",
+        "input": "Salah satu contoh kewajiban di sekolah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Istirahat\\nB. Mematuhi tata tertib\\nC. Jajan di kantin\\nD. Dapat nilai bagus\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMematuhi tata tertib adalah bentuk kewajiban di sekolah."
+    },
+    {
+        "instruction": "Kewajiban di Sekolah.",
+        "input": "Salah satu contoh kewajiban di sekolah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Mematuhi tata tertib\\nB. Istirahat\\nC. Jajan di kantin\\nD. Dapat nilai bagus\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMematuhi tata tertib adalah bentuk kewajiban di sekolah."
+    },
+    {
+        "instruction": "Kewajiban di Sekolah.",
+        "input": "Salah satu contoh kewajiban di sekolah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Dapat nilai bagus\\nB. Mematuhi tata tertib\\nC. Jajan di kantin\\nD. Istirahat\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMematuhi tata tertib adalah bentuk kewajiban di sekolah."
+    },
+    {
+        "instruction": "Kewajiban di Sekolah.",
+        "input": "Salah satu contoh kewajiban di sekolah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Jajan di kantin\\nB. Mematuhi tata tertib\\nC. Dapat nilai bagus\\nD. Istirahat\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMematuhi tata tertib adalah bentuk kewajiban di sekolah."
+    },
+    {
+        "instruction": "Kewajiban di Sekolah.",
+        "input": "Salah satu contoh kewajiban di sekolah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Dapat nilai bagus\\nB. Mematuhi tata tertib\\nC. Jajan di kantin\\nD. Istirahat\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMematuhi tata tertib adalah bentuk kewajiban di sekolah."
+    },
+    {
+        "instruction": "Kewajiban di Sekolah.",
+        "input": "Salah satu contoh kewajiban di sekolah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Dapat nilai bagus\\nB. Mematuhi tata tertib\\nC. Jajan di kantin\\nD. Istirahat\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMematuhi tata tertib adalah bentuk kewajiban di sekolah."
+    },
+    {
+        "instruction": "Kewajiban di Sekolah.",
+        "input": "Salah satu contoh kewajiban di sekolah adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Mematuhi tata tertib\\nB. Istirahat\\nC. Jajan di kantin\\nD. Dapat nilai bagus\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMematuhi tata tertib adalah bentuk kewajiban di sekolah."
+    },
+    {
+        "instruction": "Hak di Masyarakat.",
+        "input": "Salah satu contoh hak di masyarakat adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Kerja bakti\\nB. Bayar iuran sampah\\nC. Hidup tenang dan aman\\nD. Siskamling\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nHidup tenang dan aman adalah bentuk hak di masyarakat."
+    },
+    {
+        "instruction": "Hak di Masyarakat.",
+        "input": "Salah satu contoh hak di masyarakat adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Kerja bakti\\nB. Hidup tenang dan aman\\nC. Siskamling\\nD. Bayar iuran sampah\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nHidup tenang dan aman adalah bentuk hak di masyarakat."
+    },
+    {
+        "instruction": "Hak di Masyarakat.",
+        "input": "Salah satu contoh hak di masyarakat adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Bayar iuran sampah\\nB. Kerja bakti\\nC. Hidup tenang dan aman\\nD. Siskamling\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nHidup tenang dan aman adalah bentuk hak di masyarakat."
+    },
+    {
+        "instruction": "Hak di Masyarakat.",
+        "input": "Salah satu contoh hak di masyarakat adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Kerja bakti\\nB. Bayar iuran sampah\\nC. Siskamling\\nD. Hidup tenang dan aman\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nHidup tenang dan aman adalah bentuk hak di masyarakat."
+    },
+    {
+        "instruction": "Hak di Masyarakat.",
+        "input": "Salah satu contoh hak di masyarakat adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Hidup tenang dan aman\\nB. Siskamling\\nC. Kerja bakti\\nD. Bayar iuran sampah\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nHidup tenang dan aman adalah bentuk hak di masyarakat."
+    },
+    {
+        "instruction": "Hak di Masyarakat.",
+        "input": "Salah satu contoh hak di masyarakat adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Bayar iuran sampah\\nB. Siskamling\\nC. Hidup tenang dan aman\\nD. Kerja bakti\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nHidup tenang dan aman adalah bentuk hak di masyarakat."
+    },
+    {
+        "instruction": "Hak di Masyarakat.",
+        "input": "Salah satu contoh hak di masyarakat adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Bayar iuran sampah\\nB. Kerja bakti\\nC. Hidup tenang dan aman\\nD. Siskamling\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nHidup tenang dan aman adalah bentuk hak di masyarakat."
+    },
+    {
+        "instruction": "Hak di Masyarakat.",
+        "input": "Salah satu contoh hak di masyarakat adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Kerja bakti\\nB. Bayar iuran sampah\\nC. Siskamling\\nD. Hidup tenang dan aman\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nHidup tenang dan aman adalah bentuk hak di masyarakat."
+    },
+    {
+        "instruction": "Hak di Masyarakat.",
+        "input": "Salah satu contoh hak di masyarakat adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Siskamling\\nB. Hidup tenang dan aman\\nC. Kerja bakti\\nD. Bayar iuran sampah\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nHidup tenang dan aman adalah bentuk hak di masyarakat."
+    },
+    {
+        "instruction": "Hak di Masyarakat.",
+        "input": "Salah satu contoh hak di masyarakat adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Siskamling\\nB. Kerja bakti\\nC. Bayar iuran sampah\\nD. Hidup tenang dan aman\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nHidup tenang dan aman adalah bentuk hak di masyarakat."
+    },
+    {
+        "instruction": "Hak di Masyarakat.",
+        "input": "Salah satu contoh hak di masyarakat adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Bayar iuran sampah\\nB. Siskamling\\nC. Kerja bakti\\nD. Hidup tenang dan aman\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nHidup tenang dan aman adalah bentuk hak di masyarakat."
+    },
+    {
+        "instruction": "Hak di Masyarakat.",
+        "input": "Salah satu contoh hak di masyarakat adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Kerja bakti\\nB. Siskamling\\nC. Bayar iuran sampah\\nD. Hidup tenang dan aman\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nHidup tenang dan aman adalah bentuk hak di masyarakat."
+    },
+    {
+        "instruction": "Hak di Masyarakat.",
+        "input": "Salah satu contoh hak di masyarakat adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Bayar iuran sampah\\nB. Hidup tenang dan aman\\nC. Siskamling\\nD. Kerja bakti\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nHidup tenang dan aman adalah bentuk hak di masyarakat."
+    },
+    {
+        "instruction": "Hak di Masyarakat.",
+        "input": "Salah satu contoh hak di masyarakat adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Kerja bakti\\nB. Bayar iuran sampah\\nC. Hidup tenang dan aman\\nD. Siskamling\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nHidup tenang dan aman adalah bentuk hak di masyarakat."
+    },
+    {
+        "instruction": "Hak di Masyarakat.",
+        "input": "Salah satu contoh hak di masyarakat adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Bayar iuran sampah\\nB. Kerja bakti\\nC. Siskamling\\nD. Hidup tenang dan aman\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nHidup tenang dan aman adalah bentuk hak di masyarakat."
+    },
+    {
+        "instruction": "Kewajiban di Masyarakat.",
+        "input": "Salah satu contoh kewajiban di masyarakat adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Menjaga kebersihan lingkungan\\nB. Dapat BLT\\nC. Dipuji Pak RT\\nD. Dibuatkan taman\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMenjaga kebersihan lingkungan adalah bentuk kewajiban di masyarakat."
+    },
+    {
+        "instruction": "Kewajiban di Masyarakat.",
+        "input": "Salah satu contoh kewajiban di masyarakat adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Dipuji Pak RT\\nB. Dapat BLT\\nC. Dibuatkan taman\\nD. Menjaga kebersihan lingkungan\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMenjaga kebersihan lingkungan adalah bentuk kewajiban di masyarakat."
+    },
+    {
+        "instruction": "Kewajiban di Masyarakat.",
+        "input": "Salah satu contoh kewajiban di masyarakat adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Dapat BLT\\nB. Menjaga kebersihan lingkungan\\nC. Dipuji Pak RT\\nD. Dibuatkan taman\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMenjaga kebersihan lingkungan adalah bentuk kewajiban di masyarakat."
+    },
+    {
+        "instruction": "Kewajiban di Masyarakat.",
+        "input": "Salah satu contoh kewajiban di masyarakat adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Dipuji Pak RT\\nB. Dibuatkan taman\\nC. Menjaga kebersihan lingkungan\\nD. Dapat BLT\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMenjaga kebersihan lingkungan adalah bentuk kewajiban di masyarakat."
+    },
+    {
+        "instruction": "Kewajiban di Masyarakat.",
+        "input": "Salah satu contoh kewajiban di masyarakat adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Menjaga kebersihan lingkungan\\nB. Dipuji Pak RT\\nC. Dapat BLT\\nD. Dibuatkan taman\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMenjaga kebersihan lingkungan adalah bentuk kewajiban di masyarakat."
+    },
+    {
+        "instruction": "Kewajiban di Masyarakat.",
+        "input": "Salah satu contoh kewajiban di masyarakat adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Dibuatkan taman\\nB. Dapat BLT\\nC. Menjaga kebersihan lingkungan\\nD. Dipuji Pak RT\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMenjaga kebersihan lingkungan adalah bentuk kewajiban di masyarakat."
+    },
+    {
+        "instruction": "Kewajiban di Masyarakat.",
+        "input": "Salah satu contoh kewajiban di masyarakat adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Dipuji Pak RT\\nB. Dibuatkan taman\\nC. Dapat BLT\\nD. Menjaga kebersihan lingkungan\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMenjaga kebersihan lingkungan adalah bentuk kewajiban di masyarakat."
+    },
+    {
+        "instruction": "Kewajiban di Masyarakat.",
+        "input": "Salah satu contoh kewajiban di masyarakat adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Dipuji Pak RT\\nB. Dibuatkan taman\\nC. Dapat BLT\\nD. Menjaga kebersihan lingkungan\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMenjaga kebersihan lingkungan adalah bentuk kewajiban di masyarakat."
+    },
+    {
+        "instruction": "Kewajiban di Masyarakat.",
+        "input": "Salah satu contoh kewajiban di masyarakat adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Dipuji Pak RT\\nB. Dapat BLT\\nC. Menjaga kebersihan lingkungan\\nD. Dibuatkan taman\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMenjaga kebersihan lingkungan adalah bentuk kewajiban di masyarakat."
+    },
+    {
+        "instruction": "Kewajiban di Masyarakat.",
+        "input": "Salah satu contoh kewajiban di masyarakat adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Dibuatkan taman\\nB. Dapat BLT\\nC. Dipuji Pak RT\\nD. Menjaga kebersihan lingkungan\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMenjaga kebersihan lingkungan adalah bentuk kewajiban di masyarakat."
+    },
+    {
+        "instruction": "Kewajiban di Masyarakat.",
+        "input": "Salah satu contoh kewajiban di masyarakat adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Dipuji Pak RT\\nB. Menjaga kebersihan lingkungan\\nC. Dibuatkan taman\\nD. Dapat BLT\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMenjaga kebersihan lingkungan adalah bentuk kewajiban di masyarakat."
+    },
+    {
+        "instruction": "Kewajiban di Masyarakat.",
+        "input": "Salah satu contoh kewajiban di masyarakat adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Dibuatkan taman\\nB. Dipuji Pak RT\\nC. Dapat BLT\\nD. Menjaga kebersihan lingkungan\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMenjaga kebersihan lingkungan adalah bentuk kewajiban di masyarakat."
+    },
+    {
+        "instruction": "Kewajiban di Masyarakat.",
+        "input": "Salah satu contoh kewajiban di masyarakat adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Dipuji Pak RT\\nB. Dapat BLT\\nC. Menjaga kebersihan lingkungan\\nD. Dibuatkan taman\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMenjaga kebersihan lingkungan adalah bentuk kewajiban di masyarakat."
+    },
+    {
+        "instruction": "Kewajiban di Masyarakat.",
+        "input": "Salah satu contoh kewajiban di masyarakat adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Dipuji Pak RT\\nB. Dibuatkan taman\\nC. Dapat BLT\\nD. Menjaga kebersihan lingkungan\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMenjaga kebersihan lingkungan adalah bentuk kewajiban di masyarakat."
+    },
+    {
+        "instruction": "Kewajiban di Masyarakat.",
+        "input": "Salah satu contoh kewajiban di masyarakat adalah....",
+        "output": "Soal:\\nContoh perilaku tersebut adalah....\\n\\nA. Dibuatkan taman\\nB. Menjaga kebersihan lingkungan\\nC. Dapat BLT\\nD. Dipuji Pak RT\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMenjaga kebersihan lingkungan adalah bentuk kewajiban di masyarakat."
+    },
+    {
+        "instruction": "Rambu Lalu Lintas (S).",
+        "input": "Arti rambu S adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Boleh putar balik\\nB. Dilarang berhenti\\nC. Stop\\nD. Boleh mendahului\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nS artinya Dilarang berhenti."
+    },
+    {
+        "instruction": "Rambu Lalu Lintas (S).",
+        "input": "Arti rambu S adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Boleh masuk\\nB. Dilarang berhenti\\nC. Boleh mendahului\\nD. Boleh putar balik\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nS artinya Dilarang berhenti."
+    },
+    {
+        "instruction": "Rambu Lalu Lintas (S).",
+        "input": "Arti rambu S adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Boleh mendahului\\nB. Stop\\nC. Dilarang berhenti\\nD. Boleh masuk\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nS artinya Dilarang berhenti."
+    },
+    {
+        "instruction": "Rambu Lalu Lintas (S).",
+        "input": "Arti rambu S adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Stop\\nB. Boleh masuk\\nC. Dilarang berhenti\\nD. Boleh mendahului\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nS artinya Dilarang berhenti."
+    },
+    {
+        "instruction": "Rambu Lalu Lintas (S).",
+        "input": "Arti rambu S adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Boleh mendahului\\nB. Boleh putar balik\\nC. Stop\\nD. Dilarang berhenti\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nS artinya Dilarang berhenti."
+    },
+    {
+        "instruction": "Rambu Lalu Lintas (S).",
+        "input": "Arti rambu S adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Boleh putar balik\\nB. Dilarang berhenti\\nC. Stop\\nD. Boleh masuk\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nS artinya Dilarang berhenti."
+    },
+    {
+        "instruction": "Rambu Lalu Lintas (S).",
+        "input": "Arti rambu S adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Boleh putar balik\\nB. Stop\\nC. Dilarang berhenti\\nD. Boleh mendahului\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nS artinya Dilarang berhenti."
+    },
+    {
+        "instruction": "Rambu Lalu Lintas (S).",
+        "input": "Arti rambu S adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Dilarang berhenti\\nB. Boleh masuk\\nC. Boleh mendahului\\nD. Boleh putar balik\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nS artinya Dilarang berhenti."
+    },
+    {
+        "instruction": "Rambu Lalu Lintas (S).",
+        "input": "Arti rambu S adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Stop\\nB. Boleh putar balik\\nC. Boleh mendahului\\nD. Dilarang berhenti\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nS artinya Dilarang berhenti."
+    },
+    {
+        "instruction": "Rambu Lalu Lintas (S).",
+        "input": "Arti rambu S adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Dilarang berhenti\\nB. Boleh masuk\\nC. Stop\\nD. Boleh mendahului\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nS artinya Dilarang berhenti."
+    },
+    {
+        "instruction": "Rambu Lalu Lintas (P).",
+        "input": "Arti rambu P adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Boleh putar balik\\nB. Boleh mendahului\\nC. Dilarang parkir\\nD. Boleh masuk\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nP artinya Dilarang parkir."
+    },
+    {
+        "instruction": "Rambu Lalu Lintas (P).",
+        "input": "Arti rambu P adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Boleh putar balik\\nB. Boleh masuk\\nC. Parkir\\nD. Dilarang parkir\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nP artinya Dilarang parkir."
+    },
+    {
+        "instruction": "Rambu Lalu Lintas (P).",
+        "input": "Arti rambu P adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Boleh masuk\\nB. Parkir\\nC. Boleh putar balik\\nD. Dilarang parkir\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nP artinya Dilarang parkir."
+    },
+    {
+        "instruction": "Rambu Lalu Lintas (P).",
+        "input": "Arti rambu P adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Parkir\\nB. Boleh masuk\\nC. Boleh mendahului\\nD. Dilarang parkir\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nP artinya Dilarang parkir."
+    },
+    {
+        "instruction": "Rambu Lalu Lintas (P).",
+        "input": "Arti rambu P adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Dilarang parkir\\nB. Boleh putar balik\\nC. Parkir\\nD. Boleh mendahului\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nP artinya Dilarang parkir."
+    },
+    {
+        "instruction": "Rambu Lalu Lintas (P).",
+        "input": "Arti rambu P adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Parkir\\nB. Boleh masuk\\nC. Boleh mendahului\\nD. Dilarang parkir\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nP artinya Dilarang parkir."
+    },
+    {
+        "instruction": "Rambu Lalu Lintas (P).",
+        "input": "Arti rambu P adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Parkir\\nB. Boleh mendahului\\nC. Boleh putar balik\\nD. Dilarang parkir\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nP artinya Dilarang parkir."
+    },
+    {
+        "instruction": "Rambu Lalu Lintas (P).",
+        "input": "Arti rambu P adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Parkir\\nB. Dilarang parkir\\nC. Boleh masuk\\nD. Boleh putar balik\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nP artinya Dilarang parkir."
+    },
+    {
+        "instruction": "Rambu Lalu Lintas (P).",
+        "input": "Arti rambu P adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Dilarang parkir\\nB. Boleh putar balik\\nC. Boleh masuk\\nD. Boleh mendahului\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nP artinya Dilarang parkir."
+    },
+    {
+        "instruction": "Rambu Lalu Lintas (P).",
+        "input": "Arti rambu P adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Boleh masuk\\nB. Dilarang parkir\\nC. Parkir\\nD. Boleh mendahului\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nP artinya Dilarang parkir."
+    },
+    {
+        "instruction": "Rambu Lalu Lintas (Lamp Merah).",
+        "input": "Arti rambu Lamp Merah adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Boleh putar balik\\nB. Boleh mendahului\\nC. Berhenti\\nD. Jalan terus\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nLamp Merah artinya Berhenti."
+    },
+    {
+        "instruction": "Rambu Lalu Lintas (Lamp Merah).",
+        "input": "Arti rambu Lamp Merah adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Boleh putar balik\\nB. Berhenti\\nC. Boleh masuk\\nD. Boleh mendahului\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nLamp Merah artinya Berhenti."
+    },
+    {
+        "instruction": "Rambu Lalu Lintas (Lamp Merah).",
+        "input": "Arti rambu Lamp Merah adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Boleh mendahului\\nB. Boleh putar balik\\nC. Berhenti\\nD. Jalan terus\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nLamp Merah artinya Berhenti."
+    },
+    {
+        "instruction": "Rambu Lalu Lintas (Lamp Merah).",
+        "input": "Arti rambu Lamp Merah adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Boleh masuk\\nB. Berhenti\\nC. Jalan terus\\nD. Boleh mendahului\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nLamp Merah artinya Berhenti."
+    },
+    {
+        "instruction": "Rambu Lalu Lintas (Lamp Merah).",
+        "input": "Arti rambu Lamp Merah adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Berhenti\\nB. Boleh putar balik\\nC. Jalan terus\\nD. Boleh mendahului\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nLamp Merah artinya Berhenti."
+    },
+    {
+        "instruction": "Rambu Lalu Lintas (Lamp Merah).",
+        "input": "Arti rambu Lamp Merah adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Berhenti\\nB. Boleh mendahului\\nC. Boleh masuk\\nD. Boleh putar balik\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nLamp Merah artinya Berhenti."
+    },
+    {
+        "instruction": "Rambu Lalu Lintas (Lamp Merah).",
+        "input": "Arti rambu Lamp Merah adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Jalan terus\\nB. Berhenti\\nC. Boleh putar balik\\nD. Boleh masuk\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nLamp Merah artinya Berhenti."
+    },
+    {
+        "instruction": "Rambu Lalu Lintas (Lamp Merah).",
+        "input": "Arti rambu Lamp Merah adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Berhenti\\nB. Boleh masuk\\nC. Boleh putar balik\\nD. Jalan terus\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nLamp Merah artinya Berhenti."
+    },
+    {
+        "instruction": "Rambu Lalu Lintas (Lamp Merah).",
+        "input": "Arti rambu Lamp Merah adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Jalan terus\\nB. Berhenti\\nC. Boleh putar balik\\nD. Boleh masuk\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nLamp Merah artinya Berhenti."
+    },
+    {
+        "instruction": "Rambu Lalu Lintas (Lamp Merah).",
+        "input": "Arti rambu Lamp Merah adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Boleh masuk\\nB. Boleh mendahului\\nC. Jalan terus\\nD. Berhenti\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nLamp Merah artinya Berhenti."
+    },
+    {
+        "instruction": "Rambu Lalu Lintas (Lamp Hijau).",
+        "input": "Arti rambu Lamp Hijau adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Persiapan berhenti\\nB. Boleh masuk\\nC. Jalan\\nD. Boleh putar balik\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nLamp Hijau artinya Jalan."
+    },
+    {
+        "instruction": "Rambu Lalu Lintas (Lamp Hijau).",
+        "input": "Arti rambu Lamp Hijau adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Boleh mendahului\\nB. Jalan\\nC. Persiapan berhenti\\nD. Boleh putar balik\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nLamp Hijau artinya Jalan."
+    },
+    {
+        "instruction": "Rambu Lalu Lintas (Lamp Hijau).",
+        "input": "Arti rambu Lamp Hijau adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Boleh mendahului\\nB. Boleh putar balik\\nC. Persiapan berhenti\\nD. Jalan\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nLamp Hijau artinya Jalan."
+    },
+    {
+        "instruction": "Rambu Lalu Lintas (Lamp Hijau).",
+        "input": "Arti rambu Lamp Hijau adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Boleh mendahului\\nB. Boleh putar balik\\nC. Jalan\\nD. Persiapan berhenti\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nLamp Hijau artinya Jalan."
+    },
+    {
+        "instruction": "Rambu Lalu Lintas (Lamp Hijau).",
+        "input": "Arti rambu Lamp Hijau adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Boleh mendahului\\nB. Persiapan berhenti\\nC. Boleh masuk\\nD. Jalan\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nLamp Hijau artinya Jalan."
+    },
+    {
+        "instruction": "Rambu Lalu Lintas (Lamp Hijau).",
+        "input": "Arti rambu Lamp Hijau adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Boleh masuk\\nB. Boleh putar balik\\nC. Jalan\\nD. Persiapan berhenti\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nLamp Hijau artinya Jalan."
+    },
+    {
+        "instruction": "Rambu Lalu Lintas (Lamp Hijau).",
+        "input": "Arti rambu Lamp Hijau adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Boleh masuk\\nB. Jalan\\nC. Boleh putar balik\\nD. Boleh mendahului\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nLamp Hijau artinya Jalan."
+    },
+    {
+        "instruction": "Rambu Lalu Lintas (Lamp Hijau).",
+        "input": "Arti rambu Lamp Hijau adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Jalan\\nB. Boleh mendahului\\nC. Persiapan berhenti\\nD. Boleh putar balik\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nLamp Hijau artinya Jalan."
+    },
+    {
+        "instruction": "Rambu Lalu Lintas (Lamp Hijau).",
+        "input": "Arti rambu Lamp Hijau adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Boleh putar balik\\nB. Jalan\\nC. Boleh mendahului\\nD. Persiapan berhenti\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nLamp Hijau artinya Jalan."
+    },
+    {
+        "instruction": "Rambu Lalu Lintas (Lamp Hijau).",
+        "input": "Arti rambu Lamp Hijau adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Boleh putar balik\\nB. Jalan\\nC. Boleh mendahului\\nD. Persiapan berhenti\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nLamp Hijau artinya Jalan."
+    },
+    {
+        "instruction": "Rambu Lalu Lintas (Lamp Kuning).",
+        "input": "Arti rambu Lamp Kuning adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Boleh masuk\\nB. Boleh putar balik\\nC. Hati-hati/Persiapan\\nD. Ngebut\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nLamp Kuning artinya Hati-hati/Persiapan."
+    },
+    {
+        "instruction": "Rambu Lalu Lintas (Lamp Kuning).",
+        "input": "Arti rambu Lamp Kuning adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Ngebut\\nB. Hati-hati/Persiapan\\nC. Boleh masuk\\nD. Boleh mendahului\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nLamp Kuning artinya Hati-hati/Persiapan."
+    },
+    {
+        "instruction": "Rambu Lalu Lintas (Lamp Kuning).",
+        "input": "Arti rambu Lamp Kuning adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Boleh masuk\\nB. Hati-hati/Persiapan\\nC. Boleh mendahului\\nD. Boleh putar balik\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nLamp Kuning artinya Hati-hati/Persiapan."
+    },
+    {
+        "instruction": "Rambu Lalu Lintas (Lamp Kuning).",
+        "input": "Arti rambu Lamp Kuning adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Ngebut\\nB. Boleh mendahului\\nC. Boleh masuk\\nD. Hati-hati/Persiapan\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nLamp Kuning artinya Hati-hati/Persiapan."
+    },
+    {
+        "instruction": "Rambu Lalu Lintas (Lamp Kuning).",
+        "input": "Arti rambu Lamp Kuning adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Boleh putar balik\\nB. Boleh masuk\\nC. Ngebut\\nD. Hati-hati/Persiapan\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nLamp Kuning artinya Hati-hati/Persiapan."
+    },
+    {
+        "instruction": "Rambu Lalu Lintas (Lamp Kuning).",
+        "input": "Arti rambu Lamp Kuning adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Hati-hati/Persiapan\\nB. Boleh mendahului\\nC. Ngebut\\nD. Boleh putar balik\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nLamp Kuning artinya Hati-hati/Persiapan."
+    },
+    {
+        "instruction": "Rambu Lalu Lintas (Lamp Kuning).",
+        "input": "Arti rambu Lamp Kuning adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Boleh mendahului\\nB. Boleh putar balik\\nC. Hati-hati/Persiapan\\nD. Ngebut\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nLamp Kuning artinya Hati-hati/Persiapan."
+    },
+    {
+        "instruction": "Rambu Lalu Lintas (Lamp Kuning).",
+        "input": "Arti rambu Lamp Kuning adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Hati-hati/Persiapan\\nB. Boleh mendahului\\nC. Boleh masuk\\nD. Boleh putar balik\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nLamp Kuning artinya Hati-hati/Persiapan."
+    },
+    {
+        "instruction": "Rambu Lalu Lintas (Lamp Kuning).",
+        "input": "Arti rambu Lamp Kuning adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Boleh mendahului\\nB. Ngebut\\nC. Boleh putar balik\\nD. Hati-hati/Persiapan\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nLamp Kuning artinya Hati-hati/Persiapan."
+    },
+    {
+        "instruction": "Rambu Lalu Lintas (Lamp Kuning).",
+        "input": "Arti rambu Lamp Kuning adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Ngebut\\nB. Boleh putar balik\\nC. Hati-hati/Persiapan\\nD. Boleh mendahului\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nLamp Kuning artinya Hati-hati/Persiapan."
+    },
+    {
+        "instruction": "Ibukota Provinsi (Jawa Barat).",
+        "input": "Ibukota provinsi Jawa Barat adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Medan\\nB. Bandung\\nC. Denpasar\\nD. Surabaya\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nIbukota Jawa Barat adalah Bandung."
+    },
+    {
+        "instruction": "Ibukota Provinsi (Jawa Barat).",
+        "input": "Ibukota provinsi Jawa Barat adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Bandung\\nB. Denpasar\\nC. Surabaya\\nD. Padang\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nIbukota Jawa Barat adalah Bandung."
+    },
+    {
+        "instruction": "Ibukota Provinsi (Jawa Barat).",
+        "input": "Ibukota provinsi Jawa Barat adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Padang\\nB. Bandung\\nC. Serang\\nD. Semarang\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nIbukota Jawa Barat adalah Bandung."
+    },
+    {
+        "instruction": "Ibukota Provinsi (Jawa Barat).",
+        "input": "Ibukota provinsi Jawa Barat adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Bandung\\nB. Denpasar\\nC. Semarang\\nD. Serang\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nIbukota Jawa Barat adalah Bandung."
+    },
+    {
+        "instruction": "Ibukota Provinsi (Jawa Barat).",
+        "input": "Ibukota provinsi Jawa Barat adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Yogyakarta\\nB. Bandung\\nC. Surabaya\\nD. Padang\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nIbukota Jawa Barat adalah Bandung."
+    },
+    {
+        "instruction": "Ibukota Provinsi (Jawa Barat).",
+        "input": "Ibukota provinsi Jawa Barat adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Serang\\nB. Medan\\nC. Semarang\\nD. Bandung\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nIbukota Jawa Barat adalah Bandung."
+    },
+    {
+        "instruction": "Ibukota Provinsi (Jawa Tengah).",
+        "input": "Ibukota provinsi Jawa Tengah adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Padang\\nB. Bandung\\nC. Semarang\\nD. Yogyakarta\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nIbukota Jawa Tengah adalah Semarang."
+    },
+    {
+        "instruction": "Ibukota Provinsi (Jawa Tengah).",
+        "input": "Ibukota provinsi Jawa Tengah adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Semarang\\nB. Padang\\nC. Yogyakarta\\nD. Jakarta\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nIbukota Jawa Tengah adalah Semarang."
+    },
+    {
+        "instruction": "Ibukota Provinsi (Jawa Tengah).",
+        "input": "Ibukota provinsi Jawa Tengah adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Padang\\nB. Semarang\\nC. Serang\\nD. Bandung\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nIbukota Jawa Tengah adalah Semarang."
+    },
+    {
+        "instruction": "Ibukota Provinsi (Jawa Tengah).",
+        "input": "Ibukota provinsi Jawa Tengah adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Medan\\nB. Yogyakarta\\nC. Semarang\\nD. Surabaya\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nIbukota Jawa Tengah adalah Semarang."
+    },
+    {
+        "instruction": "Ibukota Provinsi (Jawa Tengah).",
+        "input": "Ibukota provinsi Jawa Tengah adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Denpasar\\nB. Serang\\nC. Semarang\\nD. Yogyakarta\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nIbukota Jawa Tengah adalah Semarang."
+    },
+    {
+        "instruction": "Ibukota Provinsi (Jawa Tengah).",
+        "input": "Ibukota provinsi Jawa Tengah adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Yogyakarta\\nB. Semarang\\nC. Denpasar\\nD. Bandung\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nIbukota Jawa Tengah adalah Semarang."
+    },
+    {
+        "instruction": "Ibukota Provinsi (Jawa Timur).",
+        "input": "Ibukota provinsi Jawa Timur adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Padang\\nB. Serang\\nC. Semarang\\nD. Surabaya\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nIbukota Jawa Timur adalah Surabaya."
+    },
+    {
+        "instruction": "Ibukota Provinsi (Jawa Timur).",
+        "input": "Ibukota provinsi Jawa Timur adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Bandung\\nB. Medan\\nC. Yogyakarta\\nD. Surabaya\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nIbukota Jawa Timur adalah Surabaya."
+    },
+    {
+        "instruction": "Ibukota Provinsi (Jawa Timur).",
+        "input": "Ibukota provinsi Jawa Timur adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Serang\\nB. Surabaya\\nC. Bandung\\nD. Yogyakarta\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nIbukota Jawa Timur adalah Surabaya."
+    },
+    {
+        "instruction": "Ibukota Provinsi (Jawa Timur).",
+        "input": "Ibukota provinsi Jawa Timur adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Surabaya\\nB. Bandung\\nC. Serang\\nD. Medan\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nIbukota Jawa Timur adalah Surabaya."
+    },
+    {
+        "instruction": "Ibukota Provinsi (Jawa Timur).",
+        "input": "Ibukota provinsi Jawa Timur adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Semarang\\nB. Medan\\nC. Yogyakarta\\nD. Surabaya\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nIbukota Jawa Timur adalah Surabaya."
+    },
+    {
+        "instruction": "Ibukota Provinsi (Jawa Timur).",
+        "input": "Ibukota provinsi Jawa Timur adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Yogyakarta\\nB. Semarang\\nC. Bandung\\nD. Surabaya\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nIbukota Jawa Timur adalah Surabaya."
+    },
+    {
+        "instruction": "Ibukota Provinsi (DKI Jakarta).",
+        "input": "Ibukota provinsi DKI Jakarta adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Yogyakarta\\nB. Bandung\\nC. Semarang\\nD. Jakarta\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nIbukota DKI Jakarta adalah Jakarta."
+    },
+    {
+        "instruction": "Ibukota Provinsi (DKI Jakarta).",
+        "input": "Ibukota provinsi DKI Jakarta adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Medan\\nB. Denpasar\\nC. Jakarta\\nD. Semarang\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nIbukota DKI Jakarta adalah Jakarta."
+    },
+    {
+        "instruction": "Ibukota Provinsi (DKI Jakarta).",
+        "input": "Ibukota provinsi DKI Jakarta adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Padang\\nB. Jakarta\\nC. Yogyakarta\\nD. Surabaya\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nIbukota DKI Jakarta adalah Jakarta."
+    },
+    {
+        "instruction": "Ibukota Provinsi (DKI Jakarta).",
+        "input": "Ibukota provinsi DKI Jakarta adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Jakarta\\nB. Serang\\nC. Surabaya\\nD. Yogyakarta\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nIbukota DKI Jakarta adalah Jakarta."
+    },
+    {
+        "instruction": "Ibukota Provinsi (DKI Jakarta).",
+        "input": "Ibukota provinsi DKI Jakarta adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Jakarta\\nB. Medan\\nC. Denpasar\\nD. Bandung\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nIbukota DKI Jakarta adalah Jakarta."
+    },
+    {
+        "instruction": "Ibukota Provinsi (DKI Jakarta).",
+        "input": "Ibukota provinsi DKI Jakarta adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Medan\\nB. Jakarta\\nC. Padang\\nD. Surabaya\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nIbukota DKI Jakarta adalah Jakarta."
+    },
+    {
+        "instruction": "Ibukota Provinsi (DI Yogyakarta).",
+        "input": "Ibukota provinsi DI Yogyakarta adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Bandung\\nB. Serang\\nC. Yogyakarta\\nD. Denpasar\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nIbukota DI Yogyakarta adalah Yogyakarta."
+    },
+    {
+        "instruction": "Ibukota Provinsi (DI Yogyakarta).",
+        "input": "Ibukota provinsi DI Yogyakarta adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Bandung\\nB. Yogyakarta\\nC. Surabaya\\nD. Semarang\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nIbukota DI Yogyakarta adalah Yogyakarta."
+    },
+    {
+        "instruction": "Ibukota Provinsi (DI Yogyakarta).",
+        "input": "Ibukota provinsi DI Yogyakarta adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Bandung\\nB. Jakarta\\nC. Yogyakarta\\nD. Serang\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nIbukota DI Yogyakarta adalah Yogyakarta."
+    },
+    {
+        "instruction": "Ibukota Provinsi (DI Yogyakarta).",
+        "input": "Ibukota provinsi DI Yogyakarta adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Medan\\nB. Semarang\\nC. Yogyakarta\\nD. Padang\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nIbukota DI Yogyakarta adalah Yogyakarta."
+    },
+    {
+        "instruction": "Ibukota Provinsi (DI Yogyakarta).",
+        "input": "Ibukota provinsi DI Yogyakarta adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Surabaya\\nB. Medan\\nC. Yogyakarta\\nD. Padang\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nIbukota DI Yogyakarta adalah Yogyakarta."
+    },
+    {
+        "instruction": "Ibukota Provinsi (DI Yogyakarta).",
+        "input": "Ibukota provinsi DI Yogyakarta adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Yogyakarta\\nB. Jakarta\\nC. Denpasar\\nD. Medan\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nIbukota DI Yogyakarta adalah Yogyakarta."
+    },
+    {
+        "instruction": "Ibukota Provinsi (Banten).",
+        "input": "Ibukota provinsi Banten adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Serang\\nB. Jakarta\\nC. Surabaya\\nD. Denpasar\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nIbukota Banten adalah Serang."
+    },
+    {
+        "instruction": "Ibukota Provinsi (Banten).",
+        "input": "Ibukota provinsi Banten adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Semarang\\nB. Jakarta\\nC. Serang\\nD. Medan\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nIbukota Banten adalah Serang."
+    },
+    {
+        "instruction": "Ibukota Provinsi (Banten).",
+        "input": "Ibukota provinsi Banten adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Yogyakarta\\nB. Serang\\nC. Semarang\\nD. Denpasar\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nIbukota Banten adalah Serang."
+    },
+    {
+        "instruction": "Ibukota Provinsi (Banten).",
+        "input": "Ibukota provinsi Banten adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Bandung\\nB. Serang\\nC. Jakarta\\nD. Padang\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nIbukota Banten adalah Serang."
+    },
+    {
+        "instruction": "Ibukota Provinsi (Banten).",
+        "input": "Ibukota provinsi Banten adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Bandung\\nB. Padang\\nC. Serang\\nD. Medan\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nIbukota Banten adalah Serang."
+    },
+    {
+        "instruction": "Ibukota Provinsi (Banten).",
+        "input": "Ibukota provinsi Banten adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Jakarta\\nB. Medan\\nC. Serang\\nD. Denpasar\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nIbukota Banten adalah Serang."
+    },
+    {
+        "instruction": "Ibukota Provinsi (Bali).",
+        "input": "Ibukota provinsi Bali adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Yogyakarta\\nB. Denpasar\\nC. Padang\\nD. Medan\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nIbukota Bali adalah Denpasar."
+    },
+    {
+        "instruction": "Ibukota Provinsi (Bali).",
+        "input": "Ibukota provinsi Bali adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Jakarta\\nB. Medan\\nC. Denpasar\\nD. Bandung\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nIbukota Bali adalah Denpasar."
+    },
+    {
+        "instruction": "Ibukota Provinsi (Bali).",
+        "input": "Ibukota provinsi Bali adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Semarang\\nB. Serang\\nC. Medan\\nD. Denpasar\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nIbukota Bali adalah Denpasar."
+    },
+    {
+        "instruction": "Ibukota Provinsi (Bali).",
+        "input": "Ibukota provinsi Bali adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Serang\\nB. Denpasar\\nC. Surabaya\\nD. Yogyakarta\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nIbukota Bali adalah Denpasar."
+    },
+    {
+        "instruction": "Ibukota Provinsi (Bali).",
+        "input": "Ibukota provinsi Bali adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Semarang\\nB. Denpasar\\nC. Bandung\\nD. Padang\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nIbukota Bali adalah Denpasar."
+    },
+    {
+        "instruction": "Ibukota Provinsi (Bali).",
+        "input": "Ibukota provinsi Bali adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Medan\\nB. Semarang\\nC. Serang\\nD. Denpasar\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nIbukota Bali adalah Denpasar."
+    },
+    {
+        "instruction": "Ibukota Provinsi (Sumatera Utara).",
+        "input": "Ibukota provinsi Sumatera Utara adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Yogyakarta\\nB. Jakarta\\nC. Bandung\\nD. Medan\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nIbukota Sumatera Utara adalah Medan."
+    },
+    {
+        "instruction": "Ibukota Provinsi (Sumatera Utara).",
+        "input": "Ibukota provinsi Sumatera Utara adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Bandung\\nB. Yogyakarta\\nC. Semarang\\nD. Medan\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nIbukota Sumatera Utara adalah Medan."
+    },
+    {
+        "instruction": "Ibukota Provinsi (Sumatera Utara).",
+        "input": "Ibukota provinsi Sumatera Utara adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Yogyakarta\\nB. Denpasar\\nC. Bandung\\nD. Medan\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nIbukota Sumatera Utara adalah Medan."
+    },
+    {
+        "instruction": "Ibukota Provinsi (Sumatera Utara).",
+        "input": "Ibukota provinsi Sumatera Utara adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Medan\\nB. Padang\\nC. Serang\\nD. Bandung\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nIbukota Sumatera Utara adalah Medan."
+    },
+    {
+        "instruction": "Ibukota Provinsi (Sumatera Utara).",
+        "input": "Ibukota provinsi Sumatera Utara adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Padang\\nB. Medan\\nC. Denpasar\\nD. Yogyakarta\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nIbukota Sumatera Utara adalah Medan."
+    },
+    {
+        "instruction": "Ibukota Provinsi (Sumatera Utara).",
+        "input": "Ibukota provinsi Sumatera Utara adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Medan\\nB. Bandung\\nC. Semarang\\nD. Jakarta\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nIbukota Sumatera Utara adalah Medan."
+    },
+    {
+        "instruction": "Ibukota Provinsi (Sumatera Barat).",
+        "input": "Ibukota provinsi Sumatera Barat adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Bandung\\nB. Padang\\nC. Denpasar\\nD. Semarang\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nIbukota Sumatera Barat adalah Padang."
+    },
+    {
+        "instruction": "Ibukota Provinsi (Sumatera Barat).",
+        "input": "Ibukota provinsi Sumatera Barat adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Yogyakarta\\nB. Serang\\nC. Padang\\nD. Semarang\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nIbukota Sumatera Barat adalah Padang."
+    },
+    {
+        "instruction": "Ibukota Provinsi (Sumatera Barat).",
+        "input": "Ibukota provinsi Sumatera Barat adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Serang\\nB. Jakarta\\nC. Yogyakarta\\nD. Padang\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nIbukota Sumatera Barat adalah Padang."
+    },
+    {
+        "instruction": "Ibukota Provinsi (Sumatera Barat).",
+        "input": "Ibukota provinsi Sumatera Barat adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Padang\\nB. Surabaya\\nC. Yogyakarta\\nD. Medan\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nIbukota Sumatera Barat adalah Padang."
+    },
+    {
+        "instruction": "Ibukota Provinsi (Sumatera Barat).",
+        "input": "Ibukota provinsi Sumatera Barat adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Serang\\nB. Surabaya\\nC. Medan\\nD. Padang\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nIbukota Sumatera Barat adalah Padang."
+    },
+    {
+        "instruction": "Ibukota Provinsi (Sumatera Barat).",
+        "input": "Ibukota provinsi Sumatera Barat adalah....",
+        "output": "Soal:\\nKota....\\n\\nA. Jakarta\\nB. Semarang\\nC. Denpasar\\nD. Padang\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nIbukota Sumatera Barat adalah Padang."
+    },
+    {
+        "instruction": "Anggota ASEAN.",
+        "input": "Negara berikut yang termasuk anggota ASEAN adalah....",
+        "output": "Soal:\\nNegara....\\n\\nA. Cina\\nB. India\\nC. Indonesia\\nD. Korea\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nIndonesia adalah anggota ASEAN."
+    },
+    {
+        "instruction": "Anggota ASEAN.",
+        "input": "Negara berikut yang termasuk anggota ASEAN adalah....",
+        "output": "Soal:\\nNegara....\\n\\nA. Australia\\nB. Cina\\nC. Indonesia\\nD. Jepang\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nIndonesia adalah anggota ASEAN."
+    },
+    {
+        "instruction": "Anggota ASEAN.",
+        "input": "Negara berikut yang termasuk anggota ASEAN adalah....",
+        "output": "Soal:\\nNegara....\\n\\nA. India\\nB. Indonesia\\nC. Australia\\nD. Cina\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nIndonesia adalah anggota ASEAN."
+    },
+    {
+        "instruction": "Anggota ASEAN.",
+        "input": "Negara berikut yang termasuk anggota ASEAN adalah....",
+        "output": "Soal:\\nNegara....\\n\\nA. Indonesia\\nB. Australia\\nC. India\\nD. Jepang\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nIndonesia adalah anggota ASEAN."
+    },
+    {
+        "instruction": "Anggota ASEAN.",
+        "input": "Negara berikut yang termasuk anggota ASEAN adalah....",
+        "output": "Soal:\\nNegara....\\n\\nA. Korea\\nB. Indonesia\\nC. Cina\\nD. India\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nIndonesia adalah anggota ASEAN."
+    },
+    {
+        "instruction": "Anggota ASEAN.",
+        "input": "Negara berikut yang termasuk anggota ASEAN adalah....",
+        "output": "Soal:\\nNegara....\\n\\nA. Malaysia\\nB. Jepang\\nC. Cina\\nD. Korea\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMalaysia adalah anggota ASEAN."
+    },
+    {
+        "instruction": "Anggota ASEAN.",
+        "input": "Negara berikut yang termasuk anggota ASEAN adalah....",
+        "output": "Soal:\\nNegara....\\n\\nA. Cina\\nB. Malaysia\\nC. Jepang\\nD. Australia\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMalaysia adalah anggota ASEAN."
+    },
+    {
+        "instruction": "Anggota ASEAN.",
+        "input": "Negara berikut yang termasuk anggota ASEAN adalah....",
+        "output": "Soal:\\nNegara....\\n\\nA. India\\nB. Jepang\\nC. Korea\\nD. Malaysia\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMalaysia adalah anggota ASEAN."
+    },
+    {
+        "instruction": "Anggota ASEAN.",
+        "input": "Negara berikut yang termasuk anggota ASEAN adalah....",
+        "output": "Soal:\\nNegara....\\n\\nA. India\\nB. Cina\\nC. Malaysia\\nD. Jepang\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMalaysia adalah anggota ASEAN."
+    },
+    {
+        "instruction": "Anggota ASEAN.",
+        "input": "Negara berikut yang termasuk anggota ASEAN adalah....",
+        "output": "Soal:\\nNegara....\\n\\nA. Cina\\nB. Jepang\\nC. India\\nD. Malaysia\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMalaysia adalah anggota ASEAN."
+    },
+    {
+        "instruction": "Anggota ASEAN.",
+        "input": "Negara berikut yang termasuk anggota ASEAN adalah....",
+        "output": "Soal:\\nNegara....\\n\\nA. Jepang\\nB. Australia\\nC. India\\nD. Singapura\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSingapura adalah anggota ASEAN."
+    },
+    {
+        "instruction": "Anggota ASEAN.",
+        "input": "Negara berikut yang termasuk anggota ASEAN adalah....",
+        "output": "Soal:\\nNegara....\\n\\nA. Cina\\nB. Jepang\\nC. India\\nD. Singapura\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSingapura adalah anggota ASEAN."
+    },
+    {
+        "instruction": "Anggota ASEAN.",
+        "input": "Negara berikut yang termasuk anggota ASEAN adalah....",
+        "output": "Soal:\\nNegara....\\n\\nA. Singapura\\nB. Korea\\nC. India\\nD. Cina\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSingapura adalah anggota ASEAN."
+    },
+    {
+        "instruction": "Anggota ASEAN.",
+        "input": "Negara berikut yang termasuk anggota ASEAN adalah....",
+        "output": "Soal:\\nNegara....\\n\\nA. Korea\\nB. India\\nC. Australia\\nD. Singapura\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSingapura adalah anggota ASEAN."
+    },
+    {
+        "instruction": "Anggota ASEAN.",
+        "input": "Negara berikut yang termasuk anggota ASEAN adalah....",
+        "output": "Soal:\\nNegara....\\n\\nA. Jepang\\nB. Cina\\nC. Singapura\\nD. Korea\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSingapura adalah anggota ASEAN."
+    },
+    {
+        "instruction": "Anggota ASEAN.",
+        "input": "Negara berikut yang termasuk anggota ASEAN adalah....",
+        "output": "Soal:\\nNegara....\\n\\nA. Cina\\nB. Korea\\nC. Jepang\\nD. Thailand\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nThailand adalah anggota ASEAN."
+    },
+    {
+        "instruction": "Anggota ASEAN.",
+        "input": "Negara berikut yang termasuk anggota ASEAN adalah....",
+        "output": "Soal:\\nNegara....\\n\\nA. Thailand\\nB. Korea\\nC. India\\nD. Australia\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nThailand adalah anggota ASEAN."
+    },
+    {
+        "instruction": "Anggota ASEAN.",
+        "input": "Negara berikut yang termasuk anggota ASEAN adalah....",
+        "output": "Soal:\\nNegara....\\n\\nA. Australia\\nB. Jepang\\nC. Thailand\\nD. Cina\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nThailand adalah anggota ASEAN."
+    },
+    {
+        "instruction": "Anggota ASEAN.",
+        "input": "Negara berikut yang termasuk anggota ASEAN adalah....",
+        "output": "Soal:\\nNegara....\\n\\nA. India\\nB. Thailand\\nC. Cina\\nD. Jepang\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nThailand adalah anggota ASEAN."
+    },
+    {
+        "instruction": "Anggota ASEAN.",
+        "input": "Negara berikut yang termasuk anggota ASEAN adalah....",
+        "output": "Soal:\\nNegara....\\n\\nA. Thailand\\nB. Australia\\nC. India\\nD. Cina\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nThailand adalah anggota ASEAN."
+    },
+    {
+        "instruction": "Anggota ASEAN.",
+        "input": "Negara berikut yang termasuk anggota ASEAN adalah....",
+        "output": "Soal:\\nNegara....\\n\\nA. Korea\\nB. Filipina\\nC. Cina\\nD. India\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nFilipina adalah anggota ASEAN."
+    },
+    {
+        "instruction": "Anggota ASEAN.",
+        "input": "Negara berikut yang termasuk anggota ASEAN adalah....",
+        "output": "Soal:\\nNegara....\\n\\nA. Filipina\\nB. Jepang\\nC. Korea\\nD. India\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nFilipina adalah anggota ASEAN."
+    },
+    {
+        "instruction": "Anggota ASEAN.",
+        "input": "Negara berikut yang termasuk anggota ASEAN adalah....",
+        "output": "Soal:\\nNegara....\\n\\nA. Korea\\nB. Cina\\nC. Filipina\\nD. Jepang\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nFilipina adalah anggota ASEAN."
+    },
+    {
+        "instruction": "Anggota ASEAN.",
+        "input": "Negara berikut yang termasuk anggota ASEAN adalah....",
+        "output": "Soal:\\nNegara....\\n\\nA. Jepang\\nB. Cina\\nC. Australia\\nD. Filipina\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nFilipina adalah anggota ASEAN."
+    },
+    {
+        "instruction": "Anggota ASEAN.",
+        "input": "Negara berikut yang termasuk anggota ASEAN adalah....",
+        "output": "Soal:\\nNegara....\\n\\nA. Australia\\nB. Korea\\nC. India\\nD. Filipina\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nFilipina adalah anggota ASEAN."
+    },
+    {
+        "instruction": "Anggota ASEAN.",
+        "input": "Negara berikut yang termasuk anggota ASEAN adalah....",
+        "output": "Soal:\\nNegara....\\n\\nA. Korea\\nB. Australia\\nC. Brunei\\nD. Jepang\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nBrunei adalah anggota ASEAN."
+    },
+    {
+        "instruction": "Anggota ASEAN.",
+        "input": "Negara berikut yang termasuk anggota ASEAN adalah....",
+        "output": "Soal:\\nNegara....\\n\\nA. Jepang\\nB. Australia\\nC. Brunei\\nD. Cina\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nBrunei adalah anggota ASEAN."
+    },
+    {
+        "instruction": "Anggota ASEAN.",
+        "input": "Negara berikut yang termasuk anggota ASEAN adalah....",
+        "output": "Soal:\\nNegara....\\n\\nA. Brunei\\nB. Cina\\nC. India\\nD. Korea\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nBrunei adalah anggota ASEAN."
+    },
+    {
+        "instruction": "Anggota ASEAN.",
+        "input": "Negara berikut yang termasuk anggota ASEAN adalah....",
+        "output": "Soal:\\nNegara....\\n\\nA. India\\nB. Jepang\\nC. Australia\\nD. Brunei\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nBrunei adalah anggota ASEAN."
+    },
+    {
+        "instruction": "Anggota ASEAN.",
+        "input": "Negara berikut yang termasuk anggota ASEAN adalah....",
+        "output": "Soal:\\nNegara....\\n\\nA. India\\nB. Korea\\nC. Cina\\nD. Brunei\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nBrunei adalah anggota ASEAN."
+    },
+    {
+        "instruction": "Anggota ASEAN.",
+        "input": "Negara berikut yang termasuk anggota ASEAN adalah....",
+        "output": "Soal:\\nNegara....\\n\\nA. Cina\\nB. Korea\\nC. Vietnam\\nD. Australia\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nVietnam adalah anggota ASEAN."
+    },
+    {
+        "instruction": "Anggota ASEAN.",
+        "input": "Negara berikut yang termasuk anggota ASEAN adalah....",
+        "output": "Soal:\\nNegara....\\n\\nA. India\\nB. Vietnam\\nC. Australia\\nD. Korea\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nVietnam adalah anggota ASEAN."
+    },
+    {
+        "instruction": "Anggota ASEAN.",
+        "input": "Negara berikut yang termasuk anggota ASEAN adalah....",
+        "output": "Soal:\\nNegara....\\n\\nA. India\\nB. Jepang\\nC. Vietnam\\nD. Australia\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nVietnam adalah anggota ASEAN."
+    },
+    {
+        "instruction": "Anggota ASEAN.",
+        "input": "Negara berikut yang termasuk anggota ASEAN adalah....",
+        "output": "Soal:\\nNegara....\\n\\nA. India\\nB. Korea\\nC. Cina\\nD. Vietnam\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nVietnam adalah anggota ASEAN."
+    },
+    {
+        "instruction": "Anggota ASEAN.",
+        "input": "Negara berikut yang termasuk anggota ASEAN adalah....",
+        "output": "Soal:\\nNegara....\\n\\nA. Cina\\nB. Jepang\\nC. Korea\\nD. Vietnam\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nVietnam adalah anggota ASEAN."
+    },
+    {
+        "instruction": "Anggota ASEAN.",
+        "input": "Negara berikut yang termasuk anggota ASEAN adalah....",
+        "output": "Soal:\\nNegara....\\n\\nA. Australia\\nB. Cina\\nC. Laos\\nD. India\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nLaos adalah anggota ASEAN."
+    },
+    {
+        "instruction": "Anggota ASEAN.",
+        "input": "Negara berikut yang termasuk anggota ASEAN adalah....",
+        "output": "Soal:\\nNegara....\\n\\nA. Korea\\nB. India\\nC. Laos\\nD. Australia\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nLaos adalah anggota ASEAN."
+    },
+    {
+        "instruction": "Anggota ASEAN.",
+        "input": "Negara berikut yang termasuk anggota ASEAN adalah....",
+        "output": "Soal:\\nNegara....\\n\\nA. Australia\\nB. Laos\\nC. Cina\\nD. Korea\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nLaos adalah anggota ASEAN."
+    },
+    {
+        "instruction": "Anggota ASEAN.",
+        "input": "Negara berikut yang termasuk anggota ASEAN adalah....",
+        "output": "Soal:\\nNegara....\\n\\nA. India\\nB. Laos\\nC. Australia\\nD. Korea\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nLaos adalah anggota ASEAN."
+    },
+    {
+        "instruction": "Anggota ASEAN.",
+        "input": "Negara berikut yang termasuk anggota ASEAN adalah....",
+        "output": "Soal:\\nNegara....\\n\\nA. Australia\\nB. Laos\\nC. India\\nD. Jepang\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nLaos adalah anggota ASEAN."
+    },
+    {
+        "instruction": "Anggota ASEAN.",
+        "input": "Negara berikut yang termasuk anggota ASEAN adalah....",
+        "output": "Soal:\\nNegara....\\n\\nA. India\\nB. Cina\\nC. Korea\\nD. Myanmar\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMyanmar adalah anggota ASEAN."
+    },
+    {
+        "instruction": "Anggota ASEAN.",
+        "input": "Negara berikut yang termasuk anggota ASEAN adalah....",
+        "output": "Soal:\\nNegara....\\n\\nA. India\\nB. Myanmar\\nC. Jepang\\nD. Korea\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMyanmar adalah anggota ASEAN."
+    },
+    {
+        "instruction": "Anggota ASEAN.",
+        "input": "Negara berikut yang termasuk anggota ASEAN adalah....",
+        "output": "Soal:\\nNegara....\\n\\nA. Myanmar\\nB. Cina\\nC. India\\nD. Jepang\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMyanmar adalah anggota ASEAN."
+    },
+    {
+        "instruction": "Anggota ASEAN.",
+        "input": "Negara berikut yang termasuk anggota ASEAN adalah....",
+        "output": "Soal:\\nNegara....\\n\\nA. India\\nB. Cina\\nC. Korea\\nD. Myanmar\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMyanmar adalah anggota ASEAN."
+    },
+    {
+        "instruction": "Anggota ASEAN.",
+        "input": "Negara berikut yang termasuk anggota ASEAN adalah....",
+        "output": "Soal:\\nNegara....\\n\\nA. India\\nB. Korea\\nC. Jepang\\nD. Myanmar\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMyanmar adalah anggota ASEAN."
+    },
+    {
+        "instruction": "Anggota ASEAN.",
+        "input": "Negara berikut yang termasuk anggota ASEAN adalah....",
+        "output": "Soal:\\nNegara....\\n\\nA. Cina\\nB. Australia\\nC. Kamboja\\nD. Korea\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nKamboja adalah anggota ASEAN."
+    },
+    {
+        "instruction": "Anggota ASEAN.",
+        "input": "Negara berikut yang termasuk anggota ASEAN adalah....",
+        "output": "Soal:\\nNegara....\\n\\nA. Kamboja\\nB. Korea\\nC. Cina\\nD. Jepang\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nKamboja adalah anggota ASEAN."
+    },
+    {
+        "instruction": "Anggota ASEAN.",
+        "input": "Negara berikut yang termasuk anggota ASEAN adalah....",
+        "output": "Soal:\\nNegara....\\n\\nA. India\\nB. Jepang\\nC. Kamboja\\nD. Cina\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nKamboja adalah anggota ASEAN."
+    },
+    {
+        "instruction": "Anggota ASEAN.",
+        "input": "Negara berikut yang termasuk anggota ASEAN adalah....",
+        "output": "Soal:\\nNegara....\\n\\nA. India\\nB. Korea\\nC. Cina\\nD. Kamboja\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nKamboja adalah anggota ASEAN."
+    },
+    {
+        "instruction": "Anggota ASEAN.",
+        "input": "Negara berikut yang termasuk anggota ASEAN adalah....",
+        "output": "Soal:\\nNegara....\\n\\nA. Australia\\nB. Kamboja\\nC. Jepang\\nD. Korea\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nKamboja adalah anggota ASEAN."
     }
 ]

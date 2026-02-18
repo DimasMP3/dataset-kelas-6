@@ -1053,5 +1053,1590 @@
         "instruction": "Fiqih (Umum).",
         "input": "Membayar zakat, infaq, dan sedekah merupakan wujud rasa ... kepada Allah SWT.",
         "output": "Soal:\nA. Syukur\nB. Takut\nC. Malu\nD. Bangga\n\nKunci Jawaban: A\n\nPembahasan:\nWujud syukur atas nikmat harta."
+    },
+    {
+        "instruction": "Fiqih (Thaharah).",
+        "input": "Najis ringan (air kencing bayi laki-laki yg belum makan selain ASI) disebut najis....",
+        "output": "Soal:\\nJenis najis tersebut adalah....\\n\\nA. Mukhaffafah\\nB. Mutawassitah\\nC. Mughallazah\\nD. Ainiyah\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMukhaffafah adalah Najis ringan (air kencing bayi laki-laki yg belum makan selain ASI)."
+    },
+    {
+        "instruction": "Fiqih (Thaharah).",
+        "input": "Cara menyucikan najis Mukhaffafah adalah dengan....",
+        "output": "Soal:\\nCaranya....\\n\\nA. Memercikkan air\\nB. Mencuci hingga hilang warna, bau, rasa\\nC. Mencuci 7x, salah satunya dengan tanah\\nD. Mandi wajib\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nNajis Mukhaffafah disucikan dengan Memercikkan air."
+    },
+    {
+        "instruction": "Fiqih (Thaharah).",
+        "input": "Najis berat (air liur anjing/babi) disebut najis....",
+        "output": "Soal:\\nJenis najis tersebut adalah....\\n\\nA. Mutawassitah\\nB. Hukmiyah\\nC. Mukhaffafah\\nD. Mughallazah\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMughallazah adalah Najis berat (air liur anjing/babi)."
+    },
+    {
+        "instruction": "Fiqih (Thaharah).",
+        "input": "Cara menyucikan najis Mughallazah adalah dengan....",
+        "output": "Soal:\\nCaranya....\\n\\nA. Mencuci 7x, salah satunya dengan tanah\\nB. Mandi wajib\\nC. Memercikkan air\\nD. Mencuci hingga hilang warna, bau, rasa\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nNajis Mughallazah disucikan dengan Mencuci 7x, salah satunya dengan tanah."
+    },
+    {
+        "instruction": "Fiqih (Thaharah).",
+        "input": "Najis sedang (darah, nanah, bangkai) disebut najis....",
+        "output": "Soal:\\nJenis najis tersebut adalah....\\n\\nA. Mukhaffafah\\nB. Mughallazah\\nC. Berat\\nD. Mutawassitah\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMutawassitah adalah Najis sedang (darah, nanah, bangkai)."
+    },
+    {
+        "instruction": "Fiqih (Thaharah).",
+        "input": "Cara menyucikan najis Mutawassitah adalah dengan....",
+        "output": "Soal:\\nCaranya....\\n\\nA. Mencuci 7x, salah satunya dengan tanah\\nB. Mandi wajib\\nC. Mencuci hingga hilang warna, bau, rasa\\nD. Memercikkan air\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nNajis Mutawassitah disucikan dengan Mencuci hingga hilang warna, bau, rasa."
+    },
+    {
+        "instruction": "Fiqih (Shalat).",
+        "input": "Hal berikut: Suci dari hadas dan najis, menutup aurat, masuk waktu, termasuk dalam ... shalat.",
+        "output": "Soal:\\nTermasuk....\\n\\nA. Syarat Sah\\nB. Sunnah\\nC. Membatalkan\\nD. Rukun\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSuci dari hadas dan najis, menutup aurat, masuk waktu adalah bagian dari Syarat Sah shalat."
+    },
+    {
+        "instruction": "Fiqih (Shalat).",
+        "input": "Hal berikut: Niat, Berdiri, Takbiratul Ihram, Al-Fatihah, Rukuk, Sujud, termasuk dalam ... shalat.",
+        "output": "Soal:\\nTermasuk....\\n\\nA. Syarat Sah\\nB. Rukun\\nC. Sunnah\\nD. Membatalkan\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nNiat, Berdiri, Takbiratul Ihram, Al-Fatihah, Rukuk, Sujud adalah bagian dari Rukun shalat."
+    },
+    {
+        "instruction": "Fiqih (Shalat).",
+        "input": "Hal berikut: Mengangkat tangan saat takbir, doa Iftitah, membaca Amin, termasuk dalam ... shalat.",
+        "output": "Soal:\\nTermasuk....\\n\\nA. Syarat Sah\\nB. Membatalkan\\nC. Rukun\\nD. Sunnah\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMengangkat tangan saat takbir, doa Iftitah, membaca Amin adalah bagian dari Sunnah shalat."
+    },
+    {
+        "instruction": "Fiqih (Shalat).",
+        "input": "Hal berikut: Berbicara, makan/minum, banyak bergerak, terkena najis, termasuk dalam ... shalat.",
+        "output": "Soal:\\nTermasuk....\\n\\nA. Membatalkan\\nB. Rukun\\nC. Syarat Sah\\nD. Sunnah\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nBerbicara, makan/minum, banyak bergerak, terkena najis adalah bagian dari Membatalkan shalat."
+    },
+    {
+        "instruction": "Fiqih (Zakat).",
+        "input": "Salah satu penerima zakat adalah Orang yang tidak memiliki harta dan pekerjaan, yang disebut....",
+        "output": "Soal:\\nGolongan tersebut adalah....\\n\\nA. Fakir\\nB. Miskin\\nC. Mualaf\\nD. Amil\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nFakir adalah Orang yang tidak memiliki harta dan pekerjaan."
+    },
+    {
+        "instruction": "Fiqih (Zakat).",
+        "input": "Salah satu penerima zakat adalah Punya harta tapi tidak mencukupi kebutuhan pokok, yang disebut....",
+        "output": "Soal:\\nGolongan tersebut adalah....\\n\\nA. Miskin\\nB. Gharim\\nC. Ibnu Sabil\\nD. Fakir\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMiskin adalah Punya harta tapi tidak mencukupi kebutuhan pokok."
+    },
+    {
+        "instruction": "Fiqih (Zakat).",
+        "input": "Salah satu penerima zakat adalah Panitia pengelola zakat, yang disebut....",
+        "output": "Soal:\\nGolongan tersebut adalah....\\n\\nA. Sabilillah\\nB. Mualaf\\nC. Amil\\nD. Riqab\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nAmil adalah Panitia pengelola zakat."
+    },
+    {
+        "instruction": "Fiqih (Zakat).",
+        "input": "Salah satu penerima zakat adalah Orang yang baru masuk Islam/lemah imannya, yang disebut....",
+        "output": "Soal:\\nGolongan tersebut adalah....\\n\\nA. Amil\\nB. Mualaf\\nC. Fakir\\nD. Gharim\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMualaf adalah Orang yang baru masuk Islam/lemah imannya."
+    },
+    {
+        "instruction": "Fiqih (Zakat).",
+        "input": "Salah satu penerima zakat adalah Hamba sahaya yang ingin memerdekakan diri, yang disebut....",
+        "output": "Soal:\\nGolongan tersebut adalah....\\n\\nA. Gharim\\nB. Sabilillah\\nC. Riqab\\nD. Ibnu Sabil\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nRiqab adalah Hamba sahaya yang ingin memerdekakan diri."
+    },
+    {
+        "instruction": "Fiqih (Zakat).",
+        "input": "Salah satu penerima zakat adalah Orang yang berhutang untuk kebaikan (bukan maksiat), yang disebut....",
+        "output": "Soal:\\nGolongan tersebut adalah....\\n\\nA. Miskin\\nB. Gharim\\nC. Amil\\nD. Fakir\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nGharim adalah Orang yang berhutang untuk kebaikan (bukan maksiat)."
+    },
+    {
+        "instruction": "Fiqih (Zakat).",
+        "input": "Salah satu penerima zakat adalah Orang yang berjuang di jalan Allah, yang disebut....",
+        "output": "Soal:\\nGolongan tersebut adalah....\\n\\nA. Mualaf\\nB. Riqab\\nC. Sabilillah\\nD. Ibnu Sabil\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSabilillah adalah Orang yang berjuang di jalan Allah."
+    },
+    {
+        "instruction": "Fiqih (Zakat).",
+        "input": "Salah satu penerima zakat adalah Musafir yang kehabisan bekal dalam perjalanan taat, yang disebut....",
+        "output": "Soal:\\nGolongan tersebut adalah....\\n\\nA. Sabilillah\\nB. Gharim\\nC. Fakir\\nD. Ibnu Sabil\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nIbnu Sabil adalah Musafir yang kehabisan bekal dalam perjalanan taat."
+    },
+    {
+        "instruction": "Aqidah (Malaikat).",
+        "input": "Tugas Malaikat Jibril adalah....",
+        "output": "Soal:\\nTugasnya....\\n\\nA. Membagi rezeki\\nB. Meniup sangkakala\\nC. Menyampaikan wahyu\\nD. Mencabut nyawa\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMalaikat Jibril bertugas Menyampaikan wahyu."
+    },
+    {
+        "instruction": "Aqidah (Malaikat).",
+        "input": "Malaikat yang bertugas Menyampaikan wahyu adalah....",
+        "output": "Soal:\\nMalaikat....\\n\\nA. Jibril\\nB. Malik\\nC. Nakir\\nD. Raqib\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nYang bertugas Menyampaikan wahyu adalah Malaikat Jibril."
+    },
+    {
+        "instruction": "Aqidah (Malaikat).",
+        "input": "Tugas Malaikat Mikail adalah....",
+        "output": "Soal:\\nTugasnya....\\n\\nA. Membagi rezeki dan menurunkan hujan\\nB. Menanyakan di kubur\\nC. Mencatat amal\\nD. Menjaga neraka\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMalaikat Mikail bertugas Membagi rezeki dan menurunkan hujan."
+    },
+    {
+        "instruction": "Aqidah (Malaikat).",
+        "input": "Malaikat yang bertugas Membagi rezeki dan menurunkan hujan adalah....",
+        "output": "Soal:\\nMalaikat....\\n\\nA. Raqib\\nB. Mikail\\nC. Nakir\\nD. Israfil\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nYang bertugas Membagi rezeki dan menurunkan hujan adalah Malaikat Mikail."
+    },
+    {
+        "instruction": "Aqidah (Malaikat).",
+        "input": "Tugas Malaikat Israfil adalah....",
+        "output": "Soal:\\nTugasnya....\\n\\nA. Menyampaikan wahyu\\nB. Mencabut nyawa\\nC. Menjaga surga\\nD. Meniup sangkakala (tanda kiamat)\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMalaikat Israfil bertugas Meniup sangkakala (tanda kiamat)."
+    },
+    {
+        "instruction": "Aqidah (Malaikat).",
+        "input": "Malaikat yang bertugas Meniup sangkakala (tanda kiamat) adalah....",
+        "output": "Soal:\\nMalaikat....\\n\\nA. Israfil\\nB. Atid\\nC. Malik\\nD. Raqib\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nYang bertugas Meniup sangkakala (tanda kiamat) adalah Malaikat Israfil."
+    },
+    {
+        "instruction": "Aqidah (Malaikat).",
+        "input": "Tugas Malaikat Izrail adalah....",
+        "output": "Soal:\\nTugasnya....\\n\\nA. Mencabut nyawa\\nB. Meniup sangkakala\\nC. Menjaga neraka\\nD. Membagi rezeki\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMalaikat Izrail bertugas Mencabut nyawa."
+    },
+    {
+        "instruction": "Aqidah (Malaikat).",
+        "input": "Malaikat yang bertugas Mencabut nyawa adalah....",
+        "output": "Soal:\\nMalaikat....\\n\\nA. Mikail\\nB. Ridwan\\nC. Munkar\\nD. Izrail\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nYang bertugas Mencabut nyawa adalah Malaikat Izrail."
+    },
+    {
+        "instruction": "Aqidah (Malaikat).",
+        "input": "Tugas Malaikat Munkar adalah....",
+        "output": "Soal:\\nTugasnya....\\n\\nA. Menjaga surga\\nB. Menanyai mayit di alam kubur (bersama Nakir)\\nC. Mencatat amal baik\\nD. Mencatat amal buruk\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMalaikat Munkar bertugas Menanyai mayit di alam kubur (bersama Nakir)."
+    },
+    {
+        "instruction": "Aqidah (Malaikat).",
+        "input": "Malaikat yang bertugas Menanyai mayit di alam kubur (bersama Nakir) adalah....",
+        "output": "Soal:\\nMalaikat....\\n\\nA. Atid\\nB. Mikail\\nC. Nakir\\nD. Munkar\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nYang bertugas Menanyai mayit di alam kubur (bersama Nakir) adalah Malaikat Munkar."
+    },
+    {
+        "instruction": "Aqidah (Malaikat).",
+        "input": "Tugas Malaikat Nakir adalah....",
+        "output": "Soal:\\nTugasnya....\\n\\nA. Menanyai mayit di alam kubur (bersama Munkar)\\nB. Mencatat amal buruk\\nC. Menjaga neraka\\nD. Mencatat amal baik\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMalaikat Nakir bertugas Menanyai mayit di alam kubur (bersama Munkar)."
+    },
+    {
+        "instruction": "Aqidah (Malaikat).",
+        "input": "Malaikat yang bertugas Menanyai mayit di alam kubur (bersama Munkar) adalah....",
+        "output": "Soal:\\nMalaikat....\\n\\nA. Nakir\\nB. Izrail\\nC. Ridwan\\nD. Malik\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nYang bertugas Menanyai mayit di alam kubur (bersama Munkar) adalah Malaikat Nakir."
+    },
+    {
+        "instruction": "Aqidah (Malaikat).",
+        "input": "Tugas Malaikat Raqib adalah....",
+        "output": "Soal:\\nTugasnya....\\n\\nA. Mencatat amal baik\\nB. Menjaga surga\\nC. Mencatat amal buruk\\nD. Menanyai mayit\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMalaikat Raqib bertugas Mencatat amal baik."
+    },
+    {
+        "instruction": "Aqidah (Malaikat).",
+        "input": "Malaikat yang bertugas Mencatat amal baik adalah....",
+        "output": "Soal:\\nMalaikat....\\n\\nA. Izrail\\nB. Raqib\\nC. Israfil\\nD. Atid\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nYang bertugas Mencatat amal baik adalah Malaikat Raqib."
+    },
+    {
+        "instruction": "Aqidah (Malaikat).",
+        "input": "Tugas Malaikat Atid adalah....",
+        "output": "Soal:\\nTugasnya....\\n\\nA. Menanyai mayit\\nB. Menjaga neraka\\nC. Mencatat amal baik\\nD. Mencatat amal buruk\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMalaikat Atid bertugas Mencatat amal buruk."
+    },
+    {
+        "instruction": "Aqidah (Malaikat).",
+        "input": "Malaikat yang bertugas Mencatat amal buruk adalah....",
+        "output": "Soal:\\nMalaikat....\\n\\nA. Atid\\nB. Jibril\\nC. Izrail\\nD. Nakir\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nYang bertugas Mencatat amal buruk adalah Malaikat Atid."
+    },
+    {
+        "instruction": "Aqidah (Malaikat).",
+        "input": "Tugas Malaikat Malik adalah....",
+        "output": "Soal:\\nTugasnya....\\n\\nA. Menjaga pintu neraka\\nB. Menjaga pintu surga\\nC. Mencabut nyawa\\nD. Meniup sangkakala\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMalaikat Malik bertugas Menjaga pintu neraka."
+    },
+    {
+        "instruction": "Aqidah (Malaikat).",
+        "input": "Malaikat yang bertugas Menjaga pintu neraka adalah....",
+        "output": "Soal:\\nMalaikat....\\n\\nA. Malik\\nB. Raqib\\nC. Jibril\\nD. Izrail\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nYang bertugas Menjaga pintu neraka adalah Malaikat Malik."
+    },
+    {
+        "instruction": "Aqidah (Malaikat).",
+        "input": "Tugas Malaikat Ridwan adalah....",
+        "output": "Soal:\\nTugasnya....\\n\\nA. Menjaga pintu surga\\nB. Menjaga pintu neraka\\nC. Membagi rezeki\\nD. Mencabut nyawa\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMalaikat Ridwan bertugas Menjaga pintu surga."
+    },
+    {
+        "instruction": "Aqidah (Malaikat).",
+        "input": "Malaikat yang bertugas Menjaga pintu surga adalah....",
+        "output": "Soal:\\nMalaikat....\\n\\nA. Ridwan\\nB. Jibril\\nC. Izrail\\nD. Nakir\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nYang bertugas Menjaga pintu surga adalah Malaikat Ridwan."
+    },
+    {
+        "instruction": "Aqidah (Kitab).",
+        "input": "Kitab suci Taurat diturunkan kepada....",
+        "output": "Soal:\\nNabi....\\n\\nA. Nabi Muhammad SAW\\nB. Nabi Isa AS\\nC. Nabi Musa AS\\nD. Nabi Daud AS\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nKitab Taurat diterima oleh Nabi Musa AS."
+    },
+    {
+        "instruction": "Aqidah (Kitab).",
+        "input": "Kitab suci Zabur diturunkan kepada....",
+        "output": "Soal:\\nNabi....\\n\\nA. Nabi Musa AS\\nB. Nabi Daud AS\\nC. Nabi Isa AS\\nD. Nabi Ibrahim AS\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nKitab Zabur diterima oleh Nabi Daud AS."
+    },
+    {
+        "instruction": "Aqidah (Kitab).",
+        "input": "Kitab suci Injil diturunkan kepada....",
+        "output": "Soal:\\nNabi....\\n\\nA. Nabi Musa AS\\nB. Nabi Isa AS\\nC. Nabi Muhammad SAW\\nD. Nabi Daud AS\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nKitab Injil diterima oleh Nabi Isa AS."
+    },
+    {
+        "instruction": "Aqidah (Kitab).",
+        "input": "Kitab suci Al-Qur'an diturunkan kepada....",
+        "output": "Soal:\\nNabi....\\n\\nA. Nabi Muhammad SAW\\nB. Nabi Isa AS\\nC. Nabi Ibrahim AS\\nD. Nabi Musa AS\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nKitab Al-Qur'an diterima oleh Nabi Muhammad SAW."
+    },
+    {
+        "instruction": "Aqidah (Ulul Azmi).",
+        "input": "Salah satu mukjizat Nabi Nuh AS adalah....",
+        "output": "Soal:\\nMukjizatnya....\\n\\nA. Nabi Adam\\nB. Nabi Shalih\\nC. Nabi Idris\\nD. Kesabaran membuat bahtera saat banjir besar\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nNabi Nuh AS memiliki mukjizat Kesabaran membuat bahtera saat banjir besar."
+    },
+    {
+        "instruction": "Aqidah (Ulul Azmi).",
+        "input": "Salah satu mukjizat Nabi Ibrahim AS adalah....",
+        "output": "Soal:\\nMukjizatnya....\\n\\nA. Dibakar api namun tidak hangus (Dingin)\\nB. Nabi Luth\\nC. Nabi Ismail\\nD. Nabi Yusuf\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nNabi Ibrahim AS memiliki mukjizat Dibakar api namun tidak hangus (Dingin)."
+    },
+    {
+        "instruction": "Aqidah (Ulul Azmi).",
+        "input": "Salah satu mukjizat Nabi Musa AS adalah....",
+        "output": "Soal:\\nMukjizatnya....\\n\\nA. Nabi Harun\\nB. Nabi Yunus\\nC. Nabi Syuaib\\nD. Membelah lautan dengan tongkat\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nNabi Musa AS memiliki mukjizat Membelah lautan dengan tongkat."
+    },
+    {
+        "instruction": "Aqidah (Ulul Azmi).",
+        "input": "Salah satu mukjizat Nabi Isa AS adalah....",
+        "output": "Soal:\\nMukjizatnya....\\n\\nA. Nabi Daud\\nB. Menghidupkan orang mati atas izin Allah\\nC. Nabi Yahya\\nD. Nabi Zakaria\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nNabi Isa AS memiliki mukjizat Menghidupkan orang mati atas izin Allah."
+    },
+    {
+        "instruction": "Aqidah (Ulul Azmi).",
+        "input": "Salah satu mukjizat Nabi Muhammad SAW adalah....",
+        "output": "Soal:\\nMukjizatnya....\\n\\nA. Nabi Ibrahim\\nB. Al-Qur'an dan peristiwa Isra Mi'raj\\nC. Nabi Isa\\nD. Nabi Musa\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nNabi Muhammad SAW memiliki mukjizat Al-Qur'an dan peristiwa Isra Mi'raj."
+    },
+    {
+        "instruction": "SKI (Wali Songo).",
+        "input": "Nama asli dari Sunan Gresik adalah....",
+        "output": "Soal:\\nSiapakah beliau?\\n\\nA. Ja'far Shadiq\\nB. Raden Said\\nC. Maulana Malik Ibrahim\\nD. Raden Umar Said\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSunan Gresik bernama asli Maulana Malik Ibrahim."
+    },
+    {
+        "instruction": "SKI (Wali Songo).",
+        "input": "Sunan Gresik menyebarkan agama Islam di daerah....",
+        "output": "Soal:\\nWilayah dakwahnya....\\n\\nA. Tuban, Jawa Timur\\nB. Lamongan, Jawa Timur\\nC. Kudus, Jawa Tengah\\nD. Gresik, Jawa Timur\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSunan Gresik berdakwah di Gresik, Jawa Timur."
+    },
+    {
+        "instruction": "SKI (Wali Songo).",
+        "input": "Nama asli dari Sunan Ampel adalah....",
+        "output": "Soal:\\nSiapakah beliau?\\n\\nA. Raden Rahmat\\nB. Syarif Hidayatullah\\nC. Raden Umar Said\\nD. Raden Qasim\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSunan Ampel bernama asli Raden Rahmat."
+    },
+    {
+        "instruction": "SKI (Wali Songo).",
+        "input": "Sunan Ampel menyebarkan agama Islam di daerah....",
+        "output": "Soal:\\nWilayah dakwahnya....\\n\\nA. Tuban, Jawa Timur\\nB. Surabaya, Jawa Timur\\nC. Kudus, Jawa Tengah\\nD. Lamongan, Jawa Timur\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSunan Ampel berdakwah di Surabaya, Jawa Timur."
+    },
+    {
+        "instruction": "SKI (Wali Songo).",
+        "input": "Nama asli dari Sunan Bonang adalah....",
+        "output": "Soal:\\nSiapakah beliau?\\n\\nA. Raden Makhdum Ibrahim\\nB. Syarif Hidayatullah\\nC. Raden Said\\nD. Raden Umar Said\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSunan Bonang bernama asli Raden Makhdum Ibrahim."
+    },
+    {
+        "instruction": "SKI (Wali Songo).",
+        "input": "Sunan Bonang menyebarkan agama Islam di daerah....",
+        "output": "Soal:\\nWilayah dakwahnya....\\n\\nA. Kudus, Jawa Tengah\\nB. Tuban, Jawa Timur\\nC. Lamongan, Jawa Timur\\nD. Cirebon, Jawa Barat\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSunan Bonang berdakwah di Tuban, Jawa Timur."
+    },
+    {
+        "instruction": "SKI (Wali Songo).",
+        "input": "Nama asli dari Sunan Drajat adalah....",
+        "output": "Soal:\\nSiapakah beliau?\\n\\nA. Ja'far Shadiq\\nB. Raden Said\\nC. Raden Rahmat\\nD. Raden Qasim\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSunan Drajat bernama asli Raden Qasim."
+    },
+    {
+        "instruction": "SKI (Wali Songo).",
+        "input": "Sunan Drajat menyebarkan agama Islam di daerah....",
+        "output": "Soal:\\nWilayah dakwahnya....\\n\\nA. Gunung Muria, Jawa Tengah\\nB. Gresik, Jawa Timur\\nC. Surabaya, Jawa Timur\\nD. Lamongan, Jawa Timur\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSunan Drajat berdakwah di Lamongan, Jawa Timur."
+    },
+    {
+        "instruction": "SKI (Wali Songo).",
+        "input": "Nama asli dari Sunan Kudus adalah....",
+        "output": "Soal:\\nSiapakah beliau?\\n\\nA. Maulana Malik Ibrahim\\nB. Raden Makhdum Ibrahim\\nC. Raden Umar Said\\nD. Ja'far Shadiq\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSunan Kudus bernama asli Ja'far Shadiq."
+    },
+    {
+        "instruction": "SKI (Wali Songo).",
+        "input": "Sunan Kudus menyebarkan agama Islam di daerah....",
+        "output": "Soal:\\nWilayah dakwahnya....\\n\\nA. Kudus, Jawa Tengah\\nB. Gresik, Jawa Timur\\nC. Surabaya, Jawa Timur\\nD. Lamongan, Jawa Timur\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSunan Kudus berdakwah di Kudus, Jawa Tengah."
+    },
+    {
+        "instruction": "SKI (Wali Songo).",
+        "input": "Nama asli dari Sunan Giri adalah....",
+        "output": "Soal:\\nSiapakah beliau?\\n\\nA. Syarif Hidayatullah\\nB. Maulana Malik Ibrahim\\nC. Raden Paku\\nD. Raden Qasim\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSunan Giri bernama asli Raden Paku."
+    },
+    {
+        "instruction": "SKI (Wali Songo).",
+        "input": "Sunan Giri menyebarkan agama Islam di daerah....",
+        "output": "Soal:\\nWilayah dakwahnya....\\n\\nA. Lamongan, Jawa Timur\\nB. Gresik, Jawa Timur\\nC. Kudus, Jawa Tengah\\nD. Cirebon, Jawa Barat\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSunan Giri berdakwah di Gresik, Jawa Timur."
+    },
+    {
+        "instruction": "SKI (Wali Songo).",
+        "input": "Nama asli dari Sunan Kalijaga adalah....",
+        "output": "Soal:\\nSiapakah beliau?\\n\\nA. Raden Makhdum Ibrahim\\nB. Raden Umar Said\\nC. Raden Said\\nD. Raden Qasim\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSunan Kalijaga bernama asli Raden Said."
+    },
+    {
+        "instruction": "SKI (Wali Songo).",
+        "input": "Sunan Kalijaga menyebarkan agama Islam di daerah....",
+        "output": "Soal:\\nWilayah dakwahnya....\\n\\nA. Demak, Jawa Tengah\\nB. Lamongan, Jawa Timur\\nC. Tuban, Jawa Timur\\nD. Gunung Muria, Jawa Tengah\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSunan Kalijaga berdakwah di Demak, Jawa Tengah."
+    },
+    {
+        "instruction": "SKI (Wali Songo).",
+        "input": "Nama asli dari Sunan Muria adalah....",
+        "output": "Soal:\\nSiapakah beliau?\\n\\nA. Raden Umar Said\\nB. Raden Said\\nC. Ja'far Shadiq\\nD. Raden Rahmat\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSunan Muria bernama asli Raden Umar Said."
+    },
+    {
+        "instruction": "SKI (Wali Songo).",
+        "input": "Sunan Muria menyebarkan agama Islam di daerah....",
+        "output": "Soal:\\nWilayah dakwahnya....\\n\\nA. Cirebon, Jawa Barat\\nB. Lamongan, Jawa Timur\\nC. Kudus, Jawa Tengah\\nD. Gunung Muria, Jawa Tengah\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSunan Muria berdakwah di Gunung Muria, Jawa Tengah."
+    },
+    {
+        "instruction": "SKI (Wali Songo).",
+        "input": "Nama asli dari Sunan Gunung Jati adalah....",
+        "output": "Soal:\\nSiapakah beliau?\\n\\nA. Syarif Hidayatullah\\nB. Raden Said\\nC. Raden Umar Said\\nD. Raden Rahmat\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSunan Gunung Jati bernama asli Syarif Hidayatullah."
+    },
+    {
+        "instruction": "SKI (Wali Songo).",
+        "input": "Sunan Gunung Jati menyebarkan agama Islam di daerah....",
+        "output": "Soal:\\nWilayah dakwahnya....\\n\\nA. Surabaya, Jawa Timur\\nB. Cirebon, Jawa Barat\\nC. Lamongan, Jawa Timur\\nD. Kudus, Jawa Tengah\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSunan Gunung Jati berdakwah di Cirebon, Jawa Barat."
+    },
+    {
+        "instruction": "Akhlak (Jujur).",
+        "input": "Pengertian dari sikap Jujur adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Teguh pendirian dalam kebaikan\\nB. Mengatakan sesuatu sesuai dengan kenyataan\\nC. Merasa cukup dengan pemberian Allah\\nD. Membicarakan keburukan orang lain\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nJujur artinya Mengatakan sesuatu sesuai dengan kenyataan."
+    },
+    {
+        "instruction": "Akhlak (Amanah).",
+        "input": "Pengertian dari sikap Amanah adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Dapat dipercaya memegang titipan/janji\\nB. Tenggang rasa / Toleransi\\nC. Teguh pendirian dalam kebaikan\\nD. Rendah hati, tidak sombong\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nAmanah artinya Dapat dipercaya memegang titipan/janji."
+    },
+    {
+        "instruction": "Akhlak (Istiqamah).",
+        "input": "Pengertian dari sikap Istiqamah adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Menceritakan amal baik agar didengar orang\\nB. Teguh pendirian dalam kebaikan\\nC. Rendah hati, tidak sombong\\nD. Tenggang rasa / Toleransi\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nIstiqamah artinya Teguh pendirian dalam kebaikan."
+    },
+    {
+        "instruction": "Akhlak (Tawadhu).",
+        "input": "Pengertian dari sikap Tawadhu adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Sombong/Membanggakan diri sendiri\\nB. Merasa cukup dengan pemberian Allah\\nC. Rendah hati, tidak sombong\\nD. Beramal ingin dipuji orang lain\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nTawadhu artinya Rendah hati, tidak sombong."
+    },
+    {
+        "instruction": "Akhlak (Qanaah).",
+        "input": "Pengertian dari sikap Qanaah adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Merasa cukup dengan pemberian Allah\\nB. Mengatakan sesuatu sesuai dengan kenyataan\\nC. Dengki/Tidak suka melihat orang lain senang\\nD. Teguh pendirian dalam kebaikan\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nQanaah artinya Merasa cukup dengan pemberian Allah."
+    },
+    {
+        "instruction": "Akhlak (Tasamuh).",
+        "input": "Pengertian dari sikap Tasamuh adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Tenggang rasa / Toleransi\\nB. Beramal ingin dipuji orang lain\\nC. Menceritakan amal baik agar didengar orang\\nD. Rendah hati, tidak sombong\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nTasamuh artinya Tenggang rasa / Toleransi."
+    },
+    {
+        "instruction": "Akhlak (Riya).",
+        "input": "Pengertian dari sikap Riya adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Beramal ingin dipuji orang lain\\nB. Membicarakan keburukan orang lain\\nC. Mengatakan sesuatu sesuai dengan kenyataan\\nD. Rendah hati, tidak sombong\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nRiya artinya Beramal ingin dipuji orang lain."
+    },
+    {
+        "instruction": "Akhlak (Sum'ah).",
+        "input": "Pengertian dari sikap Sum'ah adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Menceritakan amal baik agar didengar orang\\nB. Dapat dipercaya memegang titipan/janji\\nC. Merasa cukup dengan pemberian Allah\\nD. Dengki/Tidak suka melihat orang lain senang\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSum'ah artinya Menceritakan amal baik agar didengar orang."
+    },
+    {
+        "instruction": "Akhlak (Takabur).",
+        "input": "Pengertian dari sikap Takabur adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Menceritakan amal baik agar didengar orang\\nB. Sombong/Membanggakan diri sendiri\\nC. Teguh pendirian dalam kebaikan\\nD. Rendah hati, tidak sombong\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nTakabur artinya Sombong/Membanggakan diri sendiri."
+    },
+    {
+        "instruction": "Akhlak (Hasad).",
+        "input": "Pengertian dari sikap Hasad adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Merasa cukup dengan pemberian Allah\\nB. Beramal ingin dipuji orang lain\\nC. Dengki/Tidak suka melihat orang lain senang\\nD. Rendah hati, tidak sombong\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nHasad artinya Dengki/Tidak suka melihat orang lain senang."
+    },
+    {
+        "instruction": "Akhlak (Ghibah).",
+        "input": "Pengertian dari sikap Ghibah adalah....",
+        "output": "Soal:\\nArtinya....\\n\\nA. Sombong/Membanggakan diri sendiri\\nB. Membicarakan keburukan orang lain\\nC. Beramal ingin dipuji orang lain\\nD. Dapat dipercaya memegang titipan/janji\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nGhibah artinya Membicarakan keburukan orang lain."
+    },
+    {
+        "instruction": "Fiqih (Shalat).",
+        "input": "Hukum melakukan gerakan Niat dalam shalat adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Makruh\\nB. Rukun\\nC. Membatalkan\\nD. Syarat Wajib\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nNiat termasuk Rukun shalat."
+    },
+    {
+        "instruction": "Fiqih (Shalat).",
+        "input": "Hukum melakukan gerakan Niat dalam shalat adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Rukun\\nB. Makruh\\nC. Syarat Sah\\nD. Syarat Wajib\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nNiat termasuk Rukun shalat."
+    },
+    {
+        "instruction": "Fiqih (Shalat).",
+        "input": "Hukum melakukan gerakan Niat dalam shalat adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Rukun\\nB. Syarat Wajib\\nC. Makruh\\nD. Syarat Sah\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nNiat termasuk Rukun shalat."
+    },
+    {
+        "instruction": "Fiqih (Shalat).",
+        "input": "Hukum melakukan gerakan Takbiratul Ihram dalam shalat adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Rukun\\nB. Syarat Sah\\nC. Membatalkan\\nD. Makruh\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nTakbiratul Ihram termasuk Rukun shalat."
+    },
+    {
+        "instruction": "Fiqih (Shalat).",
+        "input": "Hukum melakukan gerakan Takbiratul Ihram dalam shalat adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Makruh\\nB. Rukun\\nC. Membatalkan\\nD. Syarat Wajib\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nTakbiratul Ihram termasuk Rukun shalat."
+    },
+    {
+        "instruction": "Fiqih (Shalat).",
+        "input": "Hukum melakukan gerakan Takbiratul Ihram dalam shalat adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Makruh\\nB. Syarat Wajib\\nC. Syarat Sah\\nD. Rukun\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nTakbiratul Ihram termasuk Rukun shalat."
+    },
+    {
+        "instruction": "Fiqih (Shalat).",
+        "input": "Hukum melakukan gerakan Membaca Al-Fatihah dalam shalat adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Syarat Sah\\nB. Rukun\\nC. Syarat Wajib\\nD. Makruh\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMembaca Al-Fatihah termasuk Rukun shalat."
+    },
+    {
+        "instruction": "Fiqih (Shalat).",
+        "input": "Hukum melakukan gerakan Membaca Al-Fatihah dalam shalat adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Syarat Sah\\nB. Rukun\\nC. Membatalkan\\nD. Makruh\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMembaca Al-Fatihah termasuk Rukun shalat."
+    },
+    {
+        "instruction": "Fiqih (Shalat).",
+        "input": "Hukum melakukan gerakan Membaca Al-Fatihah dalam shalat adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Syarat Wajib\\nB. Syarat Sah\\nC. Makruh\\nD. Rukun\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMembaca Al-Fatihah termasuk Rukun shalat."
+    },
+    {
+        "instruction": "Fiqih (Shalat).",
+        "input": "Hukum melakukan gerakan Rukuk dalam shalat adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Makruh\\nB. Syarat Sah\\nC. Rukun\\nD. Syarat Wajib\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nRukuk termasuk Rukun shalat."
+    },
+    {
+        "instruction": "Fiqih (Shalat).",
+        "input": "Hukum melakukan gerakan Rukuk dalam shalat adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Syarat Sah\\nB. Membatalkan\\nC. Rukun\\nD. Makruh\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nRukuk termasuk Rukun shalat."
+    },
+    {
+        "instruction": "Fiqih (Shalat).",
+        "input": "Hukum melakukan gerakan Rukuk dalam shalat adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Rukun\\nB. Syarat Wajib\\nC. Membatalkan\\nD. Makruh\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nRukuk termasuk Rukun shalat."
+    },
+    {
+        "instruction": "Fiqih (Shalat).",
+        "input": "Hukum melakukan gerakan Sujud dalam shalat adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Membatalkan\\nB. Syarat Wajib\\nC. Makruh\\nD. Rukun\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSujud termasuk Rukun shalat."
+    },
+    {
+        "instruction": "Fiqih (Shalat).",
+        "input": "Hukum melakukan gerakan Sujud dalam shalat adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Rukun\\nB. Membatalkan\\nC. Syarat Wajib\\nD. Syarat Sah\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSujud termasuk Rukun shalat."
+    },
+    {
+        "instruction": "Fiqih (Shalat).",
+        "input": "Hukum melakukan gerakan Sujud dalam shalat adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Rukun\\nB. Syarat Wajib\\nC. Syarat Sah\\nD. Makruh\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSujud termasuk Rukun shalat."
+    },
+    {
+        "instruction": "Fiqih (Shalat).",
+        "input": "Hukum melakukan gerakan Duduk antara dua sujud dalam shalat adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Syarat Wajib\\nB. Rukun\\nC. Makruh\\nD. Membatalkan\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nDuduk antara dua sujud termasuk Rukun shalat."
+    },
+    {
+        "instruction": "Fiqih (Shalat).",
+        "input": "Hukum melakukan gerakan Duduk antara dua sujud dalam shalat adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Rukun\\nB. Makruh\\nC. Membatalkan\\nD. Syarat Wajib\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nDuduk antara dua sujud termasuk Rukun shalat."
+    },
+    {
+        "instruction": "Fiqih (Shalat).",
+        "input": "Hukum melakukan gerakan Duduk antara dua sujud dalam shalat adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Syarat Wajib\\nB. Membatalkan\\nC. Syarat Sah\\nD. Rukun\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nDuduk antara dua sujud termasuk Rukun shalat."
+    },
+    {
+        "instruction": "Fiqih (Shalat).",
+        "input": "Hukum melakukan gerakan Mengangkat tangan saat takbir dalam shalat adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Sunnah\\nB. Makruh\\nC. Syarat Sah\\nD. Membatalkan\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMengangkat tangan saat takbir termasuk Sunnah shalat."
+    },
+    {
+        "instruction": "Fiqih (Shalat).",
+        "input": "Hukum melakukan gerakan Mengangkat tangan saat takbir dalam shalat adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Sunnah\\nB. Membatalkan\\nC. Syarat Sah\\nD. Syarat Wajib\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMengangkat tangan saat takbir termasuk Sunnah shalat."
+    },
+    {
+        "instruction": "Fiqih (Shalat).",
+        "input": "Hukum melakukan gerakan Mengangkat tangan saat takbir dalam shalat adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Makruh\\nB. Membatalkan\\nC. Syarat Wajib\\nD. Sunnah\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMengangkat tangan saat takbir termasuk Sunnah shalat."
+    },
+    {
+        "instruction": "Fiqih (Shalat).",
+        "input": "Hukum melakukan gerakan Membaca doa Iftitah dalam shalat adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Membatalkan\\nB. Sunnah\\nC. Syarat Wajib\\nD. Makruh\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMembaca doa Iftitah termasuk Sunnah shalat."
+    },
+    {
+        "instruction": "Fiqih (Shalat).",
+        "input": "Hukum melakukan gerakan Membaca doa Iftitah dalam shalat adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Makruh\\nB. Membatalkan\\nC. Syarat Wajib\\nD. Sunnah\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMembaca doa Iftitah termasuk Sunnah shalat."
+    },
+    {
+        "instruction": "Fiqih (Shalat).",
+        "input": "Hukum melakukan gerakan Membaca doa Iftitah dalam shalat adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Syarat Sah\\nB. Makruh\\nC. Sunnah\\nD. Syarat Wajib\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMembaca doa Iftitah termasuk Sunnah shalat."
+    },
+    {
+        "instruction": "Fiqih (Shalat).",
+        "input": "Hukum melakukan gerakan Membaca Amin dalam shalat adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Makruh\\nB. Membatalkan\\nC. Sunnah\\nD. Syarat Sah\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMembaca Amin termasuk Sunnah shalat."
+    },
+    {
+        "instruction": "Fiqih (Shalat).",
+        "input": "Hukum melakukan gerakan Membaca Amin dalam shalat adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Membatalkan\\nB. Makruh\\nC. Sunnah\\nD. Syarat Sah\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMembaca Amin termasuk Sunnah shalat."
+    },
+    {
+        "instruction": "Fiqih (Shalat).",
+        "input": "Hukum melakukan gerakan Membaca Amin dalam shalat adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Membatalkan\\nB. Syarat Wajib\\nC. Makruh\\nD. Sunnah\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMembaca Amin termasuk Sunnah shalat."
+    },
+    {
+        "instruction": "Fiqih (Shalat).",
+        "input": "Hukum melakukan gerakan Membaca surat pendek dalam shalat adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Membatalkan\\nB. Syarat Sah\\nC. Makruh\\nD. Sunnah\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMembaca surat pendek termasuk Sunnah shalat."
+    },
+    {
+        "instruction": "Fiqih (Shalat).",
+        "input": "Hukum melakukan gerakan Membaca surat pendek dalam shalat adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Syarat Wajib\\nB. Syarat Sah\\nC. Makruh\\nD. Sunnah\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMembaca surat pendek termasuk Sunnah shalat."
+    },
+    {
+        "instruction": "Fiqih (Shalat).",
+        "input": "Hukum melakukan gerakan Membaca surat pendek dalam shalat adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Syarat Sah\\nB. Membatalkan\\nC. Syarat Wajib\\nD. Sunnah\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMembaca surat pendek termasuk Sunnah shalat."
+    },
+    {
+        "instruction": "Fiqih (Shalat).",
+        "input": "Hukum melakukan gerakan Duduk Tasyahud Awal dalam shalat adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Syarat Sah\\nB. Membatalkan\\nC. Makruh\\nD. Sunnah\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nDuduk Tasyahud Awal termasuk Sunnah shalat."
+    },
+    {
+        "instruction": "Fiqih (Shalat).",
+        "input": "Hukum melakukan gerakan Duduk Tasyahud Awal dalam shalat adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Sunnah\\nB. Membatalkan\\nC. Syarat Wajib\\nD. Makruh\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nDuduk Tasyahud Awal termasuk Sunnah shalat."
+    },
+    {
+        "instruction": "Fiqih (Shalat).",
+        "input": "Hukum melakukan gerakan Duduk Tasyahud Awal dalam shalat adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Syarat Sah\\nB. Syarat Wajib\\nC. Membatalkan\\nD. Sunnah\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nDuduk Tasyahud Awal termasuk Sunnah shalat."
+    },
+    {
+        "instruction": "Fiqih (Shalat).",
+        "input": "Hukum melakukan gerakan Salam kedua dalam shalat adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Sunnah\\nB. Syarat Wajib\\nC. Syarat Sah\\nD. Makruh\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSalam kedua termasuk Sunnah shalat."
+    },
+    {
+        "instruction": "Fiqih (Shalat).",
+        "input": "Hukum melakukan gerakan Salam kedua dalam shalat adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Makruh\\nB. Sunnah\\nC. Syarat Wajib\\nD. Membatalkan\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSalam kedua termasuk Sunnah shalat."
+    },
+    {
+        "instruction": "Fiqih (Shalat).",
+        "input": "Hukum melakukan gerakan Salam kedua dalam shalat adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Membatalkan\\nB. Syarat Sah\\nC. Sunnah\\nD. Makruh\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSalam kedua termasuk Sunnah shalat."
+    },
+    {
+        "instruction": "Fiqih (Puasa).",
+        "input": "Melakukan hal berikut: Makan/Minum dengan sengaja, hukumnya bagi puasa adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Wajib\\nB. Membatalkan\\nC. Haram\\nD. Makruh\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMakan/Minum dengan sengaja termasuk Membatalkan puasa."
+    },
+    {
+        "instruction": "Fiqih (Puasa).",
+        "input": "Melakukan hal berikut: Makan/Minum dengan sengaja, hukumnya bagi puasa adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Wajib\\nB. Syarat Sah\\nC. Membatalkan\\nD. Makruh\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMakan/Minum dengan sengaja termasuk Membatalkan puasa."
+    },
+    {
+        "instruction": "Fiqih (Puasa).",
+        "input": "Melakukan hal berikut: Makan/Minum dengan sengaja, hukumnya bagi puasa adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Membatalkan\\nB. Haram\\nC. Makruh\\nD. Syarat Sah\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMakan/Minum dengan sengaja termasuk Membatalkan puasa."
+    },
+    {
+        "instruction": "Fiqih (Puasa).",
+        "input": "Melakukan hal berikut: Muntah dengan sengaja, hukumnya bagi puasa adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Membatalkan\\nB. Syarat Sah\\nC. Haram\\nD. Makruh\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMuntah dengan sengaja termasuk Membatalkan puasa."
+    },
+    {
+        "instruction": "Fiqih (Puasa).",
+        "input": "Melakukan hal berikut: Muntah dengan sengaja, hukumnya bagi puasa adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Haram\\nB. Membatalkan\\nC. Makruh\\nD. Syarat Sah\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMuntah dengan sengaja termasuk Membatalkan puasa."
+    },
+    {
+        "instruction": "Fiqih (Puasa).",
+        "input": "Melakukan hal berikut: Muntah dengan sengaja, hukumnya bagi puasa adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Syarat Sah\\nB. Wajib\\nC. Makruh\\nD. Membatalkan\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMuntah dengan sengaja termasuk Membatalkan puasa."
+    },
+    {
+        "instruction": "Fiqih (Puasa).",
+        "input": "Melakukan hal berikut: Hilang akal/Gila, hukumnya bagi puasa adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Membatalkan\\nB. Haram\\nC. Syarat Sah\\nD. Makruh\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nHilang akal/Gila termasuk Membatalkan puasa."
+    },
+    {
+        "instruction": "Fiqih (Puasa).",
+        "input": "Melakukan hal berikut: Hilang akal/Gila, hukumnya bagi puasa adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Membatalkan\\nB. Syarat Sah\\nC. Haram\\nD. Wajib\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nHilang akal/Gila termasuk Membatalkan puasa."
+    },
+    {
+        "instruction": "Fiqih (Puasa).",
+        "input": "Melakukan hal berikut: Hilang akal/Gila, hukumnya bagi puasa adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Makruh\\nB. Haram\\nC. Membatalkan\\nD. Wajib\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nHilang akal/Gila termasuk Membatalkan puasa."
+    },
+    {
+        "instruction": "Fiqih (Puasa).",
+        "input": "Melakukan hal berikut: Berhubungan suami istri siang hari, hukumnya bagi puasa adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Membatalkan\\nB. Syarat Sah\\nC. Haram\\nD. Makruh\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nBerhubungan suami istri siang hari termasuk Membatalkan puasa."
+    },
+    {
+        "instruction": "Fiqih (Puasa).",
+        "input": "Melakukan hal berikut: Berhubungan suami istri siang hari, hukumnya bagi puasa adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Makruh\\nB. Membatalkan\\nC. Wajib\\nD. Syarat Sah\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nBerhubungan suami istri siang hari termasuk Membatalkan puasa."
+    },
+    {
+        "instruction": "Fiqih (Puasa).",
+        "input": "Melakukan hal berikut: Berhubungan suami istri siang hari, hukumnya bagi puasa adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Wajib\\nB. Syarat Sah\\nC. Membatalkan\\nD. Haram\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nBerhubungan suami istri siang hari termasuk Membatalkan puasa."
+    },
+    {
+        "instruction": "Fiqih (Puasa).",
+        "input": "Melakukan hal berikut: Niat puasa, hukumnya bagi puasa adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Makruh\\nB. Rukun\\nC. Haram\\nD. Wajib\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nNiat puasa termasuk Rukun puasa."
+    },
+    {
+        "instruction": "Fiqih (Puasa).",
+        "input": "Melakukan hal berikut: Niat puasa, hukumnya bagi puasa adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Makruh\\nB. Syarat Sah\\nC. Haram\\nD. Rukun\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nNiat puasa termasuk Rukun puasa."
+    },
+    {
+        "instruction": "Fiqih (Puasa).",
+        "input": "Melakukan hal berikut: Niat puasa, hukumnya bagi puasa adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Haram\\nB. Rukun\\nC. Syarat Sah\\nD. Makruh\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nNiat puasa termasuk Rukun puasa."
+    },
+    {
+        "instruction": "Fiqih (Puasa).",
+        "input": "Melakukan hal berikut: Menahan diri dari hal membatalkan, hukumnya bagi puasa adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Makruh\\nB. Rukun\\nC. Wajib\\nD. Syarat Sah\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMenahan diri dari hal membatalkan termasuk Rukun puasa."
+    },
+    {
+        "instruction": "Fiqih (Puasa).",
+        "input": "Melakukan hal berikut: Menahan diri dari hal membatalkan, hukumnya bagi puasa adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Wajib\\nB. Rukun\\nC. Syarat Sah\\nD. Makruh\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMenahan diri dari hal membatalkan termasuk Rukun puasa."
+    },
+    {
+        "instruction": "Fiqih (Puasa).",
+        "input": "Melakukan hal berikut: Menahan diri dari hal membatalkan, hukumnya bagi puasa adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Makruh\\nB. Wajib\\nC. Rukun\\nD. Syarat Sah\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMenahan diri dari hal membatalkan termasuk Rukun puasa."
+    },
+    {
+        "instruction": "Fiqih (Puasa).",
+        "input": "Melakukan hal berikut: Sahur, hukumnya bagi puasa adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Wajib\\nB. Syarat Sah\\nC. Sunnah\\nD. Makruh\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSahur termasuk Sunnah puasa."
+    },
+    {
+        "instruction": "Fiqih (Puasa).",
+        "input": "Melakukan hal berikut: Sahur, hukumnya bagi puasa adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Haram\\nB. Syarat Sah\\nC. Sunnah\\nD. Makruh\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSahur termasuk Sunnah puasa."
+    },
+    {
+        "instruction": "Fiqih (Puasa).",
+        "input": "Melakukan hal berikut: Sahur, hukumnya bagi puasa adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Syarat Sah\\nB. Makruh\\nC. Sunnah\\nD. Haram\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSahur termasuk Sunnah puasa."
+    },
+    {
+        "instruction": "Fiqih (Puasa).",
+        "input": "Melakukan hal berikut: Menyegerakan berbuka, hukumnya bagi puasa adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Haram\\nB. Syarat Sah\\nC. Sunnah\\nD. Makruh\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMenyegerakan berbuka termasuk Sunnah puasa."
+    },
+    {
+        "instruction": "Fiqih (Puasa).",
+        "input": "Melakukan hal berikut: Menyegerakan berbuka, hukumnya bagi puasa adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Makruh\\nB. Sunnah\\nC. Haram\\nD. Wajib\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMenyegerakan berbuka termasuk Sunnah puasa."
+    },
+    {
+        "instruction": "Fiqih (Puasa).",
+        "input": "Melakukan hal berikut: Menyegerakan berbuka, hukumnya bagi puasa adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Wajib\\nB. Makruh\\nC. Haram\\nD. Sunnah\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMenyegerakan berbuka termasuk Sunnah puasa."
+    },
+    {
+        "instruction": "Fiqih (Puasa).",
+        "input": "Melakukan hal berikut: Membaca doa buka puasa, hukumnya bagi puasa adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Sunnah\\nB. Wajib\\nC. Makruh\\nD. Haram\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMembaca doa buka puasa termasuk Sunnah puasa."
+    },
+    {
+        "instruction": "Fiqih (Puasa).",
+        "input": "Melakukan hal berikut: Membaca doa buka puasa, hukumnya bagi puasa adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Syarat Sah\\nB. Haram\\nC. Sunnah\\nD. Wajib\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMembaca doa buka puasa termasuk Sunnah puasa."
+    },
+    {
+        "instruction": "Fiqih (Puasa).",
+        "input": "Melakukan hal berikut: Membaca doa buka puasa, hukumnya bagi puasa adalah....",
+        "output": "Soal:\\nHukumnya....\\n\\nA. Syarat Sah\\nB. Makruh\\nC. Sunnah\\nD. Wajib\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMembaca doa buka puasa termasuk Sunnah puasa."
+    },
+    {
+        "instruction": "Aqidah (Qada & Qadar).",
+        "input": "Contoh takdir: Kematian / Ajal. Ini termasuk takdir....",
+        "output": "Soal:\\nJenis takdir....\\n\\nA. Mubram\\nB. Nasib\\nC. Muallaq\\nD. Ikhtiar\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nKematian / Ajal adalah takdir Mubram (Tidak bisa diubah)."
+    },
+    {
+        "instruction": "Aqidah (Qada & Qadar).",
+        "input": "Contoh takdir: Kematian / Ajal. Ini termasuk takdir....",
+        "output": "Soal:\\nJenis takdir....\\n\\nA. Muallaq\\nB. Ikhtiar\\nC. Nasib\\nD. Mubram\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nKematian / Ajal adalah takdir Mubram (Tidak bisa diubah)."
+    },
+    {
+        "instruction": "Aqidah (Qada & Qadar).",
+        "input": "Contoh takdir: Kematian / Ajal. Ini termasuk takdir....",
+        "output": "Soal:\\nJenis takdir....\\n\\nA. Nasib\\nB. Mubram\\nC. Ikhtiar\\nD. Muallaq\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nKematian / Ajal adalah takdir Mubram (Tidak bisa diubah)."
+    },
+    {
+        "instruction": "Aqidah (Qada & Qadar).",
+        "input": "Contoh takdir: Kematian / Ajal. Ini termasuk takdir....",
+        "output": "Soal:\\nJenis takdir....\\n\\nA. Nasib\\nB. Mubram\\nC. Ikhtiar\\nD. Muallaq\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nKematian / Ajal adalah takdir Mubram (Tidak bisa diubah)."
+    },
+    {
+        "instruction": "Aqidah (Qada & Qadar).",
+        "input": "Contoh takdir: Kematian / Ajal. Ini termasuk takdir....",
+        "output": "Soal:\\nJenis takdir....\\n\\nA. Muallaq\\nB. Nasib\\nC. Mubram\\nD. Ikhtiar\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nKematian / Ajal adalah takdir Mubram (Tidak bisa diubah)."
+    },
+    {
+        "instruction": "Aqidah (Qada & Qadar).",
+        "input": "Contoh takdir: Kematian / Ajal. Ini termasuk takdir....",
+        "output": "Soal:\\nJenis takdir....\\n\\nA. Ikhtiar\\nB. Nasib\\nC. Mubram\\nD. Muallaq\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nKematian / Ajal adalah takdir Mubram (Tidak bisa diubah)."
+    },
+    {
+        "instruction": "Aqidah (Qada & Qadar).",
+        "input": "Contoh takdir: Kematian / Ajal. Ini termasuk takdir....",
+        "output": "Soal:\\nJenis takdir....\\n\\nA. Nasib\\nB. Mubram\\nC. Ikhtiar\\nD. Muallaq\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nKematian / Ajal adalah takdir Mubram (Tidak bisa diubah)."
+    },
+    {
+        "instruction": "Aqidah (Qada & Qadar).",
+        "input": "Contoh takdir: Jenis Kelamin saat lahir. Ini termasuk takdir....",
+        "output": "Soal:\\nJenis takdir....\\n\\nA. Mubram\\nB. Muallaq\\nC. Ikhtiar\\nD. Nasib\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nJenis Kelamin saat lahir adalah takdir Mubram (Tidak bisa diubah)."
+    },
+    {
+        "instruction": "Aqidah (Qada & Qadar).",
+        "input": "Contoh takdir: Jenis Kelamin saat lahir. Ini termasuk takdir....",
+        "output": "Soal:\\nJenis takdir....\\n\\nA. Mubram\\nB. Muallaq\\nC. Ikhtiar\\nD. Nasib\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nJenis Kelamin saat lahir adalah takdir Mubram (Tidak bisa diubah)."
+    },
+    {
+        "instruction": "Aqidah (Qada & Qadar).",
+        "input": "Contoh takdir: Jenis Kelamin saat lahir. Ini termasuk takdir....",
+        "output": "Soal:\\nJenis takdir....\\n\\nA. Nasib\\nB. Muallaq\\nC. Mubram\\nD. Ikhtiar\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nJenis Kelamin saat lahir adalah takdir Mubram (Tidak bisa diubah)."
+    },
+    {
+        "instruction": "Aqidah (Qada & Qadar).",
+        "input": "Contoh takdir: Jenis Kelamin saat lahir. Ini termasuk takdir....",
+        "output": "Soal:\\nJenis takdir....\\n\\nA. Nasib\\nB. Ikhtiar\\nC. Mubram\\nD. Muallaq\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nJenis Kelamin saat lahir adalah takdir Mubram (Tidak bisa diubah)."
+    },
+    {
+        "instruction": "Aqidah (Qada & Qadar).",
+        "input": "Contoh takdir: Jenis Kelamin saat lahir. Ini termasuk takdir....",
+        "output": "Soal:\\nJenis takdir....\\n\\nA. Nasib\\nB. Mubram\\nC. Muallaq\\nD. Ikhtiar\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nJenis Kelamin saat lahir adalah takdir Mubram (Tidak bisa diubah)."
+    },
+    {
+        "instruction": "Aqidah (Qada & Qadar).",
+        "input": "Contoh takdir: Jenis Kelamin saat lahir. Ini termasuk takdir....",
+        "output": "Soal:\\nJenis takdir....\\n\\nA. Nasib\\nB. Mubram\\nC. Muallaq\\nD. Ikhtiar\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nJenis Kelamin saat lahir adalah takdir Mubram (Tidak bisa diubah)."
+    },
+    {
+        "instruction": "Aqidah (Qada & Qadar).",
+        "input": "Contoh takdir: Jenis Kelamin saat lahir. Ini termasuk takdir....",
+        "output": "Soal:\\nJenis takdir....\\n\\nA. Muallaq\\nB. Ikhtiar\\nC. Mubram\\nD. Nasib\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nJenis Kelamin saat lahir adalah takdir Mubram (Tidak bisa diubah)."
+    },
+    {
+        "instruction": "Aqidah (Qada & Qadar).",
+        "input": "Contoh takdir: Kiamat. Ini termasuk takdir....",
+        "output": "Soal:\\nJenis takdir....\\n\\nA. Ikhtiar\\nB. Nasib\\nC. Mubram\\nD. Muallaq\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nKiamat adalah takdir Mubram (Tidak bisa diubah)."
+    },
+    {
+        "instruction": "Aqidah (Qada & Qadar).",
+        "input": "Contoh takdir: Kiamat. Ini termasuk takdir....",
+        "output": "Soal:\\nJenis takdir....\\n\\nA. Mubram\\nB. Ikhtiar\\nC. Nasib\\nD. Muallaq\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nKiamat adalah takdir Mubram (Tidak bisa diubah)."
+    },
+    {
+        "instruction": "Aqidah (Qada & Qadar).",
+        "input": "Contoh takdir: Kiamat. Ini termasuk takdir....",
+        "output": "Soal:\\nJenis takdir....\\n\\nA. Nasib\\nB. Muallaq\\nC. Mubram\\nD. Ikhtiar\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nKiamat adalah takdir Mubram (Tidak bisa diubah)."
+    },
+    {
+        "instruction": "Aqidah (Qada & Qadar).",
+        "input": "Contoh takdir: Kiamat. Ini termasuk takdir....",
+        "output": "Soal:\\nJenis takdir....\\n\\nA. Muallaq\\nB. Ikhtiar\\nC. Nasib\\nD. Mubram\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nKiamat adalah takdir Mubram (Tidak bisa diubah)."
+    },
+    {
+        "instruction": "Aqidah (Qada & Qadar).",
+        "input": "Contoh takdir: Kiamat. Ini termasuk takdir....",
+        "output": "Soal:\\nJenis takdir....\\n\\nA. Nasib\\nB. Ikhtiar\\nC. Mubram\\nD. Muallaq\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nKiamat adalah takdir Mubram (Tidak bisa diubah)."
+    },
+    {
+        "instruction": "Aqidah (Qada & Qadar).",
+        "input": "Contoh takdir: Kiamat. Ini termasuk takdir....",
+        "output": "Soal:\\nJenis takdir....\\n\\nA. Nasib\\nB. Mubram\\nC. Muallaq\\nD. Ikhtiar\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nKiamat adalah takdir Mubram (Tidak bisa diubah)."
+    },
+    {
+        "instruction": "Aqidah (Qada & Qadar).",
+        "input": "Contoh takdir: Kiamat. Ini termasuk takdir....",
+        "output": "Soal:\\nJenis takdir....\\n\\nA. Nasib\\nB. Ikhtiar\\nC. Muallaq\\nD. Mubram\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nKiamat adalah takdir Mubram (Tidak bisa diubah)."
+    },
+    {
+        "instruction": "Aqidah (Qada & Qadar).",
+        "input": "Contoh takdir: Kepintaran. Ini termasuk takdir....",
+        "output": "Soal:\\nJenis takdir....\\n\\nA. Qada\\nB. Muallaq\\nC. Kehendak\\nD. Nasib\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nKepintaran adalah takdir Muallaq (Bisa diubah dengan belajar)."
+    },
+    {
+        "instruction": "Aqidah (Qada & Qadar).",
+        "input": "Contoh takdir: Kepintaran. Ini termasuk takdir....",
+        "output": "Soal:\\nJenis takdir....\\n\\nA. Muallaq\\nB. Kehendak\\nC. Nasib\\nD. Qada\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nKepintaran adalah takdir Muallaq (Bisa diubah dengan belajar)."
+    },
+    {
+        "instruction": "Aqidah (Qada & Qadar).",
+        "input": "Contoh takdir: Kepintaran. Ini termasuk takdir....",
+        "output": "Soal:\\nJenis takdir....\\n\\nA. Muallaq\\nB. Kehendak\\nC. Nasib\\nD. Qada\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nKepintaran adalah takdir Muallaq (Bisa diubah dengan belajar)."
+    },
+    {
+        "instruction": "Aqidah (Qada & Qadar).",
+        "input": "Contoh takdir: Kepintaran. Ini termasuk takdir....",
+        "output": "Soal:\\nJenis takdir....\\n\\nA. Qada\\nB. Muallaq\\nC. Kehendak\\nD. Nasib\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nKepintaran adalah takdir Muallaq (Bisa diubah dengan belajar)."
+    },
+    {
+        "instruction": "Aqidah (Qada & Qadar).",
+        "input": "Contoh takdir: Kepintaran. Ini termasuk takdir....",
+        "output": "Soal:\\nJenis takdir....\\n\\nA. Muallaq\\nB. Qada\\nC. Kehendak\\nD. Nasib\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nKepintaran adalah takdir Muallaq (Bisa diubah dengan belajar)."
+    },
+    {
+        "instruction": "Aqidah (Qada & Qadar).",
+        "input": "Contoh takdir: Kepintaran. Ini termasuk takdir....",
+        "output": "Soal:\\nJenis takdir....\\n\\nA. Qada\\nB. Muallaq\\nC. Kehendak\\nD. Nasib\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nKepintaran adalah takdir Muallaq (Bisa diubah dengan belajar)."
+    },
+    {
+        "instruction": "Aqidah (Qada & Qadar).",
+        "input": "Contoh takdir: Kepintaran. Ini termasuk takdir....",
+        "output": "Soal:\\nJenis takdir....\\n\\nA. Muallaq\\nB. Nasib\\nC. Qada\\nD. Kehendak\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nKepintaran adalah takdir Muallaq (Bisa diubah dengan belajar)."
+    },
+    {
+        "instruction": "Aqidah (Qada & Qadar).",
+        "input": "Contoh takdir: Kesehatan. Ini termasuk takdir....",
+        "output": "Soal:\\nJenis takdir....\\n\\nA. Kehendak\\nB. Qada\\nC. Nasib\\nD. Muallaq\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nKesehatan adalah takdir Muallaq (Bisa diubah dengan olahraga/makan sehat)."
+    },
+    {
+        "instruction": "Aqidah (Qada & Qadar).",
+        "input": "Contoh takdir: Kesehatan. Ini termasuk takdir....",
+        "output": "Soal:\\nJenis takdir....\\n\\nA. Muallaq\\nB. Kehendak\\nC. Qada\\nD. Nasib\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nKesehatan adalah takdir Muallaq (Bisa diubah dengan olahraga/makan sehat)."
+    },
+    {
+        "instruction": "Aqidah (Qada & Qadar).",
+        "input": "Contoh takdir: Kesehatan. Ini termasuk takdir....",
+        "output": "Soal:\\nJenis takdir....\\n\\nA. Muallaq\\nB. Qada\\nC. Kehendak\\nD. Nasib\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nKesehatan adalah takdir Muallaq (Bisa diubah dengan olahraga/makan sehat)."
+    },
+    {
+        "instruction": "Aqidah (Qada & Qadar).",
+        "input": "Contoh takdir: Kesehatan. Ini termasuk takdir....",
+        "output": "Soal:\\nJenis takdir....\\n\\nA. Muallaq\\nB. Nasib\\nC. Kehendak\\nD. Qada\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nKesehatan adalah takdir Muallaq (Bisa diubah dengan olahraga/makan sehat)."
+    },
+    {
+        "instruction": "Aqidah (Qada & Qadar).",
+        "input": "Contoh takdir: Kesehatan. Ini termasuk takdir....",
+        "output": "Soal:\\nJenis takdir....\\n\\nA. Kehendak\\nB. Muallaq\\nC. Qada\\nD. Nasib\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nKesehatan adalah takdir Muallaq (Bisa diubah dengan olahraga/makan sehat)."
+    },
+    {
+        "instruction": "Aqidah (Qada & Qadar).",
+        "input": "Contoh takdir: Kesehatan. Ini termasuk takdir....",
+        "output": "Soal:\\nJenis takdir....\\n\\nA. Qada\\nB. Muallaq\\nC. Nasib\\nD. Kehendak\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nKesehatan adalah takdir Muallaq (Bisa diubah dengan olahraga/makan sehat)."
+    },
+    {
+        "instruction": "Aqidah (Qada & Qadar).",
+        "input": "Contoh takdir: Kesehatan. Ini termasuk takdir....",
+        "output": "Soal:\\nJenis takdir....\\n\\nA. Muallaq\\nB. Nasib\\nC. Qada\\nD. Kehendak\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nKesehatan adalah takdir Muallaq (Bisa diubah dengan olahraga/makan sehat)."
+    },
+    {
+        "instruction": "Aqidah (Qada & Qadar).",
+        "input": "Contoh takdir: Kekayaan. Ini termasuk takdir....",
+        "output": "Soal:\\nJenis takdir....\\n\\nA. Nasib\\nB. Muallaq\\nC. Kehendak\\nD. Qada\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nKekayaan adalah takdir Muallaq (Bisa diubah dengan bekerja keras)."
+    },
+    {
+        "instruction": "Aqidah (Qada & Qadar).",
+        "input": "Contoh takdir: Kekayaan. Ini termasuk takdir....",
+        "output": "Soal:\\nJenis takdir....\\n\\nA. Qada\\nB. Nasib\\nC. Kehendak\\nD. Muallaq\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nKekayaan adalah takdir Muallaq (Bisa diubah dengan bekerja keras)."
+    },
+    {
+        "instruction": "Aqidah (Qada & Qadar).",
+        "input": "Contoh takdir: Kekayaan. Ini termasuk takdir....",
+        "output": "Soal:\\nJenis takdir....\\n\\nA. Qada\\nB. Muallaq\\nC. Kehendak\\nD. Nasib\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nKekayaan adalah takdir Muallaq (Bisa diubah dengan bekerja keras)."
+    },
+    {
+        "instruction": "Aqidah (Qada & Qadar).",
+        "input": "Contoh takdir: Kekayaan. Ini termasuk takdir....",
+        "output": "Soal:\\nJenis takdir....\\n\\nA. Kehendak\\nB. Muallaq\\nC. Qada\\nD. Nasib\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nKekayaan adalah takdir Muallaq (Bisa diubah dengan bekerja keras)."
+    },
+    {
+        "instruction": "Aqidah (Qada & Qadar).",
+        "input": "Contoh takdir: Kekayaan. Ini termasuk takdir....",
+        "output": "Soal:\\nJenis takdir....\\n\\nA. Kehendak\\nB. Nasib\\nC. Qada\\nD. Muallaq\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nKekayaan adalah takdir Muallaq (Bisa diubah dengan bekerja keras)."
+    },
+    {
+        "instruction": "Aqidah (Qada & Qadar).",
+        "input": "Contoh takdir: Kekayaan. Ini termasuk takdir....",
+        "output": "Soal:\\nJenis takdir....\\n\\nA. Kehendak\\nB. Muallaq\\nC. Qada\\nD. Nasib\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nKekayaan adalah takdir Muallaq (Bisa diubah dengan bekerja keras)."
+    },
+    {
+        "instruction": "Aqidah (Qada & Qadar).",
+        "input": "Contoh takdir: Kekayaan. Ini termasuk takdir....",
+        "output": "Soal:\\nJenis takdir....\\n\\nA. Kehendak\\nB. Muallaq\\nC. Nasib\\nD. Qada\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nKekayaan adalah takdir Muallaq (Bisa diubah dengan bekerja keras)."
+    },
+    {
+        "instruction": "SKI (Kerajaan Islam).",
+        "input": "Kerajaan Islam pertama di Indonesia adalah kerajaan....",
+        "output": "Soal:\\nKerajaan....\\n\\nA. Samudera Pasai\\nB. Mataram Islam\\nC. Demak\\nD. Gowa Tallo\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSamudera Pasai adalah Kerajaan Islam pertama di Indonesia."
+    },
+    {
+        "instruction": "SKI (Tokoh Kerajaan).",
+        "input": "Raja terkenal dari Samudera Pasai adalah....",
+        "output": "Soal:\\nTokoh....\\n\\nA. Sultan Baabullah\\nB. Sultan Hasanuddin\\nC. Sultan Malik As-Saleh\\nD. Sultan Agung\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSultan Malik As-Saleh adalah raja Samudera Pasai."
+    },
+    {
+        "instruction": "SKI (Kerajaan Islam).",
+        "input": "Kerajaan Islam pertama di Indonesia adalah kerajaan....",
+        "output": "Soal:\\nKerajaan....\\n\\nA. Gowa Tallo\\nB. Ternate Tidore\\nC. Samudera Pasai\\nD. Mataram Islam\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSamudera Pasai adalah Kerajaan Islam pertama di Indonesia."
+    },
+    {
+        "instruction": "SKI (Tokoh Kerajaan).",
+        "input": "Raja terkenal dari Samudera Pasai adalah....",
+        "output": "Soal:\\nTokoh....\\n\\nA. Raden Patah\\nB. Sultan Agung\\nC. Sultan Hasanuddin\\nD. Sultan Malik As-Saleh\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSultan Malik As-Saleh adalah raja Samudera Pasai."
+    },
+    {
+        "instruction": "SKI (Kerajaan Islam).",
+        "input": "Kerajaan Islam pertama di Indonesia adalah kerajaan....",
+        "output": "Soal:\\nKerajaan....\\n\\nA. Demak\\nB. Samudera Pasai\\nC. Gowa Tallo\\nD. Ternate Tidore\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSamudera Pasai adalah Kerajaan Islam pertama di Indonesia."
+    },
+    {
+        "instruction": "SKI (Tokoh Kerajaan).",
+        "input": "Raja terkenal dari Samudera Pasai adalah....",
+        "output": "Soal:\\nTokoh....\\n\\nA. Sultan Hasanuddin\\nB. Sultan Malik As-Saleh\\nC. Raden Patah\\nD. Sultan Agung\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSultan Malik As-Saleh adalah raja Samudera Pasai."
+    },
+    {
+        "instruction": "SKI (Kerajaan Islam).",
+        "input": "Kerajaan Islam pertama di Indonesia adalah kerajaan....",
+        "output": "Soal:\\nKerajaan....\\n\\nA. Samudera Pasai\\nB. Demak\\nC. Mataram Islam\\nD. Gowa Tallo\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSamudera Pasai adalah Kerajaan Islam pertama di Indonesia."
+    },
+    {
+        "instruction": "SKI (Tokoh Kerajaan).",
+        "input": "Raja terkenal dari Samudera Pasai adalah....",
+        "output": "Soal:\\nTokoh....\\n\\nA. Sultan Agung\\nB. Sultan Hasanuddin\\nC. Sultan Malik As-Saleh\\nD. Sultan Baabullah\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSultan Malik As-Saleh adalah raja Samudera Pasai."
+    },
+    {
+        "instruction": "SKI (Kerajaan Islam).",
+        "input": "Kerajaan Islam pertama di Pulau Jawa adalah kerajaan....",
+        "output": "Soal:\\nKerajaan....\\n\\nA. Ternate Tidore\\nB. Samudera Pasai\\nC. Demak\\nD. Mataram Islam\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nDemak adalah Kerajaan Islam pertama di Pulau Jawa."
+    },
+    {
+        "instruction": "SKI (Tokoh Kerajaan).",
+        "input": "Raja terkenal dari Demak adalah....",
+        "output": "Soal:\\nTokoh....\\n\\nA. Sultan Malik As-Saleh\\nB. Raden Patah\\nC. Sultan Agung\\nD. Sultan Hasanuddin\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nRaden Patah adalah raja Demak."
+    },
+    {
+        "instruction": "SKI (Kerajaan Islam).",
+        "input": "Kerajaan Islam pertama di Pulau Jawa adalah kerajaan....",
+        "output": "Soal:\\nKerajaan....\\n\\nA. Mataram Islam\\nB. Gowa Tallo\\nC. Demak\\nD. Samudera Pasai\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nDemak adalah Kerajaan Islam pertama di Pulau Jawa."
+    },
+    {
+        "instruction": "SKI (Tokoh Kerajaan).",
+        "input": "Raja terkenal dari Demak adalah....",
+        "output": "Soal:\\nTokoh....\\n\\nA. Sultan Malik As-Saleh\\nB. Sultan Hasanuddin\\nC. Sultan Agung\\nD. Raden Patah\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nRaden Patah adalah raja Demak."
+    },
+    {
+        "instruction": "SKI (Kerajaan Islam).",
+        "input": "Kerajaan Islam pertama di Pulau Jawa adalah kerajaan....",
+        "output": "Soal:\\nKerajaan....\\n\\nA. Mataram Islam\\nB. Demak\\nC. Gowa Tallo\\nD. Samudera Pasai\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nDemak adalah Kerajaan Islam pertama di Pulau Jawa."
+    },
+    {
+        "instruction": "SKI (Tokoh Kerajaan).",
+        "input": "Raja terkenal dari Demak adalah....",
+        "output": "Soal:\\nTokoh....\\n\\nA. Sultan Hasanuddin\\nB. Sultan Baabullah\\nC. Raden Patah\\nD. Sultan Agung\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nRaden Patah adalah raja Demak."
+    },
+    {
+        "instruction": "SKI (Kerajaan Islam).",
+        "input": "Kerajaan Islam pertama di Pulau Jawa adalah kerajaan....",
+        "output": "Soal:\\nKerajaan....\\n\\nA. Demak\\nB. Ternate Tidore\\nC. Mataram Islam\\nD. Samudera Pasai\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nDemak adalah Kerajaan Islam pertama di Pulau Jawa."
+    },
+    {
+        "instruction": "SKI (Tokoh Kerajaan).",
+        "input": "Raja terkenal dari Demak adalah....",
+        "output": "Soal:\\nTokoh....\\n\\nA. Raden Patah\\nB. Sultan Agung\\nC. Sultan Malik As-Saleh\\nD. Sultan Hasanuddin\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nRaden Patah adalah raja Demak."
+    },
+    {
+        "instruction": "SKI (Kerajaan Islam).",
+        "input": "Mencapai puncak kejayaan masa Sultan Agung adalah kerajaan....",
+        "output": "Soal:\\nKerajaan....\\n\\nA. Demak\\nB. Mataram Islam\\nC. Samudera Pasai\\nD. Gowa Tallo\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMataram Islam adalah Mencapai puncak kejayaan masa Sultan Agung."
+    },
+    {
+        "instruction": "SKI (Tokoh Kerajaan).",
+        "input": "Raja terkenal dari Mataram Islam adalah....",
+        "output": "Soal:\\nTokoh....\\n\\nA. Sultan Malik As-Saleh\\nB. Sultan Agung\\nC. Sultan Baabullah\\nD. Sultan Hasanuddin\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSultan Agung adalah raja Mataram Islam."
+    },
+    {
+        "instruction": "SKI (Kerajaan Islam).",
+        "input": "Mencapai puncak kejayaan masa Sultan Agung adalah kerajaan....",
+        "output": "Soal:\\nKerajaan....\\n\\nA. Ternate Tidore\\nB. Gowa Tallo\\nC. Mataram Islam\\nD. Demak\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMataram Islam adalah Mencapai puncak kejayaan masa Sultan Agung."
+    },
+    {
+        "instruction": "SKI (Tokoh Kerajaan).",
+        "input": "Raja terkenal dari Mataram Islam adalah....",
+        "output": "Soal:\\nTokoh....\\n\\nA. Sultan Malik As-Saleh\\nB. Sultan Agung\\nC. Raden Patah\\nD. Sultan Hasanuddin\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSultan Agung adalah raja Mataram Islam."
+    },
+    {
+        "instruction": "SKI (Kerajaan Islam).",
+        "input": "Mencapai puncak kejayaan masa Sultan Agung adalah kerajaan....",
+        "output": "Soal:\\nKerajaan....\\n\\nA. Samudera Pasai\\nB. Gowa Tallo\\nC. Mataram Islam\\nD. Demak\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMataram Islam adalah Mencapai puncak kejayaan masa Sultan Agung."
+    },
+    {
+        "instruction": "SKI (Tokoh Kerajaan).",
+        "input": "Raja terkenal dari Mataram Islam adalah....",
+        "output": "Soal:\\nTokoh....\\n\\nA. Sultan Agung\\nB. Sultan Baabullah\\nC. Raden Patah\\nD. Sultan Hasanuddin\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSultan Agung adalah raja Mataram Islam."
+    },
+    {
+        "instruction": "SKI (Kerajaan Islam).",
+        "input": "Mencapai puncak kejayaan masa Sultan Agung adalah kerajaan....",
+        "output": "Soal:\\nKerajaan....\\n\\nA. Samudera Pasai\\nB. Ternate Tidore\\nC. Mataram Islam\\nD. Demak\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMataram Islam adalah Mencapai puncak kejayaan masa Sultan Agung."
+    },
+    {
+        "instruction": "SKI (Tokoh Kerajaan).",
+        "input": "Raja terkenal dari Mataram Islam adalah....",
+        "output": "Soal:\\nTokoh....\\n\\nA. Raden Patah\\nB. Sultan Baabullah\\nC. Sultan Malik As-Saleh\\nD. Sultan Agung\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSultan Agung adalah raja Mataram Islam."
+    },
+    {
+        "instruction": "SKI (Kerajaan Islam).",
+        "input": "Kerajaan Islam di Sulawesi Selatan (Makassar) adalah kerajaan....",
+        "output": "Soal:\\nKerajaan....\\n\\nA. Demak\\nB. Mataram Islam\\nC. Gowa Tallo\\nD. Ternate Tidore\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nGowa Tallo adalah Kerajaan Islam di Sulawesi Selatan (Makassar)."
+    },
+    {
+        "instruction": "SKI (Tokoh Kerajaan).",
+        "input": "Raja terkenal dari Gowa Tallo adalah....",
+        "output": "Soal:\\nTokoh....\\n\\nA. Sultan Malik As-Saleh\\nB. Sultan Agung\\nC. Raden Patah\\nD. Sultan Hasanuddin\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSultan Hasanuddin adalah raja Gowa Tallo."
+    },
+    {
+        "instruction": "SKI (Kerajaan Islam).",
+        "input": "Kerajaan Islam di Sulawesi Selatan (Makassar) adalah kerajaan....",
+        "output": "Soal:\\nKerajaan....\\n\\nA. Samudera Pasai\\nB. Gowa Tallo\\nC. Ternate Tidore\\nD. Demak\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nGowa Tallo adalah Kerajaan Islam di Sulawesi Selatan (Makassar)."
+    },
+    {
+        "instruction": "SKI (Tokoh Kerajaan).",
+        "input": "Raja terkenal dari Gowa Tallo adalah....",
+        "output": "Soal:\\nTokoh....\\n\\nA. Raden Patah\\nB. Sultan Hasanuddin\\nC. Sultan Agung\\nD. Sultan Baabullah\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSultan Hasanuddin adalah raja Gowa Tallo."
+    },
+    {
+        "instruction": "SKI (Kerajaan Islam).",
+        "input": "Kerajaan Islam di Sulawesi Selatan (Makassar) adalah kerajaan....",
+        "output": "Soal:\\nKerajaan....\\n\\nA. Gowa Tallo\\nB. Ternate Tidore\\nC. Demak\\nD. Mataram Islam\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nGowa Tallo adalah Kerajaan Islam di Sulawesi Selatan (Makassar)."
+    },
+    {
+        "instruction": "SKI (Tokoh Kerajaan).",
+        "input": "Raja terkenal dari Gowa Tallo adalah....",
+        "output": "Soal:\\nTokoh....\\n\\nA. Sultan Baabullah\\nB. Sultan Hasanuddin\\nC. Sultan Agung\\nD. Sultan Malik As-Saleh\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSultan Hasanuddin adalah raja Gowa Tallo."
+    },
+    {
+        "instruction": "SKI (Kerajaan Islam).",
+        "input": "Kerajaan Islam di Sulawesi Selatan (Makassar) adalah kerajaan....",
+        "output": "Soal:\\nKerajaan....\\n\\nA. Demak\\nB. Ternate Tidore\\nC. Gowa Tallo\\nD. Mataram Islam\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nGowa Tallo adalah Kerajaan Islam di Sulawesi Selatan (Makassar)."
+    },
+    {
+        "instruction": "SKI (Tokoh Kerajaan).",
+        "input": "Raja terkenal dari Gowa Tallo adalah....",
+        "output": "Soal:\\nTokoh....\\n\\nA. Sultan Agung\\nB. Raden Patah\\nC. Sultan Hasanuddin\\nD. Sultan Baabullah\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSultan Hasanuddin adalah raja Gowa Tallo."
+    },
+    {
+        "instruction": "SKI (Kerajaan Islam).",
+        "input": "Kerajaan Islam di Maluku adalah kerajaan....",
+        "output": "Soal:\\nKerajaan....\\n\\nA. Demak\\nB. Ternate Tidore\\nC. Gowa Tallo\\nD. Mataram Islam\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nTernate Tidore adalah Kerajaan Islam di Maluku."
+    },
+    {
+        "instruction": "SKI (Tokoh Kerajaan).",
+        "input": "Raja terkenal dari Ternate Tidore adalah....",
+        "output": "Soal:\\nTokoh....\\n\\nA. Sultan Baabullah\\nB. Raden Patah\\nC. Sultan Malik As-Saleh\\nD. Sultan Hasanuddin\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSultan Baabullah adalah raja Ternate Tidore."
+    },
+    {
+        "instruction": "SKI (Kerajaan Islam).",
+        "input": "Kerajaan Islam di Maluku adalah kerajaan....",
+        "output": "Soal:\\nKerajaan....\\n\\nA. Ternate Tidore\\nB. Demak\\nC. Gowa Tallo\\nD. Mataram Islam\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nTernate Tidore adalah Kerajaan Islam di Maluku."
+    },
+    {
+        "instruction": "SKI (Tokoh Kerajaan).",
+        "input": "Raja terkenal dari Ternate Tidore adalah....",
+        "output": "Soal:\\nTokoh....\\n\\nA. Sultan Baabullah\\nB. Sultan Agung\\nC. Sultan Hasanuddin\\nD. Sultan Malik As-Saleh\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSultan Baabullah adalah raja Ternate Tidore."
+    },
+    {
+        "instruction": "SKI (Kerajaan Islam).",
+        "input": "Kerajaan Islam di Maluku adalah kerajaan....",
+        "output": "Soal:\\nKerajaan....\\n\\nA. Mataram Islam\\nB. Demak\\nC. Ternate Tidore\\nD. Samudera Pasai\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nTernate Tidore adalah Kerajaan Islam di Maluku."
+    },
+    {
+        "instruction": "SKI (Tokoh Kerajaan).",
+        "input": "Raja terkenal dari Ternate Tidore adalah....",
+        "output": "Soal:\\nTokoh....\\n\\nA. Sultan Agung\\nB. Sultan Malik As-Saleh\\nC. Sultan Baabullah\\nD. Sultan Hasanuddin\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSultan Baabullah adalah raja Ternate Tidore."
+    },
+    {
+        "instruction": "SKI (Kerajaan Islam).",
+        "input": "Kerajaan Islam di Maluku adalah kerajaan....",
+        "output": "Soal:\\nKerajaan....\\n\\nA. Samudera Pasai\\nB. Ternate Tidore\\nC. Demak\\nD. Gowa Tallo\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nTernate Tidore adalah Kerajaan Islam di Maluku."
+    },
+    {
+        "instruction": "SKI (Tokoh Kerajaan).",
+        "input": "Raja terkenal dari Ternate Tidore adalah....",
+        "output": "Soal:\\nTokoh....\\n\\nA. Sultan Agung\\nB. Raden Patah\\nC. Sultan Baabullah\\nD. Sultan Hasanuddin\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSultan Baabullah adalah raja Ternate Tidore."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Berbicara sopan dan lembut, adalah adab kepada Orang Tua yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Terpuji\\nB. Sia-sia\\nC. Tercela\\nD. Mubazir\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nBerbicara sopan dan lembut adalah akhlak terpuji kepada Orang Tua."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Berbicara sopan dan lembut, adalah adab kepada Orang Tua yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Terpuji\\nB. Makruh\\nC. Mubazir\\nD. Tercela\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nBerbicara sopan dan lembut adalah akhlak terpuji kepada Orang Tua."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Berbicara sopan dan lembut, adalah adab kepada Orang Tua yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Makruh\\nB. Mubazir\\nC. Terpuji\\nD. Tercela\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nBerbicara sopan dan lembut adalah akhlak terpuji kepada Orang Tua."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Berbicara sopan dan lembut, adalah adab kepada Orang Tua yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Tercela\\nB. Terpuji\\nC. Sia-sia\\nD. Mubazir\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nBerbicara sopan dan lembut adalah akhlak terpuji kepada Orang Tua."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Berbicara sopan dan lembut, adalah adab kepada Orang Tua yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Terpuji\\nB. Mubazir\\nC. Tercela\\nD. Sia-sia\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nBerbicara sopan dan lembut adalah akhlak terpuji kepada Orang Tua."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Berbicara sopan dan lembut, adalah adab kepada Orang Tua yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Terpuji\\nB. Makruh\\nC. Tercela\\nD. Mubazir\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nBerbicara sopan dan lembut adalah akhlak terpuji kepada Orang Tua."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Berbicara sopan dan lembut, adalah adab kepada Orang Tua yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Terpuji\\nB. Tercela\\nC. Makruh\\nD. Mubazir\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nBerbicara sopan dan lembut adalah akhlak terpuji kepada Orang Tua."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Mendoakan setelah shalat, adalah adab kepada Orang Tua yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Makruh\\nB. Terpuji\\nC. Tercela\\nD. Sia-sia\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMendoakan setelah shalat adalah akhlak terpuji kepada Orang Tua."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Mendoakan setelah shalat, adalah adab kepada Orang Tua yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Mubazir\\nB. Terpuji\\nC. Makruh\\nD. Tercela\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMendoakan setelah shalat adalah akhlak terpuji kepada Orang Tua."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Mendoakan setelah shalat, adalah adab kepada Orang Tua yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Tercela\\nB. Mubazir\\nC. Terpuji\\nD. Makruh\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMendoakan setelah shalat adalah akhlak terpuji kepada Orang Tua."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Mendoakan setelah shalat, adalah adab kepada Orang Tua yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Terpuji\\nB. Makruh\\nC. Sia-sia\\nD. Mubazir\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMendoakan setelah shalat adalah akhlak terpuji kepada Orang Tua."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Mendoakan setelah shalat, adalah adab kepada Orang Tua yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Sia-sia\\nB. Terpuji\\nC. Mubazir\\nD. Makruh\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMendoakan setelah shalat adalah akhlak terpuji kepada Orang Tua."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Mendoakan setelah shalat, adalah adab kepada Orang Tua yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Tercela\\nB. Terpuji\\nC. Makruh\\nD. Mubazir\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMendoakan setelah shalat adalah akhlak terpuji kepada Orang Tua."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Mendoakan setelah shalat, adalah adab kepada Orang Tua yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Sia-sia\\nB. Tercela\\nC. Terpuji\\nD. Mubazir\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMendoakan setelah shalat adalah akhlak terpuji kepada Orang Tua."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Mendengarkan penjelasan dengan tenang, adalah adab kepada Guru yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Makruh\\nB. Tercela\\nC. Terpuji\\nD. Mubazir\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMendengarkan penjelasan dengan tenang adalah akhlak terpuji kepada Guru."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Mendengarkan penjelasan dengan tenang, adalah adab kepada Guru yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Makruh\\nB. Terpuji\\nC. Tercela\\nD. Mubazir\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMendengarkan penjelasan dengan tenang adalah akhlak terpuji kepada Guru."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Mendengarkan penjelasan dengan tenang, adalah adab kepada Guru yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Makruh\\nB. Terpuji\\nC. Tercela\\nD. Sia-sia\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMendengarkan penjelasan dengan tenang adalah akhlak terpuji kepada Guru."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Mendengarkan penjelasan dengan tenang, adalah adab kepada Guru yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Terpuji\\nB. Mubazir\\nC. Sia-sia\\nD. Tercela\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMendengarkan penjelasan dengan tenang adalah akhlak terpuji kepada Guru."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Mendengarkan penjelasan dengan tenang, adalah adab kepada Guru yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Tercela\\nB. Makruh\\nC. Terpuji\\nD. Mubazir\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMendengarkan penjelasan dengan tenang adalah akhlak terpuji kepada Guru."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Mendengarkan penjelasan dengan tenang, adalah adab kepada Guru yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Terpuji\\nB. Makruh\\nC. Mubazir\\nD. Sia-sia\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMendengarkan penjelasan dengan tenang adalah akhlak terpuji kepada Guru."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Mendengarkan penjelasan dengan tenang, adalah adab kepada Guru yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Sia-sia\\nB. Tercela\\nC. Terpuji\\nD. Mubazir\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMendengarkan penjelasan dengan tenang adalah akhlak terpuji kepada Guru."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Mencium tangan saat bertemu, adalah adab kepada Guru yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Sia-sia\\nB. Terpuji\\nC. Mubazir\\nD. Makruh\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMencium tangan saat bertemu adalah akhlak terpuji kepada Guru."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Mencium tangan saat bertemu, adalah adab kepada Guru yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Sia-sia\\nB. Terpuji\\nC. Tercela\\nD. Makruh\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMencium tangan saat bertemu adalah akhlak terpuji kepada Guru."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Mencium tangan saat bertemu, adalah adab kepada Guru yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Terpuji\\nB. Mubazir\\nC. Tercela\\nD. Makruh\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMencium tangan saat bertemu adalah akhlak terpuji kepada Guru."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Mencium tangan saat bertemu, adalah adab kepada Guru yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Sia-sia\\nB. Makruh\\nC. Terpuji\\nD. Tercela\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMencium tangan saat bertemu adalah akhlak terpuji kepada Guru."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Mencium tangan saat bertemu, adalah adab kepada Guru yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Makruh\\nB. Sia-sia\\nC. Mubazir\\nD. Terpuji\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMencium tangan saat bertemu adalah akhlak terpuji kepada Guru."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Mencium tangan saat bertemu, adalah adab kepada Guru yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Terpuji\\nB. Makruh\\nC. Mubazir\\nD. Sia-sia\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMencium tangan saat bertemu adalah akhlak terpuji kepada Guru."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Mencium tangan saat bertemu, adalah adab kepada Guru yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Sia-sia\\nB. Makruh\\nC. Terpuji\\nD. Mubazir\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMencium tangan saat bertemu adalah akhlak terpuji kepada Guru."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Menjenguk saat sakit, adalah adab kepada Tetangga yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Makruh\\nB. Terpuji\\nC. Sia-sia\\nD. Mubazir\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMenjenguk saat sakit adalah akhlak terpuji kepada Tetangga."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Menjenguk saat sakit, adalah adab kepada Tetangga yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Mubazir\\nB. Makruh\\nC. Terpuji\\nD. Tercela\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMenjenguk saat sakit adalah akhlak terpuji kepada Tetangga."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Menjenguk saat sakit, adalah adab kepada Tetangga yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Makruh\\nB. Tercela\\nC. Terpuji\\nD. Sia-sia\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMenjenguk saat sakit adalah akhlak terpuji kepada Tetangga."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Menjenguk saat sakit, adalah adab kepada Tetangga yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Sia-sia\\nB. Mubazir\\nC. Terpuji\\nD. Tercela\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMenjenguk saat sakit adalah akhlak terpuji kepada Tetangga."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Menjenguk saat sakit, adalah adab kepada Tetangga yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Makruh\\nB. Terpuji\\nC. Tercela\\nD. Mubazir\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMenjenguk saat sakit adalah akhlak terpuji kepada Tetangga."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Menjenguk saat sakit, adalah adab kepada Tetangga yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Sia-sia\\nB. Terpuji\\nC. Makruh\\nD. Tercela\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMenjenguk saat sakit adalah akhlak terpuji kepada Tetangga."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Menjenguk saat sakit, adalah adab kepada Tetangga yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Tercela\\nB. Sia-sia\\nC. Terpuji\\nD. Makruh\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMenjenguk saat sakit adalah akhlak terpuji kepada Tetangga."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Tidak menyetel musik terlalu keras, adalah adab kepada Tetangga yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Terpuji\\nB. Tercela\\nC. Mubazir\\nD. Sia-sia\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nTidak menyetel musik terlalu keras adalah akhlak terpuji kepada Tetangga."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Tidak menyetel musik terlalu keras, adalah adab kepada Tetangga yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Tercela\\nB. Mubazir\\nC. Makruh\\nD. Terpuji\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nTidak menyetel musik terlalu keras adalah akhlak terpuji kepada Tetangga."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Tidak menyetel musik terlalu keras, adalah adab kepada Tetangga yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Terpuji\\nB. Sia-sia\\nC. Tercela\\nD. Mubazir\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nTidak menyetel musik terlalu keras adalah akhlak terpuji kepada Tetangga."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Tidak menyetel musik terlalu keras, adalah adab kepada Tetangga yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Sia-sia\\nB. Tercela\\nC. Mubazir\\nD. Terpuji\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nTidak menyetel musik terlalu keras adalah akhlak terpuji kepada Tetangga."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Tidak menyetel musik terlalu keras, adalah adab kepada Tetangga yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Makruh\\nB. Terpuji\\nC. Mubazir\\nD. Tercela\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nTidak menyetel musik terlalu keras adalah akhlak terpuji kepada Tetangga."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Tidak menyetel musik terlalu keras, adalah adab kepada Tetangga yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Makruh\\nB. Terpuji\\nC. Tercela\\nD. Sia-sia\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nTidak menyetel musik terlalu keras adalah akhlak terpuji kepada Tetangga."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Tidak menyetel musik terlalu keras, adalah adab kepada Tetangga yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Terpuji\\nB. Mubazir\\nC. Makruh\\nD. Sia-sia\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nTidak menyetel musik terlalu keras adalah akhlak terpuji kepada Tetangga."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Tidak memilih-milih dalam berteman, adalah adab kepada Teman yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Sia-sia\\nB. Mubazir\\nC. Terpuji\\nD. Tercela\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nTidak memilih-milih dalam berteman adalah akhlak terpuji kepada Teman."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Tidak memilih-milih dalam berteman, adalah adab kepada Teman yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Terpuji\\nB. Tercela\\nC. Mubazir\\nD. Sia-sia\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nTidak memilih-milih dalam berteman adalah akhlak terpuji kepada Teman."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Tidak memilih-milih dalam berteman, adalah adab kepada Teman yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Tercela\\nB. Makruh\\nC. Terpuji\\nD. Mubazir\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nTidak memilih-milih dalam berteman adalah akhlak terpuji kepada Teman."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Tidak memilih-milih dalam berteman, adalah adab kepada Teman yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Terpuji\\nB. Tercela\\nC. Sia-sia\\nD. Mubazir\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nTidak memilih-milih dalam berteman adalah akhlak terpuji kepada Teman."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Tidak memilih-milih dalam berteman, adalah adab kepada Teman yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Mubazir\\nB. Terpuji\\nC. Sia-sia\\nD. Makruh\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nTidak memilih-milih dalam berteman adalah akhlak terpuji kepada Teman."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Tidak memilih-milih dalam berteman, adalah adab kepada Teman yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Tercela\\nB. Makruh\\nC. Sia-sia\\nD. Terpuji\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nTidak memilih-milih dalam berteman adalah akhlak terpuji kepada Teman."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Tidak memilih-milih dalam berteman, adalah adab kepada Teman yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Mubazir\\nB. Terpuji\\nC. Tercela\\nD. Makruh\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nTidak memilih-milih dalam berteman adalah akhlak terpuji kepada Teman."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Membuang sampah pada tempatnya, adalah adab kepada Lingkungan yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Sia-sia\\nB. Mubazir\\nC. Terpuji\\nD. Tercela\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMembuang sampah pada tempatnya adalah akhlak terpuji kepada Lingkungan."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Membuang sampah pada tempatnya, adalah adab kepada Lingkungan yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Mubazir\\nB. Tercela\\nC. Sia-sia\\nD. Terpuji\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMembuang sampah pada tempatnya adalah akhlak terpuji kepada Lingkungan."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Membuang sampah pada tempatnya, adalah adab kepada Lingkungan yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Sia-sia\\nB. Terpuji\\nC. Tercela\\nD. Makruh\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMembuang sampah pada tempatnya adalah akhlak terpuji kepada Lingkungan."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Membuang sampah pada tempatnya, adalah adab kepada Lingkungan yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Terpuji\\nB. Makruh\\nC. Mubazir\\nD. Tercela\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMembuang sampah pada tempatnya adalah akhlak terpuji kepada Lingkungan."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Membuang sampah pada tempatnya, adalah adab kepada Lingkungan yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Sia-sia\\nB. Terpuji\\nC. Makruh\\nD. Mubazir\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMembuang sampah pada tempatnya adalah akhlak terpuji kepada Lingkungan."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Membuang sampah pada tempatnya, adalah adab kepada Lingkungan yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Mubazir\\nB. Sia-sia\\nC. Terpuji\\nD. Tercela\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMembuang sampah pada tempatnya adalah akhlak terpuji kepada Lingkungan."
+    },
+    {
+        "instruction": "Akhlak (Adab).",
+        "input": "Perilaku berikut: Membuang sampah pada tempatnya, adalah adab kepada Lingkungan yang bersifat....",
+        "output": "Soal:\\nSifat perilaku....\\n\\nA. Makruh\\nB. Sia-sia\\nC. Mubazir\\nD. Terpuji\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMembuang sampah pada tempatnya adalah akhlak terpuji kepada Lingkungan."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Hukum bacaan jika Nun mati bertemu Ya, Nun, Mim, Wau adalah....",
+        "output": "Soal:\\nHukum bacaan....\\n\\nA. Idgham Bilaghunnah\\nB. Iqlab\\nC. Idgham Bighunnah\\nD. Ikhfa\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nNun mati bertemu Ya, Nun, Mim, Wau adalah hukum Idgham Bighunnah."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Hukum bacaan jika Nun mati bertemu Ya, Nun, Mim, Wau adalah....",
+        "output": "Soal:\\nHukum bacaan....\\n\\nA. Iqlab\\nB. Idgham Bilaghunnah\\nC. Idgham Bighunnah\\nD. Ikhfa\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nNun mati bertemu Ya, Nun, Mim, Wau adalah hukum Idgham Bighunnah."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Hukum bacaan jika Nun mati bertemu Ya, Nun, Mim, Wau adalah....",
+        "output": "Soal:\\nHukum bacaan....\\n\\nA. Idgham Bighunnah\\nB. Ikhfa\\nC. Idgham Bilaghunnah\\nD. Iqlab\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nNun mati bertemu Ya, Nun, Mim, Wau adalah hukum Idgham Bighunnah."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Hukum bacaan jika Nun mati bertemu Ya, Nun, Mim, Wau adalah....",
+        "output": "Soal:\\nHukum bacaan....\\n\\nA. Idgham Bighunnah\\nB. Idgham Bilaghunnah\\nC. Iqlab\\nD. Ikhfa\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nNun mati bertemu Ya, Nun, Mim, Wau adalah hukum Idgham Bighunnah."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Hukum bacaan jika Nun mati bertemu Ya, Nun, Mim, Wau adalah....",
+        "output": "Soal:\\nHukum bacaan....\\n\\nA. Iqlab\\nB. Idgham Bilaghunnah\\nC. Ikhfa\\nD. Idgham Bighunnah\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nNun mati bertemu Ya, Nun, Mim, Wau adalah hukum Idgham Bighunnah."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Hukum bacaan jika Nun mati bertemu Ya, Nun, Mim, Wau adalah....",
+        "output": "Soal:\\nHukum bacaan....\\n\\nA. Idgham Bilaghunnah\\nB. Ikhfa\\nC. Idgham Bighunnah\\nD. Iqlab\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nNun mati bertemu Ya, Nun, Mim, Wau adalah hukum Idgham Bighunnah."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Hukum bacaan jika Nun mati bertemu Ya, Nun, Mim, Wau adalah....",
+        "output": "Soal:\\nHukum bacaan....\\n\\nA. Idgham Bighunnah\\nB. Iqlab\\nC. Idgham Bilaghunnah\\nD. Ikhfa\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nNun mati bertemu Ya, Nun, Mim, Wau adalah hukum Idgham Bighunnah."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Hukum bacaan jika Nun mati bertemu Ya, Nun, Mim, Wau adalah....",
+        "output": "Soal:\\nHukum bacaan....\\n\\nA. Ikhfa\\nB. Idgham Bilaghunnah\\nC. Idgham Bighunnah\\nD. Iqlab\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nNun mati bertemu Ya, Nun, Mim, Wau adalah hukum Idgham Bighunnah."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Hukum bacaan jika Nun mati bertemu Ya, Nun, Mim, Wau adalah....",
+        "output": "Soal:\\nHukum bacaan....\\n\\nA. Ikhfa\\nB. Idgham Bilaghunnah\\nC. Iqlab\\nD. Idgham Bighunnah\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nNun mati bertemu Ya, Nun, Mim, Wau adalah hukum Idgham Bighunnah."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Hukum bacaan jika Nun mati bertemu Ya, Nun, Mim, Wau adalah....",
+        "output": "Soal:\\nHukum bacaan....\\n\\nA. Ikhfa\\nB. Idgham Bighunnah\\nC. Iqlab\\nD. Idgham Bilaghunnah\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nNun mati bertemu Ya, Nun, Mim, Wau adalah hukum Idgham Bighunnah."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Hukum bacaan jika Nun mati bertemu Lam, Ra adalah....",
+        "output": "Soal:\\nHukum bacaan....\\n\\nA. Iqlab\\nB. Idgham Bilaghunnah\\nC. Ikhfa\\nD. Idgham Bighunnah\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nNun mati bertemu Lam, Ra adalah hukum Idgham Bilaghunnah."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Hukum bacaan jika Nun mati bertemu Lam, Ra adalah....",
+        "output": "Soal:\\nHukum bacaan....\\n\\nA. Idgham Bilaghunnah\\nB. Ikhfa\\nC. Idgham Bighunnah\\nD. Iqlab\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nNun mati bertemu Lam, Ra adalah hukum Idgham Bilaghunnah."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Hukum bacaan jika Nun mati bertemu Lam, Ra adalah....",
+        "output": "Soal:\\nHukum bacaan....\\n\\nA. Iqlab\\nB. Idgham Bilaghunnah\\nC. Idgham Bighunnah\\nD. Ikhfa\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nNun mati bertemu Lam, Ra adalah hukum Idgham Bilaghunnah."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Hukum bacaan jika Nun mati bertemu Lam, Ra adalah....",
+        "output": "Soal:\\nHukum bacaan....\\n\\nA. Idgham Bilaghunnah\\nB. Ikhfa\\nC. Idgham Bighunnah\\nD. Iqlab\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nNun mati bertemu Lam, Ra adalah hukum Idgham Bilaghunnah."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Hukum bacaan jika Nun mati bertemu Lam, Ra adalah....",
+        "output": "Soal:\\nHukum bacaan....\\n\\nA. Iqlab\\nB. Ikhfa\\nC. Idgham Bilaghunnah\\nD. Idgham Bighunnah\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nNun mati bertemu Lam, Ra adalah hukum Idgham Bilaghunnah."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Hukum bacaan jika Nun mati bertemu Lam, Ra adalah....",
+        "output": "Soal:\\nHukum bacaan....\\n\\nA. Idgham Bighunnah\\nB. Idgham Bilaghunnah\\nC. Iqlab\\nD. Ikhfa\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nNun mati bertemu Lam, Ra adalah hukum Idgham Bilaghunnah."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Hukum bacaan jika Nun mati bertemu Lam, Ra adalah....",
+        "output": "Soal:\\nHukum bacaan....\\n\\nA. Idgham Bighunnah\\nB. Idgham Bilaghunnah\\nC. Ikhfa\\nD. Iqlab\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nNun mati bertemu Lam, Ra adalah hukum Idgham Bilaghunnah."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Hukum bacaan jika Nun mati bertemu Lam, Ra adalah....",
+        "output": "Soal:\\nHukum bacaan....\\n\\nA. Iqlab\\nB. Idgham Bighunnah\\nC. Idgham Bilaghunnah\\nD. Ikhfa\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nNun mati bertemu Lam, Ra adalah hukum Idgham Bilaghunnah."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Hukum bacaan jika Nun mati bertemu Lam, Ra adalah....",
+        "output": "Soal:\\nHukum bacaan....\\n\\nA. Idgham Bilaghunnah\\nB. Idgham Bighunnah\\nC. Ikhfa\\nD. Iqlab\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nNun mati bertemu Lam, Ra adalah hukum Idgham Bilaghunnah."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Hukum bacaan jika Nun mati bertemu Lam, Ra adalah....",
+        "output": "Soal:\\nHukum bacaan....\\n\\nA. Idgham Bighunnah\\nB. Idgham Bilaghunnah\\nC. Ikhfa\\nD. Iqlab\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nNun mati bertemu Lam, Ra adalah hukum Idgham Bilaghunnah."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Hukum bacaan jika Nun mati bertemu Ba adalah....",
+        "output": "Soal:\\nHukum bacaan....\\n\\nA. Idgham Bighunnah\\nB. Ikhfa\\nC. Idgham Bilaghunnah\\nD. Iqlab\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nNun mati bertemu Ba adalah hukum Iqlab."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Hukum bacaan jika Nun mati bertemu Ba adalah....",
+        "output": "Soal:\\nHukum bacaan....\\n\\nA. Ikhfa\\nB. Idgham Bilaghunnah\\nC. Iqlab\\nD. Idgham Bighunnah\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nNun mati bertemu Ba adalah hukum Iqlab."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Hukum bacaan jika Nun mati bertemu Ba adalah....",
+        "output": "Soal:\\nHukum bacaan....\\n\\nA. Iqlab\\nB. Idgham Bilaghunnah\\nC. Idgham Bighunnah\\nD. Ikhfa\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nNun mati bertemu Ba adalah hukum Iqlab."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Hukum bacaan jika Nun mati bertemu Ba adalah....",
+        "output": "Soal:\\nHukum bacaan....\\n\\nA. Idgham Bighunnah\\nB. Ikhfa\\nC. Idgham Bilaghunnah\\nD. Iqlab\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nNun mati bertemu Ba adalah hukum Iqlab."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Hukum bacaan jika Nun mati bertemu Ba adalah....",
+        "output": "Soal:\\nHukum bacaan....\\n\\nA. Idgham Bilaghunnah\\nB. Iqlab\\nC. Idgham Bighunnah\\nD. Ikhfa\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nNun mati bertemu Ba adalah hukum Iqlab."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Hukum bacaan jika Nun mati bertemu Ba adalah....",
+        "output": "Soal:\\nHukum bacaan....\\n\\nA. Idgham Bighunnah\\nB. Ikhfa\\nC. Idgham Bilaghunnah\\nD. Iqlab\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nNun mati bertemu Ba adalah hukum Iqlab."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Hukum bacaan jika Nun mati bertemu Ba adalah....",
+        "output": "Soal:\\nHukum bacaan....\\n\\nA. Idgham Bighunnah\\nB. Idgham Bilaghunnah\\nC. Iqlab\\nD. Ikhfa\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nNun mati bertemu Ba adalah hukum Iqlab."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Hukum bacaan jika Nun mati bertemu Ba adalah....",
+        "output": "Soal:\\nHukum bacaan....\\n\\nA. Ikhfa\\nB. Idgham Bighunnah\\nC. Iqlab\\nD. Idgham Bilaghunnah\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nNun mati bertemu Ba adalah hukum Iqlab."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Hukum bacaan jika Nun mati bertemu Ba adalah....",
+        "output": "Soal:\\nHukum bacaan....\\n\\nA. Ikhfa\\nB. Idgham Bilaghunnah\\nC. Idgham Bighunnah\\nD. Iqlab\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nNun mati bertemu Ba adalah hukum Iqlab."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Hukum bacaan jika Nun mati bertemu Ba adalah....",
+        "output": "Soal:\\nHukum bacaan....\\n\\nA. Iqlab\\nB. Idgham Bighunnah\\nC. Ikhfa\\nD. Idgham Bilaghunnah\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nNun mati bertemu Ba adalah hukum Iqlab."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Hukum bacaan jika Nun mati bertemu Ta, Tsa, Jim, dll adalah....",
+        "output": "Soal:\\nHukum bacaan....\\n\\nA. Ikhfa\\nB. Idgham Bilaghunnah\\nC. Iqlab\\nD. Idgham Bighunnah\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nNun mati bertemu Ta, Tsa, Jim, dll adalah hukum Ikhfa."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Hukum bacaan jika Nun mati bertemu Ta, Tsa, Jim, dll adalah....",
+        "output": "Soal:\\nHukum bacaan....\\n\\nA. Idgham Bighunnah\\nB. Idgham Bilaghunnah\\nC. Ikhfa\\nD. Iqlab\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nNun mati bertemu Ta, Tsa, Jim, dll adalah hukum Ikhfa."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Hukum bacaan jika Nun mati bertemu Ta, Tsa, Jim, dll adalah....",
+        "output": "Soal:\\nHukum bacaan....\\n\\nA. Idgham Bighunnah\\nB. Idgham Bilaghunnah\\nC. Ikhfa\\nD. Iqlab\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nNun mati bertemu Ta, Tsa, Jim, dll adalah hukum Ikhfa."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Hukum bacaan jika Nun mati bertemu Ta, Tsa, Jim, dll adalah....",
+        "output": "Soal:\\nHukum bacaan....\\n\\nA. Idgham Bighunnah\\nB. Idgham Bilaghunnah\\nC. Iqlab\\nD. Ikhfa\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nNun mati bertemu Ta, Tsa, Jim, dll adalah hukum Ikhfa."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Hukum bacaan jika Nun mati bertemu Ta, Tsa, Jim, dll adalah....",
+        "output": "Soal:\\nHukum bacaan....\\n\\nA. Iqlab\\nB. Idgham Bilaghunnah\\nC. Ikhfa\\nD. Idgham Bighunnah\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nNun mati bertemu Ta, Tsa, Jim, dll adalah hukum Ikhfa."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Hukum bacaan jika Nun mati bertemu Ta, Tsa, Jim, dll adalah....",
+        "output": "Soal:\\nHukum bacaan....\\n\\nA. Idgham Bighunnah\\nB. Idgham Bilaghunnah\\nC. Iqlab\\nD. Ikhfa\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nNun mati bertemu Ta, Tsa, Jim, dll adalah hukum Ikhfa."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Hukum bacaan jika Nun mati bertemu Ta, Tsa, Jim, dll adalah....",
+        "output": "Soal:\\nHukum bacaan....\\n\\nA. Idgham Bighunnah\\nB. Ikhfa\\nC. Idgham Bilaghunnah\\nD. Iqlab\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nNun mati bertemu Ta, Tsa, Jim, dll adalah hukum Ikhfa."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Hukum bacaan jika Nun mati bertemu Ta, Tsa, Jim, dll adalah....",
+        "output": "Soal:\\nHukum bacaan....\\n\\nA. Iqlab\\nB. Idgham Bilaghunnah\\nC. Idgham Bighunnah\\nD. Ikhfa\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nNun mati bertemu Ta, Tsa, Jim, dll adalah hukum Ikhfa."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Hukum bacaan jika Nun mati bertemu Ta, Tsa, Jim, dll adalah....",
+        "output": "Soal:\\nHukum bacaan....\\n\\nA. Ikhfa\\nB. Idgham Bighunnah\\nC. Iqlab\\nD. Idgham Bilaghunnah\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nNun mati bertemu Ta, Tsa, Jim, dll adalah hukum Ikhfa."
+    },
+    {
+        "instruction": "Al-Qur'an (Tajwid).",
+        "input": "Hukum bacaan jika Nun mati bertemu Ta, Tsa, Jim, dll adalah....",
+        "output": "Soal:\\nHukum bacaan....\\n\\nA. Iqlab\\nB. Idgham Bilaghunnah\\nC. Idgham Bighunnah\\nD. Ikhfa\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nNun mati bertemu Ta, Tsa, Jim, dll adalah hukum Ikhfa."
     }
 ]

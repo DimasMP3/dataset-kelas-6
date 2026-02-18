@@ -1053,5 +1053,1580 @@
         "instruction": "Kesehatan (Cuci Tangan).",
         "input": "Mencuci tangan dengan sabun sebelum makan bertujuan untuk....",
         "output": "Soal:\nA. Menghilangkan rasa lapar\nB. Membunuh kuman penyakit\nC. Membuat tangan wangi saja\nD. Membuang waktu\n\nKunci Jawaban: B\n\nPembahasan:\nCuci tangan = Bunuh kuman."
+    },
+    {
+        "instruction": "Bulutangkis (Servis Pendek).",
+        "input": "Pukulan permulaan rendah tipis di atas net disebut pukulan....",
+        "output": "Soal:\\nTeknik tersebut adalah....\\n\\nA. Dropshot\\nB. Lob\\nC. Netting\\nD. Servis Pendek\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nServis Pendek adalah Pukulan permulaan rendah tipis di atas net."
+    },
+    {
+        "instruction": "Bulutangkis (Strategi).",
+        "input": "Pukulan Servis Pendek biasanya digunakan untuk....",
+        "output": "Soal:\\nTujuannya....\\n\\nA. Melanggar\\nB. Out\\nC. Ganda/Double\\nD. Foul\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nServis Pendek efektif untuk Ganda/Double."
+    },
+    {
+        "instruction": "Bulutangkis (Servis Panjang).",
+        "input": "Pukulan permulaan tinggi jauh ke belakang disebut pukulan....",
+        "output": "Soal:\\nTeknik tersebut adalah....\\n\\nA. Smash\\nB. Servis Panjang\\nC. Servis Pendek\\nD. Netting\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nServis Panjang adalah Pukulan permulaan tinggi jauh ke belakang."
+    },
+    {
+        "instruction": "Bulutangkis (Strategi).",
+        "input": "Pukulan Servis Panjang biasanya digunakan untuk....",
+        "output": "Soal:\\nTujuannya....\\n\\nA. Tunggal/Single\\nB. Out\\nC. Melanggar\\nD. Foul\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nServis Panjang efektif untuk Tunggal/Single."
+    },
+    {
+        "instruction": "Bulutangkis (Lob).",
+        "input": "Pukulan melambung tinggi ke arah belakang lawan disebut pukulan....",
+        "output": "Soal:\\nTeknik tersebut adalah....\\n\\nA. Smash\\nB. Lob\\nC. Netting\\nD. Servis Panjang\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nLob adalah Pukulan melambung tinggi ke arah belakang lawan."
+    },
+    {
+        "instruction": "Bulutangkis (Strategi).",
+        "input": "Pukulan Lob biasanya digunakan untuk....",
+        "output": "Soal:\\nTujuannya....\\n\\nA. Out\\nB. Melanggar\\nC. Bertahan/Mengatur\\nD. Foul\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nLob efektif untuk Bertahan/Mengatur."
+    },
+    {
+        "instruction": "Bulutangkis (Smash).",
+        "input": "Pukulan keras menukik tajam ke bawah disebut pukulan....",
+        "output": "Soal:\\nTeknik tersebut adalah....\\n\\nA. Servis Panjang\\nB. Smash\\nC. Netting\\nD. Lob\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSmash adalah Pukulan keras menukik tajam ke bawah."
+    },
+    {
+        "instruction": "Bulutangkis (Strategi).",
+        "input": "Pukulan Smash biasanya digunakan untuk....",
+        "output": "Soal:\\nTujuannya....\\n\\nA. Melanggar\\nB. Menyerang/Mematikan\\nC. Out\\nD. Foul\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSmash efektif untuk Menyerang/Mematikan."
+    },
+    {
+        "instruction": "Bulutangkis (Dropshot).",
+        "input": "Pukulan tipuan seolah smash tapi jatuh dekat net disebut pukulan....",
+        "output": "Soal:\\nTeknik tersebut adalah....\\n\\nA. Servis Panjang\\nB. Smash\\nC. Dropshot\\nD. Lob\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nDropshot adalah Pukulan tipuan seolah smash tapi jatuh dekat net."
+    },
+    {
+        "instruction": "Bulutangkis (Strategi).",
+        "input": "Pukulan Dropshot biasanya digunakan untuk....",
+        "output": "Soal:\\nTujuannya....\\n\\nA. Mengecoh\\nB. Foul\\nC. Melanggar\\nD. Out\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nDropshot efektif untuk Mengecoh."
+    },
+    {
+        "instruction": "Bulutangkis (Netting).",
+        "input": "Pukulan halus di depan net disebut pukulan....",
+        "output": "Soal:\\nTeknik tersebut adalah....\\n\\nA. Smash\\nB. Netting\\nC. Dropshot\\nD. Servis Pendek\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nNetting adalah Pukulan halus di depan net."
+    },
+    {
+        "instruction": "Bulutangkis (Strategi).",
+        "input": "Pukulan Netting biasanya digunakan untuk....",
+        "output": "Soal:\\nTujuannya....\\n\\nA. Melanggar\\nB. Foul\\nC. Out\\nD. Permainan depan\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nNetting efektif untuk Permainan depan."
+    },
+    {
+        "instruction": "Tenis Meja (Grip).",
+        "input": "Cara memegang bet dengan Memegang bet seperti berjabat tangan disebut....",
+        "output": "Soal:\\nNama teknik....\\n\\nA. Penholder Grip\\nB. American Grip\\nC. Shakehand Grip\\nD. Continental Grip\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nShakehand Grip = Memegang bet seperti berjabat tangan."
+    },
+    {
+        "instruction": "Tenis Meja (Grip).",
+        "input": "Cara memegang bet dengan Memegang bet seperti memegang pena disebut....",
+        "output": "Soal:\\nNama teknik....\\n\\nA. Penholder Grip\\nB. American Grip\\nC. Continental Grip\\nD. Shakehand Grip\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nPenholder Grip = Memegang bet seperti memegang pena."
+    },
+    {
+        "instruction": "Kasti (Posisi).",
+        "input": "Tugas seorang Pelambung adalah....",
+        "output": "Soal:\\nTugasnya....\\n\\nA. Pemukul\\nB. Pelambung\\nC. Penjaga\\nD. Penangkap\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nPelambung bertugas Melambungkan bola ke pemukul sesuai permintaan."
+    },
+    {
+        "instruction": "Kasti (Posisi).",
+        "input": "Tugas seorang Pemukul adalah....",
+        "output": "Soal:\\nTugasnya....\\n\\nA. Pemukul\\nB. Penjaga\\nC. Penangkap\\nD. Pelambung\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nPemukul bertugas Memukul bola sejauh mungkin."
+    },
+    {
+        "instruction": "Kasti (Posisi).",
+        "input": "Tugas seorang Penangkap adalah....",
+        "output": "Soal:\\nTugasnya....\\n\\nA. Penangkap\\nB. Pemukul\\nC. Pelambung\\nD. Penjaga\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nPenangkap bertugas Menangkap bola di belakang pemukul."
+    },
+    {
+        "instruction": "Kasti (Posisi).",
+        "input": "Tugas seorang Penjaga adalah....",
+        "output": "Soal:\\nTugasnya....\\n\\nA. Pelambung\\nB. Penangkap\\nC. Pemukul\\nD. Penjaga\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nPenjaga bertugas Mematikan lawan dengan melempar bola."
+    },
+    {
+        "instruction": "Pencak Silat (Kuda-kuda).",
+        "input": "Posisi kaki tumpuan untuk memperkokoh keseimbangan disebut....",
+        "output": "Soal:\\nIstilahnya....\\n\\nA. Pukulan\\nB. Kuda-kuda\\nC. Elakan\\nD. Tendangan\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nKuda-kuda adalah Posisi kaki tumpuan untuk memperkokoh keseimbangan."
+    },
+    {
+        "instruction": "Pencak Silat (Pukulan).",
+        "input": "Serangan menggunakan tangan disebut....",
+        "output": "Soal:\\nIstilahnya....\\n\\nA. Pukulan\\nB. Kuda-kuda\\nC. Tangkap\\nD. Jatuhan\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nPukulan adalah Serangan menggunakan tangan."
+    },
+    {
+        "instruction": "Pencak Silat (Tendangan).",
+        "input": "Serangan menggunakan kaki disebut....",
+        "output": "Soal:\\nIstilahnya....\\n\\nA. Pukulan\\nB. Tendangan\\nC. Tangkisan\\nD. Sikap Pasang\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nTendangan adalah Serangan menggunakan kaki."
+    },
+    {
+        "instruction": "Pencak Silat (Tangkisan).",
+        "input": "Usaha pembelaan menahan serangan lawan disebut....",
+        "output": "Soal:\\nIstilahnya....\\n\\nA. Serangan\\nB. Elakan\\nC. Hindaran\\nD. Tangkisan\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nTangkisan adalah Usaha pembelaan menahan serangan lawan."
+    },
+    {
+        "instruction": "Pencak Silat (Hindaran/Elakan).",
+        "input": "Usaha pembelaan dengan memindahkan tubuh dari serangan disebut....",
+        "output": "Soal:\\nIstilahnya....\\n\\nA. Hindaran/Elakan\\nB. Tangkap\\nC. Tangkisan\\nD. Kunci\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nHindaran/Elakan adalah Usaha pembelaan dengan memindahkan tubuh dari serangan."
+    },
+    {
+        "instruction": "Pencak Silat (Tendangan).",
+        "input": "Tendangan yang Mengarah ke perut/ulu hati dengan ujung kaki disebut....",
+        "output": "Soal:\\nJenis tendangan....\\n\\nA. Opsi Lain 3\\nB. Tendangan Sabit/Melngkar\\nC. Tendangan Lurus/Depan\\nD. Tendangan T\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nTendangan Lurus/Depan arahnya Lurus."
+    },
+    {
+        "instruction": "Pencak Silat (Tendangan).",
+        "input": "Tendangan yang Mengarah ke samping badan dengan punggung kaki disebut....",
+        "output": "Soal:\\nJenis tendangan....\\n\\nA. Tendangan Sabit/Melngkar\\nB. Opsi Lain 3\\nC. Tendangan T\\nD. Tendangan Lurus/Depan\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nTendangan Sabit/Melngkar arahnya Melingkar."
+    },
+    {
+        "instruction": "Pencak Silat (Tendangan).",
+        "input": "Tendangan yang Posisi tubuh menyamping, sasaran samping disebut....",
+        "output": "Soal:\\nJenis tendangan....\\n\\nA. Tendangan Lurus/Depan\\nB. Opsi Lain 3\\nC. Tendangan Sabit/Melngkar\\nD. Tendangan T\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nTendangan T arahnya Menyamping."
+    },
+    {
+        "instruction": "Senam Lantai (Guling Depan).",
+        "input": "Menggulingkan badan ke depan mulai dari tengkuk, punggung, pinggang disebut....",
+        "output": "Soal:\\nGerakan....\\n\\nA. Meroda\\nB. Guling Depan\\nC. Kayang\\nD. Guling Belakang\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nGuling Depan = Menggulingkan badan ke depan mulai dari tengkuk, punggung, pinggang."
+    },
+    {
+        "instruction": "Senam Lantai (Guling Belakang).",
+        "input": "Menggulingkan badan ke belakang disebut....",
+        "output": "Soal:\\nGerakan....\\n\\nA. Guling Belakang\\nB. Headstand\\nC. Guling Depan\\nD. Sikap Lilin\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nGuling Belakang = Menggulingkan badan ke belakang."
+    },
+    {
+        "instruction": "Senam Lantai (Sikap Lilin).",
+        "input": "Tidur telentang kaki lurus ke atas bertumpu punggung disebut....",
+        "output": "Soal:\\nGerakan....\\n\\nA. Guling Depan\\nB. Guling Belakang\\nC. Sikap Lilin\\nD. Meroda\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSikap Lilin = Tidur telentang kaki lurus ke atas bertumpu punggung."
+    },
+    {
+        "instruction": "Senam Lantai (Kayang).",
+        "input": "Badan melenting ke belakang bertumpu tangan dan kaki disebut....",
+        "output": "Soal:\\nGerakan....\\n\\nA. Kayang\\nB. Sikap Lilin\\nC. Meroda\\nD. Guling Belakang\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nKayang = Badan melenting ke belakang bertumpu tangan dan kaki."
+    },
+    {
+        "instruction": "Senam Lantai (Meroda).",
+        "input": "Gerakan memutar badan ke samping dengan tumpuan tangan disebut....",
+        "output": "Soal:\\nGerakan....\\n\\nA. Meroda\\nB. Kayang\\nC. Guling Depan\\nD. Headstand\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMeroda = Gerakan memutar badan ke samping dengan tumpuan tangan."
+    },
+    {
+        "instruction": "Senam Lantai (Headstand).",
+        "input": "Berdiri dengan kepala disebut....",
+        "output": "Soal:\\nGerakan....\\n\\nA. Sikap Lilin\\nB. Headstand\\nC. Guling Belakang\\nD. Kayang\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nHeadstand = Berdiri dengan kepala."
+    },
+    {
+        "instruction": "Senam Irama/Umum.",
+        "input": "Senam massal dengan irama musik disebut....",
+        "output": "Soal:\\nIstilah....\\n\\nA. Pemanasan\\nB. SKJ (Senam Kesegaran Jasmani)\\nC. Matras\\nD. Pendinginan\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSKJ (Senam Kesegaran Jasmani) adalah Senam massal dengan irama musik."
+    },
+    {
+        "instruction": "Senam Irama/Umum.",
+        "input": "Gerakan awal sebelum senam inti disebut....",
+        "output": "Soal:\\nIstilah....\\n\\nA. Matras\\nB. Pemanasan\\nC. Pendinginan\\nD. SKJ (Senam Kesegaran Jasmani)\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nPemanasan adalah Gerakan awal sebelum senam inti."
+    },
+    {
+        "instruction": "Senam Irama/Umum.",
+        "input": "Gerakan utama dalam senam irama disebut....",
+        "output": "Soal:\\nIstilah....\\n\\nA. Matras\\nB. Pemanasan\\nC. SKJ (Senam Kesegaran Jasmani)\\nD. Inti\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nInti adalah Gerakan utama dalam senam irama."
+    },
+    {
+        "instruction": "Senam Irama/Umum.",
+        "input": "Gerakan akhir untuk menormalkan tubuh disebut....",
+        "output": "Soal:\\nIstilah....\\n\\nA. Pemanasan\\nB. Matras\\nC. Pendinginan\\nD. Inti\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nPendinginan adalah Gerakan akhir untuk menormalkan tubuh."
+    },
+    {
+        "instruction": "Senam Irama/Umum.",
+        "input": "Alas yang digunakan untuk senam lantai disebut....",
+        "output": "Soal:\\nIstilah....\\n\\nA. Pendinginan\\nB. Matras\\nC. Inti\\nD. SKJ (Senam Kesegaran Jasmani)\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMatras adalah Alas yang digunakan untuk senam lantai."
+    },
+    {
+        "instruction": "Renang (Gaya Bebas).",
+        "input": "Gerakan renang: Posisi dada menghadap air, tangan mengayun bergantian, kaki naik turun.",
+        "output": "Soal:\\nMerupakan gaya....\\n\\nA. Gaya Dada\\nB. Gaya Bebas\\nC. Gaya Punggung\\nD. Gaya Kupu-kupu\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nGaya Bebas cirinya Posisi dada menghadap air, tangan mengayun bergantian, kaki naik turun."
+    },
+    {
+        "instruction": "Renang (Napas Gaya Bebas).",
+        "input": "Cara mengambil napas pada Gaya Bebas adalah....",
+        "output": "Soal:\\nCaranya....\\n\\nA. Menoleh ke samping kiri/kanan\\nB. Di dalam air\\nC. Diam saja\\nD. Lewat telinga\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nPernapasan Gaya Bebas: Menoleh ke samping kiri/kanan."
+    },
+    {
+        "instruction": "Renang (Gaya Dada).",
+        "input": "Gerakan renang: Seperti katak berenang, tangan membuka ke samping.",
+        "output": "Soal:\\nMerupakan gaya....\\n\\nA. Gaya Kupu-kupu\\nB. Gaya Punggung\\nC. Gaya Bebas\\nD. Gaya Dada\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nGaya Dada cirinya Seperti katak berenang, tangan membuka ke samping."
+    },
+    {
+        "instruction": "Renang (Napas Gaya Dada).",
+        "input": "Cara mengambil napas pada Gaya Dada adalah....",
+        "output": "Soal:\\nCaranya....\\n\\nA. Mengangkat kepala ke depan\\nB. Di dalam air\\nC. Diam saja\\nD. Lewat telinga\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nPernapasan Gaya Dada: Mengangkat kepala ke depan."
+    },
+    {
+        "instruction": "Renang (Gaya Punggung).",
+        "input": "Gerakan renang: Posisi wajah menghadap ke atas, punggung di air.",
+        "output": "Soal:\\nMerupakan gaya....\\n\\nA. Gaya Punggung\\nB. Gaya Dada\\nC. Gaya Bebas\\nD. Gaya Kupu-kupu\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nGaya Punggung cirinya Posisi wajah menghadap ke atas, punggung di air."
+    },
+    {
+        "instruction": "Renang (Napas Gaya Punggung).",
+        "input": "Cara mengambil napas pada Gaya Punggung adalah....",
+        "output": "Soal:\\nCaranya....\\n\\nA. Bebas karena wajah di atas air\\nB. Di dalam air\\nC. Diam saja\\nD. Lewat telinga\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nPernapasan Gaya Punggung: Bebas karena wajah di atas air."
+    },
+    {
+        "instruction": "Renang (Gaya Kupu-kupu).",
+        "input": "Gerakan renang: Kedua tangan mengayun bersamaan, gerakan pinggang seperti lumba-lumba.",
+        "output": "Soal:\\nMerupakan gaya....\\n\\nA. Gaya Dada\\nB. Gaya Bebas\\nC. Gaya Punggung\\nD. Gaya Kupu-kupu\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nGaya Kupu-kupu cirinya Kedua tangan mengayun bersamaan, gerakan pinggang seperti lumba-lumba."
+    },
+    {
+        "instruction": "Renang (Napas Gaya Kupu-kupu).",
+        "input": "Cara mengambil napas pada Gaya Kupu-kupu adalah....",
+        "output": "Soal:\\nCaranya....\\n\\nA. Mengangkat kepala ke depan\\nB. Di dalam air\\nC. Diam saja\\nD. Lewat telinga\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nPernapasan Gaya Kupu-kupu: Mengangkat kepala ke depan."
+    },
+    {
+        "instruction": "Penyakit (Demam Berdarah).",
+        "input": "Penyakit Demam Berdarah disebabkan oleh Nyamuk Aedes Aegypti dan termasuk penyakit....",
+        "output": "Soal:\\nJenis....\\n\\nA. Wabah\\nB. Genetik\\nC. Menular\\nD. Tidak Menular\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nDemam Berdarah adalah penyakit Menular karena Nyamuk Aedes Aegypti."
+    },
+    {
+        "instruction": "Penyakit (Influenza (Flu)).",
+        "input": "Penyakit Influenza (Flu) disebabkan oleh Virus (Udara/Percikan) dan termasuk penyakit....",
+        "output": "Soal:\\nJenis....\\n\\nA. Genetik\\nB. Wabah\\nC. Tidak Menular\\nD. Menular\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nInfluenza (Flu) adalah penyakit Menular karena Virus (Udara/Percikan)."
+    },
+    {
+        "instruction": "Penyakit (Diare).",
+        "input": "Penyakit Diare disebabkan oleh Makanan kotor/Bakteri E.Coli dan termasuk penyakit....",
+        "output": "Soal:\\nJenis....\\n\\nA. Menular\\nB. Genetik\\nC. Tidak Menular\\nD. Wabah\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nDiare adalah penyakit Menular karena Makanan kotor/Bakteri E.Coli."
+    },
+    {
+        "instruction": "Penyakit (Diabetes).",
+        "input": "Penyakit Diabetes disebabkan oleh Gula darah tinggi (keturunan/pola makan) dan termasuk penyakit....",
+        "output": "Soal:\\nJenis....\\n\\nA. Menular\\nB. Tidak Menular\\nC. Genetik\\nD. Wabah\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nDiabetes adalah penyakit Tidak Menular karena Gula darah tinggi (keturunan/pola makan)."
+    },
+    {
+        "instruction": "Penyakit (Jantung Koroner).",
+        "input": "Penyakit Jantung Koroner disebabkan oleh Penyumbatan pembuluh darah dan termasuk penyakit....",
+        "output": "Soal:\\nJenis....\\n\\nA. Menular\\nB. Wabah\\nC. Genetik\\nD. Tidak Menular\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nJantung Koroner adalah penyakit Tidak Menular karena Penyumbatan pembuluh darah."
+    },
+    {
+        "instruction": "Penyakit (Kudis/Kurap).",
+        "input": "Penyakit Kudis/Kurap disebabkan oleh Jamur/Kutu air dan termasuk penyakit....",
+        "output": "Soal:\\nJenis....\\n\\nA. Wabah\\nB. Genetik\\nC. Menular (Sentuhan)\\nD. Menular\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nKudis/Kurap adalah penyakit Menular (Sentuhan) karena Jamur/Kutu air."
+    },
+    {
+        "instruction": "Bahaya NAPZA (Narkotika).",
+        "input": "Zat yang menyebabkan penurunan kesadaran dan ketergantungan (Ganja, Heroin) disebut....",
+        "output": "Soal:\\nZat....\\n\\nA. Nikotin\\nB. Psikotropika\\nC. Narkotika\\nD. Zat Adiktif\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nNarkotika adalah Zat yang menyebabkan penurunan kesadaran dan ketergantungan (Ganja, Heroin)."
+    },
+    {
+        "instruction": "Bahaya NAPZA (Psikotropika).",
+        "input": "Obat yang mempengaruhi mental/perilaku (Ekstasi, Sabu) disebut....",
+        "output": "Soal:\\nZat....\\n\\nA. Narkotika\\nB. Psikotropika\\nC. Zat Adiktif\\nD. Nikotin\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nPsikotropika adalah Obat yang mempengaruhi mental/perilaku (Ekstasi, Sabu)."
+    },
+    {
+        "instruction": "Bahaya NAPZA (Zat Adiktif).",
+        "input": "Bahan yang menyebabkan ketagihan (Rokok, Alkohol, Kafein) disebut....",
+        "output": "Soal:\\nZat....\\n\\nA. Psikotropika\\nB. Zat Adiktif\\nC. Narkotika\\nD. Nikotin\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nZat Adiktif adalah Bahan yang menyebabkan ketagihan (Rokok, Alkohol, Kafein)."
+    },
+    {
+        "instruction": "Bahaya NAPZA (Nikotin).",
+        "input": "Zat racun dalam rokok disebut....",
+        "output": "Soal:\\nZat....\\n\\nA. Zat Adiktif\\nB. Narkotika\\nC. Nikotin\\nD. Psikotropika\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nNikotin adalah Zat racun dalam rokok."
+    },
+    {
+        "instruction": "Kebersihan Diri (Sikat Gigi).",
+        "input": "Sebaiknya kita melakukan Sikat Gigi....",
+        "output": "Soal:\\nFrekuensinya....\\n\\nA. Kalau ingat saja\\nB. Setahun sekali\\nC. Minimal 2 kali sehari (pagi setelah makan, malam sebelum tidur)\\nD. Sebulan sekali\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSikat Gigi dilakukan Minimal 2 kali sehari (pagi setelah makan, malam sebelum tidur)."
+    },
+    {
+        "instruction": "Manfaat Kebersihan (Sikat Gigi).",
+        "input": "Tujuan utama Sikat Gigi adalah....",
+        "output": "Soal:\\nTujuannya....\\n\\nA. Mencegah gigi berlubang\\nB. Supaya dimarahi ibu\\nC. Tidak ada gunanya\\nD. Supaya sakit\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSikat Gigi bermanfaat untuk Mencegah gigi berlubang."
+    },
+    {
+        "instruction": "Kebersihan Diri (Mandi).",
+        "input": "Sebaiknya kita melakukan Mandi....",
+        "output": "Soal:\\nFrekuensinya....\\n\\nA. Sebulan sekali\\nB. Kalau ingat saja\\nC. Setiap jam\\nD. Minimal 2 kali sehari\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMandi dilakukan Minimal 2 kali sehari."
+    },
+    {
+        "instruction": "Manfaat Kebersihan (Mandi).",
+        "input": "Tujuan utama Mandi adalah....",
+        "output": "Soal:\\nTujuannya....\\n\\nA. Supaya kotor\\nB. Membersihkan kulit dari kuman\\nC. Supaya dimarahi ibu\\nD. Tidak ada gunanya\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMandi bermanfaat untuk Membersihkan kulit dari kuman."
+    },
+    {
+        "instruction": "Kebersihan Diri (Cuci Tangan).",
+        "input": "Sebaiknya kita melakukan Cuci Tangan....",
+        "output": "Soal:\\nFrekuensinya....\\n\\nA. Kalau ingat saja\\nB. Sebelum makan dan setelah BAB\\nC. Setiap jam\\nD. Setahun sekali\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nCuci Tangan dilakukan Sebelum makan dan setelah BAB."
+    },
+    {
+        "instruction": "Manfaat Kebersihan (Cuci Tangan).",
+        "input": "Tujuan utama Cuci Tangan adalah....",
+        "output": "Soal:\\nTujuannya....\\n\\nA. Supaya kotor\\nB. Mencegah diare\\nC. Tidak ada gunanya\\nD. Supaya dimarahi ibu\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nCuci Tangan bermanfaat untuk Mencegah diare."
+    },
+    {
+        "instruction": "Kebersihan Diri (Potong Kuku).",
+        "input": "Sebaiknya kita melakukan Potong Kuku....",
+        "output": "Soal:\\nFrekuensinya....\\n\\nA. Setahun sekali\\nB. Setiap jam\\nC. Seminggu sekali\\nD. Sebulan sekali\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nPotong Kuku dilakukan Seminggu sekali."
+    },
+    {
+        "instruction": "Manfaat Kebersihan (Potong Kuku).",
+        "input": "Tujuan utama Potong Kuku adalah....",
+        "output": "Soal:\\nTujuannya....\\n\\nA. Tidak ada gunanya\\nB. Supaya sakit\\nC. Supaya kotor\\nD. Mencegah cacingan\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nPotong Kuku bermanfaat untuk Mencegah cacingan."
+    },
+    {
+        "instruction": "Kebersihan Diri (Keramas).",
+        "input": "Sebaiknya kita melakukan Keramas....",
+        "output": "Soal:\\nFrekuensinya....\\n\\nA. Sebulan sekali\\nB. Setiap jam\\nC. 2-3 kali seminggu\\nD. Setahun sekali\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nKeramas dilakukan 2-3 kali seminggu."
+    },
+    {
+        "instruction": "Manfaat Kebersihan (Keramas).",
+        "input": "Tujuan utama Keramas adalah....",
+        "output": "Soal:\\nTujuannya....\\n\\nA. Tidak ada gunanya\\nB. Menjaga kesehatan rambut\\nC. Supaya kotor\\nD. Supaya sakit\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nKeramas bermanfaat untuk Menjaga kesehatan rambut."
+    },
+    {
+        "instruction": "P3K (Luka Lecet).",
+        "input": "Pertolongan pertama pada Luka Lecet adalah....",
+        "output": "Soal:\\nCaranya....\\n\\nA. Bersihkan dengan air mengalir dan beri antiseptik (obat merah)\\nB. Siram air panas\\nC. Ajak lari\\nD. Pukul-pukul\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nTangani Luka Lecet dengan Bersihkan dengan air mengalir dan beri antiseptik (obat merah)."
+    },
+    {
+        "instruction": "P3K (Mimisan).",
+        "input": "Pertolongan pertama pada Mimisan adalah....",
+        "output": "Soal:\\nCaranya....\\n\\nA. Biarkan saja\\nB. Pukul-pukul\\nC. Ajak lari\\nD. Duduk tegak, condongkan badan ke depan, pencet hidung\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nTangani Mimisan dengan Duduk tegak, condongkan badan ke depan, pencet hidung."
+    },
+    {
+        "instruction": "P3K (Memar).",
+        "input": "Pertolongan pertama pada Memar adalah....",
+        "output": "Soal:\\nCaranya....\\n\\nA. Ajak lari\\nB. Kompres dengan es/air dingin\\nC. Pukul-pukul\\nD. Biarkan saja\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nTangani Memar dengan Kompres dengan es/air dingin."
+    },
+    {
+        "instruction": "P3K (Pingsan).",
+        "input": "Pertolongan pertama pada Pingsan adalah....",
+        "output": "Soal:\\nCaranya....\\n\\nA. Siram air panas\\nB. Baringkan di tempat teduh, longgarkan pakaian, beri bau-bauan\\nC. Ajak lari\\nD. Pukul-pukul\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nTangani Pingsan dengan Baringkan di tempat teduh, longgarkan pakaian, beri bau-bauan."
+    },
+    {
+        "instruction": "P3K (Keseleo).",
+        "input": "Pertolongan pertama pada Keseleo adalah....",
+        "output": "Soal:\\nCaranya....\\n\\nA. Pukul-pukul\\nB. Istirahatkan, Kompres Es, Balut tekan, Tinggikan (RICE)\\nC. Biarkan saja\\nD. Ajak lari\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nTangani Keseleo dengan Istirahatkan, Kompres Es, Balut tekan, Tinggikan (RICE)."
+    },
+    {
+        "instruction": "Keselamatan di Kolam (Dilarang lari di tepi kolam).",
+        "input": "Mengapa kita Dilarang lari di tepi kolam?",
+        "output": "Soal:\\nAlasannya....\\n\\nA. Supaya dimarahi\\nB. Supaya lambat\\nC. Lantai licin bisa terpeleset\\nD. Supaya keren\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nDilarang lari di tepi kolam karena Lantai licin bisa terpeleset."
+    },
+    {
+        "instruction": "Keselamatan di Kolam (Jangan mendorong teman).",
+        "input": "Mengapa kita Jangan mendorong teman?",
+        "output": "Soal:\\nAlasannya....\\n\\nA. Bisa tenggelam atau cedera\\nB. Tidak tahu\\nC. Supaya lambat\\nD. Supaya dimarahi\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nJangan mendorong teman karena Bisa tenggelam atau cedera."
+    },
+    {
+        "instruction": "Keselamatan di Kolam (Pakai pakaian renang).",
+        "input": "Mengapa kita Pakai pakaian renang?",
+        "output": "Soal:\\nAlasannya....\\n\\nA. Agar mudah bergerak di air\\nB. Supaya keren\\nC. Supaya dimarahi\\nD. Supaya lambat\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nPakai pakaian renang karena Agar mudah bergerak di air."
+    },
+    {
+        "instruction": "Keselamatan di Kolam (Pemanasan sebelum renang).",
+        "input": "Mengapa kita Pemanasan sebelum renang?",
+        "output": "Soal:\\nAlasannya....\\n\\nA. Tidak tahu\\nB. Supaya keren\\nC. Supaya lambat\\nD. Mencegah kram otot di air\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nPemanasan sebelum renang karena Mencegah kram otot di air."
+    },
+    {
+        "instruction": "Keselamatan di Kolam (Mandi bilas setelah renang).",
+        "input": "Mengapa kita Mandi bilas setelah renang?",
+        "output": "Soal:\\nAlasannya....\\n\\nA. Supaya keren\\nB. Supaya dimarahi\\nC. Supaya lambat\\nD. Membersihkan kaporit dan kuman\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nMandi bilas setelah renang karena Membersihkan kaporit dan kuman."
+    },
+    {
+        "instruction": "Wawasan Pencak Silat (Asal).",
+        "input": "Asal Pencak Silat adalah....",
+        "output": "Soal:\\nJawabannya....\\n\\nA. Indonesia/Melayu\\nB. Inggris\\nC. Korea\\nD. Amerika\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nAsal silat: Indonesia/Melayu."
+    },
+    {
+        "instruction": "Wawasan Pencak Silat (Induk Organisasi).",
+        "input": "Induk Organisasi Pencak Silat adalah....",
+        "output": "Soal:\\nJawabannya....\\n\\nA. PBSI\\nB. PSSI\\nC. PBVSI\\nD. IPSI (Ikatan Pencak Silat Indonesia)\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nInduk Organisasi silat: IPSI (Ikatan Pencak Silat Indonesia)."
+    },
+    {
+        "instruction": "Wawasan Pencak Silat (Nilai Luhur).",
+        "input": "Nilai Luhur Pencak Silat adalah....",
+        "output": "Soal:\\nJawabannya....\\n\\nA. PERBASI\\nB. PBVSI\\nC. Taqwa, Tanggap, Tangguh, Trengginas\\nD. PBSI\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nNilai Luhur silat: Taqwa, Tanggap, Tangguh, Trengginas."
+    },
+    {
+        "instruction": "Wawasan Pencak Silat (Fosisi).",
+        "input": "Fosisi Pencak Silat adalah....",
+        "output": "Soal:\\nJawabannya....\\n\\nA. PBVSI\\nB. PBSI\\nC. Sikap Pasang (Siap menyerang/bertahan)\\nD. PERBASI\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nFosisi silat: Sikap Pasang (Siap menyerang/bertahan)."
+    },
+    {
+        "instruction": "Wawasan Pencak Silat (Pakaian).",
+        "input": "Pakaian Pencak Silat adalah....",
+        "output": "Soal:\\nJawabannya....\\n\\nA. PERBASI\\nB. PBVSI\\nC. Baju silat hitam dengan sabuk\\nD. PBSI\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nPakaian silat: Baju silat hitam dengan sabuk."
+    },
+    {
+        "instruction": "Peraturan Bulutangkis.",
+        "input": "Jika Kok jatuh di garis terjadi, maka keputusannya....",
+        "output": "Soal:\\nKeputusannya....\\n\\nA. Boleh saja\\nB. Masuk / Poin\\nC. Seri\\nD. Menang\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nDalam Bulutangkis, Kok jatuh di garis = Masuk / Poin."
+    },
+    {
+        "instruction": "Peraturan Bulutangkis.",
+        "input": "Jika Raket menyentuh net terjadi, maka keputusannya....",
+        "output": "Soal:\\nKeputusannya....\\n\\nA. Menang\\nB. Kalah\\nC. Seri\\nD. Foul / Poin Lawan\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nDalam Bulutangkis, Raket menyentuh net = Foul / Poin Lawan."
+    },
+    {
+        "instruction": "Peraturan Tenis Meja.",
+        "input": "Jika Bola servis menyentuh net lalu masuk terjadi, maka keputusannya....",
+        "output": "Soal:\\nKeputusannya....\\n\\nA. Boleh saja\\nB. Seri\\nC. Menang\\nD. Let (Ulang servis)\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nDalam Tenis Meja, Bola servis menyentuh net lalu masuk = Let (Ulang servis)."
+    },
+    {
+        "instruction": "Peraturan Kasti.",
+        "input": "Jika Bola dipukul kena tangan pemukul terjadi, maka keputusannya....",
+        "output": "Soal:\\nKeputusannya....\\n\\nA. Kalah\\nB. Seri\\nC. Menang\\nD. Mati / Ganti\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nDalam Kasti, Bola dipukul kena tangan pemukul = Mati / Ganti."
+    },
+    {
+        "instruction": "Peraturan Kasti.",
+        "input": "Jika Pemukul hinggap di tiang aman terjadi, maka keputusannya....",
+        "output": "Soal:\\nKeputusannya....\\n\\nA. Boleh saja\\nB. Seri\\nC. Menang\\nD. Tidak boleh dilempar\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nDalam Kasti, Pemukul hinggap di tiang aman = Tidak boleh dilempar."
+    },
+    {
+        "instruction": "Permainan Tradisional (Gobak Sodor).",
+        "input": "Aturan Menghadang lawan agar tidak lolos melewati garis ada pada permainan....",
+        "output": "Soal:\\nNama permainan....\\n\\nA. Lompat Tali/Karet\\nB. Gobak Sodor\\nC. Egrang\\nD. Engklek\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nGobak Sodor: Menghadang lawan agar tidak lolos melewati garis."
+    },
+    {
+        "instruction": "Permainan Tradisional (Engklek).",
+        "input": "Aturan Melompat dengan satu kaki melewati kotak-kotak ada pada permainan....",
+        "output": "Soal:\\nNama permainan....\\n\\nA. Bentengan\\nB. Engklek\\nC. Gobak Sodor\\nD. Lompat Tali/Karet\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nEngklek: Melompat dengan satu kaki melewati kotak-kotak."
+    },
+    {
+        "instruction": "Permainan Tradisional (Bentengan).",
+        "input": "Aturan Menjaga benteng dan menyentuh benteng lawan ada pada permainan....",
+        "output": "Soal:\\nNama permainan....\\n\\nA. Bentengan\\nB. Engklek\\nC. Gobak Sodor\\nD. Egrang\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nBentengan: Menjaga benteng dan menyentuh benteng lawan."
+    },
+    {
+        "instruction": "Permainan Tradisional (Egrang).",
+        "input": "Aturan Berjalan menggunakan bambu tinggi ada pada permainan....",
+        "output": "Soal:\\nNama permainan....\\n\\nA. Lompat Tali/Karet\\nB. Gobak Sodor\\nC. Bentengan\\nD. Egrang\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nEgrang: Berjalan menggunakan bambu tinggi."
+    },
+    {
+        "instruction": "Permainan Tradisional (Lompat Tali/Karet).",
+        "input": "Aturan Melompati rangkaian karet gelang ada pada permainan....",
+        "output": "Soal:\\nNama permainan....\\n\\nA. Gobak Sodor\\nB. Lompat Tali/Karet\\nC. Bentengan\\nD. Egrang\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nLompat Tali/Karet: Melompati rangkaian karet gelang."
+    },
+    {
+        "instruction": "Gizi Seimbang (Karbohidrat).",
+        "input": "Makanan yang mengandung Karbohidrat adalah....",
+        "output": "Soal:\\nContohnya....\\n\\nA. Buah-buahan dan Sayuran\\nB. Susu (Kalsium), Iodium\\nC. Ikan, Daging, Telur, Tahu, Tempe\\nD. Nasi, Roti, Jagung, Ubi\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nKarbohidrat terdapat pada Nasi, Roti, Jagung, Ubi."
+    },
+    {
+        "instruction": "Gizi Seimbang (Protein).",
+        "input": "Makanan yang mengandung Protein adalah....",
+        "output": "Soal:\\nContohnya....\\n\\nA. Nasi, Roti, Jagung, Ubi\\nB. Minyak, Santan, Mentega\\nC. Ikan, Daging, Telur, Tahu, Tempe\\nD. Buah-buahan dan Sayuran\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nProtein terdapat pada Ikan, Daging, Telur, Tahu, Tempe."
+    },
+    {
+        "instruction": "Gizi Seimbang (Lemak).",
+        "input": "Makanan yang mengandung Lemak adalah....",
+        "output": "Soal:\\nContohnya....\\n\\nA. Ikan, Daging, Telur, Tahu, Tempe\\nB. Susu (Kalsium), Iodium\\nC. Minyak, Santan, Mentega\\nD. Nasi, Roti, Jagung, Ubi\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nLemak terdapat pada Minyak, Santan, Mentega."
+    },
+    {
+        "instruction": "Gizi Seimbang (Vitamin).",
+        "input": "Makanan yang mengandung Vitamin adalah....",
+        "output": "Soal:\\nContohnya....\\n\\nA. Minyak, Santan, Mentega\\nB. Susu (Kalsium), Iodium\\nC. Nasi, Roti, Jagung, Ubi\\nD. Buah-buahan dan Sayuran\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nVitamin terdapat pada Buah-buahan dan Sayuran."
+    },
+    {
+        "instruction": "Gizi Seimbang (Mineral).",
+        "input": "Makanan yang mengandung Mineral adalah....",
+        "output": "Soal:\\nContohnya....\\n\\nA. Susu (Kalsium), Iodium\\nB. Ikan, Daging, Telur, Tahu, Tempe\\nC. Nasi, Roti, Jagung, Ubi\\nD. Minyak, Santan, Mentega\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMineral terdapat pada Susu (Kalsium), Iodium."
+    },
+    {
+        "instruction": "Sirkuit Training (Pos 1: Push Up).",
+        "input": "Tujuan latihan di Pos 1: Push Up adalah....",
+        "output": "Soal:\\nManfaatnya....\\n\\nA. Melatih otot lengan\\nB. Melatih otot punggung\\nC. Melatih daya ledak kaki\\nD. Melatih kelincahan\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nPos 1: Push Up: Melatih otot lengan."
+    },
+    {
+        "instruction": "Sirkuit Training (Pos 2: Sit Up).",
+        "input": "Tujuan latihan di Pos 2: Sit Up adalah....",
+        "output": "Soal:\\nManfaatnya....\\n\\nA. Melatih otot perut\\nB. Melatih daya ledak kaki\\nC. Melatih otot lengan\\nD. Melatih kelincahan\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nPos 2: Sit Up: Melatih otot perut."
+    },
+    {
+        "instruction": "Sirkuit Training (Pos 3: Back Up).",
+        "input": "Tujuan latihan di Pos 3: Back Up adalah....",
+        "output": "Soal:\\nManfaatnya....\\n\\nA. Melatih otot perut\\nB. Melatih otot punggung\\nC. Melatih otot lengan\\nD. Melatih daya ledak kaki\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nPos 3: Back Up: Melatih otot punggung."
+    },
+    {
+        "instruction": "Sirkuit Training (Pos 4: Lari bolak-balik).",
+        "input": "Tujuan latihan di Pos 4: Lari bolak-balik adalah....",
+        "output": "Soal:\\nManfaatnya....\\n\\nA. Melatih kelincahan\\nB. Melatih otot perut\\nC. Melatih daya ledak kaki\\nD. Melatih otot punggung\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nPos 4: Lari bolak-balik: Melatih kelincahan."
+    },
+    {
+        "instruction": "Sirkuit Training (Pos 5: Squat Jump).",
+        "input": "Tujuan latihan di Pos 5: Squat Jump adalah....",
+        "output": "Soal:\\nManfaatnya....\\n\\nA. Melatih daya ledak kaki\\nB. Melatih kelincahan\\nC. Melatih otot lengan\\nD. Melatih otot punggung\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nPos 5: Squat Jump: Melatih daya ledak kaki."
+    },
+    {
+        "instruction": "Bulutangkis",
+        "input": "Induk organisasi bulutangkis dunia adalah....",
+        "output": "Soal:\\nInduk organisasi bulutangkis dunia adalah....\\n\\nopsi:\\nA. BWF\\nB. FIFA\\nC. FIBA\\nD. ITF\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nBadminton World Federation."
+    },
+    {
+        "instruction": "Bulutangkis",
+        "input": "Pukulan servis yang melambung tinggi ke belakang disebut....",
+        "output": "Soal:\\nPukulan servis yang melambung tinggi ke belakang disebut....\\n\\nopsi:\\nA. Servis Panjang\\nB. Drive\\nC. Servis Pendek\\nD. Smash\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nLong service."
+    },
+    {
+        "instruction": "Bulutangkis",
+        "input": "Jumlah poin kemenangan dalam satu game adalah....",
+        "output": "Soal:\\nJumlah poin kemenangan dalam satu game adalah....\\n\\nopsi:\\nA. 25\\nB. 21\\nC. 11\\nD. 15\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nRally point 21."
+    },
+    {
+        "instruction": "Bulutangkis",
+        "input": "Pukulan menukik tajam untuk mematikan lawan adalah....",
+        "output": "Soal:\\nPukulan menukik tajam untuk mematikan lawan adalah....\\n\\nopsi:\\nA. Lob\\nB. Dropshot\\nC. Netting\\nD. Smash\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSmash."
+    },
+    {
+        "instruction": "Bulutangkis",
+        "input": "Pukulan tipuan di depan net disebut....",
+        "output": "Soal:\\nPukulan tipuan di depan net disebut....\\n\\nopsi:\\nA. Drive\\nB. Smash\\nC. Lob\\nD. Netting\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nNet play."
+    },
+    {
+        "instruction": "Bulutangkis",
+        "input": "Pukulan mendatar cepat sejajar net disebut....",
+        "output": "Soal:\\nPukulan mendatar cepat sejajar net disebut....\\n\\nopsi:\\nA. Lob\\nB. Smash\\nC. Drive\\nD. Servis\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nDrive shot."
+    },
+    {
+        "instruction": "Bulutangkis",
+        "input": "Permainan ganda campuran terdiri dari....",
+        "output": "Soal:\\nPermainan ganda campuran terdiri dari....\\n\\nopsi:\\nA. 2 Putri\\nB. 2 Putra\\nC. 1 Putra dan 1 Putri\\nD. 1 Putra 2 Putri\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMixed doubles."
+    },
+    {
+        "instruction": "Bulutangkis",
+        "input": "Kejuaraan beregu putra tingkat dunia adalah....",
+        "output": "Soal:\\nKejuaraan beregu putra tingkat dunia adalah....\\n\\nopsi:\\nA. Sudirman Cup\\nB. Thomas Cup\\nC. Uber Cup\\nD. Davis Cup\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nThomas Cup."
+    },
+    {
+        "instruction": "Bulutangkis",
+        "input": "Kejuaraan beregu putri tingkat dunia adalah....",
+        "output": "Soal:\\nKejuaraan beregu putri tingkat dunia adalah....\\n\\nopsi:\\nA. All England\\nB. Olimpiade\\nC. Uber Cup\\nD. Thomas Cup\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nUber Cup."
+    },
+    {
+        "instruction": "Bulutangkis",
+        "input": "Kejuaraan beregu campuran tingkat dunia adalah....",
+        "output": "Soal:\\nKejuaraan beregu campuran tingkat dunia adalah....\\n\\nopsi:\\nA. Thomas Cup\\nB. World Cup\\nC. Sudirman Cup\\nD. Uber Cup\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSudirman Cup."
+    },
+    {
+        "instruction": "Sepak Bola",
+        "input": "Lama permainan sepak bola normal adalah....",
+        "output": "Soal:\\nLama permainan sepak bola normal adalah....\\n\\nopsi:\\nA. 2 x 30 menit\\nB. 2 x 40 menit\\nC. 2 x 45 menit\\nD. 2 x 50 menit\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\n90 menit total."
+    },
+    {
+        "instruction": "Sepak Bola",
+        "input": "Istirahat antar babak sepak bola adalah....",
+        "output": "Soal:\\nIstirahat antar babak sepak bola adalah....\\n\\nopsi:\\nA. 30 menit\\nB. 5 menit\\nC. 15 menit\\nD. 10 menit\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nJeda 15 menit."
+    },
+    {
+        "instruction": "Sepak Bola",
+        "input": "Tendangan penalti berjarak ... meter.",
+        "output": "Soal:\\nTendangan penalti berjarak ... meter.\\n\\nopsi:\\nA. 9\\nB. 12\\nC. 10\\nD. 11\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\n11 meter (12 yards)."
+    },
+    {
+        "instruction": "Sepak Bola",
+        "input": "Pemain yang boleh memegang bola adalah....",
+        "output": "Soal:\\nPemain yang boleh memegang bola adalah....\\n\\nopsi:\\nA. Wasit\\nB. Kiper\\nC. Striker\\nD. Bek\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nGoal keeper."
+    },
+    {
+        "instruction": "Sepak Bola",
+        "input": "Organisasi sepak bola Indonesia adalah....",
+        "output": "Soal:\\nOrganisasi sepak bola Indonesia adalah....\\n\\nopsi:\\nA. PSSI\\nB. KONI\\nC. AFC\\nD. FIFA\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nPersatuan Sepak Bola Seluruh Indonesia."
+    },
+    {
+        "instruction": "Sepak Bola",
+        "input": "Piala Dunia sepak bola diadakan setiap ... tahun.",
+        "output": "Soal:\\nPiala Dunia sepak bola diadakan setiap ... tahun.\\n\\nopsi:\\nA. 5\\nB. 3\\nC. 2\\nD. 4\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\n4 tahun sekali."
+    },
+    {
+        "instruction": "Sepak Bola",
+        "input": "Jika bola keluar garis samping, dilakukan....",
+        "output": "Soal:\\nJika bola keluar garis samping, dilakukan....\\n\\nopsi:\\nA. Penalti\\nB. Tendangan gawang\\nC. Tendangan sudut\\nD. Lemparan ke dalam\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nThrow in."
+    },
+    {
+        "instruction": "Sepak Bola",
+        "input": "Jika bola keluar garis gawang oleh pemain bertahan, terjadi....",
+        "output": "Soal:\\nJika bola keluar garis gawang oleh pemain bertahan, terjadi....\\n\\nopsi:\\nA. Tendangan Sudut\\nB. Tendangan Gawang\\nC. Lemparan ke dalam\\nD. Penalti\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nCorner kick."
+    },
+    {
+        "instruction": "Sepak Bola",
+        "input": "Offside terjadi jika penyerang berada di....",
+        "output": "Soal:\\nOffside terjadi jika penyerang berada di....\\n\\nopsi:\\nA. Depan kiper\\nB. Tengah lapangan\\nC. Sisi lapangan\\nD. Belakang pemain bertahan terakhir lawan\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nPosisi offside."
+    },
+    {
+        "instruction": "Sepak Bola",
+        "input": "Kartu kuning artinya....",
+        "output": "Soal:\\nKartu kuning artinya....\\n\\nopsi:\\nA. Keluar\\nB. Pelanggaran ringan\\nC. Peringatan\\nD. Gol\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nWarning."
+    },
+    {
+        "instruction": "Basket",
+        "input": "Induk organisasi basket dunia adalah....",
+        "output": "Soal:\\nInduk organisasi basket dunia adalah....\\n\\nopsi:\\nA. IVBF\\nB. NBA\\nC. FIBA\\nD. FIFA\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nFed. Int. Basketball."
+    },
+    {
+        "instruction": "Basket",
+        "input": "Satu tim basket terdiri dari ... pemain",
+        "output": "Soal:\\nSatu tim basket terdiri dari ... pemain\\n\\nopsi:\\nA. 7\\nB. 11\\nC. 6\\nD. 5\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\n5 on 5."
+    },
+    {
+        "instruction": "Basket",
+        "input": "Pencipta permainan bola basket adalah....",
+        "output": "Soal:\\nPencipta permainan bola basket adalah....\\n\\nopsi:\\nA. James Naismith\\nB. William Morgan\\nC. Pelé\\nD. Ebenezer Cobb\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nProf. Naismith."
+    },
+    {
+        "instruction": "Basket",
+        "input": "Poin tembakan dari luar garis lengkung adalah....",
+        "output": "Soal:\\nPoin tembakan dari luar garis lengkung adalah....\\n\\nopsi:\\nA. 2\\nB. 4\\nC. 3\\nD. 1\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nThree point."
+    },
+    {
+        "instruction": "Basket",
+        "input": "Poin tembakan hukuman (free throw) adalah....",
+        "output": "Soal:\\nPoin tembakan hukuman (free throw) adalah....\\n\\nopsi:\\nA. 1\\nB. 2\\nC. 3\\nD. 0\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSatu poin."
+    },
+    {
+        "instruction": "Basket",
+        "input": "Membawa bola lari tanpa dribble disebut....",
+        "output": "Soal:\\nMembawa bola lari tanpa dribble disebut....\\n\\nopsi:\\nA. Foul\\nB. Double\\nC. Pivot\\nD. Travelling\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nWalking/Travelling."
+    },
+    {
+        "instruction": "Basket",
+        "input": "Memegang bola dengan dua tangan lalu dribble lagi disebut....",
+        "output": "Soal:\\nMemegang bola dengan dua tangan lalu dribble lagi disebut....\\n\\nopsi:\\nA. Foul\\nB. Held Ball\\nC. Travelling\\nD. Double Dribble\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nDouble."
+    },
+    {
+        "instruction": "Basket",
+        "input": "Waktu menyerang dalam basket adalah....",
+        "output": "Soal:\\nWaktu menyerang dalam basket adalah....\\n\\nopsi:\\nA. 30 detik\\nB. 45 detik\\nC. 24 detik\\nD. 15 detik\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nShot clock."
+    },
+    {
+        "instruction": "Basket",
+        "input": "Operan dada disebut....",
+        "output": "Soal:\\nOperan dada disebut....\\n\\nopsi:\\nA. Baseball Pass\\nB. Chest Pass\\nC. Bounce Pass\\nD. Overhead Pass\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nChest."
+    },
+    {
+        "instruction": "Basket",
+        "input": "Operan pantul disebut....",
+        "output": "Soal:\\nOperan pantul disebut....\\n\\nopsi:\\nA. Bounce Pass\\nB. Overhead Pass\\nC. Hook Pass\\nD. Chest Pass\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nBounce."
+    },
+    {
+        "instruction": "Voli",
+        "input": "Pencipta permainan bola voli adalah....",
+        "output": "Soal:\\nPencipta permainan bola voli adalah....\\n\\nopsi:\\nA. Jordan\\nB. Maradona\\nC. William G. Morgan\\nD. James Naismith\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMorgan."
+    },
+    {
+        "instruction": "Voli",
+        "input": "Panjang net bola voli putra adalah....",
+        "output": "Soal:\\nPanjang net bola voli putra adalah....\\n\\nopsi:\\nA. 2,30 meter\\nB. 2,50 meter\\nC. 2,24 meter\\nD. 2,43 meter\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nTinggi net putra."
+    },
+    {
+        "instruction": "Voli",
+        "input": "Tinggi net bola voli putri adalah....",
+        "output": "Soal:\\nTinggi net bola voli putri adalah....\\n\\nopsi:\\nA. 2,24 meter\\nB. 2,43 meter\\nC. 2,10 meter\\nD. 2,15 meter\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nTinggi net putri."
+    },
+    {
+        "instruction": "Voli",
+        "input": "Pukulan pertama tanda mulainya permainan adalah....",
+        "output": "Soal:\\nPukulan pertama tanda mulainya permainan adalah....\\n\\nopsi:\\nA. Block\\nB. Passing\\nC. Smash\\nD. Servis\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nService."
+    },
+    {
+        "instruction": "Voli",
+        "input": "Pemain yang bertugas mengumpan disebut....",
+        "output": "Soal:\\nPemain yang bertugas mengumpan disebut....\\n\\nopsi:\\nA. Libero\\nB. Tosser / Setter\\nC. Spiker\\nD. Server\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSetter."
+    },
+    {
+        "instruction": "Voli",
+        "input": "Pemain bertahan yang memakai baju beda warna adalah....",
+        "output": "Soal:\\nPemain bertahan yang memakai baju beda warna adalah....\\n\\nopsi:\\nA. Spiker\\nB. Libero\\nC. Tosser\\nD. Blocker\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nLibero."
+    },
+    {
+        "instruction": "Voli",
+        "input": "Gerakan membendung smash lawan disebut....",
+        "output": "Soal:\\nGerakan membendung smash lawan disebut....\\n\\nopsi:\\nA. Servis\\nB. Pass\\nC. Block\\nD. Smash\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nBlocking."
+    },
+    {
+        "instruction": "Voli",
+        "input": "Satu tim voli terdiri dari ... pemain.",
+        "output": "Soal:\\nSatu tim voli terdiri dari ... pemain.\\n\\nopsi:\\nA. 5\\nB. 11\\nC. 7\\nD. 6\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\n6 pemain."
+    },
+    {
+        "instruction": "Voli",
+        "input": "Perputaran posisi pemain voli dilakukan seacara....",
+        "output": "Soal:\\nPerputaran posisi pemain voli dilakukan seacara....\\n\\nopsi:\\nA. Acak\\nB. Berlawanan jarum jam\\nC. Jarum jam\\nD. Bebas\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nClockwise."
+    },
+    {
+        "instruction": "Voli",
+        "input": "Sistem skor voli menggunakan....",
+        "output": "Soal:\\nSistem skor voli menggunakan....\\n\\nopsi:\\nA. Inning\\nB. Waktu\\nC. Pindah Bola\\nD. Rally Point\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nRally."
+    },
+    {
+        "instruction": "Tenis Meja",
+        "input": "Nama lain tenis meja adalah....",
+        "output": "Soal:\\nNama lain tenis meja adalah....\\n\\nopsi:\\nA. Badminton\\nB. Softball\\nC. Pingpong\\nD. Kasti\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nPingpong."
+    },
+    {
+        "instruction": "Tenis Meja",
+        "input": "Organisasi tenis meja dunia adalah....",
+        "output": "Soal:\\nOrganisasi tenis meja dunia adalah....\\n\\nopsi:\\nA. BWF\\nB. ITTF\\nC. IBF\\nD. FIFA\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nInt. Table Tennis Fed."
+    },
+    {
+        "instruction": "Tenis Meja",
+        "input": "Alat pemukul tenis meja disebut....",
+        "output": "Soal:\\nAlat pemukul tenis meja disebut....\\n\\nopsi:\\nA. Raket\\nB. Bet\\nC. Tongkat\\nD. Stick\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nBet."
+    },
+    {
+        "instruction": "Tenis Meja",
+        "input": "Pegangan seperti jabat tangan disebut....",
+        "output": "Soal:\\nPegangan seperti jabat tangan disebut....\\n\\nopsi:\\nA. Shakehand Grip\\nB. Penholder Grip\\nC. American Grip\\nD. Continental Grip\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nShakehand."
+    },
+    {
+        "instruction": "Tenis Meja",
+        "input": "Pegangan seperti memegang pena disebut....",
+        "output": "Soal:\\nPegangan seperti memegang pena disebut....\\n\\nopsi:\\nA. Seemiller Grip\\nB. Penholder Grip\\nC. Shakehand Grip\\nD. V-Grip\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nPenholder."
+    },
+    {
+        "instruction": "Tenis Meja",
+        "input": "Game selesai jika mencapai poin....",
+        "output": "Soal:\\nGame selesai jika mencapai poin....\\n\\nopsi:\\nA. 11\\nB. 25\\nC. 21\\nD. 15\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\n11 poin."
+    },
+    {
+        "instruction": "Tenis Meja",
+        "input": "Jika skor 10-10, maka terjadi....",
+        "output": "Soal:\\nJika skor 10-10, maka terjadi....\\n\\nopsi:\\nA. Deuce\\nB. Draw\\nC. Game\\nD. Penalty\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nJus/Deuce."
+    },
+    {
+        "instruction": "Tenis Meja",
+        "input": "Pukulan backspin bertahan disebut....",
+        "output": "Soal:\\nPukulan backspin bertahan disebut....\\n\\nopsi:\\nA. Chop\\nB. Smash\\nC. Drive\\nD. Push\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nChop block."
+    },
+    {
+        "instruction": "Tenis Meja",
+        "input": "Pukulan putaran atas menyerang disebut....",
+        "output": "Soal:\\nPukulan putaran atas menyerang disebut....\\n\\nopsi:\\nA. Chop\\nB. Block\\nC. Topspin / Drive\\nD. Backspin\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nTopspin."
+    },
+    {
+        "instruction": "Tenis Meja",
+        "input": "Meja tenis meja berbentuk....",
+        "output": "Soal:\\nMeja tenis meja berbentuk....\\n\\nopsi:\\nA. Lingkaran\\nB. Persegi Panjang\\nC. Persegi\\nD. Oval\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nRectangular."
+    },
+    {
+        "instruction": "Atletik",
+        "input": "Lari jarak 100 meter disebut....",
+        "output": "Soal:\\nLari jarak 100 meter disebut....\\n\\nopsi:\\nA. Gawang\\nB. Marathon\\nC. Sprint\\nD. Estafet\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nLari cepat."
+    },
+    {
+        "instruction": "Atletik",
+        "input": "Start jongkok menggunakan aba-aba....",
+        "output": "Soal:\\nStart jongkok menggunakan aba-aba....\\n\\nopsi:\\nA. Satu, Dua, Tiga\\nB. Siap, Mulai\\nC. Awas, Lari\\nD. Bersedia, Siap, Ya\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nStandard start commands."
+    },
+    {
+        "instruction": "Atletik",
+        "input": "Pelari estafet berjumlah ... orang.",
+        "output": "Soal:\\nPelari estafet berjumlah ... orang.\\n\\nopsi:\\nA. 4\\nB. 6\\nC. 3\\nD. 5\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\n4x100m / 4x400m."
+    },
+    {
+        "instruction": "Atletik",
+        "input": "Alat estafet yang diberikan adalah....",
+        "output": "Soal:\\nAlat estafet yang diberikan adalah....\\n\\nopsi:\\nA. Tongkat\\nB. Bola\\nC. Bendera\\nD. Gelang\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nBaton."
+    },
+    {
+        "instruction": "Atletik",
+        "input": "Lompat jauh menggunakan gaya....",
+        "output": "Soal:\\nLompat jauh menggunakan gaya....\\n\\nopsi:\\nA. Jongkok, Melenting, Berjalan di udara\\nB. Gunting, Guling\\nC. Kupu-kupu\\nD. Bebas\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\n3 gaya lompat jauh."
+    },
+    {
+        "instruction": "Atletik",
+        "input": "Mendarat lompat jauh harus dengan....",
+        "output": "Soal:\\nMendarat lompat jauh harus dengan....\\n\\nopsi:\\nA. Pantat\\nB. Satu kaki\\nC. Tangan\\nD. Dua kaki\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nDua kaki mengeper."
+    },
+    {
+        "instruction": "Atletik",
+        "input": "Tolak peluru gaya membelakangi disebut....",
+        "output": "Soal:\\nTolak peluru gaya membelakangi disebut....\\n\\nopsi:\\nA. O'Brien\\nB. Flop\\nC. Straddle\\nD. Ortodoks\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nO'Brien."
+    },
+    {
+        "instruction": "Atletik",
+        "input": "Tolak peluru gaya menyamping disebut....",
+        "output": "Soal:\\nTolak peluru gaya menyamping disebut....\\n\\nopsi:\\nA. Spin\\nB. Ortodoks\\nC. O'Brien\\nD. Glide\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nOrthodox."
+    },
+    {
+        "instruction": "Atletik",
+        "input": "Lari marathon menempuh jarak....",
+        "output": "Soal:\\nLari marathon menempuh jarak....\\n\\nopsi:\\nA. 10 km\\nB. 21 km\\nC. 42,195 km\\nD. 50 km\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nFull Marathon."
+    },
+    {
+        "instruction": "Atletik",
+        "input": "Lari gawang 110m putra, tinggi gawangnya....",
+        "output": "Soal:\\nLari gawang 110m putra, tinggi gawangnya....\\n\\nopsi:\\nA. 1,067 m\\nB. 1 m\\nC. 0,840 m\\nD. 0,762 m\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nHigh hurdles."
+    },
+    {
+        "instruction": "Pencak Silat",
+        "input": "Pencak silat berasal dari negara....",
+        "output": "Soal:\\nPencak silat berasal dari negara....\\n\\nopsi:\\nA. China\\nB. Indonesia\\nC. Thailand\\nD. Jepang\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nAsli Nusantara."
+    },
+    {
+        "instruction": "Pencak Silat",
+        "input": "Warna sabuk pemula dalam silat biasanya....",
+        "output": "Soal:\\nWarna sabuk pemula dalam silat biasanya....\\n\\nopsi:\\nA. Merah\\nB. Kuning\\nC. Hitam\\nD. Putih\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSabuk putih."
+    },
+    {
+        "instruction": "Pencak Silat",
+        "input": "Sikap pasang adalah sikap....",
+        "output": "Soal:\\nSikap pasang adalah sikap....\\n\\nopsi:\\nA. Siap siaga\\nB. Menyerah\\nC. Hormat\\nD. Istirahat\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSiap bertarung."
+    },
+    {
+        "instruction": "Pencak Silat",
+        "input": "Tangkisan atas melindungi bagian....",
+        "output": "Soal:\\nTangkisan atas melindungi bagian....\\n\\nopsi:\\nA. Dada\\nB. Perut\\nC. Kepala\\nD. Kaki\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nLindungi kepala."
+    },
+    {
+        "instruction": "Pencak Silat",
+        "input": "Tangkisan bawah melindungi bagian....",
+        "output": "Soal:\\nTangkisan bawah melindungi bagian....\\n\\nopsi:\\nA. Leher\\nB. Kepala\\nC. Dada\\nD. Kaki/Perut bawah\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nLindungi bawah."
+    },
+    {
+        "instruction": "Pencak Silat",
+        "input": "Pukulan depan mengarah ke....",
+        "output": "Soal:\\nPukulan depan mengarah ke....\\n\\nopsi:\\nA. Samping\\nB. Kaki\\nC. Ulu hati/Dada\\nD. Kepala\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSolar plexus."
+    },
+    {
+        "instruction": "Pencak Silat",
+        "input": "Tendangan T menggunakan bagian....",
+        "output": "Soal:\\nTendangan T menggunakan bagian....\\n\\nopsi:\\nA. Tumit\\nB. Sisi telapak kaki / Pisau kaki\\nC. Lutut\\nD. Ujung jari\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSide kick."
+    },
+    {
+        "instruction": "Pencak Silat",
+        "input": "Tendangan sabit lintasannya....",
+        "output": "Soal:\\nTendangan sabit lintasannya....\\n\\nopsi:\\nA. Melingkar\\nB. Menukik\\nC. Lurus\\nD. Ke belakang\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMelingkar seperti sabit."
+    },
+    {
+        "instruction": "Pencak Silat",
+        "input": "Elakan adalah usaha pembelaan dengan....",
+        "output": "Soal:\\nElakan adalah usaha pembelaan dengan....\\n\\nopsi:\\nA. Menendang\\nB. Memukul\\nC. Memindahkan tubuh\\nD. Menanngkis\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMenghindar."
+    },
+    {
+        "instruction": "Pencak Silat",
+        "input": "Nilai jatuhan dalam pertandingan silat adalah....",
+        "output": "Soal:\\nNilai jatuhan dalam pertandingan silat adalah....\\n\\nopsi:\\nA. 2\\nB. 1\\nC. 4\\nD. 3\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nJatuhan = 3 poin."
+    },
+    {
+        "instruction": "Kesehatan",
+        "input": "Makanan 4 sehat 5 sempurna disempurnakan menjadi....",
+        "output": "Soal:\\nMakanan 4 sehat 5 sempurna disempurnakan menjadi....\\n\\nopsi:\\nA. Junk Food\\nB. Diet Ketat\\nC. Tumpeng Gizi\\nD. Pedoman Gizi Seimbang\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nPGS."
+    },
+    {
+        "instruction": "Kesehatan",
+        "input": "Sumber karbohidrat adalah....",
+        "output": "Soal:\\nSumber karbohidrat adalah....\\n\\nopsi:\\nA. Ikan, Telur\\nB. Bayam, Kangkung\\nC. Susu, Keju\\nD. Nasi, Jagung, Sagu\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nCarbs."
+    },
+    {
+        "instruction": "Kesehatan",
+        "input": "Sumber protein hewani adalah....",
+        "output": "Soal:\\nSumber protein hewani adalah....\\n\\nopsi:\\nA. Telur, Daging, Ikan\\nB. Nasi, Roti\\nC. Buah\\nD. Tahu, Tempe\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nAnimal protein."
+    },
+    {
+        "instruction": "Kesehatan",
+        "input": "Sumber protein nabati adalah....",
+        "output": "Soal:\\nSumber protein nabati adalah....\\n\\nopsi:\\nA. Ikan\\nB. Daging\\nC. Telur, Susu\\nD. Tahu, Tempe, Kacang-kacangan\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nPlant protein."
+    },
+    {
+        "instruction": "Kesehatan",
+        "input": "Sayuran hijau banyak mengandung....",
+        "output": "Soal:\\nSayuran hijau banyak mengandung....\\n\\nopsi:\\nA. Vitamin dan Serat\\nB. Karbohidrat\\nC. Protein\\nD. Lemak\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nVitamins."
+    },
+    {
+        "instruction": "Kesehatan",
+        "input": "Wortel mengandung vitamin....",
+        "output": "Soal:\\nWortel mengandung vitamin....\\n\\nopsi:\\nA. C\\nB. B\\nC. A\\nD. D\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMata sehat."
+    },
+    {
+        "instruction": "Kesehatan",
+        "input": "Jeruk mengandung vitamin....",
+        "output": "Soal:\\nJeruk mengandung vitamin....\\n\\nopsi:\\nA. C\\nB. A\\nC. B\\nD. E\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nImunitas."
+    },
+    {
+        "instruction": "Kesehatan",
+        "input": "Sinar matahari pagi membantu pembentukan vitamin....",
+        "output": "Soal:\\nSinar matahari pagi membantu pembentukan vitamin....\\n\\nopsi:\\nA. A\\nB. D\\nC. E\\nD. C\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nVitamin D."
+    },
+    {
+        "instruction": "Kesehatan",
+        "input": "Kekurangan yodium menyebabkan penyakit....",
+        "output": "Soal:\\nKekurangan yodium menyebabkan penyakit....\\n\\nopsi:\\nA. Rabun\\nB. Sariawan\\nC. Gondok\\nD. Beri-beri\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nGoiter."
+    },
+    {
+        "instruction": "Kesehatan",
+        "input": "Kekurangan vitamin C menyebabkan....",
+        "output": "Soal:\\nKekurangan vitamin C menyebabkan....\\n\\nopsi:\\nA. Rabun senja\\nB. Sariawan / Skorbut\\nC. Rakhitis\\nD. Beri-beri\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nScurvy."
+    },
+    {
+        "instruction": "Kesehatan",
+        "input": "Penyakit menular lewat air adalah....",
+        "output": "Soal:\\nPenyakit menular lewat air adalah....\\n\\nopsi:\\nA. Diare, Kolera\\nB. Panu, Kudis\\nC. Jantung\\nD. Flu, Batuk\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nWaterborne."
+    },
+    {
+        "instruction": "Kesehatan",
+        "input": "Penyakit menular lewat udara adalah....",
+        "output": "Soal:\\nPenyakit menular lewat udara adalah....\\n\\nopsi:\\nA. Kudis\\nB. Malaria\\nC. TBC, Influenza\\nD. Diare\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nAirborne."
+    },
+    {
+        "instruction": "Kesehatan",
+        "input": "Nyamuk Aedes aegypti menyebabkan....",
+        "output": "Soal:\\nNyamuk Aedes aegypti menyebabkan....\\n\\nopsi:\\nA. Filaria\\nB. Malaria\\nC. Cikungunya\\nD. Demam Berdarah\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nDBD."
+    },
+    {
+        "instruction": "Kesehatan",
+        "input": "Nyamuk Anopheles menyebabkan....",
+        "output": "Soal:\\nNyamuk Anopheles menyebabkan....\\n\\nopsi:\\nA. Pes\\nB. Tifus\\nC. Malaria\\nD. DBD\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nMalaria."
+    },
+    {
+        "instruction": "Kesehatan",
+        "input": "Mencuci tangan harus menggunakan....",
+        "output": "Soal:\\nMencuci tangan harus menggunakan....\\n\\nopsi:\\nA. Tisu basah saja\\nB. Sabun dan air mengalir\\nC. Lap kotor\\nD. Air kobokan\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nStandar higienis."
+    },
+    {
+        "instruction": "Kesehatan",
+        "input": "Kuku yang panjang dan kotor menjadi sarang....",
+        "output": "Soal:\\nKuku yang panjang dan kotor menjadi sarang....\\n\\nopsi:\\nA. Kutu\\nB. Cacing dan Kuman\\nC. Ulat\\nD. Nyamuk\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nTelur cacing."
+    },
+    {
+        "instruction": "Kesehatan",
+        "input": "Tidur yang cukup bagi anak usia sekolah adalah....",
+        "output": "Soal:\\nTidur yang cukup bagi anak usia sekolah adalah....\\n\\nopsi:\\nA. 8-10 jam\\nB. 12-14 jam\\nC. 1-2 jam\\nD. 4-5 jam\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nIstirahat cukup."
+    },
+    {
+        "instruction": "Kesehatan",
+        "input": "Merokok dapat menyebabkan kanker....",
+        "output": "Soal:\\nMerokok dapat menyebabkan kanker....\\n\\nopsi:\\nA. Kulit\\nB. Hati\\nC. Usus\\nD. Paru-paru\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nLung cancer."
+    },
+    {
+        "instruction": "Kesehatan",
+        "input": "Alkohol dapat merusak organ....",
+        "output": "Soal:\\nAlkohol dapat merusak organ....\\n\\nopsi:\\nA. Paru-paru\\nB. Telinga\\nC. Mata\\nD. Hati (Liver)\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nLiver damage."
+    },
+    {
+        "instruction": "Kesehatan",
+        "input": "Cara menjaga kebersihan lingkungan adalah....",
+        "output": "Soal:\\nCara menjaga kebersihan lingkungan adalah....\\n\\nopsi:\\nA. Membuang sampah pada tempatnya\\nB. Membakar sampah\\nC. Membuang ke sungai\\nD. Menumpuk di jalan\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSanitasi."
+    },
+    {
+        "instruction": "Kebugaran",
+        "input": "Push-up melatih otot....",
+        "output": "Soal:\\nPush-up melatih otot....\\n\\nopsi:\\nA. Leher\\nB. Kaki\\nC. Perut\\nD. Lengan dan Dada\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nUpper body."
+    },
+    {
+        "instruction": "Kebugaran",
+        "input": "Sit-up melatih otot....",
+        "output": "Soal:\\nSit-up melatih otot....\\n\\nopsi:\\nA. Kaki\\nB. Perut\\nC. Lengan\\nD. Punggung\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nAbdominal."
+    },
+    {
+        "instruction": "Kebugaran",
+        "input": "Back-up melatih otot....",
+        "output": "Soal:\\nBack-up melatih otot....\\n\\nopsi:\\nA. Dada\\nB. Tangan\\nC. Punggung\\nD. Perut\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nBack muscles."
+    },
+    {
+        "instruction": "Kebugaran",
+        "input": "Squat jump melatih otot....",
+        "output": "Soal:\\nSquat jump melatih otot....\\n\\nopsi:\\nA. Perut\\nB. Leher\\nC. Lengan\\nD. Tungkai / Kaki\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nLeg power."
+    },
+    {
+        "instruction": "Kebugaran",
+        "input": "Lari zig-zag melatih....",
+        "output": "Soal:\\nLari zig-zag melatih....\\n\\nopsi:\\nA. Daya tahan\\nB. Kelincahan\\nC. Kekuatan\\nD. Kecepatan\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nAgility."
+    },
+    {
+        "instruction": "Kebugaran",
+        "input": "Sikap kapal terbang melatih....",
+        "output": "Soal:\\nSikap kapal terbang melatih....\\n\\nopsi:\\nA. Kecepatan\\nB. Keseimbangan\\nC. Kekuatan\\nD. Kelenturan\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nBalance."
+    },
+    {
+        "instruction": "Kebugaran",
+        "input": "Lari 12 menit mengukur....",
+        "output": "Soal:\\nLari 12 menit mengukur....\\n\\nopsi:\\nA. Daya tahan jantung (Aerobik)\\nB. Kekuatan\\nC. Kecepatan\\nD. Kelincahan\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nCooper test."
+    },
+    {
+        "instruction": "Kebugaran",
+        "input": "Kelenturan dapat dilatih dengan....",
+        "output": "Soal:\\nKelenturan dapat dilatih dengan....\\n\\nopsi:\\nA. Lompat jauh\\nB. Lari sprint\\nC. Angkat beban\\nD. Cium lutut / Kayang\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nFlexibility."
+    },
+    {
+        "instruction": "Kebugaran",
+        "input": "Daya ledak (Power) adalah kombinasi....",
+        "output": "Soal:\\nDaya ledak (Power) adalah kombinasi....\\n\\nopsi:\\nA. Kekuatan dan Kecepatan\\nB. Kecepatan dan Kelincahan\\nC. Keseimbangan\\nD. Kekuatan dan Daya tahan\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nPower."
+    },
+    {
+        "instruction": "Kebugaran",
+        "input": "Pemanasan sebelum olahraga bertujuan....",
+        "output": "Soal:\\nPemanasan sebelum olahraga bertujuan....\\n\\nopsi:\\nA. Mencegah cedera\\nB. Membuat lelah\\nC. Menghabiskan waktu\\nD. Supaya haus\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nInjury prevention."
+    },
+    {
+        "instruction": "Kebugaran",
+        "input": "Pendinginan setelah olahraga bertujuan....",
+        "output": "Soal:\\nPendinginan setelah olahraga bertujuan....\\n\\nopsi:\\nA. Membuat kram\\nB. Supaya pingsan\\nC. Mengembalikan kondisi tubuh / Recovery\\nD. Meningkatkan suhu\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nCooling down."
+    },
+    {
+        "instruction": "Renang",
+        "input": "Gaya bebas disebut juga....",
+        "output": "Soal:\\nGaya bebas disebut juga....\\n\\nopsi:\\nA. Breaststroke\\nB. Backstroke\\nC. Butterfly\\nD. Crawl\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nCrawl."
+    },
+    {
+        "instruction": "Renang",
+        "input": "Gaya dada disebut juga....",
+        "output": "Soal:\\nGaya dada disebut juga....\\n\\nopsi:\\nA. Gaya Bebas\\nB. Gaya Batu\\nC. Gaya Anjing\\nD. Gaya Katak\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nFrog style."
+    },
+    {
+        "instruction": "Renang",
+        "input": "Pengambilan napas gaya bebas dilakukan ke....",
+        "output": "Soal:\\nPengambilan napas gaya bebas dilakukan ke....\\n\\nopsi:\\nA. Depan\\nB. Bawah\\nC. Samping\\nD. Atas\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSiden breathing."
+    },
+    {
+        "instruction": "Renang",
+        "input": "Start gaya punggung dilakukan di....",
+        "output": "Soal:\\nStart gaya punggung dilakukan di....\\n\\nopsi:\\nA. Atas balok start\\nB. Dalam air\\nC. Tepi kolam\\nD. Papan loncat\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nIn-water start."
+    },
+    {
+        "instruction": "Renang",
+        "input": "Salah satu manfaat renang adalah....",
+        "output": "Soal:\\nSalah satu manfaat renang adalah....\\n\\nopsi:\\nA. Membuat gemuk\\nB. Membuat pendek\\nC. Melatih pernapasan dan meninggikan badan\\nD. Merusak kulit\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nHeight growth."
+    },
+    {
+        "instruction": "Renang",
+        "input": "Kram saat berenang biasanya disebabkan....",
+        "output": "Soal:\\nKram saat berenang biasanya disebabkan....\\n\\nopsi:\\nA. Kurang pemanasan\\nB. Air terlalu dingin\\nC. Terlalu kenyang\\nD. Baju sempit\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nLack of warmup."
+    },
+    {
+        "instruction": "Renang",
+        "input": "Berenang di tempat dalam tanpa kemampuan berenang berbahaya karena....",
+        "output": "Soal:\\nBerenang di tempat dalam tanpa kemampuan berenang berbahaya karena....\\n\\nopsi:\\nA. Bisa tenggelam\\nB. Bisa lapar\\nC. Bisa dimarahi\\nD. Bisa terbang\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nDrowning risk."
+    },
+    {
+        "instruction": "Renang",
+        "input": "Gerakan kaki gaya dada adalah....",
+        "output": "Soal:\\nGerakan kaki gaya dada adalah....\\n\\nopsi:\\nA. Diam\\nB. Memutar\\nC. Naik turun\\nD. Lurus lalu menendang membuka\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nFrog kick."
+    },
+    {
+        "instruction": "Renang",
+        "input": "Gerakan kaki gaya kupu-kupu adalah....",
+        "output": "Soal:\\nGerakan kaki gaya kupu-kupu adalah....\\n\\nopsi:\\nA. Lari\\nB. Seperti katak\\nC. Jalan\\nD. Seperti ekor lumba-lumba\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nDolphin kick."
+    },
+    {
+        "instruction": "Renang",
+        "input": "Kacamata renang agar tidak....",
+        "output": "Soal:\\nKacamata renang agar tidak....\\n\\nopsi:\\nA. Gelap\\nB. Keren\\nC. Perih mata\\nD. Silau\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nEye protection."
+    },
+    {
+        "instruction": "Permainan Tradisional",
+        "input": "Gobak sodor dimainkan secara....",
+        "output": "Soal:\\nGobak sodor dimainkan secara....\\n\\nopsi:\\nA. Individu\\nB. Pasangan\\nC. Beregu / Kelompok\\nD. Sendiri\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nTeam game."
+    },
+    {
+        "instruction": "Permainan Tradisional",
+        "input": "Engklek dimainkan dengan cara....",
+        "output": "Soal:\\nEngklek dimainkan dengan cara....\\n\\nopsi:\\nA. Guling\\nB. Lari\\nC. Merayap\\nD. Melompat satu kaki\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nHopscotch."
+    },
+    {
+        "instruction": "Permainan Tradisional",
+        "input": "Egrang melatih....",
+        "output": "Soal:\\nEgrang melatih....\\n\\nopsi:\\nA. Kecepatan\\nB. Keseimbangan\\nC. Kelenturan\\nD. Kekuatan\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nBalance."
+    },
+    {
+        "instruction": "Permainan Tradisional",
+        "input": "Lompat tali karet melatih....",
+        "output": "Soal:\\nLompat tali karet melatih....\\n\\nopsi:\\nA. Kecerdasan\\nB. Kesabaran\\nC. Kekuatan tangan\\nD. Koordinasi dan Daya ledak\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nCoordination."
+    },
+    {
+        "instruction": "Permainan Tradisional",
+        "input": "Bentengan melatih....",
+        "output": "Soal:\\nBentengan melatih....\\n\\nopsi:\\nA. Keseimbangan\\nB. Kecepatan lari dan strategi\\nC. Kekuatan\\nD. Pernapasan\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSpeed."
+    },
+    {
+        "instruction": "Permainan Tradisional",
+        "input": "Gasing dimainkan dengan cara....",
+        "output": "Soal:\\nGasing dimainkan dengan cara....\\n\\nopsi:\\nA. Dipukul\\nB. Ditarik talinya\\nC. Ditendang\\nD. Dilempar\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSpinning top."
+    },
+    {
+        "instruction": "Permainan Tradisional",
+        "input": "Bola bekel menggunakan bola dan....",
+        "output": "Soal:\\nBola bekel menggunakan bola dan....\\n\\nopsi:\\nA. Kayu\\nB. Kelereng\\nC. Batu besar\\nD. Biji bekel / Kerang\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nJacks."
+    },
+    {
+        "instruction": "Permainan Tradisional",
+        "input": "Petak umpet melatih....",
+        "output": "Soal:\\nPetak umpet melatih....\\n\\nopsi:\\nA. Kelenturan\\nB. Kecepatan\\nC. Kewaspadaan\\nD. Kekuatan\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nHide and seek."
+    },
+    {
+        "instruction": "Permainan Tradisional",
+        "input": "Lari balok melatih....",
+        "output": "Soal:\\nLari balok melatih....\\n\\nopsi:\\nA. Kekuatan\\nB. Kecepatan individu\\nC. Keseimbangan\\nD. Kerjasama\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nTeamwork."
+    },
+    {
+        "instruction": "Permainan Tradisional",
+        "input": "Tarik tambang melatih....",
+        "output": "Soal:\\nTarik tambang melatih....\\n\\nopsi:\\nA. Kelenturan\\nB. Kekuatan otot tangan dan kaki\\nC. Kecepatan\\nD. Kelincahan\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nStrength."
+    },
+    {
+        "instruction": "P3K",
+        "input": "Singkatan P3K adalah....",
+        "output": "Soal:\\nSingkatan P3K adalah....\\n\\nopsi:\\nA. Pertolongan Pertama Pada Kecelakaan\\nB. Pasukan Penolong Kecelakaan\\nC. Pertolongan Paling Penting Kawan\\nD. Perban Pembalut Plester\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nFirst Aid."
+    },
+    {
+        "instruction": "P3K",
+        "input": "Luka bakar ringan sebaiknya disiram dengan....",
+        "output": "Soal:\\nLuka bakar ringan sebaiknya disiram dengan....\\n\\nopsi:\\nA. Es batu\\nB. Kecap\\nC. Odol\\nD. Air mengalir\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nCool water."
+    },
+    {
+        "instruction": "P3K",
+        "input": "Luka lecet dibersihkan dengan....",
+        "output": "Soal:\\nLuka lecet dibersihkan dengan....\\n\\nopsi:\\nA. Ludah\\nB. Minyak\\nC. Air bersih dan Antiseptik\\nD. Tanah\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nClean wound."
+    },
+    {
+        "instruction": "P3K",
+        "input": "Pembalut untuk keseleo adalah....",
+        "output": "Soal:\\nPembalut untuk keseleo adalah....\\n\\nopsi:\\nA. Plester\\nB. Kain kafan\\nC. Perban elastis\\nD. Tisu\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nElastic bandage."
+    },
+    {
+        "instruction": "P3K",
+        "input": "Jika teman pingsan, berikan bau-bauan seperti....",
+        "output": "Soal:\\nJika teman pingsan, berikan bau-bauan seperti....\\n\\nopsi:\\nA. Bensin\\nB. Parfum\\nC. Minyak kayu putih\\nD. Sampah\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nStimulant."
+    },
+    {
+        "instruction": "P3K",
+        "input": "Posisi kaki orang pingsan sebaiknya....",
+        "output": "Soal:\\nPosisi kaki orang pingsan sebaiknya....\\n\\nopsi:\\nA. Lebih tinggi dari kepala\\nB. Ditekuk\\nC. Lebih rendah\\nD. Disilang\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nBlood flow to brain."
+    },
+    {
+        "instruction": "P3K",
+        "input": "Obat untuk menurunkan demam adalah....",
+        "output": "Soal:\\nObat untuk menurunkan demam adalah....\\n\\nopsi:\\nA. Vitamin\\nB. Parasetamol\\nC. Antibiotik\\nD. Obat Maag\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nFever reducer."
+    },
+    {
+        "instruction": "P3K",
+        "input": "Memar dikompres dengan....",
+        "output": "Soal:\\nMemar dikompres dengan....\\n\\nopsi:\\nA. Balsem panas\\nB. Es / Air dingin\\nC. Air panas\\nD. Garam\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSwell reduction."
+    },
+    {
+        "instruction": "P3K",
+        "input": "Mimisan dihentikan dengan cara....",
+        "output": "Soal:\\nMimisan dihentikan dengan cara....\\n\\nopsi:\\nA. Dongak ke atas\\nB. Tidur telentang\\nC. Lari\\nD. Menekan cuping hidung\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nPinch nose."
+    },
+    {
+        "instruction": "P3K",
+        "input": "Kram otot ditangani dengan....",
+        "output": "Soal:\\nKram otot ditangani dengan....\\n\\nopsi:\\nA. Dipukul\\nB. Didiamkan\\nC. Disiram air\\nD. Peregangan (Stretching)\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nStretch."
+    },
+    {
+        "instruction": "Renang",
+        "input": "Renang melatih keberanian dan....",
+        "output": "Soal:\\nRenang melatih keberanian dan....\\n\\nopsi:\\nA. Kesombongan\\nB. Ketakutan\\nC. Kekayaan\\nD. Percaya diri\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nConfidence."
+    },
+    {
+        "instruction": "Senam",
+        "input": "Gerakan guling depan disebut....",
+        "output": "Soal:\\nGerakan guling depan disebut....\\n\\nopsi:\\nA. Handspring\\nB. Back Roll\\nC. Cartwheel\\nD. Forward Roll\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nRoll."
+    },
+    {
+        "instruction": "Senam",
+        "input": "Sikap dasar senam lantai adalah....",
+        "output": "Soal:\\nSikap dasar senam lantai adalah....\\n\\nopsi:\\nA. Jongkok\\nB. Berdiri tegak\\nC. Lari\\nD. Tidur\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nStarting pos."
+    },
+    {
+        "instruction": "Atletik",
+        "input": "Lompat jauh gaya berjalan di udara disebut....",
+        "output": "Soal:\\nLompat jauh gaya berjalan di udara disebut....\\n\\nopsi:\\nA. Hang style\\nB. Schnepper\\nC. Flop\\nD. Walking in the air\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nAir walk."
+    },
+    {
+        "instruction": "Bulutangkis",
+        "input": "Garis paling belakang lapangan digunakan untuk....",
+        "output": "Soal:\\nGaris paling belakang lapangan digunakan untuk....\\n\\nopsi:\\nA. Servis Tunggal / Batas Luar Tunggal\\nB. Servis Ganda\\nC. Net\\nD. Garis Tengah\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nBack boundary."
+    },
+    {
+        "instruction": "Bulutangkis",
+        "input": "Kok terbuat dari bulu unggas, biasanya....",
+        "output": "Soal:\\nKok terbuat dari bulu unggas, biasanya....\\n\\nopsi:\\nA. Ayam\\nB. Burung Elang\\nC. Angsa / Bebek\\nD. Merpati\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nGoose feathers."
+    },
+    {
+        "instruction": "Bulutangkis",
+        "input": "Jika skor 20-20, disebut....",
+        "output": "Soal:\\nJika skor 20-20, disebut....\\n\\nopsi:\\nA. Match Point\\nB. Deuce / Jus\\nC. Draw\\nD. Game Point\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nDeuce."
+    },
+    {
+        "instruction": "Bulutangkis",
+        "input": "Servis genap dilakukan di sisi....",
+        "output": "Soal:\\nServis genap dilakukan di sisi....\\n\\nopsi:\\nA. Kanan\\nB. Tengah\\nC. Kiri\\nD. Belakang\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nEven numbers right."
+    },
+    {
+        "instruction": "Bulutangkis",
+        "input": "Servis ganjil dilakukan di sisi....",
+        "output": "Soal:\\nServis ganjil dilakukan di sisi....\\n\\nopsi:\\nA. Tengah\\nB. Kiri\\nC. Kanan\\nD. Depan\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nOdd numbers left."
+    },
+    {
+        "instruction": "Sepak Bola",
+        "input": "Pemain tengah disebut....",
+        "output": "Soal:\\nPemain tengah disebut....\\n\\nopsi:\\nA. Midfielder / Gelandang\\nB. Keeper\\nC. Striker\\nD. Defender\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMidfield."
+    },
+    {
+        "instruction": "Sepak Bola",
+        "input": "Hakim garis bertugas....",
+        "output": "Soal:\\nHakim garis bertugas....\\n\\nopsi:\\nA. Meniup peluit tengah\\nB. Mencatat skor\\nC. Mengatur penonton\\nD. Mengawasi bola keluar / Offside\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nLineman."
+    },
+    {
+        "instruction": "Sepak Bola",
+        "input": "Tendangan gawang dilakukan jika bola keluar garis gawang oleh....",
+        "output": "Soal:\\nTendangan gawang dilakukan jika bola keluar garis gawang oleh....\\n\\nopsi:\\nA. Pemain Bertahan\\nB. Kiper\\nC. Pemain Penyerang\\nD. Wasit\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nGoal kick."
+    },
+    {
+        "instruction": "Sepak Bola",
+        "input": "Jumlah pemain cadangan yang boleh bermain (pergantian) biasanya....",
+        "output": "Soal:\\nJumlah pemain cadangan yang boleh bermain (pergantian) biasanya....\\n\\nopsi:\\nA. 1 orang\\nB. 11 orang\\nC. 3-5 orang\\nD. Bebas\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSubstitutes."
+    },
+    {
+        "instruction": "Basket",
+        "input": "Operan dari atas kepala disebut....",
+        "output": "Soal:\\nOperan dari atas kepala disebut....\\n\\nopsi:\\nA. Chest Pass\\nB. Back Pass\\nC. Bounce Pass\\nD. Overhead Pass\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nOverhead."
+    },
+    {
+        "instruction": "Basket",
+        "input": "Hukuman untuk personal foul lebih dari 5 menit kuarter adalah....",
+        "output": "Soal:\\nHukuman untuk personal foul lebih dari 5 menit kuarter adalah....\\n\\nopsi:\\nA. Jump Ball\\nB. Free Throw\\nC. Technical Foul\\nD. Out\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nTeam foul penalty."
+    },
+    {
+        "instruction": "Basket",
+        "input": "Permainan basket dibagi menjadi ... kuarter.",
+        "output": "Soal:\\nPermainan basket dibagi menjadi ... kuarter.\\n\\nopsi:\\nA. 5\\nB. 4\\nC. 3\\nD. 2\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\n4 quarters."
+    },
+    {
+        "instruction": "Voli",
+        "input": "Poin kemenangan bola voli adalah....",
+        "output": "Soal:\\nPoin kemenangan bola voli adalah....\\n\\nopsi:\\nA. 15\\nB. 25\\nC. 30\\nD. 21\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nSet point 25."
+    },
+    {
+        "instruction": "Voli",
+        "input": "Timeout dalam voli berlangsung selama....",
+        "output": "Soal:\\nTimeout dalam voli berlangsung selama....\\n\\nopsi:\\nA. 1 menit\\nB. 30 detik\\nC. 10 detik\\nD. 5 menit\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nTimeout duration."
+    },
+    {
+        "instruction": "Voli",
+        "input": "Jumlah hakim garis dalam voli internasional adalah....",
+        "output": "Soal:\\nJumlah hakim garis dalam voli internasional adalah....\\n\\nopsi:\\nA. 6\\nB. 2\\nC. 1\\nD. 4\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nLine judges."
+    },
+    {
+        "instruction": "Atletik",
+        "input": "Tempat perpindahan tongkat estafet disebut....",
+        "output": "Soal:\\nTempat perpindahan tongkat estafet disebut....\\n\\nopsi:\\nA. Wessel Zone\\nB. Free Zone\\nC. Start Zone\\nD. End Zone\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nWessel (Exchange) zone."
+    },
+    {
+        "instruction": "Atletik",
+        "input": "Panjang zona pergantian tongkat estafet adalah....",
+        "output": "Soal:\\nPanjang zona pergantian tongkat estafet adalah....\\n\\nopsi:\\nA. 30 meter\\nB. 10 meter\\nC. 20 meter\\nD. 50 meter\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\n20m wessel."
+    },
+    {
+        "instruction": "Atletik",
+        "input": "Lempar lembing menancap dianggap....",
+        "output": "Soal:\\nLempar lembing menancap dianggap....\\n\\nopsi:\\nA. Foul\\nB. Tidak sah\\nC. Sah\\nD. Diskualifikasi\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nValid throw."
+    },
+    {
+        "instruction": "Atletik",
+        "input": "Berat peluru putra senior adalah....",
+        "output": "Soal:\\nBerat peluru putra senior adalah....\\n\\nopsi:\\nA. 7,257 kg\\nB. 4 kg\\nC. 10 kg\\nD. 5 kg\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\n16 lbs."
+    },
+    {
+        "instruction": "Atletik",
+        "input": "Berat peluru putri senior adalah....",
+        "output": "Soal:\\nBerat peluru putri senior adalah....\\n\\nopsi:\\nA. 7 kg\\nB. 3 kg\\nC. 5 kg\\nD. 4 kg\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\n4 kg."
+    },
+    {
+        "instruction": "Pencak Silat",
+        "input": "Arena pertandingan silat berukuran....",
+        "output": "Soal:\\nArena pertandingan silat berukuran....\\n\\nopsi:\\nA. 10 x 10 meter\\nB. 20 x 20 meter\\nC. 7 x 7 meter\\nD. 15 x 15 meter\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nGelanggang size."
+    },
+    {
+        "instruction": "Pencak Silat",
+        "input": "Satu babak dalam pencak silat berlangsung....",
+        "output": "Soal:\\nSatu babak dalam pencak silat berlangsung....\\n\\nopsi:\\nA. 2 menit\\nB. 5 menit\\nC. 3 menit\\nD. 10 menit\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nRound duration."
+    },
+    {
+        "instruction": "Kesehatan",
+        "input": "Penyakit rabies ditularkan oleh....",
+        "output": "Soal:\\nPenyakit rabies ditularkan oleh....\\n\\nopsi:\\nA. Tikus\\nB. Lalat\\nC. Nyamuk\\nD. Anjing, Kucing, Kera\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nRabies vector."
+    },
+    {
+        "instruction": "Kesehatan",
+        "input": "Penyakit tifus menyerang organ....",
+        "output": "Soal:\\nPenyakit tifus menyerang organ....\\n\\nopsi:\\nA. Otak\\nB. Jantung\\nC. Usus\\nD. Paru-paru\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nTyphoid."
+    },
+    {
+        "instruction": "Kesehatan",
+        "input": "Vitamin K berfungsi untuk....",
+        "output": "Soal:\\nVitamin K berfungsi untuk....\\n\\nopsi:\\nA. Pembekuan darah\\nB. Kesehatan mata\\nC. Tulang\\nD. Kulit\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nBlood clotting."
+    },
+    {
+        "instruction": "Kesehatan",
+        "input": "Kekurangan vitamin A menyebabkan....",
+        "output": "Soal:\\nKekurangan vitamin A menyebabkan....\\n\\nopsi:\\nA. Sariawan\\nB. Rabun senja\\nC. Beri-beri\\nD. Rakhitis\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nNight blindness."
+    },
+    {
+        "instruction": "Kesehatan",
+        "input": "Imunisasi DPT mencegah penyakit....",
+        "output": "Soal:\\nImunisasi DPT mencegah penyakit....\\n\\nopsi:\\nA. Difteri, Pertusis, Tetanus\\nB. Polio\\nC. Demam berdarah\\nD. Campak\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nDPT vaccine."
+    },
+    {
+        "instruction": "Kebugaran",
+        "input": "Rentang lengan ke samping melatih otot....",
+        "output": "Soal:\\nRentang lengan ke samping melatih otot....\\n\\nopsi:\\nA. Kaki\\nB. Leher\\nC. Perut\\nD. Bahu\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nShoulder."
+    },
+    {
+        "instruction": "Kebugaran",
+        "input": "Jalan kepiting melatih otot....",
+        "output": "Soal:\\nJalan kepiting melatih otot....\\n\\nopsi:\\nA. Leher\\nB. Perut\\nC. Kepala\\nD. Lengan dan Kaki\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nCrab walk."
+    },
+    {
+        "instruction": "Kebugaran",
+        "input": "Lari naik turun tangga melatih....",
+        "output": "Soal:\\nLari naik turun tangga melatih....\\n\\nopsi:\\nA. Otot kaki dan pernapasan\\nB. Otot tangan\\nC. Kelenturan\\nD. Otot leher\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nStairs running."
+    },
+    {
+        "instruction": "Kebugaran",
+        "input": "Angkat barbel melatih....",
+        "output": "Soal:\\nAngkat barbel melatih....\\n\\nopsi:\\nA. Kelenturan\\nB. Kecepatan\\nC. Kekuatan Otot\\nD. Kelincahan\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nStrength train."
+    },
+    {
+        "instruction": "Kesehatan",
+        "input": "Tidur siang sebaiknya selama....",
+        "output": "Soal:\\nTidur siang sebaiknya selama....\\n\\nopsi:\\nA. 10 menit\\nB. 1-2 jam\\nC. 5 jam\\nD. Setengah hari\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nNap time."
+    },
+    {
+        "instruction": "Bulutangkis",
+        "input": "Panjang lapangan bulutangkis adalah....",
+        "output": "Soal:\\nPanjang lapangan bulutangkis adalah....\\n\\nopsi:\\nA. 15 meter\\nB. 10 meter\\nC. 13,40 meter\\nD. 12 meter\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nCourt length."
+    },
+    {
+        "instruction": "Bulutangkis",
+        "input": "Lebar lapangan bulutangkis tunggal adalah....",
+        "output": "Soal:\\nLebar lapangan bulutangkis tunggal adalah....\\n\\nopsi:\\nA. 4 meter\\nB. 6,10 meter\\nC. 5 meter\\nD. 5,18 meter\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSingle width."
+    },
+    {
+        "instruction": "Bulutangkis",
+        "input": "Tinggi net bulutangkis adalah....",
+        "output": "Soal:\\nTinggi net bulutangkis adalah....\\n\\nopsi:\\nA. 1,55 meter\\nB. 1,60 meter\\nC. 1,45 meter\\nD. 1,50 meter\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nNet height."
+    },
+    {
+        "instruction": "Bulutangkis",
+        "input": "Pemain bulutangkis legendaris Indonesia peraih emas Olimpiade 1992 adalah....",
+        "output": "Soal:\\nPemain bulutangkis legendaris Indonesia peraih emas Olimpiade 1992 adalah....\\n\\nopsi:\\nA. Hariyanto Arbi\\nB. Kevin Gideon\\nC. Susi Susanti & Alan Budikusuma\\nD. Taufik Hidayat\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nGolden couple."
+    },
+    {
+        "instruction": "Bulutangkis",
+        "input": "Pukulan yang dilakukan dari bawah ke atas disebut....",
+        "output": "Soal:\\nPukulan yang dilakukan dari bawah ke atas disebut....\\n\\nopsi:\\nA. Sidehand\\nB. Overhand\\nC. Backhand\\nD. Underhand\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nUnderhand stroke."
+    },
+    {
+        "instruction": "Sepak Bola",
+        "input": "VAR adalah singkatan dari....",
+        "output": "Soal:\\nVAR adalah singkatan dari....\\n\\nopsi:\\nA. Virtual Area Run\\nB. Very Accurate Referee\\nC. Video Assistant Referee\\nD. Video And Replay\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nVAR tech."
+    },
+    {
+        "instruction": "Sepak Bola",
+        "input": "Ballon d'Or adalah penghargaan untuk....",
+        "output": "Soal:\\nBallon d'Or adalah penghargaan untuk....\\n\\nopsi:\\nA. Kiper terbaik\\nB. Pelatih terbaik\\nC. Pencetak gol terbanyak\\nD. Pemain terbaik dunia\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nGolden Ball."
+    },
+    {
+        "instruction": "Sepak Bola",
+        "input": "Ukuran gawang sepak bola adalah....",
+        "output": "Soal:\\nUkuran gawang sepak bola adalah....\\n\\nopsi:\\nA. 10 x 3 m\\nB. 6 x 2 m\\nC. 7,32 x 2,44 m\\nD. 5 x 2 m\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nGoal size."
+    },
+    {
+        "instruction": "Sepak Bola",
+        "input": "Tendangan voli adalah tendangan....",
+        "output": "Soal:\\nTendangan voli adalah tendangan....\\n\\nopsi:\\nA. Saat bola mati\\nB. Saat bola di udara sebelum menyentuh tanah\\nC. Saat bola diam\\nD. Saat bola menggelinding\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nVolley kick."
+    },
+    {
+        "instruction": "Sepak Bola",
+        "input": "Kiper boleh memegang bola di luar kotak penalti?....",
+        "output": "Soal:\\nKiper boleh memegang bola di luar kotak penalti?....\\n\\nopsi:\\nA. Kadang-kadang\\nB. Tidak boleh\\nC. Boleh\\nD. Tergantung wasit\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nHandball rule."
+    },
+    {
+        "instruction": "Sepak Bola",
+        "input": "Kick-off dilakukan saat....",
+        "output": "Soal:\\nKick-off dilakukan saat....\\n\\nopsi:\\nA. Awal babak dan setelah gol\\nB. Bola out\\nC. Pelanggaran\\nD. Corner\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nStart play."
+    },
+    {
+        "instruction": "Basket",
+        "input": "Tinggi ring basket dari lantai adalah....",
+        "output": "Soal:\\nTinggi ring basket dari lantai adalah....\\n\\nopsi:\\nA. 3,5 meter\\nB. 2,5 meter\\nC. 3 meter\\nD. 3,05 meter\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nRing height."
+    },
+    {
+        "instruction": "Basket",
+        "input": "Jump ball dilakukan di....",
+        "output": "Soal:\\nJump ball dilakukan di....\\n\\nopsi:\\nA. Sisi lapangan\\nB. Lingkaran tengah\\nC. Garis free throw\\nD. Bawah ring\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nCenter circle."
+    },
+    {
+        "instruction": "Basket",
+        "input": "Pemain yang bertugas mengatur serangan (Playmaker) disebut....",
+        "output": "Soal:\\nPemain yang bertugas mengatur serangan (Playmaker) disebut....\\n\\nopsi:\\nA. Center\\nB. Point Guard\\nC. Power Forward\\nD. Shooting Guard\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nPosition 1."
+    },
+    {
+        "instruction": "Basket",
+        "input": "Pemain bertubuh paling tinggi biasanya berposisi sebagai....",
+        "output": "Soal:\\nPemain bertubuh paling tinggi biasanya berposisi sebagai....\\n\\nopsi:\\nA. Coach\\nB. Small Forward\\nC. Point Guard\\nD. Center\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nPosition 5."
+    },
+    {
+        "instruction": "Basket",
+        "input": "Teknik memasukkan bola dengan melompat dan menggantung di ring disebut....",
+        "output": "Soal:\\nTeknik memasukkan bola dengan melompat dan menggantung di ring disebut....\\n\\nopsi:\\nA. Pivot\\nB. Jump Shot\\nC. Lay up\\nD. Slam Dunk\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nDunk."
+    },
+    {
+        "instruction": "Basket",
+        "input": "Technical Foul diberikan karena....",
+        "output": "Soal:\\nTechnical Foul diberikan karena....\\n\\nopsi:\\nA. Bola keluar\\nB. Time out\\nC. Perilaku tidak sportif\\nD. Pelanggaran fisik\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nUnsportsmanlike."
+    },
+    {
+        "instruction": "Basket",
+        "input": "Backcourt violation adalah....",
+        "output": "Soal:\\nBackcourt violation adalah....\\n\\nopsi:\\nA. Bola mati\\nB. Bola keluar\\nC. Bola kembali ke daerah pertahanan sendiri\\nD. Bola atas\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nBack court."
+    },
+    {
+        "instruction": "Voli",
+        "input": "Antena pada net voli berfungsi untuk....",
+        "output": "Soal:\\nAntena pada net voli berfungsi untuk....\\n\\nopsi:\\nA. Pegangan wasit\\nB. Hiasan\\nC. Tanda tinggi net\\nD. Membatasi ruang lintasan bola\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nNet antennae."
+    },
+    {
+        "instruction": "Voli",
+        "input": "Servis dengan melompat disebut....",
+        "output": "Soal:\\nServis dengan melompat disebut....\\n\\nopsi:\\nA. Side Serve\\nB. Underhand Serve\\nC. Jump Serve\\nD. Flow Serve\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nJump service."
+    },
+    {
+        "instruction": "Voli",
+        "input": "Gerakan menyelamatkan bola yang hampir jatuh ke lantai disebut....",
+        "output": "Soal:\\nGerakan menyelamatkan bola yang hampir jatuh ke lantai disebut....\\n\\nopsi:\\nA. Set\\nB. Block\\nC. Spike\\nD. Dig\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nDigging."
+    },
+    {
+        "instruction": "Voli",
+        "input": "Rotasi dilakukan setiap kali tim....",
+        "output": "Soal:\\nRotasi dilakukan setiap kali tim....\\n\\nopsi:\\nA. Timeout\\nB. Mencetak poin\\nC. Kehilangan poin\\nD. Mendapatkan hak servis (pindah bola)\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nRotation rule."
+    },
+    {
+        "instruction": "Voli",
+        "input": "Pemain posisi 1 adalah pemain yang akan melakukan....",
+        "output": "Soal:\\nPemain posisi 1 adalah pemain yang akan melakukan....\\n\\nopsi:\\nA. Tosser\\nB. Smash\\nC. Servis\\nD. Block\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nServer position."
+    },
+    {
+        "instruction": "Tenis Meja",
+        "input": "Tinggi net tenis meja adalah....",
+        "output": "Soal:\\nTinggi net tenis meja adalah....\\n\\nopsi:\\nA. 15,25 cm\\nB. 10 cm\\nC. 30 cm\\nD. 20 cm\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nNet height."
+    },
+    {
+        "instruction": "Tenis Meja",
+        "input": "Servis harus dilakukan di belakang....",
+        "output": "Soal:\\nServis harus dilakukan di belakang....\\n\\nopsi:\\nA. Garis samping\\nB. Net\\nC. Garis tengah\\nD. Garis ujung meja\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nEnd line."
+    },
+    {
+        "instruction": "Tenis Meja",
+        "input": "Warna meja tenis meja biasanya....",
+        "output": "Soal:\\nWarna meja tenis meja biasanya....\\n\\nopsi:\\nA. Biru atau Hijau\\nB. Kuning\\nC. Putih\\nD. Merah\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nTable color."
+    },
+    {
+        "instruction": "Tenis Meja",
+        "input": "Bola tenis meja terbuat dari....",
+        "output": "Soal:\\nBola tenis meja terbuat dari....\\n\\nopsi:\\nA. Kayu\\nB. Besi\\nC. Seluloid / Plastik\\nD. Karet\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nCelluloid."
+    },
+    {
+        "instruction": "Atletik",
+        "input": "Lari halang rintang 3000m disebut....",
+        "output": "Soal:\\nLari halang rintang 3000m disebut....\\n\\nopsi:\\nA. Marathon\\nB. Sprint\\nC. Cross Country\\nD. Steeplechase\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nSteeplechase."
+    },
+    {
+        "instruction": "Atletik",
+        "input": "Lompat tinggi gaya guling perut disebut....",
+        "output": "Soal:\\nLompat tinggi gaya guling perut disebut....\\n\\nopsi:\\nA. Flop\\nB. Scissors\\nC. Straddle\\nD. Guling\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nStraddle style."
+    },
+    {
+        "instruction": "Atletik",
+        "input": "Lompat tinggi gaya punggung disebut....",
+        "output": "Soal:\\nLompat tinggi gaya punggung disebut....\\n\\nopsi:\\nA. Scissors\\nB. Fosbury Flop\\nC. Straddle\\nD. Western Roll\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nDick Fosbury."
+    },
+    {
+        "instruction": "Atletik",
+        "input": "Lari jarak menengah menempuh jarak....",
+        "output": "Soal:\\nLari jarak menengah menempuh jarak....\\n\\nopsi:\\nA. Marathon\\nB. 800m dan 1500m\\nC. 100m\\nD. 5000m\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nMiddle distance."
+    },
+    {
+        "instruction": "Pencak Silat",
+        "input": "Wasit dalam pencak silat memakai seragam warna....",
+        "output": "Soal:\\nWasit dalam pencak silat memakai seragam warna....\\n\\nopsi:\\nA. Kuning-kuning\\nB. Putih-putih\\nC. Hitam-hitam\\nD. Merah-merah\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nReferee uniform."
+    },
+    {
+        "instruction": "Pencak Silat",
+        "input": "Sudut netral berwarna....",
+        "output": "Soal:\\nSudut netral berwarna....\\n\\nopsi:\\nA. Merah\\nB. Kuning\\nC. Biru\\nD. Putih\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nNeutral corner."
+    },
+    {
+        "instruction": "Kesehatan",
+        "input": "Vitamin E baik untuk kesehatan....",
+        "output": "Soal:\\nVitamin E baik untuk kesehatan....\\n\\nopsi:\\nA. Tulang\\nB. Darah\\nC. Kulit\\nD. Gigi\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nSkin health."
+    },
+    {
+        "instruction": "Kesehatan",
+        "input": "Zat besi (Fe) mencegah penyakit....",
+        "output": "Soal:\\nZat besi (Fe) mencegah penyakit....\\n\\nopsi:\\nA. Gondok\\nB. Anemia (Kurang darah)\\nC. Sariawan\\nD. Rabun\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nIron deficiency."
+    },
+    {
+        "instruction": "Kesehatan",
+        "input": "Kalsium dan Fosfor berguna untuk....",
+        "output": "Soal:\\nKalsium dan Fosfor berguna untuk....\\n\\nopsi:\\nA. Darah\\nB. Pembentukan tulang dan gigi\\nC. Otot\\nD. Kulit\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nBone health."
+    },
+    {
+        "instruction": "Kesehatan",
+        "input": "Air putih minimal sehari minum....",
+        "output": "Soal:\\nAir putih minimal sehari minum....\\n\\nopsi:\\nA. 2 gelas\\nB. 10 liter\\nC. 1 gelas\\nD. 8 gelas (2 liter)\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nWater intake."
+    },
+    {
+        "instruction": "Kebugaran",
+        "input": "Plank bertujuan melatih otot....",
+        "output": "Soal:\\nPlank bertujuan melatih otot....\\n\\nopsi:\\nA. Leher\\nB. Tangan\\nC. Inti (Core/Perut)\\nD. Kaki\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nCore strength."
+    },
+    {
+        "instruction": "Kebugaran",
+        "input": "Jumping Jack adalah gerakan....",
+        "output": "Soal:\\nJumping Jack adalah gerakan....\\n\\nopsi:\\nA. Guling depan\\nB. Angkat beban\\nC. Lari cepat\\nD. Loncat tepuk tangan\\n\\nKunci Jawaban: D\\n\\nPembahasan:\\nCardio."
+    },
+    {
+        "instruction": "Kebugaran",
+        "input": "Burpees adalah kombinasi gerakan....",
+        "output": "Soal:\\nBurpees adalah kombinasi gerakan....\\n\\nopsi:\\nA. Duduk, Berdiri\\nB. Tidur, Bangun\\nC. Squat, Push-up, Jump\\nD. Lari, Jalan\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nFull body."
+    },
+    {
+        "instruction": "Kebugaran",
+        "input": "Interval Training adalah latihan....",
+        "output": "Soal:\\nInterval Training adalah latihan....\\n\\nopsi:\\nA. Tidur\\nB. Satu kali\\nC. Diselingi istirahat\\nD. Terus menerus\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nIntervals."
+    },
+    {
+        "instruction": "Kebugaran",
+        "input": "Denyut nadi normal istirahat adalah....",
+        "output": "Soal:\\nDenyut nadi normal istirahat adalah....\\n\\nopsi:\\nA. 10-20 kali\\nB. 0 kali\\nC. 60-100 kali/menit\\nD. 150-200 kali\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nResting Heart Rate."
+    },
+    {
+        "instruction": "Renang",
+        "input": "Topi renang berfungsi untuk....",
+        "output": "Soal:\\nTopi renang berfungsi untuk....\\n\\nopsi:\\nA. Melindungi rambut dan mengurangi hambatan\\nB. Menyerap air\\nC. Gaya\\nD. Agar hangat\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nSwim cap."
+    },
+    {
+        "instruction": "Renang",
+        "input": "Pelampung digunakan untuk....",
+        "output": "Soal:\\nPelampung digunakan untuk....\\n\\nopsi:\\nA. Tenggelam\\nB. Pemberat\\nC. Membantu mengapung\\nD. Hiasan\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nBuoyancy."
+    },
+    {
+        "instruction": "Permainan Tradisional",
+        "input": "Congklak dimainkan di atas papan berlubang dengan....",
+        "output": "Soal:\\nCongklak dimainkan di atas papan berlubang dengan....\\n\\nopsi:\\nA. Biji congklak\\nB. Batu kali\\nC. Uang logam\\nD. Kelereng\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nMancala."
+    },
+    {
+        "instruction": "Permainan Tradisional",
+        "input": "Layang-layang dimainkan di....",
+        "output": "Soal:\\nLayang-layang dimainkan di....\\n\\nopsi:\\nA. Dalam rumah\\nB. Jalan raya\\nC. Lapangan terbuka\\nD. Hutan lebat\\n\\nKunci Jawaban: C\\n\\nPembahasan:\\nOpen field."
+    },
+    {
+        "instruction": "P3K",
+        "input": "Tanda tersedak (choking) adalah....",
+        "output": "Soal:\\nTanda tersedak (choking) adalah....\\n\\nopsi:\\nA. Memegang leher dan sulit napas\\nB. Batuk biasa\\nC. Menangis\\nD. Tertawa\\n\\nKunci Jawaban: A\\n\\nPembahasan:\\nChoking sign."
+    },
+    {
+        "instruction": "P3K",
+        "input": "Pertolongan tersedak dilakukan dengan....",
+        "output": "Soal:\\nPertolongan tersedak dilakukan dengan....\\n\\nopsi:\\nA. Pukul kepala\\nB. Heimlich maneuver (tekan perut)\\nC. Tidur\\nD. Minum air\\n\\nKunci Jawaban: B\\n\\nPembahasan:\\nHeimlich."
     }
 ]
